@@ -40,7 +40,7 @@
         datenow = new moment();
         dayofmonth = datenow.format("D");
 
-        if(dayofmonth == 30)
+        if(dayofmonth == 31)
         {
             principalnum = Math.floor(Math.random() * (30 - 1 + 1)) + 1;
         }else{
