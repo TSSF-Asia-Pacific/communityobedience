@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>tssf Community Obedience</title>
-    <style>
+    <style type="text/css">
       <?php include 'css/tssf.css'; ?>
 
         .principal, .day, .collect {
@@ -22,9 +22,9 @@
   </head>
 
   <body>
-    <script src="jquery-1.11.1.min.js"></script>
-    <script src="moment.min.js"></script>
-    <script>
+    <script src="jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="moment.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
 
 
     function display_todays_obedience()
