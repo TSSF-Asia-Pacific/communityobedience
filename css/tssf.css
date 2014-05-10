@@ -1,0 +1,29 @@
+    h1 { color: #000080;
+         border-bottom: 1px solid red;
+       }
+    p { font-size: 26;
+        font-family: sans-serif;
+        color: #000000; /* black */
+      }
+    p.rubric {
+      font-size: 24px;
+      font-style: italic;
+      font-family: arial;
+      color:red;
+    }
+    p.boilerplate {
+      font-size: 26px;
+      font-family: sans-serif;
+      color:#8B4513;
+    }
+    body { font-size: 26px;
+           background-color: #FFFAF0;
+           margin-left: 50px;
+           margin-right: 50px;
+           background-image:url("images/paper.gif");
+         }
+    img { float: left;
+          margin: 0 12px;
+          opacity:0.4;
+	      filter:alpha(opacity=40); /* For IE8 and earlier */
+        }
