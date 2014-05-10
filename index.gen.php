@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <title>tssf Community Obedience</title>
     <style type="text/css">
       <?php include 'css/tssf.css'; ?>
