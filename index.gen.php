@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html manifest="cache.appcache">
   <head>
     <meta name="viewport" content="width=450, initial-scale=1">
     <title>tssf Community Obedience</title>
