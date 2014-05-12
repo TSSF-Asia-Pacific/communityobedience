@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="cache.appcache">
+<html><!-- manifest="cache.appcache">-->
   <head>
     <meta name="viewport" content="width=450, initial-scale=1">
     <title>tssf Community Obedience</title>
@@ -23,8 +23,8 @@
   </head>
 
   <body>
-    <script src="jquery-1.11.1.min.js" type="text/javascript"></script>
-    <script src="moment.min.js" type="text/javascript"></script>
+    <script type="text/javascript"><?php include 'jquery-1.11.1.min.js'; ?></script>
+    <script type="text/javascript"><?php include 'moment.min.js'; ?></script>
     <script type="text/javascript">
 
 
