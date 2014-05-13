@@ -23,8 +23,8 @@
   </head>
 
   <body>
-    <script type="text/javascript"><?php include 'jquery-1.11.1.min.js'; ?></script>
-    <script type="text/javascript"><?php include 'moment.min.js'; ?></script>
+    <script type="text/javascript" src='jquery-1.11.1.min.js' ></script>
+    <script type="text/javascript" src='moment.min.js'></script>
     <script type="text/javascript">
 
 
