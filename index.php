@@ -67,11 +67,10 @@
     </script>
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
-    <h1>tssf Community Obedience</h1>
+    <h1><em>tssf Community Obedience</em></h1>
     <em>Province of Australia, Papua New Guinea and East Asia
     <br/>for <span id='date'></span></em><br/>
-    <p class="rubric">In all provinces of the Third Order this offering of prayer
-    should be made daily, either on its own or in the context of Morning or
+    <p class="rubric">This offering of prayer is to be said daily, where possible, in the context of Morning or
     Evening Prayer.</p>
     <p class="boilerplate">In the name of the Father,
     <br/>and of the Son,
@@ -124,7 +123,7 @@ for ($i = 0; $i <= 6; $i++)
 }
 ?>
 
-<p class="rubric">The offering of prayer may continue with either Morning or Evening Prayer or conclude with either of the following:</p>
+<p class="rubric">Either</p>
 
 <p class="boilerplate">May our blessed Lady pray for us.<br/>May Saint Francis pray for us.<br/>May Saint Clare pray for us.<br/>May all the saints of the Third Order pray for us.<br/>May the holy angels watch over us and befriend us.<br/>May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong></p>
 <p class="rubric">or...</p>
