@@ -1,28 +1,14 @@
 <!DOCTYPE html>
 <html manifest="cache.appcache">
   <head>
-    <meta name="viewport" content="width=450, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
     <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
     <title>tssf Community Obedience</title>
-    <style type="text/css">
-      <?php include 'css/tssf.css'; ?>
+    <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
 
-        .principal, .day, .collect {
-            display: none;
-        }
-
-        #jsmessage {
-            border: 1px solid;
-            margin: 10px 0px;
-            padding:15px 10px 15px 50px;
-            background-repeat: no-repeat;
-            background-position: 10px center;
-            color: #D8000C;
-            background-color: #FFBABA;
-        }
-    </style>
+    <link rel="stylesheet" href='css/tssf.css'>
   </head>
 
   <body>
@@ -71,8 +57,8 @@
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
     <h1><em>tssf Community Obedience</em></h1>
-    <em>Province of Australia, Papua New Guinea and East Asia
-    <br/>for <span id='date'></span></em><br/>
+    <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Australia, Papua New Guinea and East Asia
+    <br/>for <span id='date'></span></em></p>
     <p class="rubric">This offering of prayer is to be said daily, where possible, in the context of Morning or
     Evening Prayer.</p>
     <p class="boilerplate">In the name of the Father,

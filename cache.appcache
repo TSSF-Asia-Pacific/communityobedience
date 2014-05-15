@@ -1,12 +1,13 @@
 CACHE MANIFEST
 
-# Version 2
+# Version 3
 
 CACHE:
 index.php
 jquery-1.11.1.min.js
 moment.min.js
 css/tssf.css
+bootstrap-3.1.1-dist/css/bootstrap.min.css
 images/paper.gif
 images/AppleIcon.png
 images/Icon.png
