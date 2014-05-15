@@ -2,6 +2,9 @@
 <html manifest="cache.appcache">
   <head>
     <meta name="viewport" content="width=450, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="196x196" href="images/Icon.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
     <title>tssf Community Obedience</title>
     <style type="text/css">
       <?php include 'css/tssf.css'; ?>
