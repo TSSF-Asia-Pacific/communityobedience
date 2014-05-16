@@ -97,6 +97,8 @@ for ($i = 1; $i <= 31; $i++)
 }
 ?>
 
+<p class="rubric"><br/>tssf Community Collect</p>
+
 <p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
 <?php
 $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
