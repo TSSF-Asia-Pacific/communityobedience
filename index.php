@@ -57,7 +57,7 @@
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
     <h1><em>tssf Community Obedience</em></h1>
-    <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Australia, Papua New Guinea and East Asia
+    <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Asia-Pacific
     <br/>for <span id='date'></span></em></p>
     <p class="rubric">This offering of prayer is to be said daily, where possible, in the context of Morning or
     Evening Prayer.</p>
