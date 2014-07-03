@@ -119,7 +119,7 @@ for ($i = 0; $i <= 6; $i++)
 <p class="boilerplate">May our blessed Lady pray for us.<br/>May Saint Francis pray for us.<br/>May Saint Clare pray for us.<br/>May all the saints of the Third Order pray for us.<br/>May the holy angels watch over us and befriend us.<br/>May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong></p>
 <p class="rubric">or...</p>
 <p class="boilerplate">The grace of our Lord Jesus Christ,<br/>the love of God,<br/>and the fellowship of the Holy Spirit<br/>be with us all evermore. <strong>Amen</strong>
-
+<p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright © 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];

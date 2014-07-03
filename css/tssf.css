@@ -39,6 +39,14 @@ p.rubric
 	color:red;
 }
 
+p.copyrite
+{
+	font-style:italic;
+	font-size: 0.75em;
+	color:black;
+	text-align: center
+}
+
 p.boilerplate
 {
 	color:#8B4513;
