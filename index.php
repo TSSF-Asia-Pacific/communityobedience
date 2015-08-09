@@ -74,7 +74,7 @@
 for($i = 1; $i <= 30; $i++)
 {
     echo "<div id='principal_$i' class='principal'>";
-    $principlerubric = 'Principle for day ' . $i;
+    $principlerubric = 'Reading from the Principles of the Third Order.';
     echo "<p class='rubric'>$principlerubric</p>\n";
 
     $principlefile = 'boiler/principle' . $i . '.txt';
