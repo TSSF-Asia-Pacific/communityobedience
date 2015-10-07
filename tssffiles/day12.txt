@@ -1,19 +1,11 @@
-<<<<<<< HEAD
 In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.
-=======
-In the Province of Asia Pacific, pray for Tertiaries in Papua New Guinea.
->>>>>>> origin/master
 
 Pray for Franciscans International.
 
 In Queensland B / Northern NSW Region, pray for
 
 Diane Eagles	
-<<<<<<< HEAD
 Jacqueline Fewtrell
-=======
-Jacqueline  Fewtrell
->>>>>>> origin/master
 Camellia Flanagan	
 Bronwyn Fryar
 Godfrey Fryar	
@@ -21,14 +13,8 @@ Raelee Garner
 Terry Gatfield	
 Glenis George
 Ruth Gillis	
-<<<<<<< HEAD
 Bill Guttormsen
 Anthony Halstead	
-=======
-Ruth Groom
-Bill Guttormsen	
-Anthony Halstead
->>>>>>> origin/master
 Michael Hobbs
 
 RIP Victor Chapman	VIC/TAS

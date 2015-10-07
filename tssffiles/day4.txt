@@ -6,7 +6,6 @@ In the Region of Popondetta, pray for
 
 Wilson Mekele	
 Gordon Natapo
-<<<<<<< HEAD
 Wilfred Ojariembo	
 Juliet Orari
 Roderick Orari	
@@ -17,17 +16,6 @@ Winniefred Pawa
 Bessie Peuba
 Cedrick Peuba	
 Romney Peuba
-=======
-Juliet Orari	
-Roderick Orari
-Charlott Paisa	
-Micah Paisa
-Rodney Pawa	
-Winniefred Pawa
-Bessie Peuba	
-Cedrick Peuba
-Romney Peuba	
->>>>>>> origin/master
 Ismael Porengi
 
 RIP Thory Bonsey	VIC/TAS

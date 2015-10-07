@@ -12,20 +12,11 @@ Harry Kivaja
 Melecent Kivaja
 Rufas Kivaja	
 Caswel Kogoropa
-<<<<<<< HEAD
 Fred Gill Kokora	
 Bonita Kombega
 Joseph Kopapa	
 Gilford Gilayne Kove
 James Kukuma	
-=======
-Paulas King Kogoropa
-Fred Gill Kokora
-Bonita Kombega	
-Joseph Kopapa
-Gilford Gilayne Kove	
-James Kukuma
->>>>>>> origin/master
 Theo Paulas Marai
 
 RIP Joy Hickman	NSW A

@@ -18,9 +18,6 @@ Suzanne Chapman
 Barrie Cledsmith
 John Davis
 
-<<<<<<< HEAD
 RIP Paulas King	POP
-=======
->>>>>>> origin/master
 RIP Isabel Neal	VIC/TAS
 RIP Jeanne Norris	VIC/TAS
