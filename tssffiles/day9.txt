@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In the Province of Asia – Pacific, pray for Tertiaries in the Victoria/Tasmania Region.
+=======
+In the Province of Asia Pacific, pray for Tertiaries in the Victoria/Tasmania Region.
+>>>>>>> origin/master
 
 Pray for all isolated Tertiaries.
 
@@ -15,8 +19,12 @@ Valerie Hall-Matthews
 Elaine Jeston	
 Ivan McCulloch
 Graham Miller	
+<<<<<<< HEAD
 Christine O'Brien
 Lavinia Robinson	
+=======
+Lavinia Robinson
+>>>>>>> origin/master
 Nell Weir
 
 RIP Sylvia Daniel	SING

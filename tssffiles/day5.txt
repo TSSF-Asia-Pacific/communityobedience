@@ -13,7 +13,13 @@ Tevita Talanoa
 Winifred Talanoa	
 Nigel Tauni
 Johnsford Tura	
+<<<<<<< HEAD
 Lomas Wekaru Daima
+=======
+Gideon Waida
+Lomas Wekaru Daima	
+Frank Davis Yawara
+>>>>>>> origin/master
 
 RIP Barbara Desgrand	QLD B
 RIP Anne Johnson	SING

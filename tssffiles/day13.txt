@@ -8,7 +8,11 @@ Janice Hughes
 Geoffrey Jordan
 Pamela Kehl	
 Jan Leerentveld
+<<<<<<< HEAD
 Fay Leutton	
+=======
+Fay  Leutton	
+>>>>>>> origin/master
 Peter Lockyer
 Illtyd Loveluck	
 Gloria Malouf-Marsh
@@ -16,5 +20,8 @@ Fay Manfield
 Andrea Maslin
 
 RIP Warren Blomeley	QLD B
+<<<<<<< HEAD
 RIP Wekely Debuyo	DOG
+=======
+>>>>>>> origin/master
 RIP Joseph Gahn	QLD B

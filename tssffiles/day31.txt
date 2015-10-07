@@ -8,6 +8,7 @@ American Province	Tom Johnson
 African Province	(vacant)
 Asia-Pacific Province	Godfrey Fryar
 European Province	Averil Swanton
+<<<<<<< HEAD
 Pacific Province The Revd John Hebenton
 
 Pray for those who have been released from the Third Order in the past year: Kolark Akore, Maxwell Boraba, Raphael Ewa, James Gombera, Lyn Lord, Robert Shepherd, Kath Vickers.
@@ -15,9 +16,21 @@ Pray for those who have been released from the Third Order in the past year: Kol
 RIP Manesse Aniki	POP
 RIP James Mark Budibudi	DOG
 RIP Joy Caporn	QLD B
+=======
+Pacific Province        The Revd John Hebenton
+
+Pray for those who have been released from the Third Order in the past year: Lyn Lord, Robert Shepherd, Kath Vickers.
+
+RIP Joy Caporn	QLD B
+RIP Clive La Brooy
+RIP Alan Lamb (Br Alan Barnabas, SSF)
+>>>>>>> origin/master
 RIP Pauline Hangiri	PNG
 RIP Clive La Brooy
 RIP Nicomede Mudumatana	DOG
 RIP Bill Pearson	SA
 RIP Morna Thomas	QLD A
+<<<<<<< HEAD
 RIP Stanislaus Yaumo	DOG
+=======
+>>>>>>> origin/master

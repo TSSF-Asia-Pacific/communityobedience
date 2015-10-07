@@ -13,6 +13,7 @@ Faithful Arewa
 Carson Arigewa	
 Clement Bateman
 Dixon Bogea	
+<<<<<<< HEAD
 Nicho Boridina
 James Mark Budibudi	
 Shem Damore
@@ -20,6 +21,14 @@ Roland Goviro
 Mary Hirodidi
 Michael Hirodidi	
 Harold Morrison Kadada
+=======
+James Mark Budibudi
+Shem Damore	
+Wekely Debuyo
+Mary Hirodidi	
+Michael Hirodidi
+Harold Morrison Kadada	
+>>>>>>> origin/master
 Basil Kaibo
 
 RIP Trevor Barr	SA

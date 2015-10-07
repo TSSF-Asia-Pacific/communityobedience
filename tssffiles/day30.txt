@@ -22,6 +22,10 @@ In Hong Kong, pray for
 
 John Davison	
 Tavis Du Preez
+<<<<<<< HEAD
+=======
+Stephen Farmer	
+>>>>>>> origin/master
 Simon Fong
 
 In the Philippines, pray for

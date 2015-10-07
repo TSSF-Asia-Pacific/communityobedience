@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In the Province of Asia – Pacific, pray for all Tertiaries in the New South Wales A and New South Wales B / Australian Capital Territory regions.
+=======
+In the Province of Asia Pacific, pray for all Tertiaries in the New South Wales A and New South Wales B / Australian Capital Territory regions.
+>>>>>>> origin/master
 
 Pray for all Area Convenors.
 
@@ -10,9 +14,13 @@ Lionel Siropa
 Linus Tikwaru
 Jackson Toroga	
 Kipling Toromata
+<<<<<<< HEAD
 Henry Towoni	
 Leonard Tubira
 Gideon Waida	
+=======
+Leonard Tubira	
+>>>>>>> origin/master
 James Peter Wairanumo
 Arthur Wakeapa	
 Alwyn Clive Warikoa

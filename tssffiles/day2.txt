@@ -5,6 +5,7 @@ Pray for the Minister General, Ken Norian and the Assistant Minister General, Jo
 In the Region of Popondetta, pray for
 
 Jeffrey Gonini	
+<<<<<<< HEAD
 Arnold Hanupa
 John Douglas Hevari	
 Sweeden Imaga
@@ -14,6 +15,18 @@ Leonard Jinga
 Timothy Jiregari
 Harold Joinoba	
 Julianne Kageni
+=======
+Ronald Goviro
+Arnold Hanupa	
+John Douglas Hevari
+Sweeden Imaga	
+Jean Isemba
+Babra Jinga	
+Leonard Jinga
+Timothy Jiregari	
+Harold Joinoba
+Julianne Kageni	
+>>>>>>> origin/master
 Cecil Kamamu
 
 RIP Frank Lomax	SING
