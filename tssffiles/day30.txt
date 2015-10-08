@@ -2,7 +2,7 @@ In the Province of the Americas, pray for Tertiaries in Mexico.
 
 Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.
 
-In Malaysia, pray for
+<p class='rubric'>In Malaysia, pray for</p>
 
 James Ahit Ladi	
 Albert Ajong Mail
@@ -14,17 +14,17 @@ Gerald Ng
 Jerry Rumpang
 Bradley Sangan
 
-In Thailand, pray for
+<p class='rubric'>In Thailand, pray for</p>
 
 Lance Woodruff
 
-In Hong Kong, pray for
+<p class='rubric'>In Hong Kong, pray for</p>
 
 John Davison	
 Tavis Du Preez
 Simon Fong
 
-In the Philippines, pray for
+<p class='rubric'>In the Philippines, pray for</p>
 
 Stephen Farmer
 
