@@ -78,7 +78,14 @@
 for($i = 1; $i <= 31; $i++)
 {
     echo "<div id='principal_$i' class='principal'>";
-    $principlerubric = 'Reading from the Principles of the Third Order.';
+    if ($i == 31)
+    {
+      $principlerubric = 'About the Principles of the Third Order.';
+    }
+    else
+    {
+      $principlerubric = 'Reading from the Principles of the Third Order.';
+    }
     echo "<p class='rubric'>$principlerubric</p>\n";
 
     $principlefile = 'boiler/principle' . $i . '.txt';
