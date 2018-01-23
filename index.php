@@ -29,12 +29,16 @@
         datenow = new moment();
         dayofmonth = datenow.format("D");
 
-        if(dayofmonth == 31)
-        {
-            principalnum = Math.floor(Math.random() * (30 - 1 + 1)) + 1;
-        }else{
-            principalnum = dayofmonth;
-        }
+        // Rather than do a random principle for day 31 we now have some text to render.
+        //if(dayofmonth == 31)
+        //{
+        //    principalnum = Math.floor(Math.random() * (30 - 1 + 1)) + 1;
+        //}else{
+        //    principalnum = dayofmonth;
+        //}
+        
+        principalnum = dayofmonth;
+
         $("#principal_" + principalnum).show();
         $("#day_" + dayofmonth).show();
 
@@ -71,7 +75,7 @@
 <?php
 /* Add the principle for the day of month. */
 
-for($i = 1; $i <= 30; $i++)
+for($i = 1; $i <= 31; $i++)
 {
     echo "<div id='principal_$i' class='principal'>";
     $principlerubric = 'Reading from the Principles of the Third Order.';
