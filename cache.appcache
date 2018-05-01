@@ -1,6 +1,10 @@
 CACHE MANIFEST
 
+<<<<<<< HEAD
 # Version 35
+=======
+# Version 36
+>>>>>>> origin/master
 
 CACHE:
 index.php
