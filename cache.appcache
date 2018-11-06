@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Version 44
+# Version 45
 
 CACHE:
 index.php
@@ -15,4 +15,3 @@ images/golden-paper.jpg
 
 NETWORK:
 *
-
