@@ -131,7 +131,7 @@ for ($i = 0; $i <= 6; $i++)
 <p class="rubric">or...</p>
 <p class="boilerplate">The grace of our Lord Jesus Christ,<br/>the love of God,<br/>and the fellowship of the Holy Spirit<br/>be with us all evermore. <strong>Amen</strong>
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
-<p class="copyrite">Updated: 11th February 2019.</p>
+<p class="copyrite">Updated: 1st March 2019.</p>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
