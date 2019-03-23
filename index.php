@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="cache.appcache">
+<html manifest="1cache.appcache">
 <head>
     <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
@@ -10,14 +10,53 @@
 
     <link rel="stylesheet" href='css/tssf.css'>
 </head>
+<?php
+    $supportedLanguages = ['en'];
+?>
 
 <body>
 <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
 <script type="text/javascript" src='moment.min.js'></script>
 
 <script type="text/javascript">
+    <?php
+    echo 'let supportedLanguages = ' .  json_encode($supportedLanguages) . ';';
+    ?>
+    // From https://stackoverflow.com/a/52112155
+    const getLanguage = () => {
+        // Check for our local storage first
+        if (typeof(Storage) !== "undefined") {
+            if (localStorage.language) {
+                return localStorage.language;
+            }
+        }
+        if (navigator.languages && navigator.languages.length) {
+            return navigator.languages[0];
+        } else {
+            return navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en';
+        }
+    }
+
+    const getSupportedLanguage = () => {
+        let detectedLanguage = getLanguage();
+
+        if (supportedLanguages.includes(detectedLanguage) ) {
+            return detectedLanguage;
+        }
+        return 'en';
+    }
+
+    const setLanguage = (newLang) => {
+        localStorage.language = newLang;
+        lang = getSupportedLanguage()
+
+        // Update the display
+        display_todays_obedience();
+    }
 
     let intervalId;
+
+    let lang = getSupportedLanguage();
 
 
     function display_todays_obedience() {
@@ -32,12 +71,12 @@
 
         let principalnum = dayofmonth;
 
-        $("#principal_" + principalnum).show();
-        $("#day_" + dayofmonth).show();
+        $("#principal_" + lang + "_" + principalnum).show();
+        $("#day_" + lang + "_" + dayofmonth).show();
 
         // Work out day of week
         let dayofweek = moment().format("d");
-        $("#collect_" + dayofweek).show();
+        $("#collect_" + lang + "_" + dayofweek).show();
         $('#date').text(moment().format("dddd D MMMM YYYY"));
         update_display();
     }
@@ -73,52 +112,57 @@
 </p>
 
 <?php
-/* Add the principle for the day of month. */
 
-for ($i = 1; $i <= 31; $i++) {
-    echo "<div id='principal_$i' class='principal'>";
-    if ($i == 31) {
-        $principlerubric = 'About the Principles of the Third Order.';
-    } else {
-        $principlerubric = 'Reading from the Principles of the Third Order.';
+foreach ($supportedLanguages as $lang) {
+
+    /* Add the principle for the day of month. */
+    for ($i = 1; $i <= 31; $i++) {
+        echo "<div id='principal_${lang}_${i}' class='principal'>";
+        if ($i == 31) {
+            $principleRubric = 'About the Principles of the Third Order.';
+        } else {
+            $principleRubric = 'Reading from the Principles of the Third Order.';
+        }
+        echo "<p class='rubric'>$principleRubric</p>\n";
+
+        $principleFile = "$lang/boiler/principle${i}.txt";
+        echo "<p class='boilerplate'>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
+        echo "</div>\n";
     }
-    echo "<p class='rubric'>$principlerubric</p>\n";
+    ?>
 
-    $principlefile = 'boiler/principle' . $i . '.txt';
-    echo "<p class='boilerplate'>" . implode("</p>\n<p class='boilerplate'>", file($principlefile)) . "</p>\n";
-    echo "</div>\n";
-}
-?>
+    <p class="rubric">Daily intercession prayers...</p>
 
-<p class="rubric">Daily intercession prayers...</p>
+    <?php
+    /* Add the daily intercession prayers for the day of the month */
 
-<?php
-/* Add the daily intercession prayers for the day of the month */
+    for ($i = 1; $i <= 31; $i++) {
+        echo "<div id='day_${lang}_${i}' class='day'>";
+        $contents = file("$lang/tssffiles/day${i}.txt");
+        echo implode('<br/>', $contents) . "<br/>";
+        echo "</div>\n";
+    }
+    ?>
 
-for ($i = 1; $i <= 31; $i++) {
-    echo "<div id='day_$i' class='day'>";
-    $contents = file('tssffiles/day' . $i . '.txt');
-    echo implode('<br/>', $contents) . "<br/>";
-    echo "</div>\n";
-}
-?>
+    <p class="rubric"><br/>tssf Community Collect</p>
 
-<p class="rubric"><br/>tssf Community Collect</p>
+    <p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray,
+        that
+        being knit together in community and prayer, we your servants may glorify your holy name after the example of
+        Saint
+        Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
+    <?php
+    $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
-<p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that
-    being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint
-    Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
-<?php
-$days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+    for ($i = 0; $i <= 6; $i++) {
+        echo "<div id='collect_${lang}_${i}' class='collect'>";
+        echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
 
-for ($i = 0; $i <= 6; $i++) {
-    echo "<div id='collect_$i' class='collect'>";
-    echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
-
-    $collectfile = 'boiler/collect' . $i . '.txt';
-    echo "<p class='boilerplate'>" . implode("</p><p class='boilerplate'", file($collectfile)) . "</p>";
-    echo "</div>\n";
-}
+        $collectFile = "$lang/boiler/collect${i}.txt";
+        echo "<p class='boilerplate'>" . implode("</p><p class='boilerplate'", file($collectFile)) . "</p>";
+        echo "</div>\n";
+    }
+} // End language loop
 ?>
 
 <p class="rubric">Either</p>
