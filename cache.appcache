@@ -1,10 +1,10 @@
 CACHE MANIFEST
 
-# Version 51
+# Version 2019-03-23 16:05
 
 CACHE:
 index.php
-jquery-1.11.1.min.js
+https://code.jquery.com/jquery-3.0.0.js
 moment.min.js
 css/tssf.css
 bootstrap-3.1.1-dist/css/bootstrap.min.css

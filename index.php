@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="cache.appcache">
+<html manifest="1cache.appcache">
   <head>
     <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
@@ -12,9 +12,12 @@
   </head>
 
   <body>
-    <script type="text/javascript" src='jquery-1.11.1.min.js' ></script>
-    <script type="text/javascript" src='moment.min.js'></script>
-    <script type="text/javascript">
+  <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+  <script type="text/javascript" src='moment.min.js'></script>
+
+  <script type="text/javascript">
+
+    let intervalId;
 
 
     function display_todays_obedience()
@@ -26,36 +29,27 @@
         $(".day").hide();
 
         // Work out day of month
-        datenow = new moment();
-        dayofmonth = datenow.format("D");
+        let dayofmonth = moment().format("D");
 
-        // Rather than do a random principle for day 31 we now have some text to render.
-        //if(dayofmonth == 31)
-        //{
-        //    principalnum = Math.floor(Math.random() * (30 - 1 + 1)) + 1;
-        //}else{
-        //    principalnum = dayofmonth;
-        //}
-        
-        principalnum = dayofmonth;
+        let principalnum = dayofmonth;
 
         $("#principal_" + principalnum).show();
         $("#day_" + dayofmonth).show();
 
         // Work out day of week
-        dayofweek = datenow.format("d");
+        let dayofweek = moment().format("d");
         $("#collect_" + dayofweek).show();
-        $('#date').text(datenow.format("dddd D MMMM YYYY"));
+        $('#date').text(moment().format("dddd D MMMM YYYY"));
         update_display();
     }
 
     $( document ).ready(display_todays_obedience);
 
-    var nIntervId;
-     
     function update_display() {
+        // Clear any current intervals before we start the next one
+        clearInterval(intervalId);
         // Refresh every 10 minutes
-        IntervId = setInterval(display_todays_obedience, 600000);
+        intervalId = setInterval(display_todays_obedience, 600000);
     }
     </script>
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
