@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="1cache.appcache">
+<html manifest="cache.appcache">
 <head>
     <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
