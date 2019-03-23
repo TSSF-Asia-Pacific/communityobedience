@@ -3,7 +3,7 @@ CACHE MANIFEST
 # Version 2019-03-23 17:04
 
 CACHE:
-#index.php
+index.php
 https://code.jquery.com/jquery-3.0.0.js
 moment.min.js
 css/tssf.css
