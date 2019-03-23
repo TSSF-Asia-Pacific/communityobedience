@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html manifest="1cache.appcache">
-  <head>
+<head>
     <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
@@ -9,19 +9,18 @@
     <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
 
     <link rel="stylesheet" href='css/tssf.css'>
-  </head>
+</head>
 
-  <body>
-  <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
-  <script type="text/javascript" src='moment.min.js'></script>
+<body>
+<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+<script type="text/javascript" src='moment.min.js'></script>
 
-  <script type="text/javascript">
+<script type="text/javascript">
 
     let intervalId;
 
 
-    function display_todays_obedience()
-    {
+    function display_todays_obedience() {
         // Ensure all divs are hidden
         $("#jsmessage").hide();
         $(".principal").hide();
@@ -43,7 +42,7 @@
         update_display();
     }
 
-    $( document ).ready(display_todays_obedience);
+    $(document).ready(display_todays_obedience);
 
     function update_display() {
         // Clear any current intervals before we start the next one
@@ -51,34 +50,37 @@
         // Refresh every 10 minutes
         intervalId = setInterval(display_todays_obedience, 600000);
     }
-    </script>
-    <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
+</script>
+<div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
-    <h1><em>tssf Community Obedience</em></h1>
-    <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Asia-Pacific
-    <br/>for <span id='date'></span></em></p>
-    <p class="rubric">This offering of prayer is to be said daily, where possible in the context of Morning or
-    Evening Prayer.</p>
-    <p class="boilerplate">In the name of the Father,
-    <br/>and of the Son,
-    <br/>and of the Holy Spirit. <strong>Amen</strong></p>
-    <p class="boilerplate">Here and in all your churches throughout the world,
-    <br/>we adore you, O Christ, and we bless you,
-    <br/>because by your holy cross you have redeemed the world. <strong>Amen</strong></p>
+<h1><em>tssf Community Obedience</em></h1>
+<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
+    <em>Province of Asia-Pacific<br/>
+        for <span id='date'></span></em>
+</p>
+<p class="rubric">
+    This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.
+</p>
+<p class="boilerplate">
+    In the name of the Father,<br/>
+    and of the Son,<br/>
+    and of the Holy Spirit. <strong>Amen</strong>
+</p>
+<p class="boilerplate">
+    Here and in all your churches throughout the world,<br/>
+    we adore you, O Christ, and we bless you,<br/>
+    because by your holy cross you have redeemed the world. <strong>Amen</strong>
+</p>
 
 <?php
 /* Add the principle for the day of month. */
 
-for($i = 1; $i <= 31; $i++)
-{
+for ($i = 1; $i <= 31; $i++) {
     echo "<div id='principal_$i' class='principal'>";
-    if ($i == 31)
-    {
-      $principlerubric = 'About the Principles of the Third Order.';
-    }
-    else
-    {
-      $principlerubric = 'Reading from the Principles of the Third Order.';
+    if ($i == 31) {
+        $principlerubric = 'About the Principles of the Third Order.';
+    } else {
+        $principlerubric = 'Reading from the Principles of the Third Order.';
     }
     echo "<p class='rubric'>$principlerubric</p>\n";
 
@@ -93,23 +95,23 @@ for($i = 1; $i <= 31; $i++)
 <?php
 /* Add the daily intercession prayers for the day of the month */
 
-for ($i = 1; $i <= 31; $i++)
-{
+for ($i = 1; $i <= 31; $i++) {
     echo "<div id='day_$i' class='day'>";
     $contents = file('tssffiles/day' . $i . '.txt');
-    echo implode('<br/>', $contents). "<br/>";
+    echo implode('<br/>', $contents) . "<br/>";
     echo "</div>\n";
 }
 ?>
 
 <p class="rubric"><br/>tssf Community Collect</p>
 
-<p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
+<p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that
+    being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint
+    Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
 <?php
 $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
-for ($i = 0; $i <= 6; $i++)
-{
+for ($i = 0; $i <= 6; $i++) {
     echo "<div id='collect_$i' class='collect'>";
     echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
 
@@ -121,32 +123,48 @@ for ($i = 0; $i <= 6; $i++)
 
 <p class="rubric">Either</p>
 
-<p class="boilerplate">May our blessed Lady pray for us.<br/>May Saint Francis pray for us.<br/>May Saint Clare pray for us.<br/>May all the saints of the Third Order pray for us.<br/>May the holy angels watch over us and befriend us.<br/>May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong></p>
+<p class="boilerplate">
+    May our blessed Lady pray for us.<br/>
+    May Saint Francis pray for us.<br/>
+    May Saint Clare pray for us.<br/>
+    May all the saints of the Third Order pray for us.<br/>
+    May the holy angels watch over us and befriend us.<br/>
+    May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong>
+</p>
 <p class="rubric">or...</p>
-<p class="boilerplate">The grace of our Lord Jesus Christ,<br/>the love of God,<br/>and the fellowship of the Holy Spirit<br/>be with us all evermore. <strong>Amen</strong>
-<p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
+<p class="boilerplate">
+    The grace of our Lord Jesus Christ,<br/>
+    the love of God,<br/>
+    and the fellowship of the Holy Spirit<br/>
+    be with us all evermore. <strong>Amen</strong>
+<p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
+    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
 <p class="copyrite">Updated: 12th March 2019.</p>
 
 <!-- Usage tracking -->
-    <!-- Matomo -->
-    <script type="text/javascript">
-        var _paq = _paq || [];
-        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-            var u="https://piwik.whiteitsolutions.com.au/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '22']);
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-        })();
-    </script>
-    <!-- End Matomo Code -->
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+        var u = "https://piwik.whiteitsolutions.com.au/";
+        _paq.push(['setTrackerUrl', u + 'piwik.php']);
+        _paq.push(['setSiteId', '22']);
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.type = 'text/javascript';
+        g.async = true;
+        g.defer = true;
+        g.src = u + 'piwik.js';
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- End Matomo Code -->
 
-    <!-- Matomo Image Tracker-->
-    <img src="https://piwik.whiteitsolutions.com.au/piwik.php?idsite=22&amp;rec=1" style="border:0" alt="" />
-    <!-- End Matomo -->
+<!-- Matomo Image Tracker-->
+<img src="https://piwik.whiteitsolutions.com.au/piwik.php?idsite=22&amp;rec=1" style="border:0" alt=""/>
+<!-- End Matomo -->
 
-  </body>
+</body>
 </html>
