@@ -92,6 +92,15 @@
 </script>
 <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
+<div id="langselect" style="float: right">
+    <?php
+    foreach ($supportedLanguages as $lang) {
+        echo "<button onClick='setLanguage(\"$lang\");'>$lang</button>";
+    }
+    ?>
+
+</div>
+
 <h1><em>tssf Community Obedience</em></h1>
 <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
     <em>Province of Asia-Pacific<br/>
