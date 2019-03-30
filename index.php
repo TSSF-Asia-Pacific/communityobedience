@@ -13,7 +13,7 @@
 <?php
     require_once ('en/boilerplate.php');
 
-    $supportedLanguages = ['en'];
+    $supportedLanguages = ['en', 'any'];
     $translations['en'] = new en;
 
 ?>
@@ -24,7 +24,7 @@
 
 <script type="text/javascript">
     <?php
-    echo 'let supportedLanguages = ' .  json_encode($supportedLanguages) . ';';
+    echo 'let supportedLanguages = ' .  json_encode(array_keys($translations)) . ';';
     ?>
     // From https://stackoverflow.com/a/52112155
     const getLanguage = () => {
@@ -64,6 +64,12 @@
 
 
     function display_todays_obedience() {
+        // Hide all the boilerplate for all languages
+        $(".translatedBoilerplate").hide();
+
+        // Show the boilerplate for the current language
+        $(".translatedBoilerplate[lang='" + lang + "']").show();
+
         // Ensure all divs are hidden
         $("#jsmessage").hide();
         $(".principal").hide();
@@ -98,8 +104,8 @@
 
 <div id="langselect" style="float: right">
     <?php
-    foreach ($supportedLanguages as $lang) {
-        echo "<button onClick='setLanguage(\"$lang\");'>$lang</button>";
+    foreach ($translations as $lang => $translation) {
+        echo "<button onClick='setLanguage(\"$lang\");' lang='$lang'>$translation->name</button>";
     }
     ?>
 

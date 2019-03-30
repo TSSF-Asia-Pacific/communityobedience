@@ -2,6 +2,8 @@
 
 class en
 {
+    public $name = "English";
+
     public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
 
     public $fatherSonHolySpirit = "
