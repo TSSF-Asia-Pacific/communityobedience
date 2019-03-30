@@ -143,7 +143,7 @@ foreach ($translations as $lang => $translation) {
 
         echo "<div id='principal_${lang}_${i}' class='principal' lang='${lang}'>";
         echo "    <p class='rubric'>$principleRubric</p>\n";
-        echo "    <p class='boilerplate>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
+        echo "    <p class='boilerplate'>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
         echo "</div>\n";
     }
     ?>
