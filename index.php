@@ -11,7 +11,11 @@
     <link rel="stylesheet" href='css/tssf.css'>
 </head>
 <?php
+    require_once ('en/boilerplate.php');
+
     $supportedLanguages = ['en'];
+    $translations['en'] = new en;
+
 ?>
 
 <body>
@@ -102,94 +106,86 @@
 </div>
 
 <h1><em>tssf Community Obedience</em></h1>
+<?php
+
+foreach ($translations as $lang => $translation) {
+?>
 <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
     <em>Province of Asia-Pacific<br/>
         for <span id='date'></span></em>
 </p>
-<p class="rubric">
-    This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.
+<p class="rubric translatedBoilerplate" lang="<?= $lang ?>">
+    <?= $translation->dailyPrayerOffering ?>
 </p>
-<p class="boilerplate">
-    In the name of the Father,<br/>
-    and of the Son,<br/>
-    and of the Holy Spirit. <strong>Amen</strong>
+<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
+    <?= $translation->fatherSonHolySpirit ?>
 </p>
-<p class="boilerplate">
-    Here and in all your churches throughout the world,<br/>
-    we adore you, O Christ, and we bless you,<br/>
-    because by your holy cross you have redeemed the world. <strong>Amen</strong>
+<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
+    <?= $translation->everyWhere ?>
 </p>
 
 <?php
 
-foreach ($supportedLanguages as $lang) {
-
     /* Add the principle for the day of month. */
     for ($i = 1; $i <= 31; $i++) {
-        echo "<div id='principal_${lang}_${i}' class='principal'>";
-        if ($i == 31) {
-            $principleRubric = 'About the Principles of the Third Order.';
-        } else {
-            $principleRubric = 'Reading from the Principles of the Third Order.';
-        }
-        echo "<p class='rubric'>$principleRubric</p>\n";
-
         $principleFile = "$lang/boiler/principle${i}.txt";
-        echo "<p class='boilerplate'>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
+        if ($i == 31) {
+            $principleRubric = $translation->principleRubricTitleDay31;
+        } else {
+            $principleRubric = $translation->principleRubricTitleNormal;
+        }
+
+        echo "<div id='principal_${lang}_${i}' class='principal' lang='${lang}'>";
+        echo "    <p class='rubric'>$principleRubric</p>\n";
+        echo "    <p class='boilerplate>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
         echo "</div>\n";
     }
     ?>
 
-    <p class="rubric">Daily intercession prayers...</p>
+    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>">Daily intercession prayers...</p>
 
     <?php
     /* Add the daily intercession prayers for the day of the month */
 
     for ($i = 1; $i <= 31; $i++) {
-        echo "<div id='day_${lang}_${i}' class='day'>";
+        echo "<div id='day_${lang}_${i}' class='day' lang='${lang}'>";
         $contents = file("$lang/tssffiles/day${i}.txt");
         echo implode('<br/>', $contents) . "<br/>";
         echo "</div>\n";
     }
     ?>
 
-    <p class="rubric"><br/>tssf Community Collect</p>
+    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectTitle ?></p>
 
-    <p class="boilerplate">God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray,
-        that
-        being knit together in community and prayer, we your servants may glorify your holy name after the example of
-        Saint
-        Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong></p>
+    <p class="boilerplate translatedBoilerplate"><?= $translation->collectOpening ?></p>
     <?php
     $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
     for ($i = 0; $i <= 6; $i++) {
-        echo "<div id='collect_${lang}_${i}' class='collect'>";
+        echo "<div id='collect_${lang}_${i}' class='collect' lang='${lang}'>";
         echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
 
         $collectFile = "$lang/boiler/collect${i}.txt";
         echo "<p class='boilerplate'>" . implode("</p><p class='boilerplate'", file($collectFile)) . "</p>";
         echo "</div>\n";
     }
+?>
+
+<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->either ?></p>
+
+<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
+    <?= $translation->mayPrayer ?>
+</p>
+<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->or ?></p>
+<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
+    <?= $translation->gracePrayer ?>
+</p>
+
+<?php
 } // End language loop
 ?>
 
-<p class="rubric">Either</p>
 
-<p class="boilerplate">
-    May our blessed Lady pray for us.<br/>
-    May Saint Francis pray for us.<br/>
-    May Saint Clare pray for us.<br/>
-    May all the saints of the Third Order pray for us.<br/>
-    May the holy angels watch over us and befriend us.<br/>
-    May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong>
-</p>
-<p class="rubric">or...</p>
-<p class="boilerplate">
-    The grace of our Lord Jesus Christ,<br/>
-    the love of God,<br/>
-    and the fellowship of the Holy Spirit<br/>
-    be with us all evermore. <strong>Amen</strong>
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
 <p class="copyrite">Updated: 12th March 2019.</p>
