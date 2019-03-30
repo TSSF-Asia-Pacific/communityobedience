@@ -160,10 +160,11 @@ foreach ($translations as $lang => $translation) {
         echo "</div>\n";
     }
     ?>
+    <br/>
 
     <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectTitle ?></p>
 
-    <p class="boilerplate translatedBoilerplate"><?= $translation->collectOpening ?></p>
+    <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectOpening ?></p>
     <?php
     $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
