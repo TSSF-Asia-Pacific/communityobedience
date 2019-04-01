@@ -11,10 +11,19 @@
     <link rel="stylesheet" href='css/tssf.css'>
 </head>
 <?php
-    require_once ('en/boilerplate.php');
 
-    $supportedLanguages = ['en', 'any'];
-    $translations['en'] = new en;
+// autoloader
+define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
+
+spl_autoload_register(function ($class) {
+    $file = ROOT . str_replace('\\', '/', $class) . '.php';
+    if (file_exists($file)) {
+        require $file;
+    }
+});
+
+    // Load each translation into the translations array here
+    $translations['en'] = new en\translation();
 
 ?>
 
@@ -39,7 +48,7 @@
         } else {
             return navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en';
         }
-    }
+    };
 
     const getSupportedLanguage = () => {
         let detectedLanguage = getLanguage();
@@ -48,15 +57,15 @@
             return detectedLanguage;
         }
         return 'en';
-    }
+    };
 
     const setLanguage = (newLang) => {
         localStorage.language = newLang;
-        lang = getSupportedLanguage()
+        lang = getSupportedLanguage();
 
         // Update the display
         display_todays_obedience();
-    }
+    };
 
     let intervalId;
 
@@ -114,6 +123,10 @@
 <h1><em>tssf Community Obedience</em></h1>
 <?php
 
+/**
+ * @var string $lang
+ * @var language $translation
+ */
 foreach ($translations as $lang => $translation) {
 ?>
 <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
@@ -124,10 +137,10 @@ foreach ($translations as $lang => $translation) {
     <?= $translation->dailyPrayerOffering ?>
 </p>
 <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->fatherSonHolySpirit ?>
+    <?= $translation->gloriaPatra ?>
 </p>
 <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->everyWhere ?>
+    <?= $translation->openingPrayer ?>
 </p>
 
 <?php
@@ -164,7 +177,7 @@ foreach ($translations as $lang => $translation) {
 
     <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectTitle ?></p>
 
-    <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectOpening ?></p>
+    <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->communityPrayer ?></p>
     <?php
     $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
@@ -181,11 +194,11 @@ foreach ($translations as $lang => $translation) {
 <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->either ?></p>
 
 <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->mayPrayer ?>
+    <?= $translation->blessingOne ?>
 </p>
-<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->or ?></p>
+<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->orDot ?></p>
 <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->gracePrayer ?>
+    <?= $translation->blessingTwo ?>
 </p>
 
 <?php
