@@ -147,7 +147,7 @@ foreach ($translations as $lang => $translation) {
 
     /* Add the principle for the day of month. */
     for ($i = 1; $i <= 31; $i++) {
-        $principleFile = "$lang/boiler/principle${i}.txt";
+        $principleFile = "$lang/principle/principle${i}.txt";
         if ($i == 31) {
             $principleRubric = $translation->principleRubricTitleDay31;
         } else {
@@ -168,7 +168,7 @@ foreach ($translations as $lang => $translation) {
 
     for ($i = 1; $i <= 31; $i++) {
         echo "<div id='day_${lang}_${i}' class='day' lang='${lang}'>";
-        $contents = file("$lang/tssffiles/day${i}.txt");
+        $contents = file("$lang/daily/day${i}.txt");
         echo implode('<br/>', $contents) . "<br/>";
         echo "</div>\n";
     }
@@ -185,7 +185,7 @@ foreach ($translations as $lang => $translation) {
         echo "<div id='collect_${lang}_${i}' class='collect' lang='${lang}'>";
         echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
 
-        $collectFile = "$lang/boiler/collect${i}.txt";
+        $collectFile = "$lang/collect/collect${i}.txt";
         echo "<p class='boilerplate'>" . implode("</p><p class='boilerplate'", file($collectFile)) . "</p>";
         echo "</div>\n";
     }
