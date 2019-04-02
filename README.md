@@ -27,5 +27,10 @@ If you see anything that needs fixing in the application or you are experiencing
    $translations['en'] = new en\translation();
    $translations['fr'] = new fr\translation();
    ```
-    
-6. Submit a merge request to the master branch, once merged to master it'll be live!
+
+6. Update the cache.appcache file so the version comment line is up to date, otherwise your changes won't be seen
+   ```
+    # Version 2019-03-23 17:04
+    ```
+
+7. Submit a merge request to the master branch, once merged to master it'll be live!
