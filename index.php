@@ -208,7 +208,7 @@ foreach ($translations as $lang => $translation) {
 
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
-<p class="copyrite">Updated: 23rd May 2019.</p>
+<p class="copyrite">Updated: 17th April 2019.</p>
 
 <!-- Usage tracking -->
 <!-- Matomo -->
