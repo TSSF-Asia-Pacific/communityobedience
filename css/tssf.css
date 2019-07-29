@@ -36,8 +36,8 @@ p.rubric
 {
 	font-style:italic;
 	font-size: 0.75em;
-	color:blue;
-	margin-bottom: 0em;
+	color:red;
+	margin:0;
 }
 
 p.copyrite
