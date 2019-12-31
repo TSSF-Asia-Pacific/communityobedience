@@ -205,10 +205,11 @@ foreach ($translations as $lang => $translation) {
 } // End language loop
 ?>
 
-
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
-<p class="copyrite">Updated: 18th December 2019.</p>
+
+// Change update details here
+<p class="copyrite">Updated: 31st December 2019.</p>
 
 <!-- Usage tracking -->
 <!-- Matomo -->
