@@ -2,7 +2,7 @@ In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotl
 
 Pray for Companions of SSF and Associates of tssf.
 
-<p class='rubric'>In New South Wales A Region, pray for</p>David Masters
+<p class='rubric'>In New South Wales A Region, pray for</p><p class='boilerplate'>David Masters
 Catherine Mathews
 Jan McIntyre
 Stephen Moore
@@ -21,7 +21,4 @@ RIP Eric Cameron (SA)
 RIP Sheila Leheup-Hill (Vic/Tas)
 RIP Taylor Simokua (DOG)
 RIP Glenda Spry (QLD B)
-RIP Kipling Toromata (DOG)
-
-May: Bernardine of Siena (Manual F7)
-November: Elizabeth of Hungary (Manual F23)
+RIP Kipling Toromata (DOG)</p><p class='rubric'>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</p>

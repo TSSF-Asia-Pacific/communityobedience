@@ -2,7 +2,7 @@ In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cu
 
 Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.
 
-<p class='rubric'>In Sri Lanka, pray for</p>Stephen Arulampalam
+<p class='rubric'>In Sri Lanka, pray for</p><p class='boilerplate'>Stephen Arulampalam
 Shanthi (Bala) Balasandaram
 Dijen De Saram
 Chandramohan John
@@ -11,10 +11,10 @@ Saroja Namadevan
 Stella Pusparatnam
 Joshua Ratnam
 Dayalan Saminathan
-Rachael Selvaraj
+Rachael Selvaraj</p>
 
-<p class='rubric'>In Singapore, pray for</p>Graham Gee
+<p class='rubric'>In Singapore, pray for</p><p class='boilerplate'>Graham Gee
 Martha Gee				
 
 RIP Sherrill Bryan (VIC/TAS)
-RIP George Dandase (PNG)
+RIP George Dandase (PNG)</p>

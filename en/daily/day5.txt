@@ -2,7 +2,7 @@ In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nor
 
 Pray for all Regional Ministers in the Province of Asia-Pacific.
 
-<p class='rubric'>In the Region of Dogura, pray for</p>Fred Geusina
+<p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>Fred Geusina
 Ronald Goviro
 Michael Hirodidi
 Winston Isari
@@ -16,4 +16,4 @@ Zebedee Kenanido
 Alfred Kerina			
 
 RIP Barbara Desgrand (QLD B)
-RIP Anne Johnson (SING)
+RIP Anne Johnson (SING)</p>

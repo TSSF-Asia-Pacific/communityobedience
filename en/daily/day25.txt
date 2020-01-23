@@ -2,7 +2,7 @@ In the Province of the Americas, pray for the Tertiaries in the United States in
 
 Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).
 
-<p class='rubric'>In South Australia Region, pray for</p>Benedict Calcraft
+<p class='rubric'>In South Australia Region, pray for</p><p class='boilerplate'>Benedict Calcraft
 Faith Drodge
 Colin Fidock
 Peter Haynes
@@ -23,6 +23,4 @@ Simon Waters
 
 RIP Alfred Bott (QLD A)
 RIP Nancy Dear (WA)
-RIP Grace Gan (MAL)
-
-August: Louis, King, Patron of the Third Order (Manual F17)
+RIP Grace Gan (MAL)</p><p class='rubric'>August: Louis, King, Patron of the Third Order (Manual F17)</p>

@@ -2,7 +2,7 @@ In the Province of the Americas, pray for the Tertiaries in South America: Brazi
 
 Pray for Franciscans International and their work as a recognized NGO at the United Nations.
 
-<p class='rubric'>In Western Australia Region, pray for</p>Anna Maria Andrews
+<p class='rubric'>In Western Australia Region, pray for</p><p class='boilerplate'>Anna Maria Andrews
 Sally Buckley
 John Dendy
 Mark Dougan
@@ -21,4 +21,4 @@ Pearl McGill
 RIP Libby Blake (NSW B / ACT)
 RIP Estmere Busch (WA)
 RIP Pauline Hangiri (POP)
-RIP Nancy Von Pfyffer (QLD B)
+RIP Nancy Von Pfyffer (QLD B)</p>

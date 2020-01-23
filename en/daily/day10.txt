@@ -2,7 +2,7 @@
 
 Pray for Franciscan Aid.
 
-<p class='rubric'>In Queensland B / Northern NSW Region, pray for</p>Ruth Adams
+<p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Ruth Adams
 Hilary Baart
 Sandra Beck
 Val Bell
@@ -15,7 +15,4 @@ Sheena Brockman
 Richard Brown
 Mac Campbell			
 
-RIP Rod Adams (Qld B/N NSW)
-
-August: Transitus of St Clare (Manual F13)
-October: All Franciscan Saints (Manual F22)
+RIP Rod Adams (Qld B/N NSW)</p><p class='rubric'>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</p>

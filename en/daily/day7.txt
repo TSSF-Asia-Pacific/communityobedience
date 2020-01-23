@@ -2,7 +2,7 @@
 
 Pray for all Novice Counsellors.
 
-<p class='rubric'>In the Region of Dogura, pray for</p>Dorothy Peroko
+<p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>Dorothy Peroko
 Randolph Peroko
 Ricky Pupuka
 Gabriel Carlton Reresi
@@ -17,6 +17,4 @@ Jackson Toroga
 
 RIP Dorothy Bott (QLD A)
 RIP Tevita Talanoa (POP)
-RIP Geoffrey Taylor (NSW B)
-
-September: Brother Douglas (Manual F18)
+RIP Geoffrey Taylor (NSW B)</p><p class='rubric'>September: Brother Douglas (Manual F18)</p>

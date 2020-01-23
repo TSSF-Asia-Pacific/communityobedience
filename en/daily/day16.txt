@@ -2,7 +2,7 @@ In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Le
 
 Pray for First Order sisters in America, Korea and England.
 
-<p class='rubric'>In Queensland B / Northern NSW Region, pray for</p>Hilary Singleton
+<p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Hilary Singleton
 Keith Slater
 Carolyn Smith
 Lahdo Soner
@@ -17,7 +17,4 @@ Ian Wilson
 
 RIP Victor Dougan (WA)
 RIP Geoffrey Radford (VIC/TAS)
-RIP Daryl Friend (WA)
-
-January: First Franciscan Martyrs (Manual F2)
-May: Margaret of Cortona (Manual F6)
+RIP Daryl Friend (WA)</p><p class='rubric'>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</p>

@@ -2,7 +2,7 @@
 
 Pray for all Area Convenors.
 
-<p class='rubric'>In the Region of Dogura, pray for</p>Henry Towoni
+<p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>Henry Towoni
 Leonard Tubira
 Gideon Waida
 James Peter Wairanumo
@@ -16,4 +16,4 @@ Lawrence Yakawa
 Lawrence Yaniguragura			
 
 RIP Dorothy Bolton (QLD B)
-RIP Patricia Carr (QLD B)
+RIP Patricia Carr (QLD B)</p>

@@ -2,7 +2,7 @@ In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auc
 
 Pray for the Provincial Secretary, John Blakemore, the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.
 
-<p class='rubric'>In the Region of Dogura, pray for</p>Clement Adiya
+<p class='rubric'>In the Region of Dogura, pray for</p>><p class='boilerplate'>Clement Adiya
 Angelina Anubo
 Clifford Anubo
 Christopher Aradina
@@ -18,7 +18,4 @@ Shem Damore
 RIP Thory Bonsey (VIC/TAS)
 RIP Bob Butterss (NSW A)
 RIP Edna Mary Dale (WA)
-RIP Allen Glenn (VIC/TAS)
-
-August: John Vianney Cure d’Ars (Manual F12)
-October: St Francis (Manual F21)
+RIP Allen Glenn (VIC/TAS)</p><p class='rubric'>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</p>

@@ -2,7 +2,7 @@ In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Gu
 
 Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill
 
-<p class='rubric'>In the Region of Popondetta, pray for</p>Jean Aito
+<p class='rubric'>In the Region of Popondetta, pray for</p><p class='boilerplate'>Jean Aito
 Gibland Arahu
 Olivia Deiko Arahu
 Kolak Arare
@@ -28,6 +28,4 @@ RIP No&#235;l Hanby (QLD B)
 RIP Ray Kendall (QLD B)
 RIP Joan McDougall (VIC/TAS)
 RIP Margaret Whereat (QLD B)
-RIP Joan Owen (QLD B)
-
-December: Requiem for Departed Franciscans (Manual F25)
+RIP Joan Owen (QLD B)</p><p class='rubric'>December: Requiem for Departed Franciscans (Manual F25)</p>

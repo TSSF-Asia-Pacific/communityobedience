@@ -2,7 +2,7 @@ In the European Province, pray for Tertiaries in South West England, Wales, Seve
 
 Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.
 
-<p class='rubric'>In Victoria / Tasmania Region, pray for</p>Gemma Le Mesurier
+<p class='rubric'>In Victoria / Tasmania Region, pray for</p><p class='boilerplate'>Gemma Le Mesurier
 Hayden McKellar
 Laurence Neal
 Patti Singleton 	 	 
@@ -18,4 +18,4 @@ Chris Winkett
 RIP Roslyn Craig (NSW A)
 RIP Barbara Matthews (QLD A)
 RIP Ken Reardon (QLD B)	
-RIP Anne Robinson (NSW A)
+RIP Anne Robinson (NSW A)</p>

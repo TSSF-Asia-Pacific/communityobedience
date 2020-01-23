@@ -2,7 +2,7 @@
 
 Pray for all isolated Tertiaries.
 
-<p class='rubric'>In Queensland A Region, pray for</p>Philip Bentley
+<p class='rubric'>In Queensland A Region, pray for</p><p class='boilerplate'>Philip Bentley
 Diana Brooks
 Valmai Carson
 Vicki Crofton
@@ -21,7 +21,5 @@ Nell Weir
 RIP Clement Batemen (DOG)
 RIP Sylvia Daniel (SING)
 RIP Pam Heyward (VIC/TAS)
-RIP Les Whereat (QLD B)
-
-February: Anglican Franciscan Pioneers (Manual F3)
+RIP Les Whereat (QLD B)</p><p class='rubric'>February: Anglican Franciscan Pioneers (Manual F3)</p>
 

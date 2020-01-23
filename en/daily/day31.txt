@@ -10,7 +10,7 @@ Asia-Pacific Province - Godfrey Fryar
 European Province - Tim Higgins (acting)
 Pacific Province - Blair Matheson
 
-Pray for those who have been released from the Third Order in the past year: John Silversides
+<p class='boilerplate'>Pray for those who have been released from the Third Order in the past year: John Silversides
 
 RIP Manesse Aniki (POP)
 RIP James Mark Budibudi (DOG)
@@ -24,4 +24,4 @@ RIP Nicomede Mudumatana (DOG)
 RIP Rodney Pawa (POP)
 RIP Bill Pearson (SA)
 RIP Morna Thomas (QLD A)
-RIP Stanislaus Yaumo (DOG)
+RIP Stanislaus Yaumo (DOG)</p>

@@ -2,22 +2,20 @@ In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.
 
 Pray for scholars and writers who seek to make known the ways of Francis and Clare.
 
-<p class='rubric'>In Malaysia, pray for</p>James Ahit Ladi
+<p class='rubric'>In Malaysia, pray for</p><p class='boilerplate'>James Ahit Ladi
 Michael Buma Galami
 Lisbeth Gan
 Susie Lai
 Lily Lim
 Gerald Ng
 Bradley Sangan
-Phyllis Wong	
+Phyllis Wong</p>	
 
-<p class='rubric'>In the Philippines, pray for</p>Stephen Farmer
+<p class='rubric'>In the Philippines, pray for</p><p class='boilerplate'>Stephen Farmer
 
 RIP Val Butler (Vic/Tas)
 RIP Flemming Beicher (WA)
 RIP Leo Dale (WA)
 RIP Ray Hodge (WA)
 RIP Rufus Kivaja (POP)
-RIP Eleanor Turvey (WA)
-
-May: Jack Winslow (Manual F8)
+RIP Eleanor Turvey (WA)</p><p class='rubric'>May: Jack Winslow (Manual F8)</p>
