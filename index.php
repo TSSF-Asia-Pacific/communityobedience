@@ -173,7 +173,6 @@ foreach ($translations as $lang => $translation) {
         echo "</div>\n";
     }
     ?>
-    <br/>
 
     <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectTitle ?></p>
 
