@@ -73,6 +73,11 @@ spl_autoload_register(function ($class) {
 
 
     function display_todays_obedience() {
+        todays_date = moment();
+        display_obedience(todays_date);
+    }
+
+    function display_obedience(momentDate) {
         // Hide all the boilerplate for all languages
         $(".translatedBoilerplate").hide();
 
@@ -86,7 +91,7 @@ spl_autoload_register(function ($class) {
         $(".day").hide();
 
         // Work out day of month
-        let dayofmonth = moment().format("D");
+        let dayofmonth = momentDate.format("D");
 
         let principalnum = dayofmonth;
 
@@ -94,9 +99,9 @@ spl_autoload_register(function ($class) {
         $("#day_" + lang + "_" + dayofmonth).show();
 
         // Work out day of week
-        let dayofweek = moment().format("d");
+        let dayofweek = momentDate.format("d");
         $("#collect_" + lang + "_" + dayofweek).show();
-        $('#date').text(moment().format("dddd D MMMM YYYY"));
+        $('#date').text(momentDate.format("dddd D MMMM YYYY"));
         update_display();
     }
 
