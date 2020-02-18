@@ -212,7 +212,7 @@ foreach ($translations as $lang => $translation) {
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
 
-<p class="copyrite">Updated: 14th Feb 2020.</p>
+<p class="copyrite">Updated: <?= date('jS M Y', filemtime(__FILE__)); ?>.</p>
 
 <!-- Usage tracking -->
 <!-- Matomo -->
