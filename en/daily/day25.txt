@@ -1,8 +1,6 @@
-In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.
+<p class='boilerplate'>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.
 
-Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).
-
-<p class='rubric'>In South Australia Region, pray for</p><p class='boilerplate'>Benedict Calcraft
+Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</p><p class='rubric'>In South Australia Region, pray for</p><p class='boilerplate'>Benedict Calcraft
 Faith Drodge
 Colin Fidock
 Peter Haynes

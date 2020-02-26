@@ -1,8 +1,7 @@
 <p class='boilerplate'>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.
 
 Pray for the Franciscan Federation of Australia and the members of the Executive.
-</p>
-<p class='rubric'>In New South Wales B / ACT Region, pray for</p><p class='boilerplate'>Tania Harvey
+</p><p class='rubric'>In New South Wales B / ACT Region, pray for</p><p class='boilerplate'>Tania Harvey
 Alison Howell
 Stephen Howes
 Elizabeth Mackinlay
