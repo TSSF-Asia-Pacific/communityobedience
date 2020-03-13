@@ -16,4 +16,6 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4.1.0
       with:
         commit_message: Update Cache AppCache file
+
+    - name: Debug push
       run: git push -v origin --tags
