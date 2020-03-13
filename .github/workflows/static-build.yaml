@@ -1,6 +1,9 @@
 name: Build Static Site
 
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - 'master'
 
 jobs:
   build:
