@@ -9,7 +9,6 @@ public: update-appcache
 	rm -rf public/
 	mkdir public
 	cp -r images/ css/ bootstrap-3.1.1-dist/ moment.min.js cache.appcache public/
-	echo "communityobedience.tssf.org.au" > public/CNAME
 
 static: public
 	php index.php | ./node_modules/.bin/html-minifier --collapse-whitespace \
