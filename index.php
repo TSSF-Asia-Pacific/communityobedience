@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html manifest="cache.appcache">
 <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
     <meta name="viewport" content="initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
