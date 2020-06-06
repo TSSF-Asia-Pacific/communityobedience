@@ -2,7 +2,7 @@ name: Build & Deploy Static Site (Github Pages)
 
 on:
   push:
-    branches-ignore:
+    branches:
       - 'master'
 
 jobs:
