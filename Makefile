@@ -5,10 +5,15 @@ update-appcache:
 
 all: update-appcache static
 
-static:
+public: update-appcache
+	rm -rf public/
+	mkdir public
+	cp -r images/ css/ bootstrap-3.1.1-dist/ moment.min.js cache.appcache public/
+
+static: public
 	php index.php | ./node_modules/.bin/html-minifier --collapse-whitespace \
 	--remove-comments --remove-optional-tags --remove-redundant-attributes \
 	--remove-tag-whitespace --minify-css true --minify-js true \
-	> index.html
+	> public/index.html
 	
 

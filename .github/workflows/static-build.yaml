@@ -1,4 +1,4 @@
-name: Build Static Site
+name: Build & Deploy Static Site (Github Pages)
 
 on:
   push:
@@ -12,8 +12,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - run: |
-        git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*      
+      with:
+       fetch-depth: 0
 
     - uses: actions/setup-node@v1
       with:
@@ -23,7 +23,8 @@ jobs:
     - name: Run Makefile
       run: make all
 
-    - uses: stefanzweifel/git-auto-commit-action@v4.1.0
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        branch: static-deploy
-        commit_message: Update Static Site Branch
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public      
