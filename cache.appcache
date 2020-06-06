@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+# Version 2020-06-06 12:46
+
+CACHE:
+index.php
+https://code.jquery.com/jquery-3.0.0.js
+moment.min.js
+css/tssf.css
+bootstrap-3.1.1-dist/css/bootstrap.min.css
+images/paper.gif
+images/AppleIcon.png
+images/Icon.png
+images/golden-paper.jpg
+
+NETWORK:
+*
