@@ -1,9 +1,8 @@
 CACHE MANIFEST
 
-# Version 2020-06-06 13:12
+# Version Automatically updated
 
 CACHE:
-index.php
 https://code.jquery.com/jquery-3.0.0.js
 moment.min.js
 css/tssf.css
