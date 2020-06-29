@@ -7,9 +7,7 @@ Susie Lai
 Lily Lim
 Gerald Ng
 Bradley Sangan
-Phyllis Wong</p>	
-
-<p class='rubric'>In the Philippines, pray for</p><p class='boilerplate'>Stephen Farmer
+Phyllis Wong</p><p class='rubric'>In the Philippines, pray for</p><p class='boilerplate'>Stephen Farmer
 
 RIP Val Butler (Vic/Tas)
 RIP Flemming Beicher (WA)
