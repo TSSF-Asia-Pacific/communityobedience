@@ -1,7 +1,4 @@
-<p class='boilerplate'>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Bill Guttormsen
-Anthony Halstead
-Maureen Harper
-Daniel Hobbs
+<p class='boilerplate'>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Daniel Hobbs
 Michael Hobbs
 Catherine Holt
 Gordon Hooker
@@ -9,6 +6,9 @@ Geoffrey Jordan
 Jan Leerentveld
 Fay Leutton
 Peter Lockyer
+Illtyd Loveluck
+Gloria Malouf-Marsh
+Fay Manfield
 			
 RIP Warren Blomeley (QLD B)
 RIP Wekely Debuyo (DOG)
