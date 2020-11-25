@@ -43,9 +43,9 @@ class translation extends language
         May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong>";
 
     public $blessingTwo = "
-        The grace of our Lord Jesus Christ,<br/>
-        the love of God,<br/>
-        and the fellowship of the Holy Spirit<br/>
+        The grace of our Lord Jesus Christ, 
+        the love of God, 
+        and the fellowship of the Holy Spirit
         be with us all evermore. <strong>Amen</strong>
     ";
 }
