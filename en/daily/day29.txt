@@ -6,8 +6,7 @@ Susie Lai
 Lily Lim
 Gerald Ng
 Bradley Sangan
-Phyllis Wong</p><p class='rubric'>In the Philippines, pray for</p><p class='boilerplate'>Stephen Farmer</p>
-<p class='rubric'>In Singapore, pray for</p><p class='boilerplate'>Graham Gee
+Phyllis Wong</p><p class='rubric'>In the Philippines, pray for</p><p class='boilerplate'>Stephen Farmer</p><p class='rubric'>In Singapore, pray for</p><p class='boilerplate'>Graham Gee
 Martha Gee	
 
 RIP Val Butler (Vic/Tas)
