@@ -1,11 +1,11 @@
 <?php
-namespace en;
+namespace languages\ko;
 
-use \language;
+use languages\AbstractLanguage;
 
-class translation extends language
+class ko extends AbstractLanguage
 {
-    public $name = "English";
+    public $name = "한국어";
 
     public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
 

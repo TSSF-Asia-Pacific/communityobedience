@@ -15,6 +15,11 @@
 <?php
 
 // autoloader
+use languages\AbstractLanguage;
+use languages\en\english;
+use languages\ko\ko;
+use languages\zh\zh;
+
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 
 spl_autoload_register(function ($class) {
@@ -25,9 +30,9 @@ spl_autoload_register(function ($class) {
 });
 
     // Load each translation into the translations array here
-    $translations['en'] = new en\translation();
-//    $translations['ko'] = new ko\translation();
-//    $translations['zh'] = new zh\translation();
+    $translations['en'] = new english();
+    $translations['ko'] = new ko();
+    $translations['zh'] = new zh();
 
 ?>
 
@@ -82,6 +87,10 @@ spl_autoload_register(function ($class) {
     }
 
     function display_obedience(momentDate) {
+        // Set the current language button to active and the rest to inactive
+        $(".langButtons").removeClass('active')
+        $(".langButtons[lang='" + lang + "']").addClass('active')
+
         // Hide all the boilerplate for all languages
         $(".translatedBoilerplate").hide();
 
@@ -123,25 +132,29 @@ spl_autoload_register(function ($class) {
 <div id="langselect" style="float: right">
     <?php
     foreach ($translations as $lang => $translation) {
-        echo "<button onClick='setLanguage(\"$lang\");' lang='$lang'>$translation->name</button>";
+        echo "<button type='button' class='btn  btn-light langButtons' onClick='setLanguage(\"$lang\");' lang='$lang'>$translation->name</button>";
     }
     ?>
 
 </div>
 
 <h1><em>tssf Community Obedience</em></h1>
-<?php
 
-/**
- * @var string $lang
- * @var language $translation
- */
-foreach ($translations as $lang => $translation) {
-?>
 <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
     <em>Province of Asia-Pacific<br/>
         for <span id='date'></span></em>
 </p>
+<?php
+// @TODO Move the above block into a translated block
+
+/**
+ * @var string           $lang
+ * @var AbstractLanguage $translation
+ */
+foreach ($translations as $lang => $translation) {
+    $translationBasePath = dirname((new ReflectionClass($translation))->getFileName());
+?>
+
 <p class="rubric translatedBoilerplate" lang="<?= $lang ?>">
     <?= $translation->dailyPrayerOffering ?>
 </p>
@@ -156,7 +169,7 @@ foreach ($translations as $lang => $translation) {
 
     /* Add the principle for the day of month. */
     for ($i = 1; $i <= 31; $i++) {
-        $principleFile = "$lang/principle/principle${i}.txt";
+        $principleFile = "$translationBasePath/principle/principle${i}.txt";
         if ($i == 31) {
             $principleRubric = $translation->principleRubricTitleDay31;
         } else {
@@ -177,7 +190,7 @@ foreach ($translations as $lang => $translation) {
 
     for ($i = 1; $i <= 31; $i++) {
         echo "<div id='day_${lang}_${i}' class='day' lang='${lang}'>";
-        $contents = file("$lang/daily/day${i}.txt");
+        $contents = file("$translationBasePath/daily/day${i}.txt");
         echo implode('<br/>', $contents) . "<br/>";
         echo "</div>\n";
     }
@@ -189,7 +202,7 @@ foreach ($translations as $lang => $translation) {
     <?php
 
     for ($i = 0; $i <= 6; $i++) {
-        $collectFileLines = file("$lang/collect/collect${i}.txt");
+        $collectFileLines = file("$translationBasePath/collect/collect${i}.txt");
         ?>
         <div id='collect_<?= $lang ?>_<?= $i ?>' class='collect' lang='<?= $lang ?>'>
             <p class='rubric'><?= $translation->collectDays[$i] ?></p>

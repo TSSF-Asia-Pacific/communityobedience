@@ -11,9 +11,9 @@ If you see anything that needs fixing in the application or you are experiencing
    <?php
    namespace fr;
    
-   use \language;
+use languages\AbstractLanguage;
    
-   class translation extends language
+   class translation extends AbstractLanguage
    {
    ```
 

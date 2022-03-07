@@ -1,11 +1,11 @@
 <?php
-namespace en;
+namespace languages\zh;
 
-use \language;
+use languages\AbstractLanguage;
 
-class translation extends language
+class zh extends AbstractLanguage
 {
-    public $name = "English";
+    public $name = "中国人";
 
     public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
 
@@ -48,7 +48,4 @@ class translation extends language
         and the fellowship of the Holy Spirit
         be with us all evermore. <strong>Amen</strong>
     ";
-
-    public $copyright = "[Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
-    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.";
 }
