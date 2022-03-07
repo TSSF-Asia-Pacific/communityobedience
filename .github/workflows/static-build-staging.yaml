@@ -6,7 +6,7 @@ on:
             - 'staging'
 
 env:
-    URL: TSSF-Asia-Pacific.github.io/communityobedience-staging
+    URL: tssf-asia-pacific.github.io/communityobedience-staging/
 
 jobs:
     build:
