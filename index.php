@@ -211,10 +211,10 @@ foreach ($translations as $lang => $translation) {
 } // End language loop
 ?>
 
-<p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
+<p class="copyright">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
 
-<p class="copyrite" title="<?= date('c', filemtime('cache.appcache')) ?>">Updated: <?= date('jS M Y', filemtime('cache.appcache')); ?>.</p>
+<p class="copyright" title="<?= date('c', filemtime('cache.appcache')) ?>">Updated: <?= date('jS M Y', filemtime('cache.appcache')); ?>.</p>
 
 <!-- Usage tracking -->
 <!-- Matomo -->
