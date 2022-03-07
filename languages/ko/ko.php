@@ -48,4 +48,7 @@ class ko extends AbstractLanguage
         and the fellowship of the Holy Spirit
         be with us all evermore. <strong>Amen</strong>
     ";
+
+    public $copyright = "[Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
+    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.";
 }
