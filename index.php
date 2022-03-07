@@ -187,15 +187,18 @@ foreach ($translations as $lang => $translation) {
 
     <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->communityPrayer ?></p>
     <?php
-    $days = array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
     for ($i = 0; $i <= 6; $i++) {
-        echo "<div id='collect_${lang}_${i}' class='collect' lang='${lang}'>";
-        echo "<p class='rubric'>The collect for " . $days[$i] . "</p>";
-
-        $collectFile = "$lang/collect/collect${i}.txt";
-        echo "<p class='boilerplate'>" . implode("</p><p class='boilerplate'", file($collectFile)) . "</p>";
-        echo "</div>\n";
+        $collectFileLines = file("$lang/collect/collect${i}.txt");
+        ?>
+        <div id='collect_<?= $lang ?>_<?= $i ?>' class='collect' lang='<?= $lang ?>'>
+            <p class='rubric'><?= $translation->collectDays[$i] ?></p>
+            <?php foreach ($collectFileLines as $collectFileLine) {
+                ?>
+            <p class='boilerplate'><?= $collectFileLine ?></p>
+            <?php } ?>
+        </div>
+        <?php
     }
 ?>
 
@@ -209,14 +212,13 @@ foreach ($translations as $lang => $translation) {
     <?= $translation->blessingTwo ?>
 </p>
 
+<p class="copyright  translatedBoilerplate" lang="<?= $lang ?>">* <?= $translation->copyright ?></p>
+
 <?php
 } // End language loop
 ?>
 
-<p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National
-    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
-
-<p class="copyrite" title="<?= date('c', filemtime('cache.appcache')) ?>">Updated: <?= date('jS M Y', filemtime('cache.appcache')); ?>.</p>
+<p class="copyright" title="<?= date('c', filemtime('cache.appcache')) ?>">Updated: <?= date('jS M Y', filemtime('cache.appcache')); ?>.</p>
 
 <!-- Usage tracking -->
 <!-- Matomo -->
