@@ -21,6 +21,19 @@ abstract class language
 
     public $collectTitle = "";
 
+    /**
+     * @var string[] Array of Collect days, Sunday is the first item in the array
+     */
+    public $collectDays = [
+        "The collect for Sunday",
+        "The collect for Monday",
+        "The collect for Tuesday",
+        "The collect for Wednesday",
+        "The collect for Thursday",
+        "The collect for Friday",
+        "The collect for Saturday"
+    ];
+
     public $communityPrayer = "";
 
     public $either = "";
@@ -30,4 +43,9 @@ abstract class language
     public $blessingOne = "";
 
     public $blessingTwo = "";
+
+    /**
+     * @var string Copyright string for the bible texts used
+     */
+    public $copyright = "";
 }
