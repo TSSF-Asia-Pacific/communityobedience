@@ -5,9 +5,16 @@ on:
     branches:
       - 'master'
 
+env:
+  URL: communityobedience.tssf.org.au
+
+
 jobs:
   build:
     name: Build Static Site
+    environment:
+      name: production
+      url: https://${{ env.URL }}
     runs-on: ubuntu-latest
 
     steps:
@@ -28,4 +35,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        cname: communityobedience.tssf.org.au
+        cname: ${{ env.URL }}
