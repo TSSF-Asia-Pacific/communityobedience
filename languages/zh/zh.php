@@ -25,6 +25,19 @@ class zh extends AbstractLanguage
 
     public $collectTitle = "第三会团体祝文";
 
+    /**
+     * @var string[] Array of Collect days, Sunday is the first item in the array
+     */
+    public $collectDays = [
+        "礼拜天祝文",
+        "礼拜一祝文",
+        "礼拜二祝文",
+        "礼拜三祝文",
+        "礼拜四祝文",
+        "礼拜五祝文",
+        "礼拜六祝文"
+    ];
+
     public $communityPrayer = "
         上帝啊，我们为圣法兰西斯第三会而感谢你。我们祈求你，在团体和祈祷中，
         保守我们彼此合而为一，使我们——你的众仆人可以效法圣法兰西斯的榜样，
