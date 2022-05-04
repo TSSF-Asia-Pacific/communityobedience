@@ -48,4 +48,7 @@ class translation extends language
         圣灵的感动，
         常与我们众人同在！ <strong>阿们。</strong>
     ";
+
+    public $copyright = "[Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
+    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.";
 }
