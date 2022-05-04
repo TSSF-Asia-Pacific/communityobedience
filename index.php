@@ -130,6 +130,10 @@ spl_autoload_register(function ($class) {
 </div>
 
 <h1><em>tssf Community Obedience</em></h1>
+<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;" class="Boilerplate" lang="<?= $lang ?>">
+    <em>Province of Asia-Pacific<br/>
+        for <span id='date'></span></em>
+</p>
 <?php
 
 /**
@@ -138,10 +142,6 @@ spl_autoload_register(function ($class) {
  */
 foreach ($translations as $lang => $translation) {
 ?>
-<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;" class="Boilerplate" lang="<?= $lang ?>">
-    <em>Province of Asia-Pacific<br/>
-        for <span id='date'></span></em>
-</p>
 <p class="rubric translatedBoilerplate" lang="<?= $lang ?>">
     <?= $translation->dailyPrayerOffering ?>
 </p>
