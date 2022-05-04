@@ -138,7 +138,7 @@ spl_autoload_register(function ($class) {
  */
 foreach ($translations as $lang => $translation) {
 ?>
-<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
+<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;" class="translatedBoilerplate" lang="<?= $lang ?>">
     <em>Province of Asia-Pacific<br/>
         for <span id='date'></span></em>
 </p>
