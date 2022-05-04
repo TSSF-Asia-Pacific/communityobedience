@@ -183,7 +183,7 @@ foreach ($translations as $lang => $translation) {
     }
     ?>
 
-    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>">Daily intercession prayers...</p>
+    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->dailyIntercessionPrayerTitle?></p>
 
     <?php
     /* Add the daily intercession prayers for the day of the month */

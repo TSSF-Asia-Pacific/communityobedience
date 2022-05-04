@@ -20,6 +20,8 @@ abstract class AbstractLanguage
 
     public $principleRubricTitleNormal = "";
 
+    public $dailyIntercessionPrayerTitle = "Daily intercession prayers...";
+
     public $collectTitle = "";
 
     /**

@@ -23,7 +23,22 @@ class ko extends AbstractLanguage
 
     public $principleRubricTitleNormal = "Reading from the Principles of the Third Order.";
 
+    public $dailyIntercessionPrayerTitle = "Daily intercession prayers...";
+
     public $collectTitle = "tssf Community Collect";
+
+    /**
+     * @var string[] Array of Collect days, Sunday is the first item in the array
+     */
+    public $collectDays = [
+        "The collect for Sunday",
+        "The collect for Monday",
+        "The collect for Tuesday",
+        "The collect for Wednesday",
+        "The collect for Thursday",
+        "The collect for Friday",
+        "The collect for Saturday"
+    ];
 
     public $communityPrayer = "
         God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit
