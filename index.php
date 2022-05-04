@@ -27,7 +27,7 @@ spl_autoload_register(function ($class) {
     // Load each translation into the translations array here
     $translations['en'] = new en\translation();
 //    $translations['ko'] = new ko\translation();
-//    $translations['zh'] = new zh\translation();
+    $translations['zh'] = new zh\translation();
 
 ?>
 
