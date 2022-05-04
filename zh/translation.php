@@ -1,11 +1,11 @@
 <?php
-namespace en;
+namespace zh;
 
 use \language;
 
 class translation extends language
 {
-    public $name = "English";
+    public $name = "Chinese";
 
     public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
 
