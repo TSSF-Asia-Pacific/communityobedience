@@ -7,45 +7,45 @@ class translation extends language
 {
     public $name = "Chinese";
 
-    public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
+    public $dailyPrayerOffering = "这祈祷的祭献应每日遵行，可视情况而安排于早、晚祷之中。";
 
     public $gloriaPatra = "
-        In the name of the Father,<br/>
-        and of the Son,<br/>
-        and of the Holy Spirit. <strong>Amen</strong>";
+        奉圣父、<br/>
+        圣子、<br/>
+        圣灵的名。 <strong>阿们。</strong>";
 
     public $openingPrayer = "
-        Here and in all your churches throughout the world,<br/>
-        we adore you, O Christ, and we bless you,<br/>
-        because by your holy cross you have redeemed the world. <strong>Amen</strong>";
+        至圣的主耶稣基督，我们在这里，并在普世的圣堂内，<br/>
+        朝拜你、赞美你，<br/>
+        因为你以你的十字圣架救赎了普世。<strong>阿们。</strong>";
 
-    public $principleRubricTitleDay31 = "About the Principles of the Third Order.";
+    public $principleRubricTitleDay31 = "关于第三会准则";
 
-    public $principleRubricTitleNormal = "Reading from the Principles of the Third Order.";
+    public $principleRubricTitleNormal = "在此诵读圣法兰西斯会第三会准则";
 
-    public $collectTitle = "tssf Community Collect";
+    public $collectTitle = "第三会团体祝文";
 
     public $communityPrayer = "
-        God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit
-        together in community and prayer, we your servants may glorify your holy name after the example of Saint
-        Francis, and win others to your love; through Jesus Christ our Lord. <strong>Amen</strong>";
+        上帝啊，我们为圣法兰西斯第三会而感谢你。我们祈求你，在团体和祈祷中，
+        保守我们彼此合而为一，使我们——你的众仆人可以效法圣法兰西斯的榜样，
+        荣耀你的圣名，并赢取他人归入你的圣爱之中。这都是靠着我们的主耶稣基督。<strong>阿们。</strong>";
 
-    public $either = "Either";
+    public $either = "或";
 
-    public $orDot = "or...";
+    public $orDot = "或...";
 
     public $blessingOne = "
-        May our blessed Lady pray for us.<br/>
-        May Saint Francis pray for us.<br/>
-        May Saint Clare pray for us.<br/>
-        May all the saints of the Third Order pray for us.<br/>
-        May the holy angels watch over us and befriend us.<br/>
-        May our Lord Jesus give us his blessing and his peace. <strong>Amen</strong>";
+        愿蒙福的圣母马利亚为我们祈求；<br/>
+        愿圣法兰西斯为我们祈求；<br/>
+        愿圣克莱尔为我们祈求；<br/>
+        愿第三会的众圣徒为我们祈求；<br/>
+        愿圣天使看顾、帮助我们；<br/>
+        愿主耶稣将他的福乐与平安赐给我们。 <strong>阿们。</strong>";
 
     public $blessingTwo = "
-        The grace of our Lord Jesus Christ, 
-        the love of God, 
-        and the fellowship of the Holy Spirit
-        be with us all evermore. <strong>Amen</strong>
+        愿主耶稣基督的恩惠、 
+        上帝的慈爱、 
+        圣灵的感动，
+        常与我们众人同在！ <strong>阿们。</strong>
     ";
 }
