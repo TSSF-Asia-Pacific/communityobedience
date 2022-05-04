@@ -60,7 +60,7 @@ spl_autoload_register(function ($class) {
         if (supportedLanguages.includes(detectedLanguage) ) {
             return detectedLanguage;
         }
-        return 'zh';
+        return 'en';
     };
 
     const setLanguage = (newLang) => {
