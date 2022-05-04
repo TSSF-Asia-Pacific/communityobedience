@@ -7,6 +7,8 @@ class zh extends AbstractLanguage
 {
     public $name = "Chinese";
 
+    public $dateLocale = "zh-cn"; // See https://momentjs.com/ for possible Locales
+
     public $dailyPrayerOffering = "这祈祷的祭献应每日遵行，可视情况而安排于早、晚祷之中。";
 
     public $gloriaPatra = "

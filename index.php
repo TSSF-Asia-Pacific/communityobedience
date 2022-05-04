@@ -34,15 +34,21 @@ spl_autoload_register(function ($class) {
     // $translations['ko'] = new ko();
     $translations['zh'] = new zh();
 
+    $dateLocaleKeys = [
+            'en' => $translations['en']->dateLocale,
+            'zh' => $translations['zh']->dateLocale,
+    ];
+
 ?>
 
 <body>
 <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
-<script type="text/javascript" src='moment.min.js'></script>
+<script type="text/javascript" src='js/moment/moment-with-locales.min.js'  charset="UTF-8"></script>
 
 <script type="text/javascript">
     <?php
     echo 'let supportedLanguages = ' .  json_encode(array_keys($translations)) . ';';
+    echo 'let dateLocales = ' .  json_encode($dateLocaleKeys) . ';';
     ?>
     // From https://stackoverflow.com/a/52112155
     const getLanguage = () => {
@@ -104,6 +110,7 @@ spl_autoload_register(function ($class) {
         $(".day").hide();
 
         // Work out day of month
+        momentDate.locale('en-au'); // Set to English for the dayofmonth/week stuff
         let dayofmonth = momentDate.format("D");
 
         let principalnum = dayofmonth;
@@ -114,7 +121,8 @@ spl_autoload_register(function ($class) {
         // Work out day of week
         let dayofweek = momentDate.format("d");
         $("#collect_" + lang + "_" + dayofweek).show();
-        $('#date').text(momentDate.format("dddd D MMMM YYYY"));
+        momentDate.locale(dateLocales[lang]); // Set to real locale to display date
+        $('#date').text(momentDate.format("LL"));
         update_display();
     }
 

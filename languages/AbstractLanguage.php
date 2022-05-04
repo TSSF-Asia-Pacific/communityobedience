@@ -10,6 +10,8 @@ abstract class AbstractLanguage
 {
     public $name = "Language Name";
 
+    public $dateLocale = "en"; // See https://momentjs.com/ for possible Locales
+
     public $dailyPrayerOffering = "";
 
     public $gloriaPatra = "";
