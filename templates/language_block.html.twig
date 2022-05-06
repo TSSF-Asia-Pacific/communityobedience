@@ -1,0 +1,53 @@
+{# @var string lang #}
+{# @var AbstractLanguage translation #}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">
+    {{ translation.dailyPrayerOffering }}
+</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {{ translation.gloriaPatra|raw }}
+</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {{ translation.openingPrayer|raw }}
+</p>
+
+{# Add the principle for the day of month. #}
+{% for i in range(1, 31) %}
+    {% set principleFile = "#{translation.basePath}/principle/principle#{i}.txt" %}
+    <div id='principal_{{ lang }}_{{ i }}' class='principal' lang='{{ lang }}'>
+        <p class='rubric'>{{ i == '31' ? translation.principleRubricTitleDay31 : translation.principleRubricTitleNormal }}</p>
+        <p class='boilerplate'>{{ translation.getPrinciple(i) | join("</p><p class='boilerplate'>")|raw }}</p>
+    </div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.dailyIntercessionPrayerTitle}}</p>
+
+{# Add the daily intercession prayers for the day of the month #}
+{% for i in range(1, 31) %}
+    <div id='day_{{ lang }}_{{ i }}' class='day' lang='{{ lang }}'>
+        {{ translation.getDailyPrayers(i) | join('<br/>')|raw }}
+    </div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.collectTitle }}</p>
+
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">{{ translation.communityPrayer|raw }}</p>
+
+{% for i in range(0, 6) %}
+<div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
+    <p class='rubric'>{{ translation.collectDays[i] }}</p>
+    <p class='boilerplate'>{{ translation.getCollect(i) | join("</p><p class='boilerplate'>")|raw }}</p>
+</div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.either }}</p>
+
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {{ translation.blessingOne|raw }}
+</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.orDot }}</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {{ translation.blessingTwo|raw }}
+</p>
+
+<p class="copyright  translatedBoilerplate" lang="{{ lang }}">* {{ translation.copyright|raw }}</p>

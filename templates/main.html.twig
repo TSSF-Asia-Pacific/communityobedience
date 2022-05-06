@@ -1,0 +1,25 @@
+{% include 'header.html.twig' %}
+{% include 'mainscript.html.twig' %}
+
+
+<div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
+
+<div id="langselect" style="float: right">
+    {% for lang, translation in translations %}
+    <button type='button' class='btn  btn-light langButtons' onClick='setLanguage("{{ lang }}");' lang='{{ lang }}'>{{ translation.name }}</button>
+    {% endfor %}
+</div>
+
+<h1><em>tssf Community Obedience</em></h1>
+
+<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
+    <em>Province of Asia-Pacific<br/>
+        for <span id='date'></span></em>
+</p>
+{# // @TODO Move the above block into a translated block #}
+
+{% for lang, translation in translations %}
+    {% include 'language_block.html.twig' %}
+{% endfor %}
+
+{% include 'footer.html.twig' %}

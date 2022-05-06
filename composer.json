@@ -1,0 +1,14 @@
+{
+    "name": "tssf/communityobedience",
+    "description": "This web application is built to assist brothers and sisters of the Third Order of the Society of St. Francis (TSSF) with their Community Obedience Prayer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tssf\\Communityobedience\\": "src/",
+            "languages\\": "languages/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}

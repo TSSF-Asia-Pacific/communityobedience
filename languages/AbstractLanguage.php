@@ -6,6 +6,8 @@ namespace languages;
  */
 
 
+use ReflectionClass;
+
 abstract class AbstractLanguage
 {
     public $name = "Language Name";
@@ -53,4 +55,24 @@ abstract class AbstractLanguage
      * @var string Copyright string for the bible texts used
      */
     public $copyright = "";
+
+    /** Get the Class base path so we can find the text files */
+    protected function getBasePath() {
+        return dirname((new ReflectionClass(get_class($this)))->getFileName());
+    }
+
+    public function getPrinciple($day) {
+        return file($this->getBasePath() . "/principle/principle$day.txt");
+    }
+
+    public function getDailyPrayers($day) {
+        return file($this->getBasePath() . "/daily/day$day.txt");
+    }
+
+    /**
+     * @param $dayOfWeek 0 index
+     */
+    public function getCollect($dayOfWeek) {
+        return file($this->getBasePath() . "/collect/collect$dayOfWeek.txt");
+    }
 }
