@@ -1,5 +1,7 @@
 <script type="text/javascript">
+    // Array of supported languages
     let supportedLanguages = {{ translations|keys|json_encode|raw }};
+    // Array mapping above supported languages to the relevant moment.js locale
     let dateLocales = {{ dateLocaleKeys|json_encode|raw }};
 
     // From https://stackoverflow.com/a/52112155
