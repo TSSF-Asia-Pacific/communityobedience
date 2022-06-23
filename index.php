@@ -17,7 +17,7 @@
 // autoloader
 use languages\AbstractLanguage;
 use languages\en\english;
-//use languages\ko\ko;
+use languages\ko\ko;
 use languages\zh\zh;
 
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
