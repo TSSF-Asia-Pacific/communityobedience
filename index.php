@@ -17,7 +17,7 @@
 // autoloader
 use languages\AbstractLanguage;
 use languages\en\english;
-//use languages\ko\ko;
+use languages\ko\ko;
 use languages\zh\zh;
 
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
@@ -31,7 +31,7 @@ spl_autoload_register(function ($class) {
 
     // Load each translation into the translations array here
     $translations['en'] = new english();
-    //$translations['ko'] = new ko();
+    $translations['ko'] = new ko();
     $translations['zh'] = new zh();
 
     $dateLocaleKeys = [
