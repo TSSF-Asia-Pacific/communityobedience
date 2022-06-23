@@ -26,8 +26,7 @@ class translation extends language
     public $collectTitle = "제3회 공동체 본기도";
 
     public $communityPrayer = "
-        하느님, 프란시스 수도회 제3회를 주심에 당신께 감사하나이다. 기도하오니, 우리가 공동체와 기도 안에서 하나 되도록 우리를 엮어 주소서. 당신의 종인 우리들이 프란시스 성인의 모범을 따라 당신의 거룩한 이름을 영광스럽게 받들게 하시며, 사람들을 당신의 사랑 안으로 이끌어오게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. 
-        <strong>아멘</strong>";
+        하느님, 프란시스 수도회 제3회를 주심에 당신께 감사하나이다. 기도하오니, 우리가 공동체와 기도 안에서 하나 되도록 우리를 엮어 주소서. 당신의 종인 우리들이 프란시스 성인의 모범을 따라 당신의 거룩한 이름을 영광스럽게 받들게 하시며, 사람들을 당신의 사랑 안으로 이끌어오게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. <strong>아멘</strong>";
 
     public $either = "다음 둘 중 하나를 바치며 마칩니다";
 
@@ -45,8 +44,7 @@ class translation extends language
         우리 주 예수 그리스도의 은총과 
         하느님의 사랑과  
         성령께서 주시는 친교가
-        항상 우리와 함께하소서. <strong>아멘</strong>
-    ";
+        항상 우리와 함께하소서. <strong>아멘</strong>";
 
     public $copyright = "[Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
     Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.";
