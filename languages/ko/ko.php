@@ -1,9 +1,9 @@
 <?php
-namespace ko;
+namespace languages\ko;
 
-use \language;
+use languages\AbstractLanguage;
 
-class translation extends language
+class zo extends AbstractLanguage
 {
     public $name = "한국어";
 
@@ -24,6 +24,19 @@ class translation extends language
     public $principleRubricTitleNormal = "제3회의 원칙 중 그날의 것을 읽습니다";
 
     public $collectTitle = "제3회 공동체 본기도";
+
+    /**
+     * @var string[] Array of Collect days, Sunday is the first item in the array
+     */
+    public $collectDays = [
+        "주일 본기도",
+        "월요일 본기도",
+        "화요일 본기도",
+        "수요일 본기도",
+        "목요일 본기도",
+        "금요일 본기도",
+        "토요일 본기도"
+    ];
 
     public $communityPrayer = "
         하느님, 프란시스 수도회 제3회를 주심에 당신께 감사하나이다. 기도하오니, 우리가 공동체와 기도 안에서 하나 되도록 우리를 엮어 주소서. 당신의 종인 우리들이 프란시스 성인의 모범을 따라 당신의 거룩한 이름을 영광스럽게 받들게 하시며, 사람들을 당신의 사랑 안으로 이끌어오게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. <strong>아멘</strong>";
