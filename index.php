@@ -200,6 +200,8 @@ foreach ($translations as $lang => $translation) {
         echo "<div id='day_${lang}_${i}' class='day' lang='${lang}'>";
         $contents = file("$translationBasePath/daily/day${i}.txt");
         echo implode('<br/>', $contents) . "<br/>";
+        $contents = file("common/daily/day${i}.txt");
+        echo implode('<br/>', $contents) . "<br/>";
         echo "</div>\n";
     }
     ?>
