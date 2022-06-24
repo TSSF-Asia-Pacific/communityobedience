@@ -3,7 +3,7 @@ namespace languages\ko;
 
 use languages\AbstractLanguage;
 
-class zo extends AbstractLanguage
+class ko extends AbstractLanguage
 {
     public $name = "Korean";
 
