@@ -25,7 +25,7 @@ class zh extends AbstractLanguage
 
     public $principleRubricTitleNormal = "在此诵读圣法兰西斯会第三会准则";
 
-    public $dailyIntercessionPrayerTitle = "Daily intercession prayers...";
+    public $dailyIntercessionPrayerTitle = "每日代祷...";
 
     public $collectTitle = "第三会团体祝文";
 

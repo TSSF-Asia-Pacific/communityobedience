@@ -13,7 +13,7 @@ $twig = new Environment($loader);
 
     // Load each translation into the translations array here
     $translations['en'] = new english();
-    // $translations['ko'] = new ko();
+    $translations['ko'] = new ko();
     $translations['zh'] = new zh();
 
     $dateLocaleKeys = [];
