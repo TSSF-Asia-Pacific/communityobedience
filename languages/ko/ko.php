@@ -7,6 +7,8 @@ class ko extends AbstractLanguage
 {
     public $name = "Korean";
 
+    public $dateLocale = 'ko';
+
     public $dailyPrayerOffering = "날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도도 바칩니다.";
 
     public $gloriaPatra = "

@@ -1,11 +1,13 @@
 <?php
-namespace languages\en;
+namespace languages\ta;
 
 use languages\AbstractLanguage;
 
-class english extends AbstractLanguage
+class ta extends AbstractLanguage
 {
-    public $name = "English";
+    public $name = "Tamil";
+
+    public $dateLocale = 'ta';
 
     public $dailyPrayerOffering = "This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.";
 
