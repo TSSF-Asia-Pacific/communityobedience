@@ -1,22 +1,5 @@
 <p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.
 
-Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</p><p class='rubric'>In the Region of Popondetta, pray for</p><p class='boilerplate'>Winniefred Pawa
-Bessie Peuba
-Cedrick Peuba
-Romney Peuba
-Erastus Sangara
-Rita Simeni
-Holland Siremi
-Barnabas Tago
-Winifred Talanoa
-Nigel Tauni
-Rodney Tuho
-Rogil Urisi
-Willie Daba Uwade
-Ray Wadidika
-Gabriel Wauwe
+Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</p><p class='rubric'>In the Region of Popondetta, pray for</p><p class='boilerplate'>{{ living_members_1 }}
 			
-RIP James Ahit Ladi (MAL)
-RIP Molly Davey (NSW B/ACT)
-RIP Joy Hickman (NSW A)
-RIP Betty Moss (VIC/TAS)</p><p class='rubric'>October: The Transitus of St Francis (Manual F20)</p>
+{{ deceased_members }}</p><p class='rubric'>October: The Transitus of St Francis (Manual F20)</p>

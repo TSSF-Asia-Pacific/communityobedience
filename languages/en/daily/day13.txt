@@ -1,17 +1,3 @@
-<p class='boilerplate'>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Daniel Hobbs
-Michael Hobbs
-Catherine Holt
-Gordon Hooker
-Alison Howell
-Geoffrey Jordan
-Jan Leerentveld
-Fay Leutton
-Peter Lockyer
-Illtyd Loveluck
-Gloria Malouf-Marsh
-Fay Manfield
-			
-RIP Warren Blomeley (QLD B)
-RIP Wekely Debuyo (DOG)
-RIP Joseph Gahn (QLD B)
-RIP Elizabeth Game (NSW B/ACT)</p><p class='rubric'>June: Antony of Padua (Manual F10)</p>
+<p class='boilerplate'>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
+
+{{ deceased_members }}</p><p class='rubric'>June: Antony of Padua (Manual F10)</p>

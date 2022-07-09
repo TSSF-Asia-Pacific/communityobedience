@@ -1,22 +1,5 @@
 <p class='boilerplate'>In the African Province, pray for the Tertiaries in Kokstad and Durban.
 
-Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</p><p class='rubric'>In New South Wales A Region, pray for</p><p class='boilerplate'>Theresa Angert-Quilter
-John Blakemore
-Julie Blakemore
-Michelle Blondel
-Wendy Brack	 	 	 
-Rosemary Bradford
-Peter Brunker
-Tony Camenzuli
-Denise Carwardine		
-Rosemary Christmas
-Elizabeth Corah
-David Craig
-Albert Daniels
-Garry Dodd
+Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</p><p class='rubric'>In New South Wales A Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
 
-RIP Monica Ayscough (QLD B)
-RIP Bob Collings (WA)
-RIP Stephen Farmer (HK / Phil)
-RIP Bevan Meredith (PNG / QLD B)
-RIP Cliff Parry (VIC/TAS)</p><p class='rubric'>September: The Stigmata of St Francis (Manual F19)</p>
+{{ deceased_members }}</p><p class='rubric'>September: The Stigmata of St Francis (Manual F19)</p>

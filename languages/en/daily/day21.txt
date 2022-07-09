@@ -1,29 +1,6 @@
 <p class='boilerplate'>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.
 
 Pray for the Franciscan Federation of Australia and the members of the Executive.
-</p><p class='rubric'>In New South Wales B / ACT Region, pray for</p><p class='boilerplate'>Frances Hansen
-Stephen Howes
-Gemma Le Mesurier
-Andrew MacIntyre
-Elizabeth Mackinlay
-Tim Narraway		 	 
-Sue Painting
-Kay Pendlebury
-Jan Scott
-Prue Skinner
-Lee Steele
-Patricia Stoddart
-Emma Street
-Margaret Wark
-Anne Wentzel
-Mandy Wheatley
-Clare White
-Robert Willson
-Glenys Wimmer
-Leo Wimmer
-Jason Wright
+</p><p class='rubric'>In New South Wales B / ACT Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
 
-RIP Lizzie Bellhouse (VIC/TAS)
-RIP David Chambers (VIC/TAS)
-RIP Janice Hughes (QLD B)
-RIP Norma-Jean Willsher (WA)
+{{ deceased_members }}

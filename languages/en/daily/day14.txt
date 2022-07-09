@@ -1,17 +1,5 @@
 <p class='boilerplate'>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.
 
-Pray for the First Order in the Provinces of America and Europe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>David Mason
-Andrea Maslin
-Mandy McCarrick
-Glenys McCarrick
-Gabrielle McGee
-Robert McKennay
-Selina McMahon
-Rae Morey
-Lex Nason
-Fay Neale
-David Nix
-Jeni Nix
+Pray for the First Order in the Provinces of America and Europe.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
 
-RIP Doreen Foote (NSW A)
-RIP Champion Siburewa (PNG)</p><p class='rubric'>August: Maximilian Kolbe (Manual F15)</p>
+{{ deceased_members }}</p><p class='rubric'>August: Maximilian Kolbe (Manual F15)</p>

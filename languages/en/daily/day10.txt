@@ -1,16 +1,5 @@
 ﻿<p class='boilerplate'>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.
 
-Pray for Franciscan Aid.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>Ruth Adams
-Hilary Baart
-Sandra Beck
-Val Bell
-Alan Bentley
-Jenny Bickerton
-Mary Birch
-Susan Blackall
-Stephen Briggs
-Sheena Brockman
-Richard Brown
-Mac Campbell			
+Pray for Franciscan Aid.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
 
-RIP Rod Adams (Qld B/N NSW)</p><p class='rubric'>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</p>
+{{ deceased_members }}</p><p class='rubric'>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</p>
