@@ -37,6 +37,7 @@ spl_autoload_register(function ($class) {
     $dateLocaleKeys = [
             'en' => $translations['en']->dateLocale,
             'zh' => $translations['zh']->dateLocale,
+            'ko' => $translations['ko']->dateLocale,
     ];
 
 ?>
