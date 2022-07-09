@@ -7,6 +7,8 @@ namespace languages;
 
 
 use ReflectionClass;
+use Twig\Environment;
+use Twig\Loader\FilesystemLoader;
 
 abstract class AbstractLanguage
 {
@@ -56,9 +58,17 @@ abstract class AbstractLanguage
      */
     public $copyright = "";
 
+    private Environment $twig;
+
     /** Get the Class base path so we can find the text files */
     protected function getBasePath() {
         return dirname((new ReflectionClass(get_class($this)))->getFileName());
+    }
+
+    public function __construct()
+    {
+        $loader = new FilesystemLoader($this->getBasePath());
+        $this->twig = new Environment($loader, ['strict_variables' => true]);
     }
 
     public function getPrinciple($day) {
@@ -66,7 +76,19 @@ abstract class AbstractLanguage
     }
 
     public function getDailyPrayers($day) {
-        return file($this->getBasePath() . "/daily/day$day.txt");
+        // Lookup names for deceased and living members we are praying for
+        $templateVars = [];
+        foreach(range(1,3) as $region) {
+            $filename = __DIR__ . "/../common/${day}_living_members_${region}.txt";
+            if (file_exists($filename)) {
+                $templateVars["living_members_${region}"] = file_get_contents($filename);
+            }
+        }
+        $deceasedMembersFilename = __DIR__ . "/../common/${day}_deceased_members.txt";
+        if (file_exists($deceasedMembersFilename)) {
+            $templateVars['deceased_members'] = file_get_contents($deceasedMembersFilename);
+        }
+        return $this->twig->render("/daily/day$day.txt", $templateVars);
     }
 
     /**

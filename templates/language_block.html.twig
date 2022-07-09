@@ -25,7 +25,7 @@
 {# Add the daily intercession prayers for the day of the month #}
 {% for i in range(1, 31) %}
     <div id='day_{{ lang }}_{{ i }}' class='day' lang='{{ lang }}'>
-        {{ translation.getDailyPrayers(i) | join('<br/>')|raw }}
+        {{ translation.getDailyPrayers(i) | raw | nl2br }}
     </div>
 {% endfor %}
 
