@@ -1,20 +1,8 @@
 ﻿<p class='boilerplate'>아시아태평양 관구, 홍콩, 말레이시아, 싱가포르, 한국, 스리랑카의 회원들을 위해 기도합니다.
 
-성공회 교회의 일치와 모든 기독교인들의 일치를 위해 기도합니다. </p><p class='rubric'>퀸즐랜드 B / 뉴사우스웨일즈 북부 지구 회원</p><p class='boilerplate'>Elsie Clack
-Ray Clifton
-Roslyn Clifton
-Dawn Currey
-Gemma Dashwood
-June De Heer
-Gregory Desgrand
-Joanne Desgrand
-Phillip Dibbs
-Graham Dorman
-Ann Ellis
+성공회 교회의 일치와 모든 기독교인들의 일치를 위해 기도합니다. </p><p class='rubric'>퀸즐랜드 B / 뉴사우스웨일즈 북부 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다. 
 	
 별세한 회원		
-RIP Olwyn Cooney (QLD A)
-RIP Tom Craig (NSW A)
-RIP Malcolm Willsher (WA)
-RIP Bartholomew Yababana (PNG)을/를 위해 기도합니다. </p><p class='rubric'>4월: 제프리 형제 SSF (매뉴얼 33); 8월: 아시시의 클라라(매뉴얼 42)를 기억하고 기도합니다. </p>
+{{ deceased_members }}
+을/를 위해 기도합니다. </p><p class='rubric'>4월: 제프리 형제 SSF (매뉴얼 33); 8월: 아시시의 클라라(매뉴얼 42)를 기억하고 기도합니다. </p>

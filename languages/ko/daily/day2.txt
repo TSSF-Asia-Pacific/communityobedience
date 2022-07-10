@@ -1,28 +1,8 @@
 <p class='boilerplate'>태평양 관구, 솔로몬아일랜드의 이사벨과 말라이타에 있는 회원들을 위해 기도합니다.
 
-총봉사자 John Hebenton과 보좌 총봉사자 Janet Fedders를 위해 기도합니다.</p><p class='rubric'>포폰데타 지구 회원</p><p class='boilerplate'>Agnes Houro
-Thresa Houro
-Sweeden Imaga
-Babra Jinga
-Leonard Jinga
-Timothy Jiregari
-Norren Kahari
-Aaron Kaki
-Alice Kaki
-Dicksaford Kavo
-Henry Kiae
-Harry Kivaja
-Melecent Kivaja
-Joseph Kopapa
-Wilson Makele
-Gill Smith Ojapa
-Conrad Ondirari
-Morris Osebu
-Charlott Parisa
-Micah Parisa			
+총봉사자 John Hebenton과 보좌 총봉사자 Janet Fedders를 위해 기도합니다.</p><p class='rubric'>포폰데타 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다.
 
 별세한 회원
-RIP Robyn Jenkins (QLD B)
-RIP Frank Lomax (SING)
-RIP Margaret Warman (QLD B) 을/를 위해 기도합니다.
+{{ deceased_members }}
+ 을/를 위해 기도합니다.

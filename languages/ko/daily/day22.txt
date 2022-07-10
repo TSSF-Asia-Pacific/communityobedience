@@ -1,13 +1,10 @@
 <p class='boilerplate'>유럽관구 센트럴 잉글랜드, 이스턴 잉들랜드의 회원들을 위해 기도합니다. 
 
-작은형제회(ofm), 카푸친 작은형제회(ofmCap), 꼰벤뚜알 작은형제회 (ofmConv)를 위해 기도합니다.</p><p class='rubric'>빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다.</p><p class='boilerplate'>Jeremy Ashton
-Harry Aveling
-Barbara Axten
-Sue Ball
-Margaret Barkley
-Joy Bartlett
-Sean Carson
-Suzanne Chapman
-Barrie Cledsmith
-Pirrial Clift
-을/를 위해 기도합니다. 
+작은형제회(ofm), 카푸친 작은형제회(ofmCap), 꼰벤뚜알 작은형제회 (ofmConv)를 위해 기도합니다.</p><p class='rubric'>빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다.</p><p class='boilerplate'>{{ living_members_1 }}
+을/를 위해 기도합니다.
+
+{% if deceased_members is not empty -%}
+별세한 회원
+{{ deceased_members }}
+을 위해 기도합니다.
+{%- endif %}

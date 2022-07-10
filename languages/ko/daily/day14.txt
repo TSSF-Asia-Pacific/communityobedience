@@ -1,19 +1,8 @@
 <p class='boilerplate'>아프리카 관구, 탄자니아와 잠비아, 말라위에 있는 회원들을 위해 기도합니다. 
 
-미국과 유럽관구의 1회 수도회를 위해 기도합니다. </p><p class='rubric'>퀸즐랜드 B와 뉴사우스웨일즈 북부 지구 회원</p><p class='boilerplate'>David Mason
-Andrea Maslin
-Amanda McCarrick
-Glenys McCarrick
-Gabrielle McGee
-Robert McKennay
-Selina McMahon
-Rae Morey
-Lex Nason
-Fay Neale
-David Nix
-Jeni Nix 
+미국과 유럽관구의 1회 수도회를 위해 기도합니다. </p><p class='rubric'>퀸즐랜드 B와 뉴사우스웨일즈 북부 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다. 
 
 별세한 회원
-RIP Doreen Foote (NSW A)
-RIP Champion Siburewa (PNG)을/를 위해 기도합니다. </p><p class='rubric'>8월: 막시밀리안 콜베(매뉴얼 43)를 기억하고 기도합니다. </p>
+{{ deceased_members }}
+을/를 위해 기도합니다. </p><p class='rubric'>8월: 막시밀리안 콜베(매뉴얼 43)를 기억하고 기도합니다. </p>

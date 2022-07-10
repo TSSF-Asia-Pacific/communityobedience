@@ -1,18 +1,8 @@
 ﻿<p class='boilerplate'>아시아태평양 관구, 호주의 뉴사우스웨일즈 A, 뉴사우스웨일즈 B/호주 수도 준주 지구 회원들을 위해 기도합니다.
 
-지역 담당자들을 위해 기도합니다.</p><p class='rubric'>도구라 지구 회원</p><p class='boilerplate'>Henry Towoni
-Leonard Tubira
-Gideon Waida
-James Peter Wairanumo
-Selwyn Wairanumo
-Arthur Wakeapa
-Elude Warete
-Alwyn Clive Warikea
-William Caster Yababana
-Lawrence Yakawa
-Lawrence Yaniguragura			
+지역 담당자들을 위해 기도합니다.</p><p class='rubric'>도구라 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다. 
 
 별세한 회원 
-RIP Dorothy Bolton (QLD B)
-RIP Patricia Carr (QLD B) 을/를 위해 기도합니다. 
+{{ deceased_members }}
+ 을/를 위해 기도합니다.

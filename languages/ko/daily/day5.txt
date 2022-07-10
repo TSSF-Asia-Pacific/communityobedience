@@ -1,19 +1,8 @@
 <p class='boilerplate'>태평양관구, 뉴질랜드의 북섬 센트럴 지구와 웰링턴에 있는 회원들을 위해 기도합니다.
 
-아시아태평양 관구 지구 봉사자들을 위해 기도합니다. </p><p class='rubric'>도구라 지구 회원</p><p class='boilerplate'>Fred Geusina
-Ronald Goviro
-Michael Hirodidi
-Winston Isari
-Harold Morrison Kadada
-Basil Kaibo
-Emily Kamokaba
-Abel Kariba
-Remigius Katura
-Landford Keko
-Zebedee Kenanido
-Alfred Kerina 
+아시아태평양 관구 지구 봉사자들을 위해 기도합니다. </p><p class='rubric'>도구라 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다.
 
 별세한 회원			
-RIP Barbara Desgrand (QLD B)
-RIP Anne Johnson (SING) 을/를 위해 기도합니다
+{{ deceased_members }}
+ 을/를 위해 기도합니다

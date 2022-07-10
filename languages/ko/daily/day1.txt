@@ -1,31 +1,8 @@
 <p class='boilerplate'>태평양 관구, 솔로몬 아일랜드의 관달카날과 사보에 있는 회원들을 위해 기도합니다.
 
-아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다. </p><p class='rubric'>포폰데타 지구 회원</p><p class='boilerplate'>Jean Aito
-Gibland Arahu
-Olivia Deiko Arahu
-Kolak Arare
-Joseph Asiri
-Reginald Aura
-Lena Busi
-Sylvia Busi
-Cecil Eongambo
-Philip Etobae
-John Evovo
-James Gombera
-Augustus Gosarisi
-Nicholas Haembo
-Peter Hango
-Arnold Hanupa
-Francis Haruma
-John Douglas Hevari
+아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다. </p><p class='rubric'>포폰데타 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다.
 
 별세한 회원 
-RIP Margaret Butterss (NSW A)
-RIP Audrey Edmondson (VIC/TAS)
-RIP Effie Fitzpatrick (WA)
-RIP No&#235;l Hanby (QLD B)
-RIP Ray Kendall (QLD A/QLD B)
-RIP Joan McDougall (VIC/TAS)
-RIP Margaret Whereat (QLD B)
-RIP Joan Owen (QLD B) 을/를 위해 기도합니다. </p><p class='rubric'>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</p>
+{{ deceased_members }}
+ 을/를 위해 기도합니다. </p><p class='rubric'>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</p>

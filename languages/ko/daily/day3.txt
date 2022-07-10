@@ -1,24 +1,8 @@
 <p class='boilerplate'>태평양 관구 솔로몬아일랜드의 카미라와 바누아투 공화국에 있는 회원들을 위해 기도합sl다. 
 
-관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Sally Buckley, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다. </p><p class='rubric'> 포폰데타 지구 회원 </p><p class='boilerplate'>Winniefred Pawa
-Bessie Peuba
-Cedrick Peuba
-Romney Peuba
-Erastus Sangara
-Rita Simeni
-Holland Siremi
-Barnabas Tago
-Winifred Talanoa
-Nigel Tauni
-Rodney Tuho
-Rogil Urisi
-Willie Daba Uwade
-Ray Wadidika
-Gabriel Wauwe
+관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Sally Buckley, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다. </p><p class='rubric'> 포폰데타 지구 회원 </p><p class='boilerplate'>{{ living_members_1 }}
 을/를 위해 기도합니다. 
 
 별세한 회원		
-RIP James Ahit Ladi (MAL)
-RIP Molly Davey (NSW B/ACT)
-RIP Joy Hickman (NSW A)
-RIP Betty Moss (VIC/TAS)을/를 위해 기도합니다.</p><p class='rubric'>10월: 프란시스 성인의 전이 (매뉴얼 48)를 기억하고 기도합니다.</p>
+{{ deceased_members }}
+을/를 위해 기도합니다.</p><p class='rubric'>10월: 프란시스 성인의 전이 (매뉴얼 48)를 기억하고 기도합니다.</p>

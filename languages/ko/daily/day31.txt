@@ -9,20 +9,8 @@
 아프리카관구 봉사자 Michael Twum-Darko
 아시아태평양관구 봉사자 Mandy Wheatley
 유럽관구 봉사자 (대행)Tim Higgins
-태평양관구 봉사자 Blair Matheson을 위해 기도합니다. </p><p class='boilerplate'>지난 해 제 3회에서 해제된 Glenis George, Asta Lander, Marilyn Nixon을 위해 기도합니다.
+태평양관구 봉사자 Blair Matheson을 위해 기도합니다. </p><p class='boilerplate'>지난 해 제 3회에서 해제된 {{ living_members_1 }}을 위해 기도합니다.
 
 별세한 회원
-RIP Manesse Aniki (POP)
-RIP James Mark Budibudi (DOG)
-RIP Joy Caporn (QLD B)
-RIP Anne Carpenter (NSW B/ACT)
-RIP Pauline Hangiri (PNG)
-RIP Lynne James (WA)
-RIP Clive La Brooy
-RIP Margaret McNeill (NSW A)
-RIP Glenda Mill (QLDB/NNSW
-RIP Nicomede Mudumatana (DOG)
-RIP Rodney Pawa (POP)
-RIP Bill Pearson (SA)
-RIP Morna Thomas (QLD A)
-RIP Stanislaus Yaumo (DOG) 을/를 위해 기도합니다. 
+{{ deceased_members }}
+을/를 위해 기도합니다.
