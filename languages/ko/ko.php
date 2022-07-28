@@ -25,7 +25,8 @@ class ko extends AbstractLanguage
 
     public $collectTitle = "제3회 공동체 본기도";
 
-    /**
+    public $dailyIntercessionPrayerTitle = "중보기도 ...";
+ /**
      * @var string[] Array of Collect days, Sunday is the first item in the array
      */
     public $collectDays = [
