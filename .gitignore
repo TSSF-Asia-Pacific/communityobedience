@@ -2,5 +2,5 @@
 /.project
 node_modules/
 public/
-
+.vs/
 /vendor/
