@@ -27,6 +27,17 @@ jobs:
         node-version: '10.x'
     - run: yarn install
 
+    - name: Cache Composer dependencies
+      uses: actions/cache@v2
+      with:
+        path: /tmp/composer-cache
+        key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
+
+    - name: Install dependencies
+      uses: php-actions/composer@v6
+      with:
+        dev: no
+
     - name: Run Makefile
       run: make all
 
