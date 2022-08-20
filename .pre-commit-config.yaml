@@ -1,0 +1,16 @@
+---
+repos:
+    - repo: https://github.com/comkieffer/pre-commit-xmllint.git
+      rev: 1.0.0
+      hooks:
+          - id: xmllint
+    - repo: https://github.com/adrienverge/yamllint.git
+      rev: v1.27.1
+      hooks:
+          - id: yamllint
+            args: [--format, parsable, --strict]
+
+    - repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
+      rev: 0.2.2
+      hooks:
+          - id: yamlfmt
