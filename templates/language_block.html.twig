@@ -2,7 +2,7 @@
 {# @var AbstractLanguage translation #}
 
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">
-    {{ translation.dailyPrayerOffering }}
+    {% trans into lang %}This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.{% endtrans %}
 </p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
     {{ translation.gloriaPatra|raw }}
@@ -36,7 +36,9 @@
 {% for i in range(0, 6) %}
 <div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
     <p class='rubric'>{{ translation.collectDays[i] }}</p>
-    <p class='boilerplate'>{{ translation.getCollect(i) | join("</p><p class='boilerplate'>")|raw }}</p>
+    <p class='boilerplate'>
+        {{ "collect#{i}" | trans({}, 'messages', lang) }} <strong>{% trans into lang %}amen{% endtrans %}</strong>
+    </p>
 </div>
 {% endfor %}
 

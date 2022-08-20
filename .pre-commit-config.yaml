@@ -4,6 +4,8 @@ repos:
       rev: 1.0.0
       hooks:
           - id: xmllint
+            types: [file]
+            files: \.(xlf|xml)$
     - repo: https://github.com/adrienverge/yamllint.git
       rev: v1.27.1
       hooks:

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Loco xml export: XLIFF 1.2
+ Project: TSSF Community Obedience
+ Release: Working copy
+ Locale: zh, Chinese
+ Status: Translated
+ Exported by: Tim White
+ Exported at: Sat, 20 Aug 2022 22:05:57 +0800
+-->
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="https://localise.biz/white-it-solultions/community-obedience" source-language="en-AU" target-language="zh" datatype="database" tool-id="loco">
+    <header>
+      <tool tool-id="loco" tool-name="Loco" tool-version="1.0.26 20220711-1" tool-company="Loco"/>
+    </header>
+    <body>
+      <trans-unit id="loco:62e6536c5c788138db3ab322" resname="Daily-Prayer-Offering-This-offering-of-prayer-is-t" datatype="plaintext">
+        <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
+        <target state="translated">这祈祷的祭献应每日遵行，可视情况而安排于早、晚祷之中。</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf5" resname="amen" datatype="plaintext">
+        <source>Amen</source>
+        <target state="translated">阿们。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

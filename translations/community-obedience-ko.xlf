@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Loco xml export: XLIFF 1.2
+ Project: TSSF Community Obedience
+ Release: Working copy
+ Locale: ko, Korean
+ Status: Translated
+ Exported by: Tim White
+ Exported at: Sat, 20 Aug 2022 22:06:01 +0800
+-->
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="https://localise.biz/white-it-solultions/community-obedience" source-language="en-AU" target-language="ko" datatype="database" tool-id="loco">
+    <header>
+      <tool tool-id="loco" tool-name="Loco" tool-version="1.0.26 20220711-1" tool-company="Loco"/>
+    </header>
+    <body>
+      <trans-unit id="loco:62e6536c5c788138db3ab322" resname="Daily-Prayer-Offering-This-offering-of-prayer-is-t" datatype="plaintext">
+        <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
+        <target state="translated">날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도도 바칩니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:62e6538d72513f621f7ed492" resname="Day-1-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
+        <target state="translated">태평양 관구, 솔로몬 아일랜드의 관달카날과 사보에 있는 회원들을 위해 기도합니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:62e654d56c9070667f397642" resname="I-pray-for-you" datatype="plaintext">
+        <source> </source>
+        <target state="translated">별세한 회원</target>
+        <note>Can be an empty string</note>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf5" resname="amen" datatype="plaintext">
+        <source>Amen</source>
+        <target state="translated">아멘</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

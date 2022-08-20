@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Loco xml export: XLIFF 1.2
+ Project: TSSF Community Obedience
+ Release: Working copy
+ Locale: en-AU, English (Australia)
+ Exported by: Tim White
+ Exported at: Sat, 20 Aug 2022 22:02:35 +0800
+-->
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="https://localise.biz/white-it-solultions/community-obedience" source-language="en-AU" datatype="database" tool-id="loco">
+    <header>
+      <tool tool-id="loco" tool-name="Loco" tool-version="1.0.26 20220711-1" tool-company="Loco"/>
+    </header>
+    <body>
+      <trans-unit id="loco:62e6536c5c788138db3ab322" resname="Daily-Prayer-Offering-This-offering-of-prayer-is-t" datatype="plaintext">
+        <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
+      </trans-unit>
+      <trans-unit id="loco:62e6538d72513f621f7ed492" resname="Day-1-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
+      </trans-unit>
+      <trans-unit id="loco:62e654d56c9070667f397642" resname="I-pray-for-you" datatype="plaintext">
+        <source> </source>
+        <note>Can be an empty string</note>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf2" resname="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer." datatype="plaintext">
+        <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf3" resname="collect0" datatype="plaintext">
+        <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf4" resname="collect6" datatype="plaintext">
+        <source>Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf5" resname="amen" datatype="plaintext">
+        <source>Amen</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf6" resname="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo." datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf7" resname="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill" datatype="plaintext">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf8" resname="In the Region of Popondetta, pray for" datatype="plaintext">
+        <source>In the Region of Popondetta, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf9" resname="December: Requiem for Departed Franciscans (Manual F25)" datatype="plaintext">
+        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bfa" resname="Deceased Member" datatype="plaintext">
+        <source>Deceased Member</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bfb" resname="I pray for you" datatype="plaintext">
+        <source>I pray for you</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e8f6b4cc257b656b2273" resname="collect1" datatype="plaintext">
+        <source>God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e923469ad56c8d580372" resname="collect2" datatype="plaintext">
+        <source>God, you resist the proud and give grace to the humble: help us not to think proudly, but to serve you with the humility that pleases you, so we may walk in the steps of your servant Francis and receive the gift of your grace; through Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e932ed421600b663c7b2" resname="collect3" datatype="plaintext">
+        <source>God, you have made your church rich through the poverty of blessed Francis: help us, like him, not to trust in earthly things, but to seek your heavenly gifts; through Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e943469ad56c8d580374" resname="collect4" datatype="plaintext">
+        <source>God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6300e952e8e6d47de1366472" resname="collect5" datatype="plaintext">
+        <source>Lord Jesus, in your servant Francis you displayed the wonderful power of the cross: help us always to follow you in the way of the cross, and give us strength to resist all temptation, and to you, Lord, with the Father and the Holy Spirit be all glory for ever.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
