@@ -13,10 +13,9 @@
 
 {# Add the principle for the day of month. #}
 {% for i in range(1, 31) %}
-    {% set principleFile = "#{translation.basePath}/principle/principle#{i}.txt" %}
     <div id='principal_{{ lang }}_{{ i }}' class='principal' lang='{{ lang }}'>
         <p class='rubric'>{{ i == '31' ? translation.principleRubricTitleDay31 : translation.principleRubricTitleNormal }}</p>
-        <p class='boilerplate'>{{ translation.getPrinciple(i) | join("</p><p class='boilerplate'>")|raw }}</p>
+        {% include "principle/principle#{i}.html.twig" %}
     </div>
 {% endfor %}
 

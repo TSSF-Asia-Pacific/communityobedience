@@ -10,6 +10,7 @@ require 'vendor/autoload.php';
 
 $loader = new FilesystemLoader('./templates');
 $twig = new Environment($loader);
+// See https://localise.biz/whiteitsolutions/community-obedience for translation tool
 $translator = new \Symfony\Component\Translation\Translator('en');
 $translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
 $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
