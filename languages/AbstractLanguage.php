@@ -30,19 +30,6 @@ abstract class AbstractLanguage
 
     public $collectTitle = "";
 
-    /**
-     * @var string[] Array of Collect days, Sunday is the first item in the array
-     */
-    public $collectDays = [
-        "The collect for Sunday",
-        "The collect for Monday",
-        "The collect for Tuesday",
-        "The collect for Wednesday",
-        "The collect for Thursday",
-        "The collect for Friday",
-        "The collect for Saturday"
-    ];
-
     public $communityPrayer = "";
 
     public $either = "";

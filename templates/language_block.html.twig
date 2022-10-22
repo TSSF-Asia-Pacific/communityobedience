@@ -34,9 +34,11 @@
 
 {% for i in range(0, 6) %}
 <div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
-    <p class='rubric'>{{ translation.collectDays[i] }}</p>
+    <p class='rubric'>
+        {{ "collect-day-#{i}"|trans({}, 'messages', lang) }}
+    </p>
     <p class='boilerplate'>
-        {{ "collect#{i}" | trans({}, 'messages', lang) }} <strong>{% trans into lang %}amen{% endtrans %}</strong>
+        {% include "collect/collect#{i}.html.twig" %} <strong>{% trans into lang %}amen{% endtrans %}</strong>
     </p>
 </div>
 {% endfor %}
