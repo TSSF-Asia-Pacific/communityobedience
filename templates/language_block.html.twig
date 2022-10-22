@@ -2,14 +2,17 @@
 {# @var AbstractLanguage translation #}
 
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">
+    {# Daily Prayer Offering #}
     {% trans into lang %}This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.{% endtrans %}
 </p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Gloria Patra #}
     {% trans into lang %}In the name of the Father,{% endtrans %}<br/>
     {% trans into lang %}and of the Son,{% endtrans %}<br/>
     {% trans into lang %}and of the Holy Spirit.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Opening Prayer #}
     {% trans into lang %}Here and in all your churches throughout the world,{% endtrans %}<br/>
     {% trans into lang %}we adore you, O Christ, and we bless you,{% endtrans %}<br/>
     {% trans into lang %}because by your holy cross you have redeemed the world.{% endtrans %} <strong>Amen</strong>"
@@ -43,11 +46,13 @@
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}tssf Community Collect{% endtrans %}</p>
 
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Community Prayer #}
     {% trans into lang %}God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.{% endtrans %}
 </p>
 
 {% for i in range(0, 6) %}
 <div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
+    {# Collect of the day #}
     <p class='rubric'>
         {{ "collect-day-#{i}"|trans({}, 'messages', lang) }}
     </p>
@@ -60,6 +65,7 @@
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Either{% endtrans %}</p>
 
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Blessing 1 #}
     {% trans into lang %}May our blessed Lady pray for us.{% endtrans %}<br/>
     {% trans into lang %}May Saint Francis pray for us.{% endtrans %}<br/>
     {% trans into lang %}May Saint Clare pray for us.{% endtrans %}<br/>
@@ -69,6 +75,7 @@
 </p>
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}or...{% endtrans %}</p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Blessing 2 #}
     {% trans into lang %}The grace of our Lord Jesus Christ,{% endtrans %}
     {% trans into lang %}the love of God,{% endtrans %}
     {% trans into lang %}and the fellowship of the Holy Spirit be with us all evermore.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
