@@ -7,6 +7,7 @@
 </p>
 <p class='rubric'>{% trans into lang %}In Western Australia Region, pray for{% endtrans %}</p>
 <p class='boilerplate'>{{ living_members_1 | nl2br }}<br/>
+    {{ "I-pray-for-you"|trans({}, 'messages', lang) }}
     <br/>
     {{ deceased_members | nl2br }}
 </p>

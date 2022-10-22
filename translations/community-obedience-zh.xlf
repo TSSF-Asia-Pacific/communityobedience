@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Sat, 22 Oct 2022 19:32:07 +0800
+ Exported at: Sat, 22 Oct 2022 19:55:53 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" source-language="en-AU" target-language="zh" datatype="database" tool-id="loco">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="loco:62e654d56c9070667f397642" resname="I-pray-for-you" datatype="plaintext">
         <source> </source>
-        <target/>
+        <target state="translated"> </target>
         <note>Can be an empty string</note>
       </trans-unit>
       <trans-unit id="loco:6300e4cc57b8a56d58434bf3" resname="collect0" datatype="plaintext">
@@ -56,10 +56,6 @@
       </trans-unit>
       <trans-unit id="loco:6300e4cc57b8a56d58434bfa" resname="Deceased Member" datatype="plaintext">
         <source>Deceased Member</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="loco:6300e4cc57b8a56d58434bfb" resname="I pray for you" datatype="plaintext">
-        <source>I pray for you</source>
         <target/>
       </trans-unit>
       <trans-unit id="loco:6300e8f6b4cc257b656b2273" resname="collect1" datatype="plaintext">

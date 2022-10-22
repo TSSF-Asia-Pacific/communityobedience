@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sat, 22 Oct 2022 19:32:09 +0800
+ Exported at: Sat, 22 Oct 2022 19:55:56 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" source-language="en-AU" target-language="ko" datatype="database" tool-id="loco">
@@ -56,10 +56,6 @@
       </trans-unit>
       <trans-unit id="loco:6300e4cc57b8a56d58434bfa" resname="Deceased Member" datatype="plaintext">
         <source>Deceased Member</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="loco:6300e4cc57b8a56d58434bfb" resname="I pray for you" datatype="plaintext">
-        <source>I pray for you</source>
         <target/>
       </trans-unit>
       <trans-unit id="loco:6300e8f6b4cc257b656b2273" resname="collect1" datatype="plaintext">
@@ -156,111 +152,118 @@
       </trans-unit>
       <trans-unit id="loco:63022fd9e4a16c48660ccc43" resname="The-Third-Aim-contd" datatype="plaintext">
         <source>The Third Aim, cont'd</source>
-        <target/>
+        <target state="translated">세 번째 목표 (이어짐)</target>
       </trans-unit>
       <trans-unit id="loco:63022fe521d26927661beb06" resname="principle11" datatype="plaintext">
         <source>Although we possess property and earn money to support ourselves and our families, we show ourselves to be true followers of Christ and of Saint Francis by our readiness to live simply and to share with others. We recognize that some of our members may be called to a literal following of Saint Francis in a life of extreme simplicity. All of us, however, accept that we avoid luxury and waste, and regard our possessions as being held in trust for God.</source>
-        <target/>
+        <target state="translated">우리가 비록 재산을 소유하고 나와 가족을 돌보기 위해 돈을 벌지만, 우리가 그리스도와 프란시스 성인의 참된 신봉자이며 단순한 삶을 위하여 기꺼이 다른 이들과 나눌 준비가 되어 있음을 보여줍니다. 우리 회원 가운데 어떤 이는 지극히 단순한 삶을 꾸려감으로써 프란시스 성인을 올곧게 따르기로 부름 받았음을 압니다. 우리는 모두 사치와 낭비를 삼갈 것을 받아들이며, 우리가 가진 소유물은 오로지 하느님을 위해 우리에게 맡겨진 것으로 받아들입니다.</target>
       </trans-unit>
       <trans-unit id="loco:63022ff5423df550011667e2" resname="principle12" datatype="plaintext">
         <source>Personal spending is limited to what is necessary for our health and well-being and that of our dependents. We aim to stay free from all attachment to wealth, keeping ourselves constantly aware of the poverty in the world and its claim on us. We are concerned more for the generosity that gives all, rather than the value of poverty in itself. In this way we reflect in spirit the acceptance of Jesus' challenge to sell all, give to the poor, and follow him.</source>
-        <target/>
+        <target state="translated">‘단순하게 살아간다’
+소비는 우리 자신이나 우리의 부양가족의 건강과 복지에 꼭 필요한 것만으로 제한합니다. 우리는 세상의 가난과 그것이 우리에게 주는 요청에 깨어 있어야 하며 부에 대한 모든 집착으로부터 자유로워지는 것을 목표로 합니다. 우리는 가난 그 자체를 미덕으로 보기보다는 모든 것을 아낌없이 내어주는 관대함에 더 관심을 둡니다. 이를 위한 방법으로 우리는 예수님이 우리에게 준 도전, 모든 것을 팔아 가난한 사람에게 주고 나서 그분을 따르라는 말씀의 정신을 받아들이고 그것을 체현합니다.</target>
       </trans-unit>
       <trans-unit id="loco:630230c7687aec1498292434" resname="The-Three-Ways-of-Service" datatype="plaintext">
         <source>The Three Ways of Service</source>
-        <target/>
+        <target state="translated">섬김의 세 가지 방법</target>
       </trans-unit>
       <trans-unit id="loco:630230d4e4a16c48660ccc45" resname="principle13" datatype="plaintext">
         <source>Tertiaries desire to be conformed to the image of Jesus Christ, whom we serve in the three ways of Prayer, Study, and Work. In the life of the Order as a whole these three ways must each find full and balanced expression, but it is not to be expected that all members devote themselves equally to each of them. Each individual's service varies according to his/her abilities and circumstances, yet the member's personal rule of life includes each of the three ways.</source>
-        <target/>
+        <target state="translated">제3회원은 예수 그리스도의 모습과 하나 되기를 열망하는데, 기도와 공부와 일 세 가지 방법으로 그분을 섬기고자 합니다. 수도 생활에서 이 세 가지 방법은 각기 완전하고 균형 있게 표현되어야 하지만, 모든 회원이 그 하나하나에 동등하게 헌신할 것으로 기대하지는 않습니다. 그러나 회원의 ‘개인 생활 규칙’에는 세 가지가 다 나란히 포함되어야 하며, 저마다의 능력과 상황에 따라 다 다르게 마련입니다.</target>
       </trans-unit>
       <trans-unit id="loco:630230de687aec1498292436" resname="The-First-Way-of-Service-Prayer" datatype="plaintext">
         <source>The First Way of Service - Prayer</source>
-        <target/>
+        <target state="translated">섬김의 첫 번째 방법
+‘기도’</target>
       </trans-unit>
       <trans-unit id="loco:630230ebe4a16c48660ccc47" resname="principle14" datatype="plaintext">
         <source>Tertiaries seek to live in an atmosphere of praise and prayer. We aim to be constantly aware of God's presence, so that we may indeed pray without ceasing. Our ever deepening devotion to the indwelling Christ is a source of strength and joy. It is Christ's love that inspires us to service, and strengthens us for sacrifice.</source>
-        <target/>
+        <target state="translated">제3회원은 기도와 찬미의 기운 안에서 살기 위해 노력합니다. 항상 하느님이 여기 계심을 지각하는 것이 우리의 목표이며, 그래야 우리는 쉼 없이 진실로 기도할 수 있습니다. 우리 안에서 살아가시는 그리스도를 향하여 날로 깊어가는 우리의 헌신이 바로 우리의 힘과 기쁨의 원천입니다. 우리가 봉사하도록 영감을 주는 것은 그리스도의 사랑이며, 우리가 희생으로 나아가도록 강하게 만들어 주십니다.</target>
       </trans-unit>
       <trans-unit id="loco:63023122f32cda00c2741272" resname="The-First-Way-of-Service-contd" datatype="plaintext">
         <source>The First Way of Service, cont'd</source>
-        <target/>
+        <target state="translated">섬김의 첫 번째 방법 (이어짐)</target>
       </trans-unit>
       <trans-unit id="loco:630231323986cd507c2bc174" resname="principle15" datatype="plaintext">
         <source>The heart of our prayer is the Eucharist, in which we share with other Christians the renewal of our union with our Lord and Savior in his sacrifice, remembering his death and receiving his spiritual food.</source>
-        <target/>
+        <target state="translated">우리 기도의 핵심은 감사성찬례입니다. 감사성찬례 안에서 우리는 그분의 희생과 그분의 죽음을 기억하고 그분이 주시는 영적 음식을 받으면서, 우리의 주님이시고 구세주인 그분과 우리의 하나 됨을 새롭게 갱신하고 또 그것을 옆의 그리스도인들과 나눕니다.</target>
       </trans-unit>
       <trans-unit id="loco:6302314540fb660b926ad9f2" resname="principle16" datatype="plaintext">
         <source>Tertiaries recognize the power of intercessory prayer for furthering the purposes of Gods' kingdom, and therefore seek a deepening communion with God in personal devotion, and constantly intercede for the needs of his church and his world. Those of us who have much time at our disposal give prayer a large part in our daily lives. Those of us with less time must not fail to see the importance of prayer and to guard the time we have allotted to it from interruption. Lastly, we are encouraged to avail ourselves of the sacrament of Reconciliation, through which the burden of past sin and failure is lifted and peace and hope restored.</source>
-        <target/>
+        <target state="translated">제3회원은 하느님 나라의 목적을 펼쳐가고자 하는 중보기도의 힘을 인식하며, 그러므로 저마다 헌신 속에서 하느님과의 교제를 더욱 깊게 해나가기를 추구하고, 그분의 교회와 그분의 세상의 필요를 위해 끊임없이 중보기도를 올립니다. 우리 중에는 생활의 많은 부분을 기도에 바칠 수 있는 사람이 있습니다. 우리 중에 시간이 없는 사람도 기도의 중요성을 소홀히 하면 안 되며, 방해받지 않고 기도할 수 있는 시간을 마련해야 합니다. 마지막으로 우리는 고해성사를 받도록 격려받는데, 이 성사를 통해 과거의 죄와 실패의 짐에서 벗어나서 평화와 희망이 회복됩니다.</target>
       </trans-unit>
       <trans-unit id="loco:63023156e66d7a03406257b4" resname="The-Second-Way-of-Service-Study" datatype="plaintext">
         <source>The Second Way of Service - Study</source>
-        <target/>
+        <target state="translated">섬김의 두 번째 방법
+‘공부’</target>
       </trans-unit>
       <trans-unit id="loco:630231610069ab09132f0432" resname="principle17" datatype="plaintext">
         <source>"And this is eternal life: that they may know you the only true God, and Jesus Christ whom you have sent." (John 17:3(NRSV)) True knowledge is knowledge of God. Tertiaries therefore give priority to devotional study of scripture as one of the chief means of attaining that knowledge of God which leads to eternal life.</source>
-        <target/>
+        <target state="translated">“영원한 생명은 곧 참되시고 오직 한 분이신 하느님 아버지를 알고 또 아버지께서 보내신 예수 그리스도를 아는 것입니다.”(요한 17:3) 참된 지식은 하느님을 아는 지식입니다. 그러므로 제3회원은 성서의 공부에 우선권을 두는데, 이는 영원한 생명으로 인도하는 하느님을 알게 되는 하나의 주요한 수단이 됩니다.</target>
       </trans-unit>
       <trans-unit id="loco:6302316cf32cda00c2741274" resname="The-Second-Way-of-Service-contd" datatype="plaintext">
         <source>The Second Way of Service, cont'd</source>
-        <target/>
+        <target state="translated">섬김의 두 번째 방법 (이어짐)</target>
       </trans-unit>
       <trans-unit id="loco:6302317c21d26927661beb0d" resname="principle18" datatype="plaintext">
         <source>As well as the devotional study of Scripture, we all recognize our Christian responsibility to pursue other branches of study, both sacred and secular. In particular, some of us accept the duty of contributing, through research and writing, to a better understanding of the church's mission in the world: the application of Christian principles to the use and distribution of wealth; questions concerning justice and peace; and of all other questions concerning the life of faith.</source>
-        <target/>
+        <target state="translated">우리 모두는 성서로 신앙적인 공부를 함은 물론이고, 다른 분야를, 거룩한 영역이든 세속의 영역이든 공부하는 것이 그리스도인의 책임임을 인식합니다. 특별히 우리 중 어떤 이는 연구와 저술을 통해 세상을 향한 교회의 사명에 관한 이해를 높여가는 데 공헌하는 책무를 받아들이는 사람이 있습니다. 또한 부(富)의 올바른 사용에 관한 그리스도교적 원칙의 적용, 그리고 정의와 평화에 관련된 질문들, 그리고 신앙 생활에 관한 다양한 모든 질문에 관한 연구와 저술을 책무로 받아들이는 사람도 있습니다.</target>
       </trans-unit>
       <trans-unit id="loco:63023188e66d7a03406257b6" resname="The-Third-Way-of-Service-Work" datatype="plaintext">
         <source>The Third Way of Service - Work</source>
-        <target/>
+        <target state="translated">섬김의 세 번째 방법
+‘사목 활동’</target>
       </trans-unit>
       <trans-unit id="loco:630231930069ab09132f0434" resname="principle19" datatype="plaintext">
         <source>Jesus took on himself the form of a servant. He came not to be served, but to serve. He went about doing good: healing the sick, preaching good news to the poor, and binding up the broken hearted.</source>
-        <target/>
+        <target state="translated">예수께서는 스스로 종의 모습을 취하셨습니다. 그분은 섬김 받기 위해서가 아니라 섬기기 위해서 오셨습니다. 그분께서는 선을 행하셨습니다. 병자를 고치고, 가난한 이에게 좋은 소식을 전하고, 상한 마음을 싸매 주십니다.</target>
       </trans-unit>
       <trans-unit id="loco:6302319c423df550011667e4" resname="The-Third-Way-of-Service-contd" datatype="plaintext">
         <source>The Third Way of Service, cont'd</source>
-        <target/>
+        <target state="translated">섬김의 세 번째 방법  (이어짐)
+‘사목 활동’</target>
       </trans-unit>
       <trans-unit id="loco:630231a8bce38c7e2e581532" resname="principle20" datatype="plaintext">
         <source>Tertiaries endeavor to serve others in active work. We try to find expression for each of the three aims of the Order in our lives, and whenever possible actively help others who are engaged in similar work. The chief form of service which we have to offer is to reflect the love of Christ, who, in his beauty and power, is the inspiration and joy of our lives.</source>
-        <target/>
+        <target state="translated">제3회원은 적극적인 사목 활동으로 다른 사람을 섬기기 위해 노력합니다. 우리는 수도회의 세 가지 목표 전부가 우리의 생활 속에서 표현될 방법을 찾습니다. 또한 언제 어디서나 우리의 목표와 유사한 일에 종사하는 다른 이들을 적극적으로 돕습니다. 섬김의 으뜸 모습은 그리스도의 사랑을 받아들여서 우리 또한 같은 것을 내보이는 것이며, 그분의 아름다움과 강함은 우리 삶의 영감이고 기쁨입니다.</target>
       </trans-unit>
       <trans-unit id="loco:630231b240fb660b926ad9f4" resname="The-Three-Notes-of-the-Order" datatype="plaintext">
         <source>The Three Notes of the Order</source>
-        <target/>
+        <target state="translated">수도회의 세 가지 표지</target>
       </trans-unit>
       <trans-unit id="loco:630231be3986cd507c2bc176" resname="principle21" datatype="plaintext">
         <source>Humility, love, and joy are the three notes which mark the lives of Tertiaries. When these characteristics are evident throughout the Order, its work will be fruitful. Without them, all that it attempts will be in vain.</source>
-        <target/>
+        <target state="translated">겸손, 사랑, 기쁨은 제3회원의 삶을 나타내는 세 가지 표지입니다. 이러한 특성이 수도회 곳곳에 깃들어 있음이 분명하다면, 우리가 하는 일들이 열매를 맺습니다. 그것이 없으면 시도하는 모든 것이 다 헛됩니다.</target>
       </trans-unit>
       <trans-unit id="loco:630231c7921ccc0d4a6047b4" resname="The-First-Note-Humility" datatype="plaintext">
         <source>The First Note - Humility</source>
-        <target/>
+        <target state="translated">첫 번째 표지
+‘겸손’</target>
       </trans-unit>
       <trans-unit id="loco:630231d33986cd507c2bc178" resname="principle22" datatype="plaintext">
         <source>We always keep before us the example of Christ, who emptied himself, taking the form of a servant, and who, on the last night of his life, humbly washed his disciples' feet. We likewise seek to serve one another with humility.</source>
-        <target/>
+        <target state="translated">우리는 항상 우리 앞에 그리스도를 모범으로 놓습니다. 그분은 자신을 비우고, 종의 모습을 취하셨고, 생애 마지막 날 밤에는 겸손한 자세로 제자들의 발을 씻어 주셨습니다. 마찬가지로 우리는 겸손히 서로에게 봉사하기를 추구합니다.</target>
       </trans-unit>
       <trans-unit id="loco:630231db423df550011667e6" resname="The-First-Note-contd" datatype="plaintext">
         <source>The First Note, cont'd</source>
-        <target/>
+        <target state="translated">첫 번째 표지 (이어짐)</target>
       </trans-unit>
       <trans-unit id="loco:630231e7e22810548e175c82" resname="principle23" datatype="plaintext">
         <source>Humility confesses that we have nothing that we have not received and admits the fact of our insufficiency and our dependence upon God. It is the basis of all Christian virtues. Saint Bernard of Clairvaux said, "No spiritual house can stand for a moment except on the foundation of humility." It is the first condition of a joyful life within any community.</source>
-        <target/>
+        <target state="translated">겸손은 우리가 거저 받지 않는 것은 아무것도 없다고 고백하는 것이며, 우리의 부족함을 인정하고 하느님께 의지하고 있음을 인정하는 것입니다. 이는 모든 그리스도교적 덕목의 바탕입니다. 클레르보의 베르나르 성인(St. Bernard of Clairvaux)은, “겸손의 기초 위에 세워지지 않았다면 그 어떤 영적인 집도 한순간도 서 있을 수 없다.”라고 말하였습니다. 어느 공동체에서나 기쁜 삶의 첫 번째 조건은 겸손입니다.</target>
       </trans-unit>
       <trans-unit id="loco:630231f70069ab09132f0436" resname="principle24" datatype="plaintext">
         <source>The faults that we see in others are the subject of prayer rather than of criticism. We take care to cast out the beam from our own eye before offering to remove the speck from another's. We are ready to accept the lowest place when asked, and to volunteer to take it. Nevertheless, when asked to undertake work of which we feel unworthy or incapable, we do not shrink from it on the grounds of humility, but confidently attempt it through the power that is made perfect in weakness.</source>
-        <target/>
+        <target state="translated">다른 사람에게서 보이는 결점은 비판거리가 아니고 우리 기도의 주제입니다. 우리는 다른 사람의 티를 없애려 들기 전에 우리 눈의 들보를 빼내야 합니다. 우리는 가장 낮은 곳으로 가라는 요청을 받아들일 준비가 되어 있고, 먼저 자청해서 내려갈 수 있습니다. 하지만 가치 없거나 내 능력 밖으로 보이는 일을 수행하라는 요청이 올 때, 겸손함을 지킨다고 움츠러들지는 않습니다. 힘이란 연약함 가운데서 완전해지는 것임을 믿고 자신있게 그 일에 나섭니다.</target>
       </trans-unit>
       <trans-unit id="loco:6302320029710d04c3412862" resname="The-Second-Note-Love" datatype="plaintext">
         <source>The Second Note - Love</source>
-        <target/>
+        <target state="translated">두 번째 표지
+‘사랑’</target>
       </trans-unit>
       <trans-unit id="loco:63023210e66d7a03406257b8" resname="principle25" datatype="plaintext">
         <source>Jesus said, "I give you a new commandment: love one another. Just as I have loved you, you also should love one another. By this everyone will know that you are my disciples, if you have love for one another." (John 13:34 - 35(NRSV)) Love is the distinguishing feature of all true disciples of Christ who wish to dedicate themselves to him as his servants.</source>
-        <target/>
+        <target state="translated">예수께서 말씀하십니다. “나는 너희에게 새 계명을 주겠다. 서로 사랑하여라. 내가 너희를 사랑한 것처럼 너희도 서로 사랑하여라. 너희가 서로 사랑하면 세상 사람들이 그것을 보고 너희가 내 제자라는 것을 알게 될 것이다.”(요한 13:34-35) ‘사랑’은 그리스도의 종답게 자신을 봉헌하고자 하는 모든 참다운 제자를 알아보게 해주는, 변별력 있는 특징입니다.</target>
       </trans-unit>
       <trans-unit id="loco:6302321a40fb660b926ad9f6" resname="The-Second-Note-contd" datatype="plaintext">
         <source>The Second Note, cont'd</source>
