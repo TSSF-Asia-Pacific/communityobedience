@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sat, 22 Oct 2022 19:18:46 +0800
+ Exported at: Sat, 22 Oct 2022 19:32:09 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" source-language="en-AU" target-language="ko" datatype="database" tool-id="loco">
@@ -317,31 +317,31 @@
       </trans-unit>
       <trans-unit id="loco:6353a8499b5b78560f003592" resname="collect-day-0" datatype="plaintext">
         <source>The collect for Sunday</source>
-        <target/>
+        <target state="translated">주일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a8547f0a0241802f5b12" resname="collect-day-1" datatype="plaintext">
         <source>The collect for Monday</source>
-        <target/>
+        <target state="translated">월요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a85f9b5b78560f003594" resname="collect-day-2" datatype="plaintext">
         <source>The collect for Tuesday</source>
-        <target/>
+        <target state="translated">화요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a8692555da6ca57e2ad2" resname="collect-day-3" datatype="plaintext">
         <source>The collect for Wednesday</source>
-        <target/>
+        <target state="translated">수요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a8732555da6ca57e2ad4" resname="collect-day-4" datatype="plaintext">
         <source>The collect for Thursday</source>
-        <target/>
+        <target state="translated">목요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a87ef821660c494a03a2" resname="collect-day-5" datatype="plaintext">
         <source>The collect for Friday</source>
-        <target/>
+        <target state="translated">금요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353a889160c2514b4507ed2" resname="collect-day-6" datatype="plaintext">
         <source>The collect for Saturday</source>
-        <target/>
+        <target state="translated">토요일 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353b5e7aed20571cb7e1922" resname="Day-1-Pray-for-the-Bishop-Protector-of-the-Provinc" datatype="plaintext">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
@@ -745,91 +745,91 @@
       </trans-unit>
       <trans-unit id="loco:6353ce43e09c0a348d2ab272" resname="Community-Prayer-God-we-give-you-thanks-for-the-Th" datatype="plaintext">
         <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
-        <target/>
+        <target state="translated">하느님, 프란시스 수도회 제3회를 주심에 당신께 감사하나이다. 기도하오니, 우리가 공동체와 기도 안에서 하나 되도록 우리를 엮어 주소서. 당신의 종인 우리들이 프란시스 성인의 모범을 따라 당신의 거룩한 이름을 영광스럽게 받들게 하시며, 사람들을 당신의 사랑 안으로 이끌어오게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
       </trans-unit>
       <trans-unit id="loco:6353ce69df259614de785fc2" resname="Collect-Title-tssf-Community-Collect" datatype="plaintext">
         <source>tssf Community Collect</source>
-        <target/>
+        <target state="translated">제3회 공동체 본기도</target>
       </trans-unit>
       <trans-unit id="loco:6353cef305d2de7eef7f4902" resname="Gloria-Patra-1-In-the-name-of-the-Father" datatype="plaintext">
         <source>In the name of the Father,</source>
-        <target/>
+        <target state="translated">성부와,</target>
       </trans-unit>
       <trans-unit id="loco:6353cefc1038240e332756b2" resname="Gloria-Patra-2-and-of-the-Son" datatype="plaintext">
         <source>and of the Son,</source>
-        <target/>
+        <target state="translated">성자와,</target>
       </trans-unit>
       <trans-unit id="loco:6353cf07f7c2483bb0174e82" resname="Gloria-Patra-3-and-of-the-Holy-Spirit" datatype="plaintext">
         <source>and of the Holy Spirit.</source>
-        <target/>
+        <target state="translated">성령의 이름으로.</target>
       </trans-unit>
       <trans-unit id="loco:6353cf3143cc20626217d502" resname="Opening-Prayer-1-Here-and-in-all-your-churches-thr" datatype="plaintext">
         <source>Here and in all your churches throughout the world,</source>
-        <target/>
+        <target state="translated">이제 여기와 세상의 모든 당신의 교회에서,</target>
       </trans-unit>
       <trans-unit id="loco:6353cf3a05d2de7eef7f4904" resname="Opening-Prayer-2-Here-and-in-all-your-churches-thr" datatype="plaintext">
         <source>we adore you, O Christ, and we bless you,</source>
-        <target/>
+        <target state="translated">지극히 거룩하신 주 예수 그리스도를 높이 받드나이다.</target>
       </trans-unit>
       <trans-unit id="loco:6353cf4f4e1c89333b4cc142" resname="Opening-Prayer-3-because-by-your-holy-cross-you-ha" datatype="plaintext">
         <source>because by your holy cross you have redeemed the world.</source>
-        <target/>
+        <target state="translated">당신의 거룩한 십자가로 세상을 구속하셨으니 우리가 당신을 찬양하나이다.</target>
       </trans-unit>
       <trans-unit id="loco:6353cf9d57cfdf16fc280082" resname="Principle-Rubric-Title-Day-31-About-the-Principles" datatype="plaintext">
         <source>About the Principles of the Third Order.</source>
-        <target/>
+        <target state="translated">제3회 원칙</target>
       </trans-unit>
       <trans-unit id="loco:6353cfcff9b3b549fb79f7d2" resname="Principle-Rubric-Title-Normal-Reading-from-the-Pri" datatype="plaintext">
         <source>Reading from the Principles of the Third Order.</source>
-        <target/>
+        <target state="translated">제3회의 원칙 중 그날의 것을 읽습니다</target>
       </trans-unit>
       <trans-unit id="loco:6353d03457b0c26cc87a2a62" resname="Daily-Intercession-Prayer-Title-Daily-intercession" datatype="plaintext">
         <source>Daily intercession prayers...</source>
-        <target/>
+        <target state="translated">중보기도 ...</target>
       </trans-unit>
       <trans-unit id="loco:6353d05d57b0c26cc87a2a64" resname="Either" datatype="plaintext">
         <source>Either</source>
-        <target/>
+        <target state="translated">다음 둘 중 하나를 바치며 마칩니다</target>
       </trans-unit>
       <trans-unit id="loco:6353d0797b69d97df672e4f2" resname="Or-dot-or" datatype="plaintext">
         <source>or...</source>
-        <target/>
+        <target state="translated">또는...</target>
       </trans-unit>
       <trans-unit id="loco:6353d0b29911a8046f347312" resname="Blessing-1-1-May-our-blessed-Lady-pray-for-us" datatype="plaintext">
         <source>May our blessed Lady pray for us.</source>
-        <target/>
+        <target state="translated">복되신 성모여, 우리를 위해 기도해 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d0bb1d88da01f9493de2" resname="Blessing-1-2-May-Saint-Francis-pray-for-us" datatype="plaintext">
         <source>May Saint Francis pray for us.</source>
-        <target/>
+        <target state="translated">성 프란시스여, 우리를 위해 기도해 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d0c56d45922c5f59cd02" resname="Blessing-1-3-May-Saint-Clare-pray-for-us" datatype="plaintext">
         <source>May Saint Clare pray for us.</source>
-        <target/>
+        <target state="translated">성 클라라여, 우리를 위해 기도해 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d0d16d45922c5f59cd04" resname="Blessing-1-4-May-all-the-saints-of-the-Third-Order" datatype="plaintext">
         <source>May all the saints of the Third Order pray for us.</source>
-        <target/>
+        <target state="translated">제3회의 모든 성인들이여, 우리를 위해 기도해 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d0dc340cc525d93d9472" resname="Blessing-1-5-May-the-holy-angels-watch-over-us-and" datatype="plaintext">
         <source>May the holy angels watch over us and befriend us.</source>
-        <target/>
+        <target state="translated">거룩한 천사들이여, 우리를 살펴보시고, 우리와 친구 되어 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d0e6340cc525d93d9474" resname="Blessing-1-6-May-our-Lord-Jesus-give-us-his-blessi" datatype="plaintext">
         <source>May our Lord Jesus give us his blessing and his peace.</source>
-        <target/>
+        <target state="translated">주 예수여, 우리에게 당신의 복과 당신의 평화를 주소서.</target>
       </trans-unit>
       <trans-unit id="loco:6353d10fdaab6d41d623b482" resname="Blessing-2-1-The-grace-of-our-Lord-Jesus-Christ" datatype="plaintext">
         <source>The grace of our Lord Jesus Christ,</source>
-        <target/>
+        <target state="translated">우리 주 예수 그리스도의 은총과</target>
       </trans-unit>
       <trans-unit id="loco:6353d119b30244301a69a8c2" resname="Blessing-2-2-the-love-of-God" datatype="plaintext">
         <source>the love of God,</source>
-        <target/>
+        <target state="translated">하느님의 사랑과</target>
       </trans-unit>
       <trans-unit id="loco:6353d129175bd60b3a50b242" resname="Blessing-2-3-and-the-fellowship-of-the-Holy-Spirit" datatype="plaintext">
         <source>and the fellowship of the Holy Spirit be with us all evermore.</source>
-        <target/>
+        <target state="translated">성령께서 주시는 친교가 항상 우리와 함께하소서.</target>
       </trans-unit>
     </body>
   </file>
