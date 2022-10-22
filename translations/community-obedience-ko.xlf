@@ -4,14 +4,13 @@
  Project: TSSF Community Obedience
  Release: Working copy
  Locale: ko, Korean
- Status: Translated
  Exported by: Tim White
- Exported at: Sat, 20 Aug 2022 22:06:01 +0800
+ Exported at: Sat, 22 Oct 2022 19:18:46 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="https://localise.biz/white-it-solultions/community-obedience" source-language="en-AU" target-language="ko" datatype="database" tool-id="loco">
+  <file original="https://localise.biz/whiteitsolutions/community-obedience" source-language="en-AU" target-language="ko" datatype="database" tool-id="loco">
     <header>
-      <tool tool-id="loco" tool-name="Loco" tool-version="1.0.26 20220711-1" tool-company="Loco"/>
+      <tool tool-id="loco" tool-name="Loco" tool-version="1.0.26 20220820-1" tool-company="Loco"/>
     </header>
     <body>
       <trans-unit id="loco:62e6536c5c788138db3ab322" resname="Daily-Prayer-Offering-This-offering-of-prayer-is-t" datatype="plaintext">
@@ -27,9 +26,810 @@
         <target state="translated">별세한 회원</target>
         <note>Can be an empty string</note>
       </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf3" resname="collect0" datatype="plaintext">
+        <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
+        <target state="translated">하느님, 당신의 사랑이 프란시스와 클라라를 인도하셔서 우리의 세 수도회를 세우게 하셨나이다. 우리 또한 당신의 사랑 안으로 이끌어 우리가 마땅히 함께해야 할 모든 이를 향한 사랑이 깊어지게 해주소서. 예수 그리스도께서는 사랑하는 이들에게 자신을 내어주셨나이다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf4" resname="collect6" datatype="plaintext">
+        <source>Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.</source>
+        <target state="translated">주님, 당신이 없으면 우리의 노동은 헛된 것이지만, 당신과 함께라면 모든 약한 이들이 힘을 얻을 수 있나이다. 당신의 성령을 프란시스 수도회 위에 내려주소서. 당신의 일꾼들에게 순수한 의도와, 인내하는 신앙과, 이 땅에서의 충분한 성과와, 그리고 천국에서 당신을 섬기는 기쁨을 주소서. 우리 주님 예수 그리스도의 이름으로 기도하나이다.</target>
+      </trans-unit>
       <trans-unit id="loco:6300e4cc57b8a56d58434bf5" resname="amen" datatype="plaintext">
         <source>Amen</source>
         <target state="translated">아멘</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf6" resname="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo." datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf7" resname="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill" datatype="plaintext">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf8" resname="In the Region of Popondetta, pray for" datatype="plaintext">
+        <source>In the Region of Popondetta, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bf9" resname="December: Requiem for Departed Franciscans (Manual F25)" datatype="plaintext">
+        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bfa" resname="Deceased Member" datatype="plaintext">
+        <source>Deceased Member</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e4cc57b8a56d58434bfb" resname="I pray for you" datatype="plaintext">
+        <source>I pray for you</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6300e8f6b4cc257b656b2273" resname="collect1" datatype="plaintext">
+        <source>God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.</source>
+        <target state="translated">하느님, 당신은 언제나 어린아이 같은 이들과 마음이 겸손한 이들에게 당신을 보여주기를 기뻐하셨나이다. 우리가 우리의 복된 사부 프란시스의 모범을 따라 살도록 도우시고, 이 세상의 지혜를 어리석음으로 보게 해주소서. 그리고 우리의 마음을 그리스도 예수, 십자가에 달린 분에게만 두게 해주소서. 성자께서는 성부와 성령과 함께 영원히 영광 받으소서.</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e923469ad56c8d580372" resname="collect2" datatype="plaintext">
+        <source>God, you resist the proud and give grace to the humble: help us not to think proudly, but to serve you with the humility that pleases you, so we may walk in the steps of your servant Francis and receive the gift of your grace; through Jesus Christ our Lord.</source>
+        <target state="translated">하느님, 당신은 잘난 사람은 물리치고 겸손한 사람에게 은총을 주십니다. 우리가 자만에 빠지지 않게 해주시고, 겸손으로 당신을 섬기며 당신을 기쁘게 하도록 도와주소서. 우리가 당신의 종 프란시스의 발자취를 따라 걷게 해주시고, 당신의 은혜를 선물로 받게 해주소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e932ed421600b663c7b2" resname="collect3" datatype="plaintext">
+        <source>God, you have made your church rich through the poverty of blessed Francis: help us, like him, not to trust in earthly things, but to seek your heavenly gifts; through Jesus Christ our Lord.</source>
+        <target state="translated">하느님, 당신께서는 복된 프란시스의 가난을 통하여 당신의 교회를 부유하게 만드셨나이다. 우리를 도우시어 프란시스처럼 이 땅에 속한 것들을 신뢰하지 않고, 당신의 천상 선물을 구하게 해소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e943469ad56c8d580374" resname="collect4" datatype="plaintext">
+        <source>God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.</source>
+        <target state="translated">하느님, 당신께서는 복된 프란시스의 삶을 통하여 당신의 백성이 단순한 것을 사랑하도록 바꾸어 주셨나이다. 우리가 프란시스의 모범대로, 이 세상의 것을 가벼이 여기게 하시고, 우리 스스로 하늘에 보화를 쌓도록 하여 주소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6300e952e8e6d47de1366472" resname="collect5" datatype="plaintext">
+        <source>Lord Jesus, in your servant Francis you displayed the wonderful power of the cross: help us always to follow you in the way of the cross, and give us strength to resist all temptation, and to you, Lord, with the Father and the Holy Spirit be all glory for ever.</source>
+        <target state="translated">주 예수께서는, 당신의 종 프란시스에게서 십자가의 위대한 힘이 드러나도록 하셨나이다. 우리가 언제나 십자가의 길로 당신을 따르도록 도와주시고, 모든 유혹을 이겨낼 힘을 주시옵소서. 주님께서는 성부와 성령과 함께 영원히 영광 받으소서.</target>
+      </trans-unit>
+      <trans-unit id="loco:630223f1d922d61d9b2bcd12" resname="The-Object" datatype="plaintext">
+        <source>The Object</source>
+        <target state="translated">목적</target>
+      </trans-unit>
+      <trans-unit id="loco:6302240cea9845450101ad62" resname="principle1" datatype="plaintext">
+        <source>Jesus said, "Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honor." (John 12:24-26)</source>
+        <target state="translated">예수께서 말씀하십니다. “정말 잘 들어 두어라. 밀알 하나가 땅에 떨어져 죽지 않으면 한 알 그대로 남아 있고 죽으면 많은 열매를 맺는다. 누구든지 자기 목숨을 아끼는 사람은 잃을 것이며 이 세상에서 자기 목숨을 미워하는 사람은 목숨을 보존하며 영원히 살게 될 것이다. 누구든지 나를 섬기려면 나를 따라오너라. 내가 있는 곳에는 나를 섬기는 사람도 같이 있게 될 것이다. 누구든지 나를 섬기면 내 아버지께서 그를 높이실 것이다.” (요한 12:24-26)</target>
+      </trans-unit>
+      <trans-unit id="loco:63022e70dad2cb3c14722c02" resname="The-Object-contd" datatype="plaintext">
+        <source>The Object, cont'd</source>
+        <target state="translated">목적 (이어짐) </target>
+      </trans-unit>
+      <trans-unit id="loco:63022e7dfbc4dd099846a4f2" resname="principle2" datatype="plaintext">
+        <source>In the example of his own sacrifice, Jesus reveals the secret of bearing fruit. In surrendering himself to death, he becomes the source of new life. Lifted from the earth on the cross, he draws all people to himself. Clinging to life causes life to decay; the life that is freely given is eternal.</source>
+        <target state="translated">예수께서는 희생의 본을 보여주면서 열매 맺는 일의 비밀을 드러내 보이셨습니다. 자신을 죽음에게 내어줌으로써, 새로운 삶의 근원이 되셨습니다. 지상의 십자가 위에 들어올려짐으로써, 모든 사람을 당신에게 이끌어옵니다. 생명에 집착하는 것은 삶을 부패하게 만듭니다. 값없이 주어지는 삶이 영원합니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022e8cb7a05147cd243ae2" resname="principle3" datatype="plaintext">
+        <source>Jesus calls those who would serve him to follow his example and choose for themselves the same path of renunciation and sacrifice. To those who hear and obey he promises union with God. The object of the Society of Saint Francis is to build a community of those who accept Christ as their Lord and Master and are dedicated to him in body and spirit. They surrender their lives to him and to the service of his people. The Third Order of the Society consists of those who, while following the ordinary professions of life, feel called to dedicate their lives under a definite discipline and vows. They may be female or male, married or single, ordained or lay.</source>
+        <target state="translated">예수께서는 자신을 섬기려는 이들에게 당신을 본받아서, 자기 부인과 희생의 길을 스스로 선택하라고 부르십니다. 그 분의 말씀을 귀기울여 듣고 순종하는 사람에게는 하느님과 하나됨을 약속하십니다. 
+프란시스 수도회의 목적은, 그리스도를 주님이자 스승으로 받아들인 이들의 공동체를 세워, 이들이 그분께 자신의 몸과 정신을 바치는 데 있습니다. 회원들은 자신의 삶을 그분께 내어드리고, 그분의 사람들을 섬겨야 합니다. 제3회는 일반적인 생업에 종사하면서도, 특정한 규율과 서약 아래서 살아가며 자신의 삶을 헌신하도록 부름 받은 사람들로 구성됩니다. 여성, 남성, 결혼한 이, 독신인 이, 성직자, 일반 교우들입니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022e9bfa872d24c2159f22" resname="principle4" datatype="plaintext">
+        <source>When Saint Francis encouraged the formation of the Third Order he recognized that many are called to serve God in the spirit of Poverty, Chastity, and Obedience in everyday life (rather than in a literal acceptance of these principles as in the vows of the Brothers and Sisters of the First and Second Orders). The Rule of the Third Order is intended to enable the duties and conditions of daily living to be carried out in this spirit.</source>
+        <target state="translated">프란시스 성인은 제3 수도회의 설립을 격려하면서, 많은 이들이 일상의 삶을 살아가는 가운데 ‘가난, 정결, 순명’의 정신으로 하느님을 섬기도록 부름 받았음을 알았습니다.(제1회와 제2회의 형제자매들이 하듯 서약을 통해 이러한 정신을 문자 그대로 받아들이는 것과는 좀 다르지만.) 제3회의 규칙은 ‘가난, 정결, 순명’의 정신으로 일상의 삶 한가운데서 의무와 조건들을 지키며 살아갈 수 있도록 하고 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f2fe66d7a03406257b2" resname="The-First-Aim-of-the-Order-To-make-our-Lord-known" datatype="plaintext">
+        <source>The First Aim of the Order - To make our Lord known and loved everywhere.</source>
+        <target state="translated">수도회의 첫 번째 목표
+‘어느 곳에서나 우리 주님을 알리고 사랑하게 한다’</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f3fdad2cb3c14722c04" resname="principle5" datatype="plaintext">
+        <source>The Order is founded on the conviction that Jesus Christ is the perfect revelation of God; that true life has been made available to us through his Incarnation and Ministry, by his Cross and Resurrection, and by the sending of his Holy Spirit. The Order believes that it is the commission of the church to make the gospel known to all, and therefore accepts the duty of bringing others to know Christ, and of praying and working for the coming of the Kingdom of God.</source>
+        <target state="translated">우리 수도회는 ‘예수 그리스도가 하느님의 완전한 드러남’이라는 뚜렷한 믿음에 바탕을 두고 있습니다. 그분의 성육신과 사목을 통하여, 그분의 십자가와 부활에 의하여, 그리고 성령의 오심 덕분에 우리에게도 참된 삶이 가능하게 되었습니다. 우리 수도회는 모든 사람에게 이 같은 복음을 전하라고 교회가 위임 받았음을 믿습니다. 그러므로 다른 이들을 데려와 그리스도를 알게 하고, 하느님의 왕국이 오도록 기도하고 이를 위해 일하는 의무를 받아들입니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f4a4549644aca10e0a2" resname="The-First-Aim-contd" datatype="plaintext">
+        <source>The First Aim, cont'd</source>
+        <target state="translated">첫 번째 목표 (이어짐)</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f578c911d4481013cd2" resname="principle6" datatype="plaintext">
+        <source>The primary aim for us as tertiaries is therefore to make Christ known. This shapes our lives and attitudes to reflect the obedience of those whom our Lord chose to be with him and sent out as his witnesses. Like them, by word and example, we bear witness to Christ in our own immediate environment and pray and work for the fulfillment of his command to make disciples of all nations.</source>
+        <target state="translated">제3회원의 가장 중요한 목표는 그리스도를 알리는 것입니다. 이것이 주님께서 함께 하기로 선택하고 이세상에서 그분을 증거하는 사람이 되라고 파견한 이들에게 보이는 순명하는 모습이 우리에게서도 드러나도록 우리 삶과 태도를 빚어줍니다. 이들 증거자들처럼 우리도 말과 행동거지를 통해, 우리를 둘러싼 어떤 상황에서도 그리스도를 증거하며, 모든 이들을 제자로 삼으라는 그분의 명령을 이루기 위하여 기도하고 일합니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f66921ccc0d4a6047b2" resname="The-Second-Aim-To-spread-the-spirit-of-love-and-ha" datatype="plaintext">
+        <source>The Second Aim - To spread the spirit of love and harmony</source>
+        <target state="translated">두 번째 목표
+‘사랑과 화합의 정신을 전파한다’</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f723986cd507c2bc172" resname="principle7" datatype="plaintext">
+        <source>The Order sets out, in the name of Christ, to break down barriers between people and to seek equality for all. We accept as our second aim the spreading of a spirit of love and harmony among all people. We are pledged to fight against the ignorance, pride, and prejudice that breed injustice or partiality of any kind.</source>
+        <target state="translated">수도회는 그리스도 안에서, 사람들 사이에 가로놓인 담을 허물어 버리고, 모든 사람의 평등함을 추구합니다. 우리는 두 번째 목표로, 모든 사람에게 사랑과 조화의 정신을 전파하는 것을 받아들입니다. 우리는 온갖 종류의 불의와 차별을 낳는 무지, 오만, 편견에 맞서 싸울 것을 서약합니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f7e3cd81955d3396a52" resname="The-Second-Aim-contd" datatype="plaintext">
+        <source>The Second Aim, cont'd</source>
+        <target state="translated">두 번째 목표  (이어짐)</target>
+      </trans-unit>
+      <trans-unit id="loco:63022f9521d26927661beb02" resname="principle8" datatype="plaintext">
+        <source>Members of the Third Order fight against all such injustice in the name of Christ, in whom there can be neither Jew nor Greek, slave nor free, male nor female; for in him all are one. Our chief object is to reflect that openness to all which was characteristic of Jesus. This can only be achieved in a spirit of chastity, which sees others as belonging to God and not as a means of self-fulfillment.</source>
+        <target state="translated">제3회 회원은 그리스도의 이름으로 힘을 내서 온갖 불의에 맞서 싸웁니다. 그분 안에는 유대인도 그리스인도, 노예도 자유인도, 남성도 여성도 있을 수 없습니다. 그분에게는 모두가 하나입니다. 우리의 가장 중요한 목적은 예수님의 성품처럼 모든 이에게 열려 있는 자세를 우리 또한 드러내는 것입니다. 이는 다른 사람을 나의 만족의 수단으로 여기지 않고 그이를 오로지 하느님께 속한 그분의 소유물로 보는 ‘정결’의 정신으로 성취될 수 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022fac687aec1498292432" resname="principle9" datatype="plaintext">
+        <source>As Tertiaries, we are prepared not only to speak out for social justice and international peace, but to put these principles into practice in our own lives, cheerfully facing any scorn or persecution to which this may lead.</source>
+        <target state="translated">제3회원으로서 우리는 사회 정의와 국제 평화에 관해 발언하고, 그뿐 아니라, 이러한 원칙을 우리 자신의 삶에서 실천합니다. 그러는 중에 닥칠 수 있는 비웃음이나 박해 상황에 기쁜 마음으로 맞설 준비가 되어 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022fb78c911d4481013cd4" resname="The-Third-Aim-To-live-simply" datatype="plaintext">
+        <source>The Third Aim - To live simply</source>
+        <target state="translated">세 번째 목표
+‘단순하게 살아간다’</target>
+      </trans-unit>
+      <trans-unit id="loco:63022fc121d26927661beb04" resname="principle10" datatype="plaintext">
+        <source>The first Christians surrendered completely to our Lord and recklessly gave all that they had, offering the world a new vision of a society in which a fresh attitude was taken towards material possessions. This vision was renewed by Saint Francis when he chose Lady Poverty as his bride, desiring that all barriers set up by privilege based on wealth should be overcome by love. This is the inspiration for the third aim of the Society, to live simply.</source>
+        <target state="translated">첫 그리스도인들은 우리 주님께 완전하게 아무 계산도 하지 않고 자신이 가진 모든 것을 내놓으면서, 물질을 소유하는 것에 관한 신선한 태도로써 세상을 향해 새로운 사회적 비전을 보여주었습니다. 이러한 비전은 프란시스 성인에 의해 다시금 새로워졌습니다. 프란시스 성인은 가난을 신부로 삼고 살았고, 부에 기반한 특권이 만들어내는 모든 장벽이 사랑으로 극복되어야 한다고 열망하였습니다. 이것이 수도회의 세 번째 목표인 단순한 삶의 영감이 되었습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63022fd9e4a16c48660ccc43" resname="The-Third-Aim-contd" datatype="plaintext">
+        <source>The Third Aim, cont'd</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63022fe521d26927661beb06" resname="principle11" datatype="plaintext">
+        <source>Although we possess property and earn money to support ourselves and our families, we show ourselves to be true followers of Christ and of Saint Francis by our readiness to live simply and to share with others. We recognize that some of our members may be called to a literal following of Saint Francis in a life of extreme simplicity. All of us, however, accept that we avoid luxury and waste, and regard our possessions as being held in trust for God.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63022ff5423df550011667e2" resname="principle12" datatype="plaintext">
+        <source>Personal spending is limited to what is necessary for our health and well-being and that of our dependents. We aim to stay free from all attachment to wealth, keeping ourselves constantly aware of the poverty in the world and its claim on us. We are concerned more for the generosity that gives all, rather than the value of poverty in itself. In this way we reflect in spirit the acceptance of Jesus' challenge to sell all, give to the poor, and follow him.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630230c7687aec1498292434" resname="The-Three-Ways-of-Service" datatype="plaintext">
+        <source>The Three Ways of Service</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630230d4e4a16c48660ccc45" resname="principle13" datatype="plaintext">
+        <source>Tertiaries desire to be conformed to the image of Jesus Christ, whom we serve in the three ways of Prayer, Study, and Work. In the life of the Order as a whole these three ways must each find full and balanced expression, but it is not to be expected that all members devote themselves equally to each of them. Each individual's service varies according to his/her abilities and circumstances, yet the member's personal rule of life includes each of the three ways.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630230de687aec1498292436" resname="The-First-Way-of-Service-Prayer" datatype="plaintext">
+        <source>The First Way of Service - Prayer</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630230ebe4a16c48660ccc47" resname="principle14" datatype="plaintext">
+        <source>Tertiaries seek to live in an atmosphere of praise and prayer. We aim to be constantly aware of God's presence, so that we may indeed pray without ceasing. Our ever deepening devotion to the indwelling Christ is a source of strength and joy. It is Christ's love that inspires us to service, and strengthens us for sacrifice.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63023122f32cda00c2741272" resname="The-First-Way-of-Service-contd" datatype="plaintext">
+        <source>The First Way of Service, cont'd</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231323986cd507c2bc174" resname="principle15" datatype="plaintext">
+        <source>The heart of our prayer is the Eucharist, in which we share with other Christians the renewal of our union with our Lord and Savior in his sacrifice, remembering his death and receiving his spiritual food.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302314540fb660b926ad9f2" resname="principle16" datatype="plaintext">
+        <source>Tertiaries recognize the power of intercessory prayer for furthering the purposes of Gods' kingdom, and therefore seek a deepening communion with God in personal devotion, and constantly intercede for the needs of his church and his world. Those of us who have much time at our disposal give prayer a large part in our daily lives. Those of us with less time must not fail to see the importance of prayer and to guard the time we have allotted to it from interruption. Lastly, we are encouraged to avail ourselves of the sacrament of Reconciliation, through which the burden of past sin and failure is lifted and peace and hope restored.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63023156e66d7a03406257b4" resname="The-Second-Way-of-Service-Study" datatype="plaintext">
+        <source>The Second Way of Service - Study</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231610069ab09132f0432" resname="principle17" datatype="plaintext">
+        <source>"And this is eternal life: that they may know you the only true God, and Jesus Christ whom you have sent." (John 17:3(NRSV)) True knowledge is knowledge of God. Tertiaries therefore give priority to devotional study of scripture as one of the chief means of attaining that knowledge of God which leads to eternal life.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302316cf32cda00c2741274" resname="The-Second-Way-of-Service-contd" datatype="plaintext">
+        <source>The Second Way of Service, cont'd</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302317c21d26927661beb0d" resname="principle18" datatype="plaintext">
+        <source>As well as the devotional study of Scripture, we all recognize our Christian responsibility to pursue other branches of study, both sacred and secular. In particular, some of us accept the duty of contributing, through research and writing, to a better understanding of the church's mission in the world: the application of Christian principles to the use and distribution of wealth; questions concerning justice and peace; and of all other questions concerning the life of faith.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63023188e66d7a03406257b6" resname="The-Third-Way-of-Service-Work" datatype="plaintext">
+        <source>The Third Way of Service - Work</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231930069ab09132f0434" resname="principle19" datatype="plaintext">
+        <source>Jesus took on himself the form of a servant. He came not to be served, but to serve. He went about doing good: healing the sick, preaching good news to the poor, and binding up the broken hearted.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302319c423df550011667e4" resname="The-Third-Way-of-Service-contd" datatype="plaintext">
+        <source>The Third Way of Service, cont'd</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231a8bce38c7e2e581532" resname="principle20" datatype="plaintext">
+        <source>Tertiaries endeavor to serve others in active work. We try to find expression for each of the three aims of the Order in our lives, and whenever possible actively help others who are engaged in similar work. The chief form of service which we have to offer is to reflect the love of Christ, who, in his beauty and power, is the inspiration and joy of our lives.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231b240fb660b926ad9f4" resname="The-Three-Notes-of-the-Order" datatype="plaintext">
+        <source>The Three Notes of the Order</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231be3986cd507c2bc176" resname="principle21" datatype="plaintext">
+        <source>Humility, love, and joy are the three notes which mark the lives of Tertiaries. When these characteristics are evident throughout the Order, its work will be fruitful. Without them, all that it attempts will be in vain.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231c7921ccc0d4a6047b4" resname="The-First-Note-Humility" datatype="plaintext">
+        <source>The First Note - Humility</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231d33986cd507c2bc178" resname="principle22" datatype="plaintext">
+        <source>We always keep before us the example of Christ, who emptied himself, taking the form of a servant, and who, on the last night of his life, humbly washed his disciples' feet. We likewise seek to serve one another with humility.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231db423df550011667e6" resname="The-First-Note-contd" datatype="plaintext">
+        <source>The First Note, cont'd</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231e7e22810548e175c82" resname="principle23" datatype="plaintext">
+        <source>Humility confesses that we have nothing that we have not received and admits the fact of our insufficiency and our dependence upon God. It is the basis of all Christian virtues. Saint Bernard of Clairvaux said, "No spiritual house can stand for a moment except on the foundation of humility." It is the first condition of a joyful life within any community.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:630231f70069ab09132f0436" resname="principle24" datatype="plaintext">
+        <source>The faults that we see in others are the subject of prayer rather than of criticism. We take care to cast out the beam from our own eye before offering to remove the speck from another's. We are ready to accept the lowest place when asked, and to volunteer to take it. Nevertheless, when asked to undertake work of which we feel unworthy or incapable, we do not shrink from it on the grounds of humility, but confidently attempt it through the power that is made perfect in weakness.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302320029710d04c3412862" resname="The-Second-Note-Love" datatype="plaintext">
+        <source>The Second Note - Love</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:63023210e66d7a03406257b8" resname="principle25" datatype="plaintext">
+        <source>Jesus said, "I give you a new commandment: love one another. Just as I have loved you, you also should love one another. By this everyone will know that you are my disciples, if you have love for one another." (John 13:34 - 35(NRSV)) Love is the distinguishing feature of all true disciples of Christ who wish to dedicate themselves to him as his servants.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6302321a40fb660b926ad9f6" resname="The-Second-Note-contd" datatype="plaintext">
+        <source>The Second Note, cont'd</source>
+        <target state="translated">두 번째 표지 (이어짐)</target>
+      </trans-unit>
+      <trans-unit id="loco:63023229921ccc0d4a6047b6" resname="principle26" datatype="plaintext">
+        <source>Therefore, we seek to love all those to whom we are bound by ties of family or friendship. Our love for them increases as our love for Christ grows deeper. We have a special love and affection for members of the Third Order, praying for each other individually and seeking to grow in that love. We are on our guard against anything which might injure this love, and we seek reconciliation with those from whom we are estranged. We seek the same love for those with whom we have little natural affinity, for this kind of love is not a welling up of emotion, but is a bond founded in our common union with Christ.</source>
+        <target state="translated">그러므로 우리는 가족관계나 우정으로 묶인 사람들 누구나 사랑하려고 노력합니다. 그리스도를 향한 우리의 사랑이 깊어감에 따라 이들을 향한 우리의 사랑도 커 갑니다. 우리는 제3회 회원들을 향해 특별한 사랑과 애정을 품고 있으며, 서로를 위해 한사람 한사람 기도해주고, 그러한 사랑 안에서 함께 성장하기를 추구합니다. 우리는 이러한 사랑에 상처 낼 수 있는 것은 어떠한 것에든 맞서서 막아내며, 우리와 소원해진 사람들과는 화해를 모색합니다. 우리는 자연스럽고 편안한 감정을 느끼지 못하는 상대에게도 같은 사랑을 추구합니다. 이러한 ‘사랑’은 감정의 분출이 아니며, 우리가 함께 그리스도와 하나 됨을 이루고 있는, 그리스도와 우리 사이의 끈입니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:63023242e22810548e175c84" resname="principle27" datatype="plaintext">
+        <source>The Third Order is a Christian community whose members, although varied in race, education, and character, are bound into a living whole through the love we share in Christ. This unity of all who believe in him will become, as our Lord intended, a witness to the world of his divine mission. In our relationship with those outside the Order, we show the same Christ-like love, and gladly give of ourselves, remembering that love is measured by sacrifice.</source>
+        <target state="translated">제3회는 인종과 교육 내용과 개성이 저마다 다 다른 다양한 회원들이 그리스도 안에서 함께 나눠 가진 ‘사랑’을 통해 묶인 살아있는 공동체입니다. 그분을 믿는 사람들의 이러한 하나 됨은, 우리 주님께서 지향하신 대로 그분의 거룩한 사명을 펼치는 터전인 이 세상에서 증인이 됩니다. 수도회 밖의 사람들과 맺는 관계에서 우리는 그리스도와 같은 사랑을 보여주고, 기꺼이 우리 자신을 내주면서, 사랑은 희생으로 측정됨을 기억합니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6302324afa18f76d84579092" resname="The-Third-Note-Joy" datatype="plaintext">
+        <source>The Third Note - Joy</source>
+        <target state="translated">세 번째 표지 
+‘기쁨’</target>
+      </trans-unit>
+      <trans-unit id="loco:630232590069ab09132f0438" resname="principle28" datatype="plaintext">
+        <source>Tertiaries, rejoicing in the Lord always, show in our lives the grace and beauty of divine joy. We remember that we follow the Son of Man, who came eating and drinking, who loved the birds and the flowers, who blessed little children, who was a friend to tax collectors and sinners, and who sat at the tables of both the rich and the poor. We delight in fun and laughter, rejoicing in God's world, its beauty and its living creatures, calling nothing common or unclean. We mix freely with all people, ready to bind up the broken-hearted and to bring joy into the lives of others. We carry within us an inner peace and happiness which others may perceive, even if they do not know its source.</source>
+        <target state="translated">제3회원은 늘 주님 안에서 기뻐하고, 우리의 삶 속에서 하늘로부터 오는 은혜와 거룩한 기쁨을 보여줍니다. 우리는 ‘사람의 아들’을 따른다는 것을 명심하는데, 그분은 먹고 마시며, 새와 꽃을 사랑하고, 어린이를 축복하며, 세리와 죄인의 친구로 지내고, 부자와 가난한 이 양쪽 다와 밥상을 나눈 사람입니다. 우리는 즐거움과 웃음을 반기며, 하느님의 세계 안에서 그 세계의 아름다움과 살아 있는 생명체들을 기뻐합니다. 그 무엇도 속되다거나 부정(不淨)하다고 하지 않습니다. 우리는 모든 사람과 자유롭게 어울리며, 상심한 이들의 상처를 싸매어 주고 사람들의 삶에 기쁨을 가져다줄 준비가 되어 있습니다. 우리 안에는 내적 평화와 행복이 깃들어 있는데, 누군가는 그 근원을 알아챌 수도 있고, 누군가는 모를 수도 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:6302326240fb660b926ad9f8" resname="The-Third-Note-contd" datatype="plaintext">
+        <source>The Third Note, cont'd</source>
+        <target state="translated">세 번째 표지 (이어짐)</target>
+      </trans-unit>
+      <trans-unit id="loco:6302326df32cda00c2741276" resname="principle29" datatype="plaintext">
+        <source>This joy is a divine gift, coming from union with God in Christ. It is still there even in times of darkness and difficulty, giving cheerful courage in the face of disappointment, and an inward serenity and confidence through sickness and suffering. Those who possess it can rejoice in weakness, insults, hardship, and persecutions for Christs' sake; for when we are weak, then we are strong.</source>
+        <target state="translated">이러한 기쁨은 그리스도 안에서 하느님과의 하나 됨에서 오는 거룩한 선물입니다. 어두움과 시련의 시기일지라도 늘 거기 있습니다. 낙담한 얼굴에 쾌활한 용기를 주며, 병마와 고통 속에서도 내면의 고요함과 신뢰를 줍니다. 이를 품고 있는 사람은 연약함이나, 모욕이나, 고초나, 그리스도를 위한 박해가 닥쳐도 기뻐할 수 있습니다. 우리가 약할 때 그때 우리는 강하기 때문입니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:630232780069ab09132f043a" resname="The-Three-Notes" datatype="plaintext">
+        <source>The Three Notes</source>
+        <target state="translated">세 가지 표지 ‘겸손, 사랑, 기쁨’</target>
+      </trans-unit>
+      <trans-unit id="loco:63023282921ccc0d4a6047b8" resname="principle30" datatype="plaintext">
+        <source>The humility, love and joy, which mark the lives of Tertiaries, are all God-given graces. They can never be obtained by human effort. They are gifts of the Holy Spirit. The purpose of Christ is to work miracles through people who are willing to be emptied of self and to surrender to him. We then become channels of grace through whom his mighty work is done.</source>
+        <target state="translated">제3회원의 삶을 나타내는 ‘겸손, 사랑, 기쁨’은 다 하느님께서 주신 은총입니다. 그것은 사람의 노력으로 결코 얻을 수 없습니다. 그것은 성령이 주시는 선물입니다. 그리스도의 목적은, 기꺼이 자신을 비우고 당신에게 복종하는 사람들을 통해 기적을 행하는 것입니다. 그리하면 우리는 그분의 위대한 사목이 이루어지는 은총의 통로가 됩니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:630232a3f32cda00c2741278" resname="principle31-1" datatype="plaintext">
+        <source>The Principles of the Third Order, a portion of which is set for reflection each day, are based on the Rule of the Christa Seva Sangha from Poona in India. This community, formed in 1922, was inspired both by the Gospel of Christ and the way of life in an Indian Ashram. This community of married and single people, ordained and lay, led by Fr Jack Winslow, lived a common life as equals.</source>
+        <target state="translated">매일 반성하는 부분인 제3계의 원리는 Christa Seva Sangha 인도 푸나 출신. 1922년에 형성된 이 공동체는 그리스도의 복음과 인도 아쉬람의 삶의 방식에서 영감을 받았습니다. Jack Winslow 신부가 이끄는 이 기혼 및 독신 공동체는 서품을 받고 평신도로서 평등한 삶을 살았습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:630232b4e66d7a03406257ba" resname="principle31-2" datatype="plaintext">
+        <source>In 1928 the Rule was revised under the guidance of Fr Algy Robertson and some aspects of that Rule can also be found in The Third Order Principles.</source>
+        <target state="translated">1928년에 Algy Robertson 신부의 지도 하에 회칙이 개정되었으며 그 회칙의 일부 측면은 3차 원칙에서도 찾아볼 수 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:630232c040fb660b926ad9fa" resname="principle31-3" datatype="plaintext">
+        <source>We give thanks to God for the Principles of the Third Order that inspire us in the Franciscan way of following Jesus.</source>
+        <target state="translated">우리는 예수를 따르는 프란치스칸 방식으로 우리에게 영감을 주는 제3회의 원칙에 대해 하느님께 감사드립니다.</target>
+      </trans-unit>
+      <trans-unit id="loco:630232d0e66d7a03406257bc" resname="principle31-4" datatype="plaintext">
+        <source>Reflect on which portion has particularly encouraged or challenged you in this past month.</source>
+        <target state="translated">지난 한달 동안 원칙 중에서 어떤 부분이 자신에게 특별히 격려가 되었는지 또는 도전을 주었는지 성찰합시다. </target>
+      </trans-unit>
+      <trans-unit id="loco:6353a8499b5b78560f003592" resname="collect-day-0" datatype="plaintext">
+        <source>The collect for Sunday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a8547f0a0241802f5b12" resname="collect-day-1" datatype="plaintext">
+        <source>The collect for Monday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a85f9b5b78560f003594" resname="collect-day-2" datatype="plaintext">
+        <source>The collect for Tuesday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a8692555da6ca57e2ad2" resname="collect-day-3" datatype="plaintext">
+        <source>The collect for Wednesday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a8732555da6ca57e2ad4" resname="collect-day-4" datatype="plaintext">
+        <source>The collect for Thursday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a87ef821660c494a03a2" resname="collect-day-5" datatype="plaintext">
+        <source>The collect for Friday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353a889160c2514b4507ed2" resname="collect-day-6" datatype="plaintext">
+        <source>The collect for Saturday</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b5e7aed20571cb7e1922" resname="Day-1-Pray-for-the-Bishop-Protector-of-the-Provinc" datatype="plaintext">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b74651329d3fe548c222" resname="Day-1-In-the-Region-of-Popondetta-pray-for" datatype="plaintext">
+        <source>In the Region of Popondetta, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b75b77b1e160b06018a2" resname="Day-1-December-Requiem-for-Departed-Franciscans-Ma" datatype="plaintext">
+        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b770aef53a34902ebae2" resname="Day-2-In-the-Province-of-the-Pacific-pray-for-the" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b783de5954244b680e42" resname="Day-2-Pray-for-the-Minister-General-John-Hebenton" datatype="plaintext">
+        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b7c0e1794e526a0d1252" resname="Day-3-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b7db18c43a6eb43d47e4" resname="Day-3-Pray-for-the-Provincial-Minister-Mandy-Wheat" datatype="plaintext">
+        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b7ef0fdd8c572b5f04d2" resname="Day-3-October-The-Transitus-of-St-Francis-Manual-F" datatype="plaintext">
+        <source>October: The Transitus of St Francis (Manual F20)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b803d9cca83ea070b0f2" resname="Day-4-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b813fb06d9385128a202" resname="Day-4-Pray-for-the-Provincial-Secretary-John-Blake" datatype="plaintext">
+        <source>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b81faef53a34902ebae4" resname="Day-4-In-the-Region-of-Dogura-pray-for" datatype="plaintext">
+        <source>In the Region of Dogura, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8294835b404510f7672" resname="Day-4-August-John-Vianney-Cure-dArs-Manual-F12-Oct" datatype="plaintext">
+        <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b83e3e321623b01edfe2" resname="Day-5-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8474835b404510f7674" resname="Day-5-Pray-for-all-Regional-Ministers-in-the-Provi" datatype="plaintext">
+        <source>Pray for all Regional Ministers in the Province of Asia-Pacific.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b85a9948636cc655be92" resname="Day-6-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b867608f6f7cb4497192" resname="Day-6-Pray-for-the-Newsletter-Editor-Jan-Down-the" datatype="plaintext">
+        <source>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b88335914517b353c4f2" resname="Day-7-In-the-Province-of-Asia-Pacific-pray-for-all" datatype="plaintext">
+        <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b88d3e321623b01edfe4" resname="Day-7-Pray-for-all-Novice-Counsellors" datatype="plaintext">
+        <source>Pray for all Novice Counsellors.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b89d3143f2006a525052" resname="Day-7-September-Brother-Douglas-Manual-F18" datatype="plaintext">
+        <source>September: Brother Douglas (Manual F18)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8ab00cfd2290e519d92" resname="Day-8-In-the-Province-of-Asia-Pacific-pray-for-all" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8b56d6f5e2d7e519c72" resname="Day-8-Pray-for-all-Area-Convenors" datatype="plaintext">
+        <source>Pray for all Area Convenors.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8ce9085ae5ddb05e792" resname="Day-9-In-the-Province-of-Asia-Pacific-pray-for-Ter" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8d633988b64dd1b7bc2" resname="Day-9-Pray-for-all-isolated-Tertiaries" datatype="plaintext">
+        <source>Pray for all isolated Tertiaries.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8e000a3fc6fb465b972" resname="Day-9-In-Queensland-A-Region-pray-for" datatype="plaintext">
+        <source>In Queensland A Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b8e9e217e37cfa16e432" resname="Day-9-February-Anglican-Franciscan-Pioneers-Manual" datatype="plaintext">
+        <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b90254bc536d687b2fc2" resname="Day-10-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b90c00a3fc6fb465b974" resname="Day-10-Pray-for-Franciscan-Aid" datatype="plaintext">
+        <source>Pray for Franciscan Aid.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b91b33988b64dd1b7bc4" resname="Day-10-In-Queensland-B-Northern-NSW-Region-pray-fo" datatype="plaintext">
+        <source>In Queensland B / Northern NSW Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b9272beaa4385c527db2" resname="Day-10-August-Transitus-of-St-Clare-Manual-F13-Oct" datatype="plaintext">
+        <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b932b208cf273b6e7312" resname="Day-11-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b93a18a61014b55d19c2" resname="Day-11-Pray-for-unity-within-the-Anglican-Church-a" datatype="plaintext">
+        <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b94f37feeb5e036ff7d2" resname="Day-11-April-Brother-Geoffrey-SSF-Manual-F5-August" datatype="plaintext">
+        <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353b9f92fbe3271cc351cf2" resname="Day-12-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba042684061d0e1fac42" resname="Day-12-Pray-for-Franciscans-International" datatype="plaintext">
+        <source>Pray for Franciscans International.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba36b18dca7a5d344032" resname="Day-13-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba4b10b3c07e2a567652" resname="Day-13-June-Antony-of-Padua-Manual-F10" datatype="plaintext">
+        <source>June: Antony of Padua (Manual F10)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba62c8d87755f13dfe22" resname="Day-14-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba6b05de29496c2a3fb2" resname="Day-14-Pray-for-the-First-Order-in-the-Provinces-o" datatype="plaintext">
+        <source>Pray for the First Order in the Provinces of America and Europe.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba7c59163537d259d352" resname="Day-14-August-Maximilian-Kolbe-Manual-F15" datatype="plaintext">
+        <source>August: Maximilian Kolbe (Manual F15)`</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba89862f6b2210740922" resname="Day-15-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ba97ba128121475ef752" resname="Day-15-Pray-for-the-First-Order-Brothers-in-the-Pr" datatype="plaintext">
+        <source>Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353baa6862f6b2210740924" resname="Day-15-July-Bonaventure-Manual-F11-August-Mary-the" datatype="plaintext">
+        <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bab3c8d87755f13dfe24" resname="Day-16-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bac3f58ff737051cf232" resname="Day-16-Pray-for-First-Order-sisters-in-America-Kor" datatype="plaintext">
+        <source>Pray for First Order sisters in America, Korea and England.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bad1b4b3ff35c44e7de2" resname="Day-16-January-First-Franciscan-Martyrs-Manual-F2" datatype="plaintext">
+        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bae0074195634b4a8b22" resname="Day-17-In-the-African-Province-pray-for-the-Tertia" datatype="plaintext">
+        <source>In the African Province, pray for the Tertiaries in Kokstad and Durban.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bae6f22f1236c53be5f2" resname="Day-17-Pray-for-the-Second-Order-Sisters-Order-of" datatype="plaintext">
+        <source>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353baf34fed751ac4355aa2" resname="Day-17-In-New-South-Wales-A-Region-pray-for" datatype="plaintext">
+        <source>In New South Wales A Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bafd4fed751ac4355aa4" resname="Day-17-September-The-Stigmata-of-St-Francis-Manual" datatype="plaintext">
+        <source>September: The Stigmata of St Francis (Manual F19)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb18862f6b2210740926" resname="Day-18-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Ghana.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb217832ec0fdb3ca0e2" resname="Day-18-Pray-for-Postulants-and-aspirants-to-the-th" datatype="plaintext">
+        <source>Pray for Postulants and aspirants to the three Orders.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb3274f9894a697b42e2" resname="Day-19-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb3df22f1236c53be5f4" resname="Day-19-Pray-for-Companions-of-SSF-and-Associates-o" datatype="plaintext">
+        <source>Pray for Companions of SSF and Associates of tssf.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb4d7832ec0fdb3ca0e4" resname="Day-19-May-Bernardine-of-Siena-Manual-F7-November" datatype="plaintext">
+        <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb5a74f9894a697b42e4" resname="Day-20-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in North East and North West England.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb6f48488a77313385f2" resname="Day-20-Pray-for-The-Little-Brothers-of-Francis-at" datatype="plaintext">
+        <source>Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb7974f9894a697b42e6" resname="Day-20-In-New-South-Wales-B-ACT-Region-pray-for" datatype="plaintext">
+        <source>In New South Wales B / ACT Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb89449f804f9b71b5e2" resname="Day-21-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bb91261fab50c04e93c2" resname="Day-21-Pray-for-the-Franciscan-Federation-of-Austr" datatype="plaintext">
+        <source>Pray for the Franciscan Federation of Australia and the members of the Executive.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bba45ceffc268d055742" resname="Day-22-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in Central and Eastern England.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbb188f6ca40cf5e09c2" resname="Day-22-Pray-for-the-Order-of-Friars-Minor-ofm-the" datatype="plaintext">
+        <source>Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbbcc28fc327d830a622" resname="Day-22-In-Victoria-Tasmania-Region-pray-for" datatype="plaintext">
+        <source>In Victoria / Tasmania Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbc82d8ead569f6b8442" resname="Day-23-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in South East England and London and Central South England.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbd29d148919d63d6e42" resname="Day-23-Pray-for-the-Roman-Catholic-Poor-Clares" datatype="plaintext">
+        <source>Pray for the Roman Catholic Poor Clares</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbde5ceffc268d055744" resname="Day-23-November-Fr-Algy-SSF-Manual-F24" datatype="plaintext">
+        <source>November: Fr Algy SSF (Manual F24)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbea2d8ead569f6b8444" resname="Day-24-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bbf2f59b0b06b5548072" resname="Day-24-Pray-for-the-Third-Order-Regular-and-Franci" datatype="plaintext">
+        <source>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bc012d8ead569f6b8446" resname="Day-25-In-the-Province-of-the-Americas-pray-for-th" datatype="plaintext">
+        <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bc084eda466e616d8e62" resname="Day-25-Pray-for-the-Secular-Franciscan-Order-Roman" datatype="plaintext">
+        <source>Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bc102d8ead569f6b8448" resname="Day-25-In-South-Australia-Region-pray-for" datatype="plaintext">
+        <source>In South Australia Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353bc19c28fc327d830a624" resname="Day-25-August-Louis-King-Patron-of-the-Third-Order" datatype="plaintext">
+        <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c994e7d2113508674832" resname="Day-26-In-the-Province-of-the-Americas-pray-for-th" datatype="plaintext">
+        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c99e9f47a61619663312" resname="Day-26-Pray-for-Franciscans-International-and-thei" datatype="plaintext">
+        <source>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9a845ef02152825a722" resname="Day-26-In-Western-Australia-Region-pray-for" datatype="plaintext">
+        <source>In Western Australia Region, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9b99f47a61619663314" resname="Day-27-Pray-for-the-Society-of-St-Francis" datatype="plaintext">
+        <source>Pray for the Society of St Francis:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9c34d7582689178b532" resname="Day-27-Ministers-General-of-First-Orders-and-Abbes" datatype="plaintext">
+        <source>Ministers General of First Orders and Abbess of Second Order;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9d068c5d002c83259d2" resname="Day-27-Ministers-Provincial-of-First-Orders" datatype="plaintext">
+        <source>Ministers Provincial of First Orders.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9e0e7d2113508674834" resname="Day-27-Pray-for-all-Franciscan-Conference-and-Retr" datatype="plaintext">
+        <source>Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353c9f7fd2bf6785f1ba1c2" resname="Day-28-In-the-Province-of-the-Americas-Caribbean-p" datatype="plaintext">
+        <source>In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca02c229d941d55b4d52" resname="Day-28-Pray-for-Franciscans-working-as-chaplains-a" datatype="plaintext">
+        <source>Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca0d4d7582689178b534" resname="Day-28-In-South-and-East-Asia-Region-Sri-Lanka-are" datatype="plaintext">
+        <source>In South and East Asia Region, Sri Lanka area, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca290598d75b734bc7e2" resname="Day-29-In-the-Province-of-the-Americas-pray-for-al" datatype="plaintext">
+        <source>In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca334f9a76329c56f192" resname="Day-29-Pray-for-scholars-and-writers-who-seek-to-m" datatype="plaintext">
+        <source>Pray for scholars and writers who seek to make known the ways of Francis and Clare.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca3c45ef02152825a724" resname="Day-29-In-South-and-East-Asia-Region-Malaysia-area" datatype="plaintext">
+        <source>In South and East Asia Region, Malaysia area, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca48beaab045815ae2a2" resname="Day-29-In-the-Hong-Kong-area-pray-for" datatype="plaintext">
+        <source>In the Hong Kong area, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca56c78a80675c782572" resname="Day-29-May-Jack-Winslow-Manual-F8" datatype="plaintext">
+        <source>May: Jack Winslow (Manual F8)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca63ddd4312b0908a292" resname="Day-30-In-the-Province-of-the-Americas-pray-for-Te" datatype="plaintext">
+        <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca704f9a76329c56f194" resname="Day-30-Pray-for-those-in-churches-who-while-not-un" datatype="plaintext">
+        <source>Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca7fe2b7402d6b6cb092" resname="Day-30-In-South-and-East-Asia-Region-in-Singapore" datatype="plaintext">
+        <source>In South and East Asia Region, in Singapore, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca8ae2b7402d6b6cb094" resname="Day-30-In-South-Korea-area-pray-for" datatype="plaintext">
+        <source>In South Korea area, pray for</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ca9dc229d941d55b4d54" resname="Day-31-Pray-for-Ministers-of-the-Third-Order" datatype="plaintext">
+        <source>Pray for Ministers of the Third Order:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353caac802e7875a10bf622" resname="Day-31-MINISTER-GENERAL-John-Hebenton" datatype="plaintext">
+        <source>MINISTER GENERAL - John Hebenton</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cab53e9a0902d4509a92" resname="Day-31-ASSISTANT-MINISTER-GENERAL-Janet-Fedders" datatype="plaintext">
+        <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cac14f821571e549df22" resname="Day-31-PROVINCIAL-MINISTERS" datatype="plaintext">
+        <source>PROVINCIAL MINISTERS:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cacbbeaab045815ae2a4" resname="Day-31-American-Province-Janet-Fedders" datatype="plaintext">
+        <source>American Province - Janet Fedders</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cad4e2b7402d6b6cb096" resname="Day-31-African-Province-Michael-Twum-Darko" datatype="plaintext">
+        <source>African Province - Michael Twum-Darko</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353caed30467e2669741eb2" resname="Day-31-Asia-Pacific-Province-Mandy-Wheatley" datatype="plaintext">
+        <source>Asia-Pacific Province - Mandy Wheatley</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353caf430467e2669741eb4" resname="Day-31-European-Province-Tim-Higgins-acting" datatype="plaintext">
+        <source>European Province - Tim Higgins (acting)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cb0026dbf601d206cad2" resname="Day-31-Pacific-Province-Blair-Matheson" datatype="plaintext">
+        <source>Pacific Province - Blair Matheson</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cb08bdc97311786d0992" resname="Day-31-Pray-for-those-who-have-been-released-from" datatype="plaintext">
+        <source>Pray for those who have been released from the Third Order in the past year:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ce43e09c0a348d2ab272" resname="Community-Prayer-God-we-give-you-thanks-for-the-Th" datatype="plaintext">
+        <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353ce69df259614de785fc2" resname="Collect-Title-tssf-Community-Collect" datatype="plaintext">
+        <source>tssf Community Collect</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cef305d2de7eef7f4902" resname="Gloria-Patra-1-In-the-name-of-the-Father" datatype="plaintext">
+        <source>In the name of the Father,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cefc1038240e332756b2" resname="Gloria-Patra-2-and-of-the-Son" datatype="plaintext">
+        <source>and of the Son,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cf07f7c2483bb0174e82" resname="Gloria-Patra-3-and-of-the-Holy-Spirit" datatype="plaintext">
+        <source>and of the Holy Spirit.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cf3143cc20626217d502" resname="Opening-Prayer-1-Here-and-in-all-your-churches-thr" datatype="plaintext">
+        <source>Here and in all your churches throughout the world,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cf3a05d2de7eef7f4904" resname="Opening-Prayer-2-Here-and-in-all-your-churches-thr" datatype="plaintext">
+        <source>we adore you, O Christ, and we bless you,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cf4f4e1c89333b4cc142" resname="Opening-Prayer-3-because-by-your-holy-cross-you-ha" datatype="plaintext">
+        <source>because by your holy cross you have redeemed the world.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cf9d57cfdf16fc280082" resname="Principle-Rubric-Title-Day-31-About-the-Principles" datatype="plaintext">
+        <source>About the Principles of the Third Order.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353cfcff9b3b549fb79f7d2" resname="Principle-Rubric-Title-Normal-Reading-from-the-Pri" datatype="plaintext">
+        <source>Reading from the Principles of the Third Order.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d03457b0c26cc87a2a62" resname="Daily-Intercession-Prayer-Title-Daily-intercession" datatype="plaintext">
+        <source>Daily intercession prayers...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d05d57b0c26cc87a2a64" resname="Either" datatype="plaintext">
+        <source>Either</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0797b69d97df672e4f2" resname="Or-dot-or" datatype="plaintext">
+        <source>or...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0b29911a8046f347312" resname="Blessing-1-1-May-our-blessed-Lady-pray-for-us" datatype="plaintext">
+        <source>May our blessed Lady pray for us.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0bb1d88da01f9493de2" resname="Blessing-1-2-May-Saint-Francis-pray-for-us" datatype="plaintext">
+        <source>May Saint Francis pray for us.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0c56d45922c5f59cd02" resname="Blessing-1-3-May-Saint-Clare-pray-for-us" datatype="plaintext">
+        <source>May Saint Clare pray for us.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0d16d45922c5f59cd04" resname="Blessing-1-4-May-all-the-saints-of-the-Third-Order" datatype="plaintext">
+        <source>May all the saints of the Third Order pray for us.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0dc340cc525d93d9472" resname="Blessing-1-5-May-the-holy-angels-watch-over-us-and" datatype="plaintext">
+        <source>May the holy angels watch over us and befriend us.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d0e6340cc525d93d9474" resname="Blessing-1-6-May-our-Lord-Jesus-give-us-his-blessi" datatype="plaintext">
+        <source>May our Lord Jesus give us his blessing and his peace.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d10fdaab6d41d623b482" resname="Blessing-2-1-The-grace-of-our-Lord-Jesus-Christ" datatype="plaintext">
+        <source>The grace of our Lord Jesus Christ,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d119b30244301a69a8c2" resname="Blessing-2-2-the-love-of-God" datatype="plaintext">
+        <source>the love of God,</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="loco:6353d129175bd60b3a50b242" resname="Blessing-2-3-and-the-fellowship-of-the-Holy-Spirit" datatype="plaintext">
+        <source>and the fellowship of the Holy Spirit be with us all evermore.</source>
+        <target/>
       </trans-unit>
     </body>
   </file>

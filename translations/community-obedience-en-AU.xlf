@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Sun, 21 Aug 2022 21:28:24 +0800
+ Exported at: Sat, 22 Oct 2022 19:18:43 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" source-language="en-AU" datatype="database" tool-id="loco">
@@ -22,9 +22,6 @@
       <trans-unit id="loco:62e654d56c9070667f397642" resname="I-pray-for-you" datatype="plaintext">
         <source> </source>
         <note>Can be an empty string</note>
-      </trans-unit>
-      <trans-unit id="loco:6300e4cc57b8a56d58434bf2" resname="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer." datatype="plaintext">
-        <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
       </trans-unit>
       <trans-unit id="loco:6300e4cc57b8a56d58434bf3" resname="collect0" datatype="plaintext">
         <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
@@ -153,7 +150,7 @@
         <source>The Second Way of Service - Study</source>
       </trans-unit>
       <trans-unit id="loco:630231610069ab09132f0432" resname="principle17" datatype="plaintext">
-        <source>And this is eternal life: that they may know you the only true God, and Jesus Christ whom you have sent." (John 17:3(NRSV)) True knowledge is knowledge of God. Tertiaries therefore give priority to devotional study of scripture as one of the chief means of attaining that knowledge of God which leads to eternal life.</source>
+        <source>"And this is eternal life: that they may know you the only true God, and Jesus Christ whom you have sent." (John 17:3(NRSV)) True knowledge is knowledge of God. Tertiaries therefore give priority to devotional study of scripture as one of the chief means of attaining that knowledge of God which leads to eternal life.</source>
       </trans-unit>
       <trans-unit id="loco:6302316cf32cda00c2741274" resname="The-Second-Way-of-Service-contd" datatype="plaintext">
         <source>The Second Way of Service, cont'd</source>
@@ -238,6 +235,393 @@
       </trans-unit>
       <trans-unit id="loco:630232d0e66d7a03406257bc" resname="principle31-4" datatype="plaintext">
         <source>Reflect on which portion has particularly encouraged or challenged you in this past month.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a8499b5b78560f003592" resname="collect-day-0" datatype="plaintext">
+        <source>The collect for Sunday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a8547f0a0241802f5b12" resname="collect-day-1" datatype="plaintext">
+        <source>The collect for Monday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a85f9b5b78560f003594" resname="collect-day-2" datatype="plaintext">
+        <source>The collect for Tuesday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a8692555da6ca57e2ad2" resname="collect-day-3" datatype="plaintext">
+        <source>The collect for Wednesday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a8732555da6ca57e2ad4" resname="collect-day-4" datatype="plaintext">
+        <source>The collect for Thursday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a87ef821660c494a03a2" resname="collect-day-5" datatype="plaintext">
+        <source>The collect for Friday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353a889160c2514b4507ed2" resname="collect-day-6" datatype="plaintext">
+        <source>The collect for Saturday</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b5e7aed20571cb7e1922" resname="Day-1-Pray-for-the-Bishop-Protector-of-the-Provinc" datatype="plaintext">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b74651329d3fe548c222" resname="Day-1-In-the-Region-of-Popondetta-pray-for" datatype="plaintext">
+        <source>In the Region of Popondetta, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b75b77b1e160b06018a2" resname="Day-1-December-Requiem-for-Departed-Franciscans-Ma" datatype="plaintext">
+        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b770aef53a34902ebae2" resname="Day-2-In-the-Province-of-the-Pacific-pray-for-the" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b783de5954244b680e42" resname="Day-2-Pray-for-the-Minister-General-John-Hebenton" datatype="plaintext">
+        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b7c0e1794e526a0d1252" resname="Day-3-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b7db18c43a6eb43d47e4" resname="Day-3-Pray-for-the-Provincial-Minister-Mandy-Wheat" datatype="plaintext">
+        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b7ef0fdd8c572b5f04d2" resname="Day-3-October-The-Transitus-of-St-Francis-Manual-F" datatype="plaintext">
+        <source>October: The Transitus of St Francis (Manual F20)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b803d9cca83ea070b0f2" resname="Day-4-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b813fb06d9385128a202" resname="Day-4-Pray-for-the-Provincial-Secretary-John-Blake" datatype="plaintext">
+        <source>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b81faef53a34902ebae4" resname="Day-4-In-the-Region-of-Dogura-pray-for" datatype="plaintext">
+        <source>In the Region of Dogura, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8294835b404510f7672" resname="Day-4-August-John-Vianney-Cure-dArs-Manual-F12-Oct" datatype="plaintext">
+        <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b83e3e321623b01edfe2" resname="Day-5-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8474835b404510f7674" resname="Day-5-Pray-for-all-Regional-Ministers-in-the-Provi" datatype="plaintext">
+        <source>Pray for all Regional Ministers in the Province of Asia-Pacific.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b85a9948636cc655be92" resname="Day-6-In-the-Province-of-the-Pacific-pray-for-Tert" datatype="plaintext">
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b867608f6f7cb4497192" resname="Day-6-Pray-for-the-Newsletter-Editor-Jan-Down-the" datatype="plaintext">
+        <source>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b88335914517b353c4f2" resname="Day-7-In-the-Province-of-Asia-Pacific-pray-for-all" datatype="plaintext">
+        <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b88d3e321623b01edfe4" resname="Day-7-Pray-for-all-Novice-Counsellors" datatype="plaintext">
+        <source>Pray for all Novice Counsellors.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b89d3143f2006a525052" resname="Day-7-September-Brother-Douglas-Manual-F18" datatype="plaintext">
+        <source>September: Brother Douglas (Manual F18)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8ab00cfd2290e519d92" resname="Day-8-In-the-Province-of-Asia-Pacific-pray-for-all" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8b56d6f5e2d7e519c72" resname="Day-8-Pray-for-all-Area-Convenors" datatype="plaintext">
+        <source>Pray for all Area Convenors.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8ce9085ae5ddb05e792" resname="Day-9-In-the-Province-of-Asia-Pacific-pray-for-Ter" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8d633988b64dd1b7bc2" resname="Day-9-Pray-for-all-isolated-Tertiaries" datatype="plaintext">
+        <source>Pray for all isolated Tertiaries.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8e000a3fc6fb465b972" resname="Day-9-In-Queensland-A-Region-pray-for" datatype="plaintext">
+        <source>In Queensland A Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b8e9e217e37cfa16e432" resname="Day-9-February-Anglican-Franciscan-Pioneers-Manual" datatype="plaintext">
+        <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b90254bc536d687b2fc2" resname="Day-10-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b90c00a3fc6fb465b974" resname="Day-10-Pray-for-Franciscan-Aid" datatype="plaintext">
+        <source>Pray for Franciscan Aid.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b91b33988b64dd1b7bc4" resname="Day-10-In-Queensland-B-Northern-NSW-Region-pray-fo" datatype="plaintext">
+        <source>In Queensland B / Northern NSW Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b9272beaa4385c527db2" resname="Day-10-August-Transitus-of-St-Clare-Manual-F13-Oct" datatype="plaintext">
+        <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b932b208cf273b6e7312" resname="Day-11-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b93a18a61014b55d19c2" resname="Day-11-Pray-for-unity-within-the-Anglican-Church-a" datatype="plaintext">
+        <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b94f37feeb5e036ff7d2" resname="Day-11-April-Brother-Geoffrey-SSF-Manual-F5-August" datatype="plaintext">
+        <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353b9f92fbe3271cc351cf2" resname="Day-12-In-the-Province-of-Asia-Pacific-pray-for-Te" datatype="plaintext">
+        <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba042684061d0e1fac42" resname="Day-12-Pray-for-Franciscans-International" datatype="plaintext">
+        <source>Pray for Franciscans International.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba36b18dca7a5d344032" resname="Day-13-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba4b10b3c07e2a567652" resname="Day-13-June-Antony-of-Padua-Manual-F10" datatype="plaintext">
+        <source>June: Antony of Padua (Manual F10)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba62c8d87755f13dfe22" resname="Day-14-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba6b05de29496c2a3fb2" resname="Day-14-Pray-for-the-First-Order-in-the-Provinces-o" datatype="plaintext">
+        <source>Pray for the First Order in the Provinces of America and Europe.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba7c59163537d259d352" resname="Day-14-August-Maximilian-Kolbe-Manual-F15" datatype="plaintext">
+        <source>August: Maximilian Kolbe (Manual F15)`</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba89862f6b2210740922" resname="Day-15-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ba97ba128121475ef752" resname="Day-15-Pray-for-the-First-Order-Brothers-in-the-Pr" datatype="plaintext">
+        <source>Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353baa6862f6b2210740924" resname="Day-15-July-Bonaventure-Manual-F11-August-Mary-the" datatype="plaintext">
+        <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bab3c8d87755f13dfe24" resname="Day-16-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bac3f58ff737051cf232" resname="Day-16-Pray-for-First-Order-sisters-in-America-Kor" datatype="plaintext">
+        <source>Pray for First Order sisters in America, Korea and England.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bad1b4b3ff35c44e7de2" resname="Day-16-January-First-Franciscan-Martyrs-Manual-F2" datatype="plaintext">
+        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bae0074195634b4a8b22" resname="Day-17-In-the-African-Province-pray-for-the-Tertia" datatype="plaintext">
+        <source>In the African Province, pray for the Tertiaries in Kokstad and Durban.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bae6f22f1236c53be5f2" resname="Day-17-Pray-for-the-Second-Order-Sisters-Order-of" datatype="plaintext">
+        <source>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353baf34fed751ac4355aa2" resname="Day-17-In-New-South-Wales-A-Region-pray-for" datatype="plaintext">
+        <source>In New South Wales A Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bafd4fed751ac4355aa4" resname="Day-17-September-The-Stigmata-of-St-Francis-Manual" datatype="plaintext">
+        <source>September: The Stigmata of St Francis (Manual F19)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb18862f6b2210740926" resname="Day-18-In-the-African-Province-pray-for-Tertiaries" datatype="plaintext">
+        <source>In the African Province, pray for Tertiaries in Ghana.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb217832ec0fdb3ca0e2" resname="Day-18-Pray-for-Postulants-and-aspirants-to-the-th" datatype="plaintext">
+        <source>Pray for Postulants and aspirants to the three Orders.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb3274f9894a697b42e2" resname="Day-19-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb3df22f1236c53be5f4" resname="Day-19-Pray-for-Companions-of-SSF-and-Associates-o" datatype="plaintext">
+        <source>Pray for Companions of SSF and Associates of tssf.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb4d7832ec0fdb3ca0e4" resname="Day-19-May-Bernardine-of-Siena-Manual-F7-November" datatype="plaintext">
+        <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb5a74f9894a697b42e4" resname="Day-20-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in North East and North West England.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb6f48488a77313385f2" resname="Day-20-Pray-for-The-Little-Brothers-of-Francis-at" datatype="plaintext">
+        <source>Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb7974f9894a697b42e6" resname="Day-20-In-New-South-Wales-B-ACT-Region-pray-for" datatype="plaintext">
+        <source>In New South Wales B / ACT Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb89449f804f9b71b5e2" resname="Day-21-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bb91261fab50c04e93c2" resname="Day-21-Pray-for-the-Franciscan-Federation-of-Austr" datatype="plaintext">
+        <source>Pray for the Franciscan Federation of Australia and the members of the Executive.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bba45ceffc268d055742" resname="Day-22-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in Central and Eastern England.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbb188f6ca40cf5e09c2" resname="Day-22-Pray-for-the-Order-of-Friars-Minor-ofm-the" datatype="plaintext">
+        <source>Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbbcc28fc327d830a622" resname="Day-22-In-Victoria-Tasmania-Region-pray-for" datatype="plaintext">
+        <source>In Victoria / Tasmania Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbc82d8ead569f6b8442" resname="Day-23-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in South East England and London and Central South England.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbd29d148919d63d6e42" resname="Day-23-Pray-for-the-Roman-Catholic-Poor-Clares" datatype="plaintext">
+        <source>Pray for the Roman Catholic Poor Clares</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbde5ceffc268d055744" resname="Day-23-November-Fr-Algy-SSF-Manual-F24" datatype="plaintext">
+        <source>November: Fr Algy SSF (Manual F24)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbea2d8ead569f6b8444" resname="Day-24-In-the-European-Province-pray-for-Tertiarie" datatype="plaintext">
+        <source>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bbf2f59b0b06b5548072" resname="Day-24-Pray-for-the-Third-Order-Regular-and-Franci" datatype="plaintext">
+        <source>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bc012d8ead569f6b8446" resname="Day-25-In-the-Province-of-the-Americas-pray-for-th" datatype="plaintext">
+        <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bc084eda466e616d8e62" resname="Day-25-Pray-for-the-Secular-Franciscan-Order-Roman" datatype="plaintext">
+        <source>Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bc102d8ead569f6b8448" resname="Day-25-In-South-Australia-Region-pray-for" datatype="plaintext">
+        <source>In South Australia Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353bc19c28fc327d830a624" resname="Day-25-August-Louis-King-Patron-of-the-Third-Order" datatype="plaintext">
+        <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c994e7d2113508674832" resname="Day-26-In-the-Province-of-the-Americas-pray-for-th" datatype="plaintext">
+        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c99e9f47a61619663312" resname="Day-26-Pray-for-Franciscans-International-and-thei" datatype="plaintext">
+        <source>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9a845ef02152825a722" resname="Day-26-In-Western-Australia-Region-pray-for" datatype="plaintext">
+        <source>In Western Australia Region, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9b99f47a61619663314" resname="Day-27-Pray-for-the-Society-of-St-Francis" datatype="plaintext">
+        <source>Pray for the Society of St Francis:</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9c34d7582689178b532" resname="Day-27-Ministers-General-of-First-Orders-and-Abbes" datatype="plaintext">
+        <source>Ministers General of First Orders and Abbess of Second Order;</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9d068c5d002c83259d2" resname="Day-27-Ministers-Provincial-of-First-Orders" datatype="plaintext">
+        <source>Ministers Provincial of First Orders.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9e0e7d2113508674834" resname="Day-27-Pray-for-all-Franciscan-Conference-and-Retr" datatype="plaintext">
+        <source>Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353c9f7fd2bf6785f1ba1c2" resname="Day-28-In-the-Province-of-the-Americas-Caribbean-p" datatype="plaintext">
+        <source>In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca02c229d941d55b4d52" resname="Day-28-Pray-for-Franciscans-working-as-chaplains-a" datatype="plaintext">
+        <source>Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca0d4d7582689178b534" resname="Day-28-In-South-and-East-Asia-Region-Sri-Lanka-are" datatype="plaintext">
+        <source>In South and East Asia Region, Sri Lanka area, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca290598d75b734bc7e2" resname="Day-29-In-the-Province-of-the-Americas-pray-for-al" datatype="plaintext">
+        <source>In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca334f9a76329c56f192" resname="Day-29-Pray-for-scholars-and-writers-who-seek-to-m" datatype="plaintext">
+        <source>Pray for scholars and writers who seek to make known the ways of Francis and Clare.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca3c45ef02152825a724" resname="Day-29-In-South-and-East-Asia-Region-Malaysia-area" datatype="plaintext">
+        <source>In South and East Asia Region, Malaysia area, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca48beaab045815ae2a2" resname="Day-29-In-the-Hong-Kong-area-pray-for" datatype="plaintext">
+        <source>In the Hong Kong area, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca56c78a80675c782572" resname="Day-29-May-Jack-Winslow-Manual-F8" datatype="plaintext">
+        <source>May: Jack Winslow (Manual F8)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca63ddd4312b0908a292" resname="Day-30-In-the-Province-of-the-Americas-pray-for-Te" datatype="plaintext">
+        <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca704f9a76329c56f194" resname="Day-30-Pray-for-those-in-churches-who-while-not-un" datatype="plaintext">
+        <source>Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca7fe2b7402d6b6cb092" resname="Day-30-In-South-and-East-Asia-Region-in-Singapore" datatype="plaintext">
+        <source>In South and East Asia Region, in Singapore, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca8ae2b7402d6b6cb094" resname="Day-30-In-South-Korea-area-pray-for" datatype="plaintext">
+        <source>In South Korea area, pray for</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ca9dc229d941d55b4d54" resname="Day-31-Pray-for-Ministers-of-the-Third-Order" datatype="plaintext">
+        <source>Pray for Ministers of the Third Order:</source>
+      </trans-unit>
+      <trans-unit id="loco:6353caac802e7875a10bf622" resname="Day-31-MINISTER-GENERAL-John-Hebenton" datatype="plaintext">
+        <source>MINISTER GENERAL - John Hebenton</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cab53e9a0902d4509a92" resname="Day-31-ASSISTANT-MINISTER-GENERAL-Janet-Fedders" datatype="plaintext">
+        <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cac14f821571e549df22" resname="Day-31-PROVINCIAL-MINISTERS" datatype="plaintext">
+        <source>PROVINCIAL MINISTERS:</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cacbbeaab045815ae2a4" resname="Day-31-American-Province-Janet-Fedders" datatype="plaintext">
+        <source>American Province - Janet Fedders</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cad4e2b7402d6b6cb096" resname="Day-31-African-Province-Michael-Twum-Darko" datatype="plaintext">
+        <source>African Province - Michael Twum-Darko</source>
+      </trans-unit>
+      <trans-unit id="loco:6353caed30467e2669741eb2" resname="Day-31-Asia-Pacific-Province-Mandy-Wheatley" datatype="plaintext">
+        <source>Asia-Pacific Province - Mandy Wheatley</source>
+      </trans-unit>
+      <trans-unit id="loco:6353caf430467e2669741eb4" resname="Day-31-European-Province-Tim-Higgins-acting" datatype="plaintext">
+        <source>European Province - Tim Higgins (acting)</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cb0026dbf601d206cad2" resname="Day-31-Pacific-Province-Blair-Matheson" datatype="plaintext">
+        <source>Pacific Province - Blair Matheson</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cb08bdc97311786d0992" resname="Day-31-Pray-for-those-who-have-been-released-from" datatype="plaintext">
+        <source>Pray for those who have been released from the Third Order in the past year:</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ce43e09c0a348d2ab272" resname="Community-Prayer-God-we-give-you-thanks-for-the-Th" datatype="plaintext">
+        <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353ce69df259614de785fc2" resname="Collect-Title-tssf-Community-Collect" datatype="plaintext">
+        <source>tssf Community Collect</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cef305d2de7eef7f4902" resname="Gloria-Patra-1-In-the-name-of-the-Father" datatype="plaintext">
+        <source>In the name of the Father,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cefc1038240e332756b2" resname="Gloria-Patra-2-and-of-the-Son" datatype="plaintext">
+        <source>and of the Son,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cf07f7c2483bb0174e82" resname="Gloria-Patra-3-and-of-the-Holy-Spirit" datatype="plaintext">
+        <source>and of the Holy Spirit.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cf3143cc20626217d502" resname="Opening-Prayer-1-Here-and-in-all-your-churches-thr" datatype="plaintext">
+        <source>Here and in all your churches throughout the world,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cf3a05d2de7eef7f4904" resname="Opening-Prayer-2-Here-and-in-all-your-churches-thr" datatype="plaintext">
+        <source>we adore you, O Christ, and we bless you,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cf4f4e1c89333b4cc142" resname="Opening-Prayer-3-because-by-your-holy-cross-you-ha" datatype="plaintext">
+        <source>because by your holy cross you have redeemed the world.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cf9d57cfdf16fc280082" resname="Principle-Rubric-Title-Day-31-About-the-Principles" datatype="plaintext">
+        <source>About the Principles of the Third Order.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353cfcff9b3b549fb79f7d2" resname="Principle-Rubric-Title-Normal-Reading-from-the-Pri" datatype="plaintext">
+        <source>Reading from the Principles of the Third Order.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d03457b0c26cc87a2a62" resname="Daily-Intercession-Prayer-Title-Daily-intercession" datatype="plaintext">
+        <source>Daily intercession prayers...</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d05d57b0c26cc87a2a64" resname="Either" datatype="plaintext">
+        <source>Either</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0797b69d97df672e4f2" resname="Or-dot-or" datatype="plaintext">
+        <source>or...</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0b29911a8046f347312" resname="Blessing-1-1-May-our-blessed-Lady-pray-for-us" datatype="plaintext">
+        <source>May our blessed Lady pray for us.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0bb1d88da01f9493de2" resname="Blessing-1-2-May-Saint-Francis-pray-for-us" datatype="plaintext">
+        <source>May Saint Francis pray for us.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0c56d45922c5f59cd02" resname="Blessing-1-3-May-Saint-Clare-pray-for-us" datatype="plaintext">
+        <source>May Saint Clare pray for us.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0d16d45922c5f59cd04" resname="Blessing-1-4-May-all-the-saints-of-the-Third-Order" datatype="plaintext">
+        <source>May all the saints of the Third Order pray for us.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0dc340cc525d93d9472" resname="Blessing-1-5-May-the-holy-angels-watch-over-us-and" datatype="plaintext">
+        <source>May the holy angels watch over us and befriend us.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d0e6340cc525d93d9474" resname="Blessing-1-6-May-our-Lord-Jesus-give-us-his-blessi" datatype="plaintext">
+        <source>May our Lord Jesus give us his blessing and his peace.</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d10fdaab6d41d623b482" resname="Blessing-2-1-The-grace-of-our-Lord-Jesus-Christ" datatype="plaintext">
+        <source>The grace of our Lord Jesus Christ,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d119b30244301a69a8c2" resname="Blessing-2-2-the-love-of-God" datatype="plaintext">
+        <source>the love of God,</source>
+      </trans-unit>
+      <trans-unit id="loco:6353d129175bd60b3a50b242" resname="Blessing-2-3-and-the-fellowship-of-the-Holy-Spirit" datatype="plaintext">
+        <source>and the fellowship of the Holy Spirit be with us all evermore.</source>
       </trans-unit>
     </body>
   </file>

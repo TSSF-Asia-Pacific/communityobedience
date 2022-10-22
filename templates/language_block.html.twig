@@ -5,35 +5,46 @@
     {% trans into lang %}This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.{% endtrans %}
 </p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
-    {{ translation.gloriaPatra|raw }}
+    {% trans into lang %}In the name of the Father,{% endtrans %}<br/>
+    {% trans into lang %}and of the Son,{% endtrans %}<br/>
+    {% trans into lang %}and of the Holy Spirit.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
-    {{ translation.openingPrayer|raw }}
+    {% trans into lang %}Here and in all your churches throughout the world,{% endtrans %}<br/>
+    {% trans into lang %}we adore you, O Christ, and we bless you,{% endtrans %}<br/>
+    {% trans into lang %}because by your holy cross you have redeemed the world.{% endtrans %} <strong>Amen</strong>"
 </p>
 
 {# Add the principle for the day of month. #}
 {% for i in range(1, 31) %}
     <div id='principal_{{ lang }}_{{ i }}' class='principal' lang='{{ lang }}'>
-        <p class='rubric'>{{ i == '31' ? translation.principleRubricTitleDay31 : translation.principleRubricTitleNormal }}</p>
+        <p class='rubric'>
+            {% if i == '31' %}
+                {# Different title for day 31 #}
+                {% trans into lang %}About the Principles of the Third Order.{% endtrans %}
+            {% else %}
+                {% trans into lang %}Reading from the Principles of the Third Order.{% endtrans %}
+            {% endif %}
+        </p>
         {% include "principle/principle#{i}.html.twig" %}
     </div>
 {% endfor %}
 
-<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.dailyIntercessionPrayerTitle}}</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Daily intercession prayers...{% endtrans %}</p>
 
 {# Add the daily intercession prayers for the day of the month #}
 {% for i in range(1, 31) %}
     <div id='day_{{ lang }}_{{ i }}' class='day' lang='{{ lang }}'>
-        {{ translation.getDailyPrayers(i) | raw | nl2br }}
-        <hr>
         {% include "daily/day#{i}.html.twig" with translation.getDailyPrayersMembers(i) %}
         <hr>
     </div>
 {% endfor %}
 
-<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.collectTitle }}</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}tssf Community Collect{% endtrans %}</p>
 
-<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">{{ translation.communityPrayer|raw }}</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {% trans into lang %}God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.{% endtrans %}
+</p>
 
 {% for i in range(0, 6) %}
 <div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
@@ -46,14 +57,22 @@
 </div>
 {% endfor %}
 
-<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.either }}</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Either{% endtrans %}</p>
 
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
-    {{ translation.blessingOne|raw }}
+    {% trans into lang %}May our blessed Lady pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May Saint Francis pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May Saint Clare pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May all the saints of the Third Order pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May the holy angels watch over us and befriend us.{% endtrans %}<br/>
+    {% trans into lang %}May our Lord Jesus give us his blessing and his peace.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
-<p class="rubric translatedBoilerplate" lang="{{ lang }}">{{ translation.orDot }}</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}or...{% endtrans %}</p>
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
-    {{ translation.blessingTwo|raw }}
+    {% trans into lang %}The grace of our Lord Jesus Christ,{% endtrans %}
+    {% trans into lang %}the love of God,{% endtrans %}
+    {% trans into lang %}and the fellowship of the Holy Spirit be with us all evermore.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
 
-<p class="copyright  translatedBoilerplate" lang="{{ lang }}">* {{ translation.copyright|raw }}</p>
+<p class="copyright  translatedBoilerplate" lang="{{ lang }}">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
+    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
