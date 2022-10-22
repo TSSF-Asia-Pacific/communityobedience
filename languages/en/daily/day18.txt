@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the African Province, pray for Tertiaries in Ghana.
-
-Pray for Postulants and aspirants to the three Orders.</p><p class='rubric'>In New South Wales A Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}

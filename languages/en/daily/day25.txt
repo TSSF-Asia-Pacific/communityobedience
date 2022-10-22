@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.
-
-Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</p><p class='rubric'>In South Australia Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>August: Louis, King, Patron of the Third Order (Manual F17)</p>

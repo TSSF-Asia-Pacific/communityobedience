@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.
-
-Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</p><p class='rubric'>In the Region of Popondetta, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>December: Requiem for Departed Franciscans (Manual F25)</p>

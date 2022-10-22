@@ -25,6 +25,9 @@
 {% for i in range(1, 31) %}
     <div id='day_{{ lang }}_{{ i }}' class='day' lang='{{ lang }}'>
         {{ translation.getDailyPrayers(i) | raw | nl2br }}
+        <hr>
+        {% include "daily/day#{i}.html.twig" with translation.getDailyPrayersMembers(i) %}
+        <hr>
     </div>
 {% endfor %}
 

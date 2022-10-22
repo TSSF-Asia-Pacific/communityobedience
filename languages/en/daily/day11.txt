@@ -1,5 +1,0 @@
-﻿<p class='boilerplate'>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.
-
-Pray for unity within the Anglican Church and unity among all Christians.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</p>

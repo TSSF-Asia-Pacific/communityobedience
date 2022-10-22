@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.
-
-Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</p><p class='rubric'>In the Region of Popondetta, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-			
-{{ deceased_members }}</p><p class='rubric'>October: The Transitus of St Francis (Manual F20)</p>

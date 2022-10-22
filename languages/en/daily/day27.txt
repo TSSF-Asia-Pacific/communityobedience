@@ -1,7 +1,0 @@
-<p class='boilerplate'>Pray for the Society of St Francis: 
-Ministers General of First Orders and Abbess of Second Order;
-Ministers Provincial of First Orders.
-
-Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</p><p class='rubric'>In Western Australia Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}
