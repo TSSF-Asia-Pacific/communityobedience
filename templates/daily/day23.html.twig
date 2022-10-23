@@ -1,3 +1,4 @@
+<em>Current lang :{{ lang }}</em>
 <p class='boilerplate'>
     {% trans into lang %}In the European Province, pray for Tertiaries in South East England and London and Central South England.{% endtrans %}<br/>
     <br/>
@@ -5,7 +6,7 @@
 </p>
 <p class='rubric'>{% trans into lang %}In Victoria / Tasmania Region, pray for{% endtrans %}</p>
 <p class='boilerplate'>{{ living_members_1 | nl2br }}<br/>
-    {{ "I-pray-for-you"|trans({}, 'messages', lang) }}
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
     <br/>
     {{ deceased_members | nl2br }}
 </p>
