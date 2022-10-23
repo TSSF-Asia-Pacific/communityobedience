@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sun, 23 Oct 2022 13:06:16 +0800
+ Exported at: Sun, 23 Oct 2022 14:04:27 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -52,34 +52,10 @@
         <target>아멘</target>
       </segment>
     </unit>
-    <unit id="loco:6300e4cc57b8a56d58434bf6" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
-      <segment state="translated">
-        <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</target>
-      </segment>
-    </unit>
-    <unit id="loco:6300e4cc57b8a56d58434bf7" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="translated">
-        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</target>
-      </segment>
-    </unit>
-    <unit id="loco:6300e4cc57b8a56d58434bf8" name="In the Region of Popondetta, pray for">
-      <segment state="translated">
-        <source>In the Region of Popondetta, pray for</source>
-        <target>In the Region of Popondetta, pray for</target>
-      </segment>
-    </unit>
-    <unit id="loco:6300e4cc57b8a56d58434bf9" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment state="translated">
-        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>December: Requiem for Departed Franciscans (Manual F25)</target>
-      </segment>
-    </unit>
     <unit id="loco:6300e4cc57b8a56d58434bfa" name="Deceased Member">
       <segment state="translated">
         <source>Deceased Member</source>
-        <target>Deceased Member</target>
+        <target>별세한 회원</target>
       </segment>
     </unit>
     <unit id="loco:6300e8f6b4cc257b656b2273" name="God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.">
@@ -511,505 +487,505 @@
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
       <segment state="translated">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</target>
+        <target>아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
       <segment state="translated">
         <source>In the Region of Popondetta, pray for</source>
-        <target>In the Region of Popondetta, pray for</target>
+        <target>포폰데타 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
       <segment state="translated">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>December: Requiem for Departed Franciscans (Manual F25)</target>
+        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
-        <target>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</target>
+        <target>태평양 관구, 솔로몬아일랜드의 이사벨과 말라이타에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders">
       <segment state="translated">
         <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders</source>
-        <target>Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders</target>
+        <target>총봉사자 John Hebenton과 보좌 총봉사자 Janet Fedders를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.</target>
+        <target>태평양 관구 솔로몬아일랜드의 카미라와 바누아투 공화국에 있는 회원들을 위해 기도합sl다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.">
       <segment state="translated">
         <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
-        <target>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</target>
+        <target>관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Sally Buckley, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
       <segment state="translated">
         <source>October: The Transitus of St Francis (Manual F20)</source>
-        <target>October: The Transitus of St Francis (Manual F20)</target>
+        <target>10월: 프란시스 성인의 전이 (매뉴얼 48)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</target>
+        <target>태평양관구 뉴질랜드의 오클랜드, 와이카토, 베이오브플랜티에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
       <segment state="translated">
         <source>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
-        <target>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</target>
+        <target>관구비서 John Blakemore, 관구회계 Jane Noller, 보좌 관구회계 Glenys McCarrick을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">
       <segment state="translated">
         <source>In the Region of Dogura, pray for</source>
-        <target>In the Region of Dogura, pray for</target>
+        <target>도구라 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
       <segment state="translated">
         <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
-        <target>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</target>
+        <target>8월: 존 비안네, 아르스의 치유자 (매뉴얼 40); 10월: 아시시의 프란시스 (매뉴얼 49)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.</target>
+        <target>태평양관구, 뉴질랜드의 북섬 센트럴 지구와 웰링턴에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8474835b404510f7674" name="Pray for all Regional Ministers in the Province of Asia-Pacific.">
       <segment state="translated">
         <source>Pray for all Regional Ministers in the Province of Asia-Pacific.</source>
-        <target>Pray for all Regional Ministers in the Province of Asia-Pacific.</target>
+        <target>아시아태평양 관구 지구 봉사자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.</target>
+        <target>태평양관구 뉴질랜드의 넬슨과 캔터베리-오타고에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b867608f6f7cb4497192" name="Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.">
       <segment state="translated">
         <source>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</source>
-        <target>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</target>
+        <target>소식지 편집자 Jan Down, 기록보관인 Anne Wilson, 소통 코디네이터 David White를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b88335914517b353c4f2" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.">
       <segment state="translated">
         <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.</source>
-        <target>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.</target>
+        <target>아시아태평양 관구, 호주 퀸즐랜드 A, 퀸즐랜드 B/뉴사우스웨일즈 북부 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353b88d3e321623b01edfe4" name="Pray for all Novice Counsellors.">
       <segment state="translated">
         <source>Pray for all Novice Counsellors.</source>
-        <target>Pray for all Novice Counsellors.</target>
+        <target>수련 지도자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b89d3143f2006a525052" name="September: Brother Douglas (Manual F18)">
       <segment state="translated">
         <source>September: Brother Douglas (Manual F18)</source>
-        <target>September: Brother Douglas (Manual F18)</target>
+        <target>9월: 더글라스 형제 (매뉴얼 46)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
-        <target>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</target>
+        <target>아시아태평양 관구, 호주의 뉴사우스웨일즈 A, 뉴사우스웨일즈 B/호주 수도 준주 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8b56d6f5e2d7e519c72" name="Pray for all Area Convenors.">
       <segment state="translated">
         <source>Pray for all Area Convenors.</source>
-        <target>Pray for all Area Convenors.</target>
+        <target>지역 담당자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
-        <target>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</target>
+        <target>아시아태평양 관구 호주의 빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353b8d633988b64dd1b7bc2" name="Pray for all isolated Tertiaries.">
       <segment state="translated">
         <source>Pray for all isolated Tertiaries.</source>
-        <target>Pray for all isolated Tertiaries.</target>
+        <target>고립된 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353b8e000a3fc6fb465b972" name="In Queensland A Region, pray for">
       <segment state="translated">
         <source>In Queensland A Region, pray for</source>
-        <target>In Queensland A Region, pray for</target>
+        <target>퀸즐랜드 A 지구의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353b8e9e217e37cfa16e432" name="February: Anglican Franciscan Pioneers (Manual F3)">
       <segment state="translated">
         <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
-        <target>February: Anglican Franciscan Pioneers (Manual F3)</target>
+        <target>2월: 성공회 프란시스 수도회 개척자들(매뉴얼 31)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
-        <target>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</target>
+        <target>아시아태평양 관구, 호주의 사우스 오스트렐리아 지구, 웨스턴 오스트렐리아 지구에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b90c00a3fc6fb465b974" name="Pray for Franciscan Aid.">
       <segment state="translated">
         <source>Pray for Franciscan Aid.</source>
-        <target>Pray for Franciscan Aid.</target>
+        <target>프란시스칸 에이드 Franciscan Aid를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b91b33988b64dd1b7bc4" name="In Queensland B / Northern NSW Region, pray for">
       <segment state="translated">
         <source>In Queensland B / Northern NSW Region, pray for</source>
-        <target>In Queensland B / Northern NSW Region, pray for</target>
+        <target>퀸즐랜드 B / 뉴사우스웨일즈 북부 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
       <segment state="translated">
         <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
-        <target>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</target>
+        <target>8월: 클라라 성인의 전이 (매뉴얼 41); 10월: 모든 프란시스 수도회 성인들(매뉴얼 50 )을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
-        <target>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</target>
+        <target>아시아태평양 관구, 홍콩, 말레이시아, 싱가포르, 한국, 스리랑카의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
       <segment state="translated">
         <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
-        <target>Pray for unity within the Anglican Church and unity among all Christians.</target>
+        <target>성공회 교회의 일치와 모든 기독교인들의 일치를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
       <segment state="translated">
         <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
-        <target>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</target>
+        <target>4월: 제프리 형제 SSF (매뉴얼 33); 8월: 아시시의 클라라(매뉴얼 42)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
-        <target>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</target>
+        <target>아시아태평양 관구, 파푸아뉴기니에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba042684061d0e1fac42" name="Pray for Franciscans International.">
       <segment state="translated">
         <source>Pray for Franciscans International.</source>
-        <target>Pray for Franciscans International.</target>
+        <target>프란시스칸 인터내셔널 Franciscans International을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</source>
-        <target>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</target>
+        <target>아프리카 관구 보츠와나, 우간다, 짐바브웨에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
       <segment state="translated">
         <source>June: Antony of Padua (Manual F10)</source>
-        <target>June: Antony of Padua (Manual F10)</target>
+        <target>6월: 파두아의 안토니오(매뉴얼 38)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
-        <target>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</target>
+        <target>아프리카 관구, 탄자니아와 잠비아, 말라위에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba6b05de29496c2a3fb2" name="Pray for the First Order in the Provinces of America and Europe.">
       <segment state="translated">
         <source>Pray for the First Order in the Provinces of America and Europe.</source>
-        <target>Pray for the First Order in the Provinces of America and Europe.</target>
+        <target>미국과 유럽관구의 1회 수도회를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
       <segment state="translated">
         <source>August: Maximilian Kolbe (Manual F15)`</source>
-        <target>August: Maximilian Kolbe (Manual F15)`</target>
+        <target>8월: 막시밀리안 콜베(매뉴얼 43)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.</source>
-        <target>In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.</target>
+        <target>아프리카 관구 요하네스버그와 프레토리아, 로우벨드에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba97ba128121475ef752" name="Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.">
       <segment state="translated">
         <source>Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.</source>
-        <target>Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.</target>
+        <target>신성동정관구(호주, 뉴질랜드, 한국, 스리랑카), 파푸아뉴기니, 솔로몬아일랜드의 1회 수도자 형제들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353baa6862f6b2210740924" name="July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)">
       <segment state="translated">
         <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
-        <target>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</target>
+        <target>7월: 보나벤투라 (매뉴얼 39); 8월: 주님의 어머니 마리아(매뉴얼 44)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
-        <target>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</target>
+        <target>아프리카 관구 케이프타운, 포트 엘리자베스, 레소토의 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353bac3f58ff737051cf232" name="Pray for First Order sisters in America, Korea and England.">
       <segment state="translated">
         <source>Pray for First Order sisters in America, Korea and England.</source>
-        <target>Pray for First Order sisters in America, Korea and England.</target>
+        <target>미국, 한국, 영국의 제1회 자매들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bad1b4b3ff35c44e7de2" name="January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)">
       <segment state="translated">
         <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
-        <target>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</target>
+        <target>1월: 프란시스 수도회 첫 순교자들 (매뉴얼 30); 5월: 코르토나의 마가렛 (매뉴얼 34)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
       <segment state="translated">
         <source>In the African Province, pray for the Tertiaries in Kokstad and Durban.</source>
-        <target>In the African Province, pray for the Tertiaries in Kokstad and Durban.</target>
+        <target>아프리카 관구 콕스태드와 더반에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
       <segment state="translated">
         <source>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</source>
-        <target>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</target>
+        <target>영국 프리랜드에 있는 제2회 자매(OSC 성클라라 수도회)를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
       <segment state="translated">
         <source>In New South Wales A Region, pray for</source>
-        <target>In New South Wales A Region, pray for</target>
+        <target>뉴사우스웨일즈 지구의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
       <segment state="translated">
         <source>September: The Stigmata of St Francis (Manual F19)</source>
-        <target>September: The Stigmata of St Francis (Manual F19)</target>
+        <target>9월: 프란시스 성인의 오상(Manual F19)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Ghana.</source>
-        <target>In the African Province, pray for Tertiaries in Ghana.</target>
+        <target>아프리카 관구 가나에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb217832ec0fdb3ca0e2" name="Pray for Postulants and aspirants to the three Orders.">
       <segment state="translated">
         <source>Pray for Postulants and aspirants to the three Orders.</source>
-        <target>Pray for Postulants and aspirants to the three Orders.</target>
+        <target>제 1, 2, 3회의 청원자와 열망자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb3274f9894a697b42e2" name="In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.</source>
-        <target>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.</target>
+        <target>유럽관구 핀란드, 스웨덴, 아일랜드, 스코틀랜드에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb3df22f1236c53be5f4" name="Pray for Companions of SSF and Associates of tssf.">
       <segment state="translated">
         <source>Pray for Companions of SSF and Associates of tssf.</source>
-        <target>Pray for Companions of SSF and Associates of tssf.</target>
+        <target>제 1회 형제회와 재속회 협력자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb4d7832ec0fdb3ca0e4" name="May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)">
       <segment state="translated">
         <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
-        <target>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</target>
+        <target>5월: 시에나의 베르나르디노 (매뉴얼 35); 11월: 헝가리의 엘리자베스 (매뉴얼 51)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb5a74f9894a697b42e4" name="In the European Province, pray for Tertiaries in North East and North West England.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in North East and North West England.</source>
-        <target>In the European Province, pray for Tertiaries in North East and North West England.</target>
+        <target>유럽관구 잉글랜드 북동부와 북서부에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb6f48488a77313385f2" name="Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.">
       <segment state="translated">
         <source>Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.</source>
-        <target>Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.</target>
+        <target>뉴사우스웨일즈 타불람에 있는 작은 형제회와 미국 성공회 프란시스 수도회 형제들과 자매들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb7974f9894a697b42e6" name="In New South Wales B / ACT Region, pray for">
       <segment state="translated">
         <source>In New South Wales B / ACT Region, pray for</source>
-        <target>In New South Wales B / ACT Region, pray for</target>
+        <target>뉴사우스웨일즈 B / 호주 수도 준주 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353bb89449f804f9b71b5e2" name="In the European Province, pray for Tertiaries in East Midlands and Yorkshire.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.</source>
-        <target>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.</target>
+        <target>유럽관구 이스트 미드랜드와 요오크셔에 있는 회원을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb91261fab50c04e93c2" name="Pray for the Franciscan Federation of Australia and the members of the Executive.">
       <segment state="translated">
         <source>Pray for the Franciscan Federation of Australia and the members of the Executive.</source>
-        <target>Pray for the Franciscan Federation of Australia and the members of the Executive.</target>
+        <target>호주 프란시스칸 연맹과 재속회 집행부 구성원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bba45ceffc268d055742" name="In the European Province, pray for Tertiaries in Central and Eastern England.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in Central and Eastern England.</source>
-        <target>In the European Province, pray for Tertiaries in Central and Eastern England.</target>
+        <target>유럽관구 센트럴 잉글랜드, 이스턴 잉들랜드의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbb188f6ca40cf5e09c2" name="Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).">
       <segment state="translated">
         <source>Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).</source>
-        <target>Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).</target>
+        <target>작은형제회(ofm), 카푸친 작은형제회(ofmCap), 꼰벤뚜알 작은형제회 (ofmConv)를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbbcc28fc327d830a622" name="In Victoria / Tasmania Region, pray for">
       <segment state="translated">
         <source>In Victoria / Tasmania Region, pray for</source>
-        <target>In Victoria / Tasmania Region, pray for</target>
+        <target>빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbc82d8ead569f6b8442" name="In the European Province, pray for Tertiaries in South East England and London and Central South England.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in South East England and London and Central South England.</source>
-        <target>In the European Province, pray for Tertiaries in South East England and London and Central South England.</target>
+        <target>유럽관구, 사우스이스트 잉글랜드와 센트럴사우스 잉글랜드 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbd29d148919d63d6e42" name="Pray for the Roman Catholic Poor Clares">
       <segment state="translated">
         <source>Pray for the Roman Catholic Poor Clares</source>
-        <target>Pray for the Roman Catholic Poor Clares</target>
+        <target>가톨릭의 가난한 클라라회를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
       <segment state="translated">
         <source>November: Fr Algy SSF (Manual F24)</source>
-        <target>November: Fr Algy SSF (Manual F24)</target>
+        <target>11월: 알지사제 SSF (매뉴얼 52)를 위해 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbea2d8ead569f6b8444" name="In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</source>
-        <target>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</target>
+        <target>유럽관구 사우스이스트 잉글랜드, 웨일즈, 세번, 웨스트 미드랜드, 더 마치스의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbf2f59b0b06b5548072" name="Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.">
       <segment state="translated">
         <source>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</source>
-        <target>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</target>
+        <target>호주의 가톨릭 프란시스칸 율수 3회(TOR)와 프란시스칸 자매회를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
-        <target>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</target>
+        <target>미국관구 모든 주와 푸에르토리코에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bc084eda466e616d8e62" name="Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).">
       <segment state="translated">
         <source>Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</source>
-        <target>Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).</target>
+        <target>가톨릭 재속수도회를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bc102d8ead569f6b8448" name="In South Australia Region, pray for">
       <segment state="translated">
         <source>In South Australia Region, pray for</source>
-        <target>In South Australia Region, pray for</target>
+        <target>사우스 오스트렐리아 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353bc19c28fc327d830a624" name="August: Louis, King, Patron of the Third Order (Manual F17)">
       <segment state="translated">
         <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
-        <target>August: Louis, King, Patron of the Third Order (Manual F17)</target>
+        <target>8월: 제 3회 후원자 루이 9세 (매뉴얼 45)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
-        <target>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</target>
+        <target>미국관구의 남미 브라질, 콜롬비아, 에콰도르, 가이아나의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c99e9f47a61619663312" name="Pray for Franciscans International and their work as a recognized NGO at the United Nations.">
       <segment state="translated">
         <source>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</source>
-        <target>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</target>
+        <target>유엔의 인정을 받은 NGO 프란시스칸 인터내셔널(FI)과 그들의 사역을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9a845ef02152825a722" name="In Western Australia Region, pray for">
       <segment state="translated">
         <source>In Western Australia Region, pray for</source>
-        <target>In Western Australia Region, pray for</target>
+        <target>웨스트 오스트렐리아 지구 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353c9b99f47a61619663314" name="Pray for the Society of St Francis:">
       <segment state="translated">
         <source>Pray for the Society of St Francis:</source>
-        <target>Pray for the Society of St Francis:</target>
+        <target>성프란시스회를 위해 기도할 때에 제</target>
       </segment>
     </unit>
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
       <segment state="translated">
         <source>Ministers General of First Orders and Abbess of Second Order;</source>
-        <target>Ministers General of First Orders and Abbess of Second Order;</target>
+        <target> 1회와 2회의 총봉사자들,</target>
       </segment>
     </unit>
     <unit id="loco:6353c9d068c5d002c83259d2" name="Ministers Provincial of First Orders.">
       <segment state="translated">
         <source>Ministers Provincial of First Orders.</source>
-        <target>Ministers Provincial of First Orders.</target>
+        <target> 1회의 관구 봉사자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9e0e7d2113508674834" name="Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.">
       <segment state="translated">
         <source>Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</source>
-        <target>Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</target>
+        <target>프란시스칸 컨퍼런스, 피정센터, 그리고 스트라우드에 있는 수도원 Old Monastery를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9f7fd2bf6785f1ba1c2" name="In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.">
       <segment state="translated">
         <source>In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</source>
-        <target>In the Province of the Americas, Caribbean pray for Tertiaries in Costa Rica, Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</target>
+        <target>미국 관구 카리브제도의 코스타리카, 쿠바, 도미니카 공화국, 자메이카, 네비스, 트리니다드 토바고, 버진 아일랜드에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca02c229d941d55b4d52" name="Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.">
       <segment state="translated">
         <source>Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.</source>
-        <target>Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.</target>
+        <target>대학, 학교, 병원, 교도소, 군대, 응급서비스 센터에서 채플린과 교육자로 활동하는 프란시스칸들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca0d4d7582689178b534" name="In South and East Asia Region, Sri Lanka area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Sri Lanka area, pray for</source>
-        <target>In South and East Asia Region, Sri Lanka area, pray for</target>
+        <target>남동아시아 지구 스리랑카의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca290598d75b734bc7e2" name="In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.</source>
-        <target>In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.</target>
+        <target>미국관구 캐나다와 멕시코에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca334f9a76329c56f192" name="Pray for scholars and writers who seek to make known the ways of Francis and Clare.">
       <segment state="translated">
         <source>Pray for scholars and writers who seek to make known the ways of Francis and Clare.</source>
-        <target>Pray for scholars and writers who seek to make known the ways of Francis and Clare.</target>
+        <target>성프란시스와 성클라라를 따르는 길을 알리기에 노력하는 학자와 작가들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca3c45ef02152825a724" name="In South and East Asia Region, Malaysia area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Malaysia area, pray for</source>
-        <target>In South and East Asia Region, Malaysia area, pray for</target>
+        <target>남동아시아 지구 말레이시아 지역 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca48beaab045815ae2a2" name="In the Hong Kong area, pray for">
@@ -1021,91 +997,91 @@
     <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
       <segment state="translated">
         <source>May: Jack Winslow (Manual F8)</source>
-        <target>May: Jack Winslow (Manual F8)</target>
+        <target>5월: 잭 윈슬로 (매뉴얼 36)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
-        <target>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</target>
+        <target>미국관구 중앙아메리카의 엘살바도르, 온두라스, 파나마에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca704f9a76329c56f194" name="Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.">
       <segment state="translated">
         <source>Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.</source>
-        <target>Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.</target>
+        <target>회원은 아니지만 성프란시스와 성클라라와 동행하며 예수를 따르려 노력하는 교회의 신자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in Singapore, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, in Singapore, pray for</source>
-        <target>In South and East Asia Region, in Singapore, pray for</target>
+        <target>남동아시아 지구의 싱가포르에 있는 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South Korea area, pray for">
-      <segment state="translated">
+      <segment>
         <source>In South Korea area, pray for</source>
-        <target>In South Korea area, pray for</target>
+        <target>를 위해 기도합니다. 한국의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca9dc229d941d55b4d54" name="Pray for Ministers of the Third Order:">
       <segment state="translated">
         <source>Pray for Ministers of the Third Order:</source>
-        <target>Pray for Ministers of the Third Order:</target>
+        <target>제 3회 봉사자들을 위해 기도할 때에</target>
       </segment>
     </unit>
     <unit id="loco:6353caac802e7875a10bf622" name="MINISTER GENERAL - John Hebenton">
       <segment state="translated">
         <source>MINISTER GENERAL - John Hebenton</source>
-        <target>MINISTER GENERAL - John Hebenton</target>
+        <target>총봉사자 John Hebenton</target>
       </segment>
     </unit>
     <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Janet Fedders">
       <segment state="translated">
         <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
-        <target>ASSISTANT MINISTER GENERAL - Janet Fedders</target>
+        <target>보좌 총봉사자 Janet Fedders</target>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
       <segment state="translated">
         <source>PROVINCIAL MINISTERS:</source>
-        <target>PROVINCIAL MINISTERS:</target>
+        <target>관구봉사자들을 위해 기도할 때에,</target>
       </segment>
     </unit>
     <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Janet Fedders">
       <segment state="translated">
         <source>American Province - Janet Fedders</source>
-        <target>American Province - Janet Fedders</target>
+        <target>미국관구 봉사자 Janet Fedders</target>
       </segment>
     </unit>
     <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Michael Twum-Darko">
       <segment state="translated">
         <source>African Province - Michael Twum-Darko</source>
-        <target>African Province - Michael Twum-Darko</target>
+        <target>아프리카관구 봉사자 Michael Twum-Darko</target>
       </segment>
     </unit>
     <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
       <segment state="translated">
         <source>Asia-Pacific Province - Mandy Wheatley</source>
-        <target>Asia-Pacific Province - Mandy Wheatley</target>
+        <target>아시아태평양관구 봉사자 Mandy Wheatley</target>
       </segment>
     </unit>
     <unit id="loco:6353caf430467e2669741eb4" name="European Province - Tim Higgins (acting)">
       <segment state="translated">
         <source>European Province - Tim Higgins (acting)</source>
-        <target>European Province - Tim Higgins (acting)</target>
+        <target>유럽관구 봉사자 (대행)Tim Higgins</target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
       <segment state="translated">
         <source>Pacific Province - Blair Matheson</source>
-        <target>Pacific Province - Blair Matheson</target>
+        <target>태평양관구 봉사자 Blair Matheson을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353cb08bdc97311786d0992" name="Pray for those who have been released from the Third Order in the past year:">
       <segment state="translated">
         <source>Pray for those who have been released from the Third Order in the past year:</source>
-        <target>Pray for those who have been released from the Third Order in the past year:</target>
+        <target>지난 해 제 3회에서 해제된</target>
       </segment>
     </unit>
     <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
