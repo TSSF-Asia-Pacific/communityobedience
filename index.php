@@ -3,32 +3,62 @@
 use languages\en\english;
 use languages\ko\ko;
 use languages\zh\zh;
+use Symfony\Bridge\Twig\Extension\TranslationExtension;
 use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Error\SyntaxError;
 use Twig\Loader\FilesystemLoader;
 
 require 'vendor/autoload.php';
 
-$loader = new FilesystemLoader('./templates');
-$twig = new Environment($loader);
-// See https://localise.biz/whiteitsolutions/community-obedience for translation tool
-$translator = new \Symfony\Component\Translation\Translator('en');
-$translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
-$translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
-$translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
-$translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
-$translator->setFallbackLocales(['en']);
+/**
+ * The main function that loads the translations, and calls the twig template to build the output
+ *
+ * @return void
+ * @throws LoaderError
+ * @throws RuntimeError
+ * @throws SyntaxError
+ */
+function index(): void
+{
+    $loader = new FilesystemLoader('./templates');
+    $twig = new Environment($loader);
+    // See https://localise.biz/whiteitsolutions/community-obedience for translation tool
+    $translator = new \Symfony\Component\Translation\Translator('en');
+    $translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
+    // Load each translation xliff file here, set the locale that it'll refer to in the below array
+    $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
+    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
+    $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
+    $translator->setFallbackLocales(['en']);
 
-$twig->addExtension(new \Symfony\Bridge\Twig\Extension\TranslationExtension($translator));
+    $twig->addExtension(new TranslationExtension($translator));
 
+    /**
+     * Load each translation into the array here. The key for the array should be locale as set above.
+     * Each array member should be an array that has a name key (for the name displayed on the buttons) and a dateLocale key (See https://momentjs.com/ for possible Locales)
+     */
+    // Load each translation into the array here, should have a name key and a dateLocale key (See https://momentjs.com/ for possible Locales)
+    $translations = [
+        'en' => [
+            'name' => 'English',
+            'dateLocale' => 'en'
+        ],
+        'ko' => [
+            'name' => 'Korean',
+            'dateLocale' => 'ko'
+        ],
+        'zh' => [
+            'name' => 'Chinese',
+            'dateLocale' => 'zh-cn'
+        ],
+    ];
 
-    // Load each translation into the translations array here
-    $translations['en'] = new english();
-    $translations['ko'] = new ko();
-    $translations['zh'] = new zh();
-
+    // Extract the dateLocale keys for the JS rendering
     $dateLocaleKeys = [];
-    foreach($translations as $locale => $translation) {
-        $dateLocaleKeys[$locale] = $translation->dateLocale;
+    foreach ($translations as $locale => $translation) {
+        $dateLocaleKeys[$locale] = $translation['dateLocale'];
     }
 
     echo $twig->render('main.html.twig', [
@@ -37,9 +67,15 @@ $twig->addExtension(new \Symfony\Bridge\Twig\Extension\TranslationExtension($tra
         'lastUpdated' => filemtime('cache.appcache'),
         'dailyPrayersMembers' => getDailyPrayersMembersAll(),
     ]);
+}
 
-
-function getDailyPrayersMembersAll(){
+/**
+ * Gets all the members per day for prayer
+ *
+ * @return array
+ */
+function getDailyPrayersMembersAll(): array
+{
     $dailyTemplateVars = [];
     for ($day = 1; $day <= 31; $day++) {
         $dailyTemplateVars[$day] = getDailyPrayersMembers($day);
@@ -48,11 +84,17 @@ function getDailyPrayersMembersAll(){
     return $dailyTemplateVars;
 }
 
-
-function getDailyPrayersMembers($day) {
+/**
+ * Gets the members for prayer for a single day
+ *
+ * @param $day
+ * @return array
+ */
+function getDailyPrayersMembers($day): array
+{
     // Lookup names for deceased and living members we are praying for
     $templateVars = [];
-    foreach(range(1,3) as $region) {
+    foreach (range(1, 3) as $region) {
         $filename = __DIR__ . "/common/${day}_living_members_${region}.txt";
         if (file_exists($filename)) {
             $templateVars["living_members_${region}"] = file_get_contents($filename);
@@ -65,3 +107,5 @@ function getDailyPrayersMembers($day) {
 
     return $templateVars;
 }
+
+index();
