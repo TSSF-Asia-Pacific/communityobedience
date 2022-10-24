@@ -1,8 +1,0 @@
-<p class='boilerplate'>미국관구 중앙아메리카의 엘살바도르, 온두라스, 파나마에 있는 회원들을 위해 기도합니다. 
-
-회원은 아니지만 성프란시스와 성클라라와 동행하며 예수를 따르려 노력하는 교회의 신자들을 위해 기도합니다.</p><p class='rubric'>남동아시아 지구의 싱가포르에 있는 회원</p><p class='boilerplate'>{{ living_members_1 }}를 위해 기도합니다. </p><p class='rubric'>한국의 회원 </p><p class='boilerplate'>{{ living_members_2 }}
-을/를 위해 기도합니다.  
-
-별세한 회원
-{{ deceased_members }}
-을/를 위해 기도합니다.
