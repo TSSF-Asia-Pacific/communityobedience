@@ -1,12 +1,12 @@
 <script type="text/javascript">
-    // Array of supported languages
+    /* Array of supported languages */
     let supportedLanguages = {{ translations|keys|json_encode|raw }};
-    // Array mapping above supported languages to the relevant moment.js locale
+    /* Array mapping above supported languages to the relevant moment.js locale */
     let dateLocales = {{ dateLocaleKeys|json_encode|raw }};
 
-    // From https://stackoverflow.com/a/52112155
+    /* From https://stackoverflow.com/a/52112155 */
     const getLanguage = () => {
-        // Check for our local storage first
+        /* Check for our local storage first */
         if (typeof(Storage) !== "undefined") {
             if (localStorage.language) {
                 return localStorage.language;
@@ -32,7 +32,7 @@
         localStorage.language = newLang;
         lang = getSupportedLanguage();
 
-        // Update the display
+        /* Update the display */
         display_todays_obedience();
     };
 
@@ -47,24 +47,24 @@
     }
 
     function display_obedience(momentDate) {
-        // Set the current language button to active and the rest to inactive
+        /* Set the current language button to active and the rest to inactive */
         $(".langButtons").removeClass('active')
         $(".langButtons[lang='" + lang + "']").addClass('active')
 
-        // Hide all the boilerplate for all languages
+        /* Hide all the boilerplate for all languages */
         $(".translatedBoilerplate").hide();
 
-        // Show the boilerplate for the current language
+        /* Show the boilerplate for the current language */
         $(".translatedBoilerplate[lang='" + lang + "']").show();
 
-        // Ensure all divs are hidden
+        /* Ensure all divs are hidden */
         $("#jsmessage").hide();
         $(".principal").hide();
         $(".collect").hide();
         $(".day").hide();
 
-        // Work out day of month
-        momentDate.locale('en-au'); // Set to English for the dayofmonth/week stuff
+        /* Work out day of month */
+        momentDate.locale('en-au'); /* Set to English for the dayofmonth/week stuff */
         let dayofmonth = momentDate.format("D");
 
         let principalnum = dayofmonth;
@@ -72,10 +72,10 @@
         $("#principal_" + lang + "_" + principalnum).show();
         $("#day_" + lang + "_" + dayofmonth).show();
 
-        // Work out day of week
+        /* Work out day of week */
         let dayofweek = momentDate.format("d");
         $("#collect_" + lang + "_" + dayofweek).show();
-        momentDate.locale(dateLocales[lang]); // Set to real locale to display date
+        momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
         $('#date').text(momentDate.format("LL"));
         update_display();
     }
@@ -83,9 +83,9 @@
     $(document).ready(display_todays_obedience);
 
     function update_display() {
-        // Clear any current intervals before we start the next one
+        /* Clear any current intervals before we start the next one */
         clearInterval(intervalId);
-        // Refresh every 10 minutes
+        /* Refresh every 10 minutes */
         intervalId = setInterval(display_todays_obedience, 600000);
     }
 </script>
