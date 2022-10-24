@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.
-
-Pray for all Regional Ministers in the Province of Asia-Pacific.</p><p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}

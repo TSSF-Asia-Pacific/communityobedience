@@ -1,7 +1,0 @@
-﻿<p class='boilerplate'>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.
-
-Pray for all isolated Tertiaries.</p><p class='rubric'>In Queensland A Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}
-</p><p class='rubric'>February: Anglican Franciscan Pioneers (Manual F3)</p>
-

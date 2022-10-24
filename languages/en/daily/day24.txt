@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.
-
-Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</p><p class='rubric'>In Victoria / Tasmania Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}

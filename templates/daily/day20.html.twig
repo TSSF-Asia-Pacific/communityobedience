@@ -1,0 +1,11 @@
+<p class='boilerplate'>
+    {% trans into lang %}In the European Province, pray for Tertiaries in North East and North West England.{% endtrans %}<br/>
+    <br/>
+    {% trans into lang %}Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.{% endtrans %}
+</p>
+<p class='rubric'>{% trans into lang %}In New South Wales B / ACT Region, pray for{% endtrans %}</p>
+<p class='boilerplate'>{{ living_members_1 | nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
+    <br/>
+    {{ deceased_members | nl2br }}
+</p>

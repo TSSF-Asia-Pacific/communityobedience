@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.
-
-Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</p><p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}

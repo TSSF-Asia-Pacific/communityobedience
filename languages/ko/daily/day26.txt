@@ -1,8 +1,0 @@
-<p class='boilerplate'>미국관구의 남미 브라질, 콜롬비아, 에콰도르, 가이아나의 회원들을 위해 기도합니다. 
-
-유엔의 인정을 받은 NGO 프란시스칸 인터내셔널(FI)과 그들의 사역을 위해 기도합니다. </p><p class='rubric'>웨스트 오스트렐리아 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
-을/를 위해 기도합니다. 
-
-별세한 회원 
-{{ deceased_members }}
-을/를 위해 기도합니다.

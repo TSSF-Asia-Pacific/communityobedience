@@ -1,6 +1,0 @@
-<p class='boilerplate'>In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.
-
-Pray for scholars and writers who seek to make known the ways of Francis and Clare.</p><p class='rubric'>In South and East Asia Region, Malaysia area, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-</p><p class='rubric'>In the Hong Kong area, pray for</p><p class='boilerplate'>{{ living_members_2 }}
-
-{{ deceased_members }}</p><p class='rubric'>May: Jack Winslow (Manual F8)</p>
