@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.
-
-Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</p><p class='rubric'>In the Region of Dogura, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</p>

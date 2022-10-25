@@ -1,9 +1,0 @@
-<p class='boilerplate'>미국관구 캐나다와 멕시코에 있는 회원들을 위해 기도합니다. 
-
-성프란시스와 성클라라를 따르는 길을 알리기에 노력하는 학자와 작가들을 위해 기도합니다. </p><p class='rubric'>남동아시아 지구 말레이시아 지역 회원</p><p class='boilerplate'>{{ living_members_1 }}
-</p><p class='rubric'>In the Hong Kong area, pray for</p><p class='boilerplate'>{{ living_members_2 }}
-을/를 위해 기도합니다. 
-
-별세한 회원 
-{{ deceased_members }}
-을/를 위해 기도합니다. </p><p class='rubric'>5월: 잭 윈슬로 (매뉴얼 36)를 기억하고 기도합니다.</p>

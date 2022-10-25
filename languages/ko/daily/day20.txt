@@ -1,8 +1,0 @@
-<p class='boilerplate'>유럽관구 잉글랜드 북동부와 북서부에 있는 회원들을 위해 기도합니다. 
-
-뉴사우스웨일즈 타불람에 있는 작은 형제회와 미국 성공회 프란시스 수도회 형제들과 자매들을 위해 기도합니다. </p><p class='rubric'>뉴사우스웨일즈 B / 호주 수도 준주 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
-을/를 위해 기도합니다. 
-
-별세한 회원 
-{{ deceased_members }}
-을 위해 기도합니다.

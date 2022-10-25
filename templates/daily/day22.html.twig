@@ -1,0 +1,13 @@
+<p class='boilerplate'>
+    {% trans into lang %}In the European Province, pray for Tertiaries in Central and Eastern England.{% endtrans %}<br/>
+    <br/>
+    {% trans into lang %}Pray for the Order of Friars Minor (ofm), the Capuchins (ofmCap) and the Conventuals (ofmConv).{% endtrans %}
+</p>
+<p class='rubric'>
+    {% trans into lang %}In Victoria / Tasmania Region, pray for{% endtrans %}
+</p>
+<p class='boilerplate'>{{ living_members_1 |nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
+    <br/>
+    {{ deceased_members |nl2br }}
+</p>

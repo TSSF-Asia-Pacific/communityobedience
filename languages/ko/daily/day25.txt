@@ -1,8 +1,0 @@
-<p class='boilerplate'>미국관구 모든 주와 푸에르토리코에 있는 회원들을 위해 기도합니다. 
-
-가톨릭 재속수도회를 위해 기도합니다.</p><p class='rubric'>사우스 오스트렐리아 지구 회원</p><p class='boilerplate'>{{ living_members_1 }}
-을/를 위해 기도합니다. 
-
-별세한 회원 
-{{ deceased_members }}
-을/를 위해 기도합니다.</p><p class='rubric'>8월: 제 3회 후원자 루이 9세 (매뉴얼 45)를 기억하고 기도합니다.</p>

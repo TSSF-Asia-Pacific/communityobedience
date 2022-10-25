@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.
-
-Pray for Companions of SSF and Associates of tssf.</p><p class='rubric'>In New South Wales A Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</p>

@@ -1,5 +1,0 @@
-<p class='boilerplate'>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.
-
-Pray for First Order sisters in America, Korea and England.</p><p class='rubric'>In Queensland B / Northern NSW Region, pray for</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</p>

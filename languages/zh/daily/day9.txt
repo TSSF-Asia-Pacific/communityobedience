@@ -1,6 +1,0 @@
-﻿<p class='boilerplate'>对于亚太会省，为澳大利亚-维多利亚/塔斯马尼亚会区的第三会会友祈祷。
-
-为所有偏远区域会友祈祷。</p><p class='rubric'>为昆士兰A会区的第三会会友祈祷：</p><p class='boilerplate'>{{ living_members_1 }}
-
-{{ deceased_members }}</p><p class='rubric'>二月：安立甘圣法兰西斯会开拓者纪念日 (Manual F3)</p>
-
