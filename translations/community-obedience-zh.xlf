@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Mon, 24 Oct 2022 16:56:12 +0800
+ Exported at: Sun, 30 Oct 2022 17:51:37 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.26 20220820-1</note>
+      <note category="tool-version">1.0.26 20221028-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -1000,16 +1000,16 @@
         <target>为那些在教会中未正式发愿，但尝试在圣法兰西斯和圣克莱尔的灵性陪伴下跟随耶稣的人祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in Singapore, pray for">
+    <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in South Korea area, pray for">
       <segment state="translated">
-        <source>In South and East Asia Region, in Singapore, pray for</source>
+        <source>In South and East Asia Region, in South Korea area, pray for</source>
         <target>为南亚及东亚会区的新加坡第三会会友祈祷：</target>
       </segment>
     </unit>
-    <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South Korea area, pray for">
+    <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South and East Asia Region, in Singapore, pray for">
       <segment state="translated">
-        <source>In South Korea area, pray for</source>
-        <target>In South Korea area, pray for</target>
+        <source>In South and East Asia Region, in Singapore, pray for</source>
+        <target>为南亚及东亚会区的新加坡第三会会友祈祷：</target>
       </segment>
     </unit>
     <unit id="loco:6353ca9dc229d941d55b4d54" name="Pray for Ministers of the Third Order:">
