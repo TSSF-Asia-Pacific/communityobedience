@@ -1,0 +1,94 @@
+{# @var string lang #}
+{# @var AbstractLanguage translation #}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">
+    {# Daily Prayer Offering #}
+    {% trans into lang %}This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.{% endtrans %}
+</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Gloria Patra #}
+    {% trans into lang %}In the name of the Father,{% endtrans %}<br/>
+    {% trans into lang %}and of the Son,{% endtrans %}<br/>
+    {% trans into lang %}and of the Holy Spirit.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Opening Prayer #}
+    {% trans into lang %}Here and in all your churches throughout the world,{% endtrans %}<br/>
+    {% trans into lang %}we adore you, O Christ, and we bless you,{% endtrans %}<br/>
+    {% trans into lang %}because by your holy cross you have redeemed the world.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+</p>
+
+{# Add the principle for the day of month. #}
+{% for i in range(1, 31) %}
+    <div id='principal_{{ lang }}_{{ i }}' class='principal' lang='{{ lang }}'>
+        <p class='rubric'>
+            {% if i == '31' %}
+                {# Different title for day 31 #}
+                {% trans into lang %}About the Principles of the Third Order.{% endtrans %}
+            {% else %}
+                {% trans into lang %}Reading from the Principles of the Third Order.{% endtrans %}
+            {% endif %}
+        </p>
+        {% include "principle/principle#{i}.html.twig" %}
+    </div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Daily intercession prayers...{% endtrans %}</p>
+
+{# Add the daily intercession prayers for the day of the month #}
+{% for i in range(1, 31) %}
+    <div id='day_{{ lang }}_{{ i }}' class='day' lang='{{ lang }}'>
+        {% include "daily/day#{i}.html.twig" with dailyPrayersMembers[i] %}
+        <hr>
+    </div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}tssf Community Collect{% endtrans %}</p>
+
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Community Prayer #}
+    {% trans into lang %}God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.{% endtrans %}
+</p>
+
+{% set collect_days = {
+    0: 'The collect for Sunday',
+    1: 'The collect for Monday',
+    2: 'The collect for Tuesday',
+    3: 'The collect for Wednesday',
+    4: 'The collect for Thursday',
+    5: 'The collect for Friday',
+    6: 'The collect for Saturday'
+} %}
+{% for i in range(0, 6) %}
+<div id='collect_{{ lang }}_{{ i }}' class='collect' lang='{{ lang }}'>
+    {# Collect of the day #}
+    <p class='rubric'>
+        {{ collect_days[i]|trans({}, 'messages', lang) }}
+    </p>
+    <p class='boilerplate'>
+        {% include "collect/collect#{i}.html.twig" %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+    </p>
+</div>
+{% endfor %}
+
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Either{% endtrans %}</p>
+
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Blessing 1 #}
+    {% trans into lang %}May our blessed Lady pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May Saint Francis pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May Saint Clare pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May all the saints of the Third Order pray for us.{% endtrans %}<br/>
+    {% trans into lang %}May the holy angels watch over us and befriend us.{% endtrans %}<br/>
+    {% trans into lang %}May our Lord Jesus give us his blessing and his peace.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+</p>
+<p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}or...{% endtrans %}</p>
+<p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
+    {# Blessing 2 #}
+    {% trans into lang %}The grace of our Lord Jesus Christ,{% endtrans %}
+    {% trans into lang %}the love of God,{% endtrans %}
+    {% trans into lang %}and the fellowship of the Holy Spirit be with us all evermore.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+</p>
+
+<p class="copyright  translatedBoilerplate" lang="{{ lang }}">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &copy; 1989 National
+    Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>

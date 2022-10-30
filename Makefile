@@ -1,3 +1,6 @@
+SHELL = /bin/bash
+.SHELLFLAGS = -o pipefail -c
+
 modifieddate := $(shell date '+%Y-%m-%d %H:%M')
 
 update-appcache:

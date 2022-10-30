@@ -1,0 +1,13 @@
+<p class='boilerplate'>
+    {% trans into lang %}Pray for the Society of St Francis:{% endtrans %}<br/>
+    {% trans into lang %}Ministers General of First Orders and Abbess of Second Order;{% endtrans %}<br/>
+    {% trans into lang %}Ministers Provincial of First Orders.{% endtrans %}<br/>
+    <br/>
+    {% trans into lang %}Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.{% endtrans %}
+</p>
+<p class='rubric'>{% trans into lang %}In Western Australia Region, pray for{% endtrans %}</p>
+<p class='boilerplate'>{{ living_members_1 | nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
+    <br/>
+    {{ deceased_members | nl2br }}
+</p>

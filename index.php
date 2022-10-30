@@ -1,265 +1,111 @@
-<!DOCTYPE html>
-<html manifest="cache.appcache">
-<head>
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <meta content="utf-8" http-equiv="encoding">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="mobile-web-app-capable" content="yes">
-    <link rel="icon" sizes="196x196" href="images/Icon.png">
-    <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
-    <title>tssf Community Obedience</title>
-    <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href='css/tssf.css'>
-</head>
 <?php
 
-// autoloader
-use languages\AbstractLanguage;
 use languages\en\english;
 use languages\ko\ko;
 use languages\zh\zh;
+use Symfony\Bridge\Twig\Extension\TranslationExtension;
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Error\SyntaxError;
+use Twig\Loader\FilesystemLoader;
 
-define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
-
-spl_autoload_register(function ($class) {
-    $file = ROOT . str_replace('\\', '/', $class) . '.php';
-    if (file_exists($file)) {
-        require $file;
-    }
-});
-
-    // Load each translation into the translations array here
-    $translations['en'] = new english();
-    $translations['ko'] = new ko();
-    $translations['zh'] = new zh();
-
-    $dateLocaleKeys = [
-            'en' => $translations['en']->dateLocale,
-            'zh' => $translations['zh']->dateLocale,
-            'ko' => $translations['ko']->dateLocale,
-    ];
-
-?>
-
-<body>
-<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
-<script type="text/javascript" src='js/moment/moment-with-locales.min.js'  charset="UTF-8"></script>
-
-<script type="text/javascript">
-    <?php
-    echo 'let supportedLanguages = ' .  json_encode(array_keys($translations)) . ';';
-    echo 'let dateLocales = ' .  json_encode($dateLocaleKeys) . ';';
-    ?>
-    // From https://stackoverflow.com/a/52112155
-    const getLanguage = () => {
-        // Check for our local storage first
-        if (typeof(Storage) !== "undefined") {
-            if (localStorage.language) {
-                return localStorage.language;
-            }
-        }
-        if (navigator.languages && navigator.languages.length) {
-            return navigator.languages[0];
-        } else {
-            return navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en';
-        }
-    };
-
-    const getSupportedLanguage = () => {
-        let detectedLanguage = getLanguage();
-
-        if (supportedLanguages.includes(detectedLanguage) ) {
-            return detectedLanguage;
-        }
-        return 'en';
-    };
-
-    const setLanguage = (newLang) => {
-        localStorage.language = newLang;
-        lang = getSupportedLanguage();
-
-        // Update the display
-        display_todays_obedience();
-    };
-
-    let intervalId;
-
-    let lang = getSupportedLanguage();
-
-
-    function display_todays_obedience() {
-        todays_date = moment();
-        display_obedience(todays_date);
-    }
-
-    function display_obedience(momentDate) {
-        // Set the current language button to active and the rest to inactive
-        $(".langButtons").removeClass('active')
-        $(".langButtons[lang='" + lang + "']").addClass('active')
-
-        // Hide all the boilerplate for all languages
-        $(".translatedBoilerplate").hide();
-
-        // Show the boilerplate for the current language
-        $(".translatedBoilerplate[lang='" + lang + "']").show();
-
-        // Ensure all divs are hidden
-        $("#jsmessage").hide();
-        $(".principal").hide();
-        $(".collect").hide();
-        $(".day").hide();
-
-        // Work out day of month
-        momentDate.locale('en-au'); // Set to English for the dayofmonth/week stuff
-        let dayofmonth = momentDate.format("D");
-
-        let principalnum = dayofmonth;
-
-        $("#principal_" + lang + "_" + principalnum).show();
-        $("#day_" + lang + "_" + dayofmonth).show();
-
-        // Work out day of week
-        let dayofweek = momentDate.format("d");
-        $("#collect_" + lang + "_" + dayofweek).show();
-        momentDate.locale(dateLocales[lang]); // Set to real locale to display date
-        $('#date').text(momentDate.format("LL"));
-        update_display();
-    }
-
-    $(document).ready(display_todays_obedience);
-
-    function update_display() {
-        // Clear any current intervals before we start the next one
-        clearInterval(intervalId);
-        // Refresh every 10 minutes
-        intervalId = setInterval(display_todays_obedience, 600000);
-    }
-</script>
-<div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
-
-<div id="langselect" style="float: right">
-    <?php
-    foreach ($translations as $lang => $translation) {
-        echo "<button type='button' class='btn  btn-light langButtons' onClick='setLanguage(\"$lang\");' lang='$lang'>$translation->name</button>";
-    }
-    ?>
-
-</div>
-
-<h1><em>tssf Community Obedience</em></h1>
-
-<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
-    <em>Province of Asia-Pacific<br/>
-        for <span id='date'></span></em>
-</p>
-<?php
-// @TODO Move the above block into a translated block
+require 'vendor/autoload.php';
 
 /**
- * @var string           $lang
- * @var AbstractLanguage $translation
+ * The main function that loads the translations, and calls the twig template to build the output
+ *
+ * @return void
+ * @throws LoaderError
+ * @throws RuntimeError
+ * @throws SyntaxError
  */
-foreach ($translations as $lang => $translation) {
-    $translationBasePath = dirname((new ReflectionClass($translation))->getFileName());
-?>
+function index(): void
+{
+    $loader = new FilesystemLoader('./templates');
+    $twig = new Environment($loader);
+    // See https://localise.biz/whiteitsolutions/community-obedience for translation tool
+    $translator = new \Symfony\Component\Translation\Translator('en');
+    $translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
+    // Load each translation xliff file here, set the locale that it'll refer to in the below array
+    $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
+    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
+    $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
+    $translator->setFallbackLocales(['en']);
 
-<p class="rubric translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->dailyPrayerOffering ?>
-</p>
-<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->gloriaPatra ?>
-</p>
-<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->openingPrayer ?>
-</p>
+    $twig->addExtension(new TranslationExtension($translator));
 
-<?php
+    /**
+     * Load each translation into the array here. The key for the array should be locale as set above.
+     * Each array member should be an array that has a name key (for the name displayed on the buttons) and a dateLocale key (See https://momentjs.com/ for possible Locales)
+     */
+    // Load each translation into the array here, should have a name key and a dateLocale key (See https://momentjs.com/ for possible Locales)
+    $translations = [
+        'en' => [
+            'name' => 'English',
+            'dateLocale' => 'en'
+        ],
+        'ko' => [
+            'name' => 'Korean',
+            'dateLocale' => 'ko'
+        ],
+        'zh' => [
+            'name' => 'Chinese',
+            'dateLocale' => 'zh-cn'
+        ],
+    ];
 
-    /* Add the principle for the day of month. */
-    for ($i = 1; $i <= 31; $i++) {
-        $principleFile = "$translationBasePath/principle/principle${i}.txt";
-        if ($i == 31) {
-            $principleRubric = $translation->principleRubricTitleDay31;
-        } else {
-            $principleRubric = $translation->principleRubricTitleNormal;
+    // Extract the dateLocale keys for the JS rendering
+    $dateLocaleKeys = [];
+    foreach ($translations as $locale => $translation) {
+        $dateLocaleKeys[$locale] = $translation['dateLocale'];
+    }
+
+    echo $twig->render('main.html.twig', [
+        'translations' => $translations,
+        'dateLocaleKeys' => $dateLocaleKeys,
+        'lastUpdated' => filemtime('cache.appcache'),
+        'dailyPrayersMembers' => getDailyPrayersMembersAll(),
+    ]);
+}
+
+/**
+ * Gets all the members per day for prayer
+ *
+ * @return array
+ */
+function getDailyPrayersMembersAll(): array
+{
+    $dailyTemplateVars = [];
+    for ($day = 1; $day <= 31; $day++) {
+        $dailyTemplateVars[$day] = getDailyPrayersMembers($day);
+    }
+
+    return $dailyTemplateVars;
+}
+
+/**
+ * Gets the members for prayer for a single day
+ *
+ * @param $day
+ * @return array
+ */
+function getDailyPrayersMembers($day): array
+{
+    // Lookup names for deceased and living members we are praying for
+    $templateVars = [];
+    foreach (range(1, 3) as $region) {
+        $filename = __DIR__ . "/common/${day}_living_members_${region}.txt";
+        if (file_exists($filename)) {
+            $templateVars["living_members_${region}"] = file_get_contents($filename);
         }
-
-        echo "<div id='principal_${lang}_${i}' class='principal' lang='${lang}'>";
-        echo "    <p class='rubric'>$principleRubric</p>\n";
-        echo "    <p class='boilerplate'>" . implode("</p>\n<p class='boilerplate'>", file($principleFile)) . "</p>\n";
-        echo "</div>\n";
     }
-    ?>
-
-    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->dailyIntercessionPrayerTitle?></p>
-
-    <?php
-    /* Add the daily intercession prayers for the day of the month */
-
-    for ($i = 1; $i <= 31; $i++) {
-        echo "<div id='day_${lang}_${i}' class='day' lang='${lang}'>";
-        $contents = file("$translationBasePath/daily/day${i}.txt");
-        echo implode('<br/>', $contents) . "<br/>";
-        echo "</div>\n";
+    $deceasedMembersFilename = __DIR__ . "/common/${day}_deceased_members.txt";
+    if (file_exists($deceasedMembersFilename)) {
+        $templateVars['deceased_members'] = file_get_contents($deceasedMembersFilename);
     }
-    ?>
 
-    <p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->collectTitle ?></p>
+    return $templateVars;
+}
 
-    <p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->communityPrayer ?></p>
-    <?php
-
-    for ($i = 0; $i <= 6; $i++) {
-        $collectFileLines = file("$translationBasePath/collect/collect${i}.txt");
-        ?>
-        <div id='collect_<?= $lang ?>_<?= $i ?>' class='collect' lang='<?= $lang ?>'>
-            <p class='rubric'><?= $translation->collectDays[$i] ?></p>
-            <?php foreach ($collectFileLines as $collectFileLine) {
-                ?>
-            <p class='boilerplate'><?= $collectFileLine ?></p>
-            <?php } ?>
-        </div>
-        <?php
-    }
-?>
-
-<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->either ?></p>
-
-<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->blessingOne ?>
-</p>
-<p class="rubric translatedBoilerplate" lang="<?= $lang ?>"><?= $translation->orDot ?></p>
-<p class="boilerplate translatedBoilerplate" lang="<?= $lang ?>">
-    <?= $translation->blessingTwo ?>
-</p>
-
-<p class="copyright  translatedBoilerplate" lang="<?= $lang ?>">* <?= $translation->copyright ?></p>
-
-<?php
-} // End language loop
-?>
-
-<p class="copyright" title="<?= date('c', filemtime('cache.appcache')) ?>">Updated: <?= date('jS M Y', filemtime('cache.appcache')); ?>.</p>
-
-<!-- Usage tracking -->
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.whiteitsolutions.com.au/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '22']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//piwik.whiteitsolutions.com.au/matomo.php?idsite=22&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
-
-
-</body>
-</html>
+index();

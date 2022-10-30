@@ -1,37 +1,48 @@
 name: Build & Deploy Static Site Staging
 
 on:
-    push:
-        branches:
-            - 'staging'
+  push:
+    branches:
+      - 'staging'
 
 env:
-    URL: tssf-asia-pacific.github.io/communityobedience-staging/
+  URL: tssf-asia-pacific.github.io/communityobedience-staging/
 
 jobs:
-    build:
-        name: Build Static Site Staging
-        runs-on: ubuntu-latest
-        environment:
-            name: staging
-            url: https://${{ env.URL }}
+  build:
+    name: Build Static Site Staging
+    runs-on: ubuntu-latest
+    environment:
+      name: staging
+      url: https://${{ env.URL }}
 
-        steps:
-            - uses: actions/checkout@v2
-              with:
-                  fetch-depth: 0
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-            - uses: actions/setup-node@v1
-              with:
-                  node-version: '10.x'
-            - run: yarn install
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - run: yarn install
 
-            - name: Run Makefile
-              run: make all
+      - name: Cache Composer dependencies
+        uses: actions/cache@v2
+        with:
+          path: /tmp/composer-cache
+          key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
-            - name: Deploy
-              uses: peaceiris/actions-gh-pages@v3
-              with:
-                  external_repository: TSSF-Asia-Pacific/communityobedience-staging
-                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-                  publish_dir: ./public
+      - name: Install dependencies
+        uses: php-actions/composer@v6
+        with:
+          dev: no
+
+      - name: Run Makefile
+        run: make all
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          external_repository: TSSF-Asia-Pacific/communityobedience-staging
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
