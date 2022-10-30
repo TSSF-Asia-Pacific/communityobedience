@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sun, 30 Oct 2022 17:51:39 +0800
+ Exported at: Sun, 30 Oct 2022 19:42:16 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1013,15 +1013,15 @@
       </segment>
     </unit>
     <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in South Korea area, pray for">
-      <segment>
+      <segment state="translated">
         <source>In South and East Asia Region, in South Korea area, pray for</source>
-        <target>남동아시아 지구의 싱가포르에 있는 회원</target>
+        <target>를 위해 기도합니다. 한국의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South and East Asia Region, in Singapore, pray for">
-      <segment>
+      <segment state="translated">
         <source>In South and East Asia Region, in Singapore, pray for</source>
-        <target>를 위해 기도합니다. 한국의 회원</target>
+        <target>남동아시아 지구의 싱가포르에 있는 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca9dc229d941d55b4d54" name="Pray for Ministers of the Third Order:">
