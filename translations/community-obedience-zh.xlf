@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Sun, 30 Oct 2022 19:42:12 +0800
+ Exported at: Mon, 31 Oct 2022 20:25:00 +0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1204,6 +1204,12 @@
       <segment state="translated">
         <source>and the fellowship of the Holy Spirit be with us all evermore.</source>
         <target>圣灵的感动，常与我们众人同在！</target>
+      </segment>
+    </unit>
+    <unit id="loco:635fbbb5e8cf82096c3a3b52" name="In India, pray for">
+      <segment state="translated">
+        <source>In India, pray for</source>
+        <target>In India, pray for</target>
       </segment>
     </unit>
   </file>
