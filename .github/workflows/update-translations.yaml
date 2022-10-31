@@ -1,0 +1,34 @@
+name: 'Update translations'
+
+on:
+#  push:
+#    branches:
+#      - 'staging'
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: staging
+
+      - name: Download Translations
+        run: ./translations/download.sh
+        env:
+          LOCALISE_KEY: ${{ secrets.LOCALISE_KEY }}
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update translations"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
