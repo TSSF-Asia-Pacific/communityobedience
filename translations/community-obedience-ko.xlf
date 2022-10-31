@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Mon, 31 Oct 2022 20:25:02 +0800
+ Exported at: Mon, 31 Oct 2022 13:40:29 +0100
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1220,6 +1220,12 @@
       <segment state="translated">
         <source>In India, pray for</source>
         <target>In India, pray for</target>
+      </segment>
+    </unit>
+    <unit id="loco:635fc2237cba0314b35d25b2" name="Test Asset">
+      <segment state="translated">
+        <source>Test Asset</source>
+        <target>Test Asset</target>
       </segment>
     </unit>
   </file>
