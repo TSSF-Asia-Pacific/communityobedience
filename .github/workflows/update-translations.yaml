@@ -6,7 +6,7 @@ on:
 #      - 'staging'
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '37 * * * *'
 
 jobs:
   update-translations:
