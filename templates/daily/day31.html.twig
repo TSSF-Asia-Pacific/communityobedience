@@ -1,15 +1,15 @@
 <p class='boilerplate'>{% trans into lang %}Pray for Ministers of the Third Order:{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}MINISTER GENERAL - John Hebenton{% endtrans %}<br/>
-    {% trans into lang %}ASSISTANT MINISTER GENERAL - Janet Fedders{% endtrans %}<br/>
+    {% trans into lang %}MINISTER GENERAL -{% endtrans %} John Hebenton<br/>
+    {% trans into lang %}ASSISTANT MINISTER GENERAL -{% endtrans %} Mandy Wheatley<br/>
     <br/>
     {% trans into lang %}PROVINCIAL MINISTERS:{% endtrans %}<br/>
-    {% trans into lang %}American Province - Janet Fedders{% endtrans %}<br/>
-    {% trans into lang %}African Province - Michael Twum-Darko{% endtrans %}<br/>
-    {% trans into lang %}Asia-Pacific Province - Mandy Wheatley{% endtrans %}<br/>
-    {% trans into lang %}European Province - Tim Higgins (acting){% endtrans %}<br/>
-    {% trans into lang %}Pacific Province - Blair Matheson{% endtrans %}</p>
-<p class='boilerplate'>{% trans into lang %}Pray for those who have been released from the Third Order in the past year:{% endtrans %}
+    {% trans into lang %}American Province -{% endtrans %} Peter Stube; Ken Norian<br/>
+    {% trans into lang %}African Province -{% endtrans %} Bonginkosi Thomas Buthelezi<br/>
+    {% trans into lang %}Asia-Pacific Province -{% endtrans %} Mandy Wheatley<br/>
+    {% trans into lang %}European Province -{% endtrans %} Tim Higgins (acting)<br/>
+    {% trans into lang %}Pacific Province -{% endtrans %} Blair Matheson</p>
+<p class='boilerplate'>{% trans into lang %}Pray for those who have been released from the Third Order in the past year:{% endtrans %} 
     <br/>
     {{ living_members_1 | nl2br }}<br/>
     {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}

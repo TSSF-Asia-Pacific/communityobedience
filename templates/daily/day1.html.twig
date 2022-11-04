@@ -10,6 +10,10 @@
     {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
     <br/>
     {# @TODO add deceased member header for languages with it #}
-    {{ deceased_members | nl2br }}
+  <br/>{% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}{% endif %}
+  <br/>
+  {{ deceased_members | nl2br }}<br/>
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
+  <br/>
 </p>
 <p class='rubric'>{% trans into lang %}December: Requiem for Departed Franciscans (Manual F25){% endtrans %}</p>
