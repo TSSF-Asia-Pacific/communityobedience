@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Fri, 04 Nov 2022 00:47:00 -0500
+ Exported at: Fri, 04 Nov 2022 04:45:43 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -52,10 +52,10 @@
         <target>阿们。</target>
       </segment>
     </unit>
-    <unit id="loco:6300e4cc57b8a56d58434bfa" name="Deceased Member">
+    <unit id="loco:6300e4cc57b8a56d58434bfa" name="deceased-member">
       <segment state="translated">
-        <source>Deceased Member</source>
-        <target>Deceased Member</target>
+        <source>deceased-member</source>
+        <target>deceased-member</target>
       </segment>
     </unit>
     <unit id="loco:6300e8f6b4cc257b656b2273" name="God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.">
@@ -1036,28 +1036,28 @@
         <target>省会长：</target>
       </segment>
     </unit>
-    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Janet Fedders">
+    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province -">
       <segment state="translated">
-        <source>American Province - Janet Fedders</source>
-        <target>美洲会省 - Janet Fedders</target>
+        <source>American Province -</source>
+        <target>美洲会省 -</target>
       </segment>
     </unit>
-    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Michael Twum-Darko">
+    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province -">
       <segment state="translated">
-        <source>African Province - Michael Twum-Darko</source>
-        <target>非洲会省 - Michael Twum-Darko</target>
+        <source>African Province -</source>
+        <target>非洲会省 -</target>
       </segment>
     </unit>
-    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
+    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province -">
       <segment state="translated">
-        <source>Asia-Pacific Province - Mandy Wheatley</source>
-        <target>亚太会省 - Mandy Wheatley</target>
+        <source>Asia-Pacific Province -</source>
+        <target>亚太会省 -</target>
       </segment>
     </unit>
-    <unit id="loco:6353caf430467e2669741eb4" name="European Province - Tim Higgins (acting)">
+    <unit id="loco:6353caf430467e2669741eb4" name="European Province -">
       <segment state="translated">
-        <source>European Province - Tim Higgins (acting)</source>
-        <target>欧洲会省 - Tim Higgins (acting)</target>
+        <source>European Province -</source>
+        <target>欧洲会省 -</target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
@@ -1209,7 +1209,7 @@
     <unit id="loco:635fbbb5e8cf82096c3a3b52" name="In India, pray for">
       <segment state="translated">
         <source>In India, pray for</source>
-        <target>In India, pray for</target>
+        <target>为印度第三会会友祈祷:</target>
       </segment>
     </unit>
   </file>
