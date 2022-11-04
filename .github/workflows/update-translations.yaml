@@ -1,0 +1,27 @@
+name: 'Update translations'
+
+on:
+#  push:
+#    branches:
+#      - 'staging'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: staging
+
+      - name: Download Translations
+        run: ./translations/download.sh
+        env:
+          LOCALISE_KEY: ${{ secrets.LOCALISE_KEY }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update translations
