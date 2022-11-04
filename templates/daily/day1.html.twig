@@ -6,14 +6,11 @@
 <p class='rubric'>
     {% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}
 </p>
-<p class='boilerplate'>{{ living_members_1 |nl2br }}<br/>
-    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
-    <br/>
-    {# @TODO add deceased member header for languages with it #}
-  <br/>{% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}{% endif %}
-  <br/>
+<p class='boilerplate'>
+  {{ living_members_1 |nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}<br/>{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
+    {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}<br/>{{ "deceased-member"|trans({}, 'messages', lang) }}{% endif %}  
   {{ deceased_members | nl2br }}<br/>
-  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
-  <br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}<br/>{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
 </p>
 <p class='rubric'>{% trans into lang %}December: Requiem for Departed Franciscans (Manual F25){% endtrans %}</p>
