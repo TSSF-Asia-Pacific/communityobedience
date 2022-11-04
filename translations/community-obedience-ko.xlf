@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Tue, 01 Nov 2022 01:52:33 -0700
+ Exported at: Fri, 04 Nov 2022 00:47:01 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -73,7 +73,7 @@
     <unit id="loco:6300e932ed421600b663c7b2" name="God, you have made your church rich through the poverty of blessed Francis: help us, like him, not to trust in earthly things, but to seek your heavenly gifts; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, you have made your church rich through the poverty of blessed Francis: help us, like him, not to trust in earthly things, but to seek your heavenly gifts; through Jesus Christ our Lord.</source>
-        <target>하느님, 당신께서는 복된 프란시스의 가난을 통하여 당신의 교회를 부유하게 만드셨나이다. 우리를 도우시어 프란시스처럼 이 땅에 속한 것들을 신뢰하지 않고, 당신의 천상 선물을 구하게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. 아멘.  </target>
+        <target>하느님, 당신께서는 복된 프란시스의 가난을 통하여 당신의 교회를 부유하게 만드셨나이다. 우리를 도우시어 프란시스처럼 이 땅에 속한 것들을 신뢰하지 않고, 당신의 천상 선물을 구하게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. 아멘.</target>
       </segment>
     </unit>
     <unit id="loco:6300e943469ad56c8d580374" name="God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.">
