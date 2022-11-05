@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Fri, 04 Nov 2022 04:45:43 -0500
+ Exported at: Sat, 05 Nov 2022 05:45:04 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -31,7 +31,7 @@
       </notes>
       <segment state="translated">
         <source>I-pray-for-you</source>
-        <target> </target>
+        <target>I-pray-for-you</target>
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bf3" name="God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.">
