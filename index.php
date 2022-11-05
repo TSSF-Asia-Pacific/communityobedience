@@ -97,12 +97,12 @@ function getDailyPrayersMembers($day): array
     foreach (range(1, 3) as $region) {
         $filename = __DIR__ . "/common/${day}_living_members_${region}.txt";
         if (file_exists($filename)) {
-            $templateVars["living_members_${region}"] = file_get_contents($filename);
+            $templateVars["living_members_${region}"] = array_filter(file_get_contents($filename));
         }
     }
     $deceasedMembersFilename = __DIR__ . "/common/${day}_deceased_members.txt";
     if (file_exists($deceasedMembersFilename)) {
-        $templateVars['deceased_members'] = file_get_contents($deceasedMembersFilename);
+        $templateVars['deceased_members'] = array_filter(file_get_contents($deceasedMembersFilename));
     }
 
     return $templateVars;
