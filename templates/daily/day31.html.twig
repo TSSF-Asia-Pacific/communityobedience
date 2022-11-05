@@ -12,7 +12,9 @@
 <p class='boilerplate'>{% trans into lang %}Pray for those who have been released from the Third Order in the past year:{% endtrans %} 
     <br/>
     {{ living_members_1 | nl2br }}<br/>
-    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
-    <br/>
-    {{ deceased_members | nl2br }}
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  <br/>
+  {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  {{ deceased_members | nl2br }}<br/>
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
 </p>

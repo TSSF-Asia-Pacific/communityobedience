@@ -4,9 +4,12 @@
     {% trans into lang %}Pray for the First Order in the Provinces of America and Europe.{% endtrans %}
 </p>
 <p class='rubric'>{% trans into lang %}In Queensland B / Northern NSW Region, pray for{% endtrans %}</p>
-<p class='boilerplate'>{{ living_members_1 | nl2br }}<br/>
-    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
-    <br/>
-    {{ deceased_members | nl2br }}
+<p class='boilerplate'>
+  {{ living_members_1 |nl2br }}<br/>
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  <br/>
+  {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  {{ deceased_members | nl2br }}<br/>
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
 </p>
 <p class='rubric'>{% trans into lang %}August: Maximilian Kolbe (Manual F15){% endtrans %}</p>
