@@ -47,7 +47,8 @@
 
 <p class="boilerplate translatedBoilerplate" lang="{{ lang }}">
     {# Community Prayer #}
-    {% trans into lang %}God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.{% endtrans %}<strong>{% trans into lang %}Amen{% endtrans %}</strong>
+    {% trans into lang %}God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.
+    {% endtrans %}<strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
 
 {% set collect_days = {
@@ -66,10 +67,12 @@
         {{ collect_days[i]|trans({}, 'messages', lang) }}
     </p>
     <p class='boilerplate'>
-        {% include "collect/collect#{i}.html.twig" %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+        {% include "collect/collect#{i}.html.twig" %}
     </p>
 </div>
 {% endfor %}
+
+{# Add special collects for feast days Jan 16, Feb 9, Apr 11, May 16, 20, Jun 13, Jul 15, Aug 4,8,11,14,15,25 Sep 7,17, Oct 3,4,11, Nov 19,23, Dec 1 #}
 
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Either{% endtrans %}</p>
 
