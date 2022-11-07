@@ -13,79 +13,82 @@
             }
         }
         if (navigator.languages && navigator.languages.length) {
-            return navigator.languages[0];
-        } else {
-            return navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en';
-        }
-    };
+  return navigator.languages[0];
+  } else {
+  return navigator.userLanguage || navigator.language || navigator.browserLanguage || 'en';
+  }
+  };
 
-    const getSupportedLanguage = () => {
-        let detectedLanguage = getLanguage();
+  const getSupportedLanguage = () => {
+  let detectedLanguage = getLanguage();
 
-        if (supportedLanguages.includes(detectedLanguage) ) {
-            return detectedLanguage;
-        }
-        return 'en';
-    };
+  if (supportedLanguages.includes(detectedLanguage) ) {
+  return detectedLanguage;
+  }
+  return 'en';
+  };
 
-    const setLanguage = (newLang) => {
-        localStorage.language = newLang;
-        lang = getSupportedLanguage();
+  const setLanguage = (newLang) => {
+  localStorage.language = newLang;
+  lang = getSupportedLanguage();
 
-        /* Update the display */
-        display_todays_obedience();
-    };
+  /* Update the display */
+  display_todays_obedience();
+  };
 
-    let intervalId;
+  let intervalId;
 
-    let lang = getSupportedLanguage();
+  let lang = getSupportedLanguage();
 
 
-    function display_todays_obedience() {
-        todays_date = moment();
-        display_obedience(todays_date);
-    }
+  function display_todays_obedience() {
+  todays_date = moment();
+  display_obedience(todays_date);
+  }
 
-    function display_obedience(momentDate) {
-        /* Set the current language button to active and the rest to inactive */
-        $(".langButtons").removeClass('active')
-        $(".langButtons[lang='" + lang + "']").addClass('active')
+  function display_obedience(momentDate) {
+  /* Set the current language button to active and the rest to inactive */
+  $(".langButtons").removeClass('active')
+  $(".langButtons[lang='" + lang + "']").addClass('active')
 
-        /* Hide all the boilerplate for all languages */
-        $(".translatedBoilerplate").hide();
+  /* Hide all the boilerplate for all languages */
+  $(".translatedBoilerplate").hide();
 
-        /* Show the boilerplate for the current language */
-        $(".translatedBoilerplate[lang='" + lang + "']").show();
+  /* Show the boilerplate for the current language */
+  $(".translatedBoilerplate[lang='" + lang + "']").show();
 
-        /* Ensure all divs are hidden */
-        $("#jsmessage").hide();
-        $(".principal").hide();
-        $(".collect").hide();
-        $(".day").hide();
+  /* Ensure all divs are hidden */
+  $("#jsmessage").hide();
+  $(".principal").hide();
+  $(".collect").hide();
+  $(".day").hide();
+  {#$(".feast").hide();#}
 
-        /* Work out day of month */
-        momentDate.locale('en-au'); /* Set to English for the dayofmonth/week stuff */
-        let dayofmonth = momentDate.format("D");
+  /* Work out day of month */
+  momentDate.locale('en-au'); /* Set to English for the dayofmonth/week stuff */
+  let dayofmonth = momentDate.format("D");
+  let monthofyear = momentDate.format("M");
 
-        let principalnum = dayofmonth;
+  let principalnum = dayofmonth;
 
-        $("#principal_" + lang + "_" + principalnum).show();
-        $("#day_" + lang + "_" + dayofmonth).show();
+  $("#principal_" + lang + "_" + principalnum).show();
+  $("#day_" + lang + "_" + dayofmonth).show();
 
-        /* Work out day of week */
-        let dayofweek = momentDate.format("d");
-        $("#collect_" + lang + "_" + dayofweek).show();
-        momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
-        $('#date').text(momentDate.format("LL"));
-        update_display();
-    }
+  /* Work out day of week */
+  let dayofweek = momentDate.format("d");
+  $("#collect_" + lang + "_" + dayofweek).show();
+  {#$("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth).show();#}
+  momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
+  $('#date').text(momentDate.format("LL"));
+  update_display();
+  }
 
-    $(document).ready(display_todays_obedience);
+  $(document).ready(display_todays_obedience);
 
-    function update_display() {
-        /* Clear any current intervals before we start the next one */
-        clearInterval(intervalId);
-        /* Refresh every 10 minutes */
-        intervalId = setInterval(display_todays_obedience, 600000);
-    }
+  function update_display() {
+  /* Clear any current intervals before we start the next one */
+  clearInterval(intervalId);
+  /* Refresh every 10 minutes */
+  intervalId = setInterval(display_todays_obedience, 600000);
+  }
 </script>
