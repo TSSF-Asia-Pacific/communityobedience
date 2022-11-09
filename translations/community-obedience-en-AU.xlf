@@ -1011,14 +1011,14 @@
         <source>In India, pray for</source>
       </segment>
     </unit>
-    <unit name="">
+    <unit id="" name="Prayer of the day:">
       <segment>
         <source>
           Prayer of the day:
         </source>
       </segment>
     </unit>
-    <unit name="Everliving God,
+    <unit id="" name="Everliving God,
 we thank you for the brothers by whose martyrdom
 the beginnings of the Franciscan Order were sanctified:
 grant that following their example and
@@ -1043,7 +1043,7 @@ in the unity of the Holy Spirit,
 one God, now and for ever.</source>
       </segment>
     </unit>
-    <unit name="Everliving God,
+    <unit id="" name="Everliving God,
   we thank you for the brothers by whose martyrdom
   the beginnings of the Franciscan Order were sanctified:
   grant that following their example and
@@ -1070,7 +1070,7 @@ one God, now and for ever.</source>
         </source>
       </segment>
     </unit>
-    <unit name="Almighty God,
+    <unit id="" name="Almighty God,
   when the world was growing cold
   you inflamed the hearts of your people with the fire of your love;
   you raised up blessed Francis,
@@ -1095,7 +1095,7 @@ one God, now and for ever.</source>
         </source>
       </segment>
     </unit>
-    <unit name="God of love,
+    <unit id="" name="God of love,
   who filled your servant John Vianney
   with zeal as a priest, pastor, and confessor:
   help us, by your grace,
@@ -1120,7 +1120,7 @@ one God, now and for ever.</source>
         </source>
       </segment>
     </unit>
-    <unit name="Lord God,
+    <unit id="" name="Lord God,
   through the powerful preaching of Antony of Padua
   many were brought out of darkness and error
   into the clear light of your gospel:
@@ -1145,7 +1145,7 @@ Lord God,
         </source>
       </segment>
     </unit>
-    <unit name="Everlasting God,
+    <unit id="" name="Everlasting God,
   we praise you that you have given light to your church
   by the witness of Bonaventure:
   in our day, may your Holy Spirit raise up people
@@ -1168,7 +1168,7 @@ Everlasting God,
         </source>
       </segment>
     </unit>
-    <unit name="Gracious God,
+    <unit id="" name="Gracious God,
   you came among us as servant of all;
   may we, like our sister Clare,
   forget ourselves in love for you and in compassion for others.
@@ -1202,7 +1202,7 @@ Lord God,
         </source>
       </segment>
     </unit>
-    <unit name="All powerful and everliving God,
+    <unit id="" name="All powerful and everliving God,
   we praise you that you turned our weakness into strength:
   as you called Maximilian Kolbe
   to give his life for a brother,
@@ -1227,7 +1227,7 @@ All powerful and everliving God,
         </source>
       </segment>
     </unit>
-    <unit name="God of love,
+    <unit id="" name="God of love,
   you chose the blessed Virgin Mary
   to be the mother of your only Son:
   grant that we who have been redeemed by his blood,
@@ -1250,7 +1250,7 @@ God of love,
         </source>
       </segment>
     </unit>
-    <unit name="King of kings, and Lord of lords,
+    <unit id="" name="King of kings, and Lord of lords,
 you called your servant Louis of France to an earthly kingdom
 and gave him a deep love for you and your people:
 may we who commemorate him today
@@ -1277,7 +1277,7 @@ one God, now and for ever.
         </source>
       </segment>
     </unit>
-    <unit name="Creator God,
+    <unit id="" ame="Creator God,
   your presence fills us with awe and joy.
   Help us, as we remember your servant Father Algy,
   to see your face in every one we meet,
@@ -1294,7 +1294,7 @@ Creator God,
         </source>
       </segment>
     </unit>
-    <unit name="O God, through your Son, our Lord Jesus Christ,
+    <unit id="" name="O God, through your Son, our Lord Jesus Christ,
   you have conquered sin and death.
   We thank you for those who have died
   and have gone before us marked with the sign of faith,
@@ -1325,7 +1325,7 @@ O God, through your Son, our Lord Jesus Christ,
         </source>
       </segment>
     </unit>
-    <unit name="Lord God,
+    <unit id="" name="Lord God,
   you kept the pioneers of the revival
   of the Franciscan life in the Anglican Communion
   faithful to Christ's pattern of poverty and humility:
@@ -1352,7 +1352,7 @@ Lord God,
         </source>
       </segment>
     </unit>
-    <unit name="Faithful God,
+    <unit id="" name="Faithful God,
   you filled Brother Geoffrey with divine compassion
   and an all-embracing trust.
   Help us to persist in compassion and faithfulness
@@ -1367,7 +1367,7 @@ Faithful God,
         </source>
       </segment>
     </unit>
-    <unit name="Merciful and loving God,
+    <unit id="" name="Merciful and loving God,
   through your gracious goodness
   you brought Margaret of Cortona
   from the path of sin to the way of salvation;
@@ -1394,7 +1394,7 @@ Merciful and loving God,
         </source>
       </segment>
     </unit>
-    <unit name="God of glory,
+    <unit id="" name="God of glory,
   who gave your servant Bernardine
   a most tender love of the Holy Name of Jesus,
   grant that we may always be alive with the spirit of your love;
@@ -1415,7 +1415,7 @@ God of glory,
         </source>
       </segment>
     </unit>
-    <unit name="Loving God,
+    <unit id="" name="Loving God,
   you inspired Jack Winslow to look with the eyelids of the dawn,
   to preach the Gospel and live its principles in community.
   Deepen our love for one another
@@ -1430,7 +1430,7 @@ Loving God,
         </source>
       </segment>
     </unit>
-    <unit name="Everlasting God,
+    <unit id="" ame="Everlasting God,
   you have adorned your Church
   with splendours of the saintly followers of our holy father, Francis:
   grant that as we commemorate their holiness
@@ -1455,7 +1455,7 @@ Everlasting God,
         </source>
       </segment>
     </unit>
-    <unit name="God our Father,
+    <unit id="" name="God our Father,
   you always delight to reveal yourself to the childlike and lowly of heart:
   grant that, following the example of our blessed father, Francis,
   we may count the wisdom of this world as foolishness
@@ -1474,7 +1474,7 @@ God our Father,
         </source>
       </segment>
     </unit>
-    <unit name="}Merciful God,
+    <unit id="" name="}Merciful God,
   who helped Elizabeth of Hungary
   to recognise and honour Christ in the poor:
   grant that we may use the prosperity of this present world
