@@ -4,6 +4,7 @@ use languages\en\english;
 use languages\ko\ko;
 use languages\zh\zh;
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
+use Tssf\Communityobedience\TwigFileExists;
 use Twig\Environment;
 use Twig\Error\LoaderError;
 use Twig\Error\RuntimeError;
@@ -34,6 +35,7 @@ function index(): void
     $translator->setFallbackLocales(['en']);
 
     $twig->addExtension(new TranslationExtension($translator));
+    $twig->addExtension(new TwigFileExists());
 
     /**
      * Load each translation into the array here. The key for the array should be locale as set above.

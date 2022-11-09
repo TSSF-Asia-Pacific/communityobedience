@@ -62,7 +62,7 @@
   $(".principal").hide();
   $(".collect").hide();
   $(".day").hide();
-  {#$(".feast").hide();#}
+  $(".feast").hide();
 
   /* Work out day of month */
   momentDate.locale('en-au'); /* Set to English for the dayofmonth/week stuff */
@@ -77,7 +77,7 @@
   /* Work out day of week */
   let dayofweek = momentDate.format("d");
   $("#collect_" + lang + "_" + dayofweek).show();
-  {#$("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth).show();#}
+  $("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth).show();
   momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
   $('#date').text(momentDate.format("LL"));
   update_display();
