@@ -73,17 +73,17 @@
 {% endfor %}
 
 {# Add special collects for feast days Jan 16, Feb 9, Apr 11, May 16, 20, Jun 13, Jul 15, Aug 4,8,11,14,15,25 Sep 7,17, Oct 3,4,11, Nov 19,23, Dec 1 #}
-{#
-  {% for j in range(1, 12) %}
-  {% for i in range(1, 31) %}
-    <div id='feast_{{ lang }}_{{ j}}_{{ i }}' class='feast' lang='{{ lang }}'>
-        {% include "feast/feast#{j}#{i}.html.twig" ignore missing %}
-        {#TODO check file exists #}
-        <hr>
+{% for j in range(1, 12) %}
+    {% for i in range(1, 31) %}
+        {% if file_exists("feast/feast_#{j}_#{i}.html.twig") %}
+            <div id='feast_{{ lang }}_{{ j }}_{{ i }}' class='feast' lang='{{ lang }}'>
+                {% include "feast/feast_#{j}_#{i}.html.twig" %}
+            </div>
+        {% endif %}
+    {% endfor %}
     </div>
   {% endfor %}
 {% endfor %}
-#}
 
 <p class="rubric translatedBoilerplate" lang="{{ lang }}">{% trans into lang %}Either{% endtrans %}</p>
 
