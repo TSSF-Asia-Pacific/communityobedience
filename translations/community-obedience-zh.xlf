@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Sat, 05 Nov 2022 05:45:04 -0400
+ Exported at: Wed, 09 Nov 2022 15:46:51 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1210,6 +1210,12 @@
       <segment state="translated">
         <source>In India, pray for</source>
         <target>为印度第三会会友祈祷:</target>
+      </segment>
+    </unit>
+    <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
+      <segment state="translated">
+        <source>Prayer of the day:</source>
+        <target>Prayer of the day:</target>
       </segment>
     </unit>
   </file>
