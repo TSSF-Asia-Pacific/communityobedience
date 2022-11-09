@@ -77,10 +77,8 @@
   {% for j in range(1, 12) %}
   {% for i in range(1, 31) %}
     <div id='feast_{{ lang }}_{{ j}}_{{ i }}' class='feast' lang='{{ lang }}'>
-        {% include "feast/feast#{j}#{i}.html.twig" %}
+        {% include "feast/feast#{j}#{i}.html.twig" ignore missing %}
         {#TODO check file exists #}
-        {#TODO resolve filename inconsistency 116 = Jan 16; 121 = Dec 1 #}
-        {# {{ "%02d"|format(j) }} #}
         <hr>
     </div>
   {% endfor %}
