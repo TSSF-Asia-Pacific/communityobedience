@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Wed, 09 Nov 2022 15:46:52 -0600
+ Exported at: Thu, 10 Nov 2022 17:47:58 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1226,6 +1226,132 @@
       <segment state="translated">
         <source>Prayer of the day:</source>
         <target>Prayer of the day:</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God,&#10;we thank you for the brothers by whose martyrdom&#10;the beginnings of the Franciscan Order were sanctified:&#10;grant that following their example and&#10;strengthened by their fellowship&#10;we may give our lives to your service, even unto death,&#10;and share with them your gifts of eternal life;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
+      <segment state="translated">
+        <source>Everliving God,
+we thank you for the brothers by whose martyrdom
+the beginnings of the Franciscan Order were sanctified:
+grant that following their example and
+strengthened by their fellowship
+we may give our lives to your service, even unto death,
+and share with them your gifts of eternal life;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</source>
+        <target>Everliving God,
+we thank you for the brothers by whose martyrdom
+the beginnings of the Franciscan Order were sanctified:
+grant that following their example and
+strengthened by their fellowship
+we may give our lives to your service, even unto death,
+and share with them your gifts of eternal life;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8d7345d25f6f55021072" name="Lord God,&#10;you kept the pioneers of the revival&#10;of the Franciscan life in the Anglican Communion&#10;faithful to Christ's pattern of poverty and humility:&#10;may we, inspired by their example,&#10;live in fidelity to our calling&#10;and come to the perfection&#10;you have shown us in your Son Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
+      <segment state="translated">
+        <source>Lord God,
+you kept the pioneers of the revival
+of the Franciscan life in the Anglican Communion
+faithful to Christ's pattern of poverty and humility:
+may we, inspired by their example,
+live in fidelity to our calling
+and come to the perfection
+you have shown us in your Son Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</source>
+        <target>Lord God,
+you kept the pioneers of the revival
+of the Franciscan life in the Anglican Communion
+faithful to Christ's pattern of poverty and humility:
+may we, inspired by their example,
+live in fidelity to our calling
+and come to the perfection
+you have shown us in your Son Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God,&#10;you filled Brother Geoffrey with divine compassion&#10;and an all-embracing trust.&#10;Help us to persist in compassion and faithfulness&#10;and so imitate and honour your Son Jesus Christ our Lord.">
+      <segment state="translated">
+        <source>Faithful God,
+you filled Brother Geoffrey with divine compassion
+and an all-embracing trust.
+Help us to persist in compassion and faithfulness
+and so imitate and honour your Son Jesus Christ our Lord.</source>
+        <target>Faithful God,
+you filled Brother Geoffrey with divine compassion
+and an all-embracing trust.
+Help us to persist in compassion and faithfulness
+and so imitate and honour your Son Jesus Christ our Lord.</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8d8e6246dc6c651b8324" name="Merciful and loving God,&#10;through your gracious goodness&#10;you brought Margaret of Cortona&#10;from the path of sin to the way of salvation;&#10;in the same mercy may we who have often gone astray&#10;also come to repentance&#10;and be recreated in your image and likeness;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
+      <segment state="translated">
+        <source>Merciful and loving God,
+through your gracious goodness
+you brought Margaret of Cortona
+from the path of sin to the way of salvation;
+in the same mercy may we who have often gone astray
+also come to repentance
+and be recreated in your image and likeness;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</source>
+        <target>Merciful and loving God,
+through your gracious goodness
+you brought Margaret of Cortona
+from the path of sin to the way of salvation;
+in the same mercy may we who have often gone astray
+also come to repentance
+and be recreated in your image and likeness;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8d99516d0b3fad3827a2" name="God of glory,&#10;who gave your servant Bernardine&#10;a most tender love of the Holy Name of Jesus,&#10;grant that we may always be alive with the spirit of your love;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
+      <segment state="translated">
+        <source>God of glory,
+who gave your servant Bernardine
+a most tender love of the Holy Name of Jesus,
+grant that we may always be alive with the spirit of your love;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</source>
+        <target>God of glory,
+who gave your servant Bernardine
+a most tender love of the Holy Name of Jesus,
+grant that we may always be alive with the spirit of your love;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</target>
+      </segment>
+    </unit>
+    <unit id="loco:636d8da58a27cc7fc43765b2" name="Loving God,&#10;you inspired Jack Winslow to look with the eyelids of the dawn,&#10;to preach the Gospel and live its principles in community.&#10;Deepen our love for one another&#10;and so bring you glory in your Son Jesus Christ.">
+      <segment state="translated">
+        <source>Loving God,
+you inspired Jack Winslow to look with the eyelids of the dawn,
+to preach the Gospel and live its principles in community.
+Deepen our love for one another
+and so bring you glory in your Son Jesus Christ.</source>
+        <target>Loving God,
+you inspired Jack Winslow to look with the eyelids of the dawn,
+to preach the Gospel and live its principles in community.
+Deepen our love for one another
+and so bring you glory in your Son Jesus Christ.</target>
       </segment>
     </unit>
   </file>
