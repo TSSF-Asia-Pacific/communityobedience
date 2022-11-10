@@ -1018,31 +1018,8 @@
         </source>
       </segment>
     </unit>
-    <unit id="" name="Everliving God,
-we thank you for the brothers by whose martyrdom
-the beginnings of the Franciscan Order were sanctified:
-grant that following their example and
-strengthened by their fellowship
-we may give our lives to your service, even unto death,
-and share with them your gifts of eternal life;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.">
-      <segment>
-        <source>Everliving God,
-we thank you for the brothers by whose martyrdom
-the beginnings of the Franciscan Order were sanctified:
-grant that following their example and
-strengthened by their fellowship
-we may give our lives to your service, even unto death,
-and share with them your gifts of eternal life;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</source>
-      </segment>
-    </unit>
+<!-- First Franciscan Martyrs January 16 -->
+<!--
     <unit id="" name="Everliving God,
   we thank you for the brothers by whose martyrdom
   the beginnings of the Franciscan Order were sanctified:
@@ -1068,6 +1045,34 @@ one God, now and for ever.</source>
           in the unity of the Holy Spirit,
           one God, now and for ever.
         </source>
+      </segment>
+    </unit>
+    -->
+
+    <!--
+<unit id="" name="Everliving God,
+we thank you for the brothers by whose martyrdom
+the beginnings of the Franciscan Order were sanctified:
+grant that following their example and
+strengthened by their fellowship
+we may give our lives to your service, even unto death,
+and share with them your gifts of eternal life;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.">
+      <segment>
+        <source>Everliving God,
+we thank you for the brothers by whose martyrdom
+the beginnings of the Franciscan Order were sanctified:
+grant that following their example and
+strengthened by their fellowship
+we may give our lives to your service, even unto death,
+and share with them your gifts of eternal life;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.</source>
       </segment>
     </unit>
     <unit id="" name="Almighty God,
@@ -1474,7 +1479,7 @@ God our Father,
         </source>
       </segment>
     </unit>
-    <unit id="" name="}Merciful God,
+    <unit id="" name="Merciful God,
   who helped Elizabeth of Hungary
   to recognise and honour Christ in the poor:
   grant that we may use the prosperity of this present world
@@ -1485,7 +1490,7 @@ God our Father,
   one God, now and for ever.">
       <segment>
         <source>
-}Merciful God,
+  Merciful God,
   who helped Elizabeth of Hungary
   to recognise and honour Christ in the poor:
   grant that we may use the prosperity of this present world
@@ -1497,5 +1502,6 @@ God our Father,
         </source>
       </segment>
     </unit>
+    -->
   </file>
 </xliff>
