@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Fri, 11 Nov 2022 07:53:41 +0800
+ Exported at: Mon, 14 Nov 2022 03:47:17 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.26 20221028-1</note>
+      <note category="tool-version">1.0.27 20221112-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -496,10 +496,10 @@
         <target>对于太平洋会省，为所罗门群岛伊萨贝尔和马莱塔的第三会会友祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders">
+    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley">
       <segment state="translated">
-        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Janet Fedders</source>
-        <target>为总会长John Hebenton和副总会长Janet Fedders祈祷</target>
+        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley</source>
+        <target>为总会长John Hebenton和副总会长Mandy Wheatley祈祷</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
@@ -778,10 +778,10 @@
         <target>为三个修会团体的望会生和追寻者祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353bb3274f9894a697b42e2" name="In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.">
+    <unit id="loco:6353bb3274f9894a697b42e2" name="In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.">
       <segment state="translated">
-        <source>In the European Province, pray for Tertiaries in Finland, Sweden, Ireland, Scotland.</source>
-        <target>对于欧洲会省，为芬兰、瑞典、爱尔兰、苏格兰的第三会会友祈祷。</target>
+        <source>In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.</source>
+        <target>为欧洲各省，为法国、芬兰、瑞典、爱尔兰、苏格兰和西班牙的三阶成员祈祷。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb3df22f1236c53be5f4" name="Pray for Companions of SSF and Associates of tssf.">
