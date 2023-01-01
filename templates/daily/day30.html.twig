@@ -9,8 +9,7 @@
 </p>
 <p class='rubric'>{% trans into lang %}In South and East Asia Region, in Singapore, pray for{% endtrans %}</p>
 <p class='boilerplate'>{{ living_members_2 | nl2br }}<br/>
-  {{ living_members_2 | nl2br }}<br/>
-  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
   <br/>
   {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
   {{ deceased_members | nl2br }}<br/>
