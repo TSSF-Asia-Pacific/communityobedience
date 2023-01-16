@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Mon, 14 Nov 2022 03:47:17 -0600
+ Exported at: Mon, 16 Jan 2023 05:44:24 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -736,10 +736,10 @@
         <target>为美洲、韩国和英格兰的第一会姊妹祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)">
+    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="May: Margaret of Cortona (Manual F6)">
       <segment state="translated">
-        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
-        <target>一月：圣法兰西斯会首批殉道者纪念日 (Manual F2); 五月：科尔多纳的圣玛格利特日 (Manual F6)</target>
+        <source>May: Margaret of Cortona (Manual F6)</source>
+        <target>五月：科尔多纳的圣玛格利特日 (Manual F6)</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">

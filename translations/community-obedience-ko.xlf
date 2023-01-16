@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Mon, 14 Nov 2022 03:47:18 -0600
+ Exported at: Mon, 16 Jan 2023 05:44:25 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -439,7 +439,7 @@
     <unit id="loco:630232d0e66d7a03406257bc" name="Reflect on which portion has particularly encouraged or challenged you in this past month.">
       <segment state="translated">
         <source>Reflect on which portion has particularly encouraged or challenged you in this past month.</source>
-        <target>지난 한달 동안 원칙 중에서 어떤 부분이 자신에게 특별히 격려가 되었는지 또는 도전을 주었는지 성찰합시다. </target>
+        <target>지난 한달 동안 원칙 중에서 어떤 부분이 자신에게 특별히 격려가 되었는지 또는 도전을 주었는지 성찰합시다.</target>
       </segment>
     </unit>
     <unit id="loco:6353a8499b5b78560f003592" name="The collect for Sunday">
@@ -748,10 +748,10 @@
         <target>미국, 한국, 영국의 제1회 자매들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)">
+    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="May: Margaret of Cortona (Manual F6)">
       <segment state="translated">
-        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
-        <target>1월: 프란시스 수도회 첫 순교자들 (매뉴얼 30); 5월: 코르토나의 마가렛 (매뉴얼 34)을 기억하고 기도합니다.</target>
+        <source>May: Margaret of Cortona (Manual F6)</source>
+        <target>5월: 코르토나의 마가렛 (매뉴얼 34)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
@@ -1241,17 +1241,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Everliving God,
-we thank you for the brothers by whose martyrdom
-the beginnings of the Franciscan Order were sanctified:
-grant that following their example and
-strengthened by their fellowship
-we may give our lives to your service, even unto death,
-and share with them your gifts of eternal life;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>영원히 살아계시는 하느님, 다섯 형제의 순교로, 갓 태어난 프란시스 수도회를 거룩하게 해주심에 감사하나이다. 우리도 그분들의 모범을 따르고 그분들의 친교상통에 의해 강건해지고 이를 통해 죽기까지 당신을 섬기는 일에 헌신하게 하시며, 그분들과 함께 영원한 삶의 은총을 함께 누리게 하소서.성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d7345d25f6f55021072" name="Lord God,&#10;you kept the pioneers of the revival&#10;of the Franciscan life in the Anglican Communion&#10;faithful to Christ's pattern of poverty and humility:&#10;may we, inspired by their example,&#10;live in fidelity to our calling&#10;and come to the perfection&#10;you have shown us in your Son Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
