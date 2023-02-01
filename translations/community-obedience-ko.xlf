@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Wed, 01 Feb 2023 11:44:30 +0100
+ Exported at: Wed, 01 Feb 2023 12:44:11 +0100
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -739,7 +739,7 @@
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
-        <target>아프리카 관구 케이프타운, 포트 엘리자베스, 레소토의 회원들을 위해 기도합니다. </target>
+        <target>아프리카 관구 케이프타운, 포트 엘리자베스, 레소토의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bac3f58ff737051cf232" name="Pray for First Order sisters in America, Korea and England.">
@@ -769,7 +769,7 @@
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
       <segment state="translated">
         <source>In New South Wales A Region, pray for</source>
-        <target>뉴사우스웨일즈 지구의 회원</target>
+        <target>뉴사우스웨일즈 A 지구의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
@@ -793,7 +793,7 @@
     <unit id="loco:6353bb3274f9894a697b42e2" name="In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.</source>
-        <target>유럽의 관구들을 위해, 프랑스, 핀란드, 스웨덴, 아일랜드, 스코틀랜드, 스페인에 있는 제3회 회원들을 위해 기도해 주십시오.</target>
+        <target>유럽의 관구의 프랑스, 핀란드, 스웨덴, 아일랜드, 스코틀랜드, 스페인에 있는 제3회 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb3df22f1236c53be5f4" name="Pray for Companions of SSF and Associates of tssf.">
@@ -871,7 +871,7 @@
     <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
       <segment state="translated">
         <source>November: Fr Algy SSF (Manual F24)</source>
-        <target>11월: 알지사제 SSF (매뉴얼 52)를 위해 기억하고 기도합니다.</target>
+        <target>11월: 알지사제 SSF (매뉴얼 52)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbea2d8ead569f6b8444" name="In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.">
@@ -889,7 +889,7 @@
     <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
-        <target>미국관구 모든 주와 푸에르토리코에 있는 회원들을 위해 기도합니다.</target>
+        <target>미국관구에 속하는 미국과 푸에르토리코에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bc084eda466e616d8e62" name="Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).">
@@ -919,7 +919,7 @@
     <unit id="loco:6353c99e9f47a61619663312" name="Pray for Franciscans International and their work as a recognized NGO at the United Nations.">
       <segment state="translated">
         <source>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</source>
-        <target>유엔의 인정을 받은 NGO 프란시스칸 인터내셔널(FI)과 그들의 사역을 위해 기도합니다.</target>
+        <target>유엔의 인정을 받은 NGO, 프란시스칸 인터내셔널(FI)과 그들의 사역을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9a845ef02152825a722" name="In Western Australia Region, pray for">
@@ -931,7 +931,7 @@
     <unit id="loco:6353c9b99f47a61619663314" name="Pray for the Society of St Francis:">
       <segment state="translated">
         <source>Pray for the Society of St Francis:</source>
-        <target>성프란시스회를 위해 기도할 때에 제</target>
+        <target>성프란시스회를 위해 기도할 때에 </target>
       </segment>
     </unit>
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
@@ -967,7 +967,7 @@
     <unit id="loco:6353ca0d4d7582689178b534" name="In South and East Asia Region, Sri Lanka area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Sri Lanka area, pray for</source>
-        <target>남동아시아 지구 스리랑카의 회원</target>
+        <target>남동아시아 지구 스리랑카 지역의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca290598d75b734bc7e2" name="In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.">
@@ -985,13 +985,13 @@
     <unit id="loco:6353ca3c45ef02152825a724" name="In South and East Asia Region, Malaysia area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Malaysia area, pray for</source>
-        <target>남동아시아 지구 말레이시아 지역 회원</target>
+        <target>남동아시아 지구 말레이시아 지역의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca48beaab045815ae2a2" name="In the Hong Kong area, pray for">
       <segment state="translated">
         <source>In the Hong Kong area, pray for</source>
-        <target>In the Hong Kong area, pray for</target>
+        <target>홍콩 지역의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
@@ -1015,7 +1015,7 @@
     <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in South Korea area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, in South Korea area, pray for</source>
-        <target>남동아시아 지구의 한국에 있는 회원을 위해 기도합니다.</target>
+        <target>남동아시아 지구의 한국 지역의 회원</target>
       </segment>
     </unit>
     <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South and East Asia Region, in Singapore, pray for">
