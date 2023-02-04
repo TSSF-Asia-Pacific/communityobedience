@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Wed, 01 Feb 2023 12:44:10 +0100
+ Exported at: Sat, 04 Feb 2023 03:00:53 +0100
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.27 20230131-1</note>
+      <note category="tool-version">1.0.27 20230201-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment>
