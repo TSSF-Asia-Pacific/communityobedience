@@ -496,12 +496,6 @@
         <target>포폰데타 지구 회원</target>
       </segment>
     </unit>
-    <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment state="translated">
-        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
@@ -526,12 +520,6 @@
         <target>관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Sally Buckley, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
-      <segment state="translated">
-        <source>October: The Transitus of St Francis (Manual F20)</source>
-        <target>10월: 프란시스 성인의 전이 (매뉴얼 48)를 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
@@ -548,12 +536,6 @@
       <segment state="translated">
         <source>In the Region of Dogura, pray for</source>
         <target>도구라 지구 회원</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
-      <segment state="translated">
-        <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
-        <target>8월: 존 비안네, 아르스의 치유자 (매뉴얼 40); 10월: 아시시의 프란시스 (매뉴얼 49)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.">
@@ -592,12 +574,6 @@
         <target>수련 지도자들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b89d3143f2006a525052" name="September: Brother Douglas (Manual F18)">
-      <segment state="translated">
-        <source>September: Brother Douglas (Manual F18)</source>
-        <target>9월: 더글라스 형제 (매뉴얼 46)를 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
@@ -628,12 +604,6 @@
         <target>퀸즐랜드 A 지구의 회원</target>
       </segment>
     </unit>
-    <unit id="loco:6353b8e9e217e37cfa16e432" name="February: Anglican Franciscan Pioneers (Manual F3)">
-      <segment state="translated">
-        <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
-        <target>2월: 성공회 프란시스 수도회 개척자들(매뉴얼 31)을 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
@@ -652,12 +622,6 @@
         <target>퀸즐랜드 B / 뉴사우스웨일즈 북부 지구 회원</target>
       </segment>
     </unit>
-    <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
-      <segment state="translated">
-        <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
-        <target>8월: 클라라 성인의 전이 (매뉴얼 41); 10월: 모든 프란시스 수도회 성인들(매뉴얼 50 )을 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
         <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
@@ -668,12 +632,6 @@
       <segment state="translated">
         <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
         <target>성공회 교회의 일치와 모든 기독교인들의 일치를 위해 기도합니다.</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
-      <segment state="translated">
-        <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
-        <target>4월: 제프리 형제 SSF (매뉴얼 33); 8월: 아시시의 클라라(매뉴얼 42)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
@@ -694,12 +652,6 @@
         <target>아프리카 관구 보츠와나, 우간다, 짐바브웨에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
-      <segment state="translated">
-        <source>June: Antony of Padua (Manual F10)</source>
-        <target>6월: 파두아의 안토니오(매뉴얼 38)를 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
@@ -710,12 +662,6 @@
       <segment state="translated">
         <source>Pray for the First Order in the Provinces of America and Europe.</source>
         <target>미국과 유럽관구의 1회 수도회를 위해 기도합니다.</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
-      <segment state="translated">
-        <source>August: Maximilian Kolbe (Manual F15)`</source>
-        <target>8월: 막시밀리안 콜베(매뉴얼 43)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.">
@@ -730,12 +676,6 @@
         <target>신성동정관구(호주, 뉴질랜드, 한국, 스리랑카), 파푸아뉴기니, 솔로몬아일랜드의 1회 수도자 형제들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353baa6862f6b2210740924" name="July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)">
-      <segment state="translated">
-        <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
-        <target>7월: 보나벤투라 (매뉴얼 39); 8월: 주님의 어머니 마리아(매뉴얼 44)를 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
@@ -746,12 +686,6 @@
       <segment state="translated">
         <source>Pray for First Order sisters in America, Korea and England.</source>
         <target>미국, 한국, 영국의 제1회 자매들을 위해 기도합니다.</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)">
-      <segment state="translated">
-        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
-        <target>1월: 프란시스 수도회 첫 순교자들 (매뉴얼 30); 5월: 코르토나의 마가렛 (매뉴얼 34)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
@@ -770,12 +704,6 @@
       <segment state="translated">
         <source>In New South Wales A Region, pray for</source>
         <target>뉴사우스웨일즈 지구의 회원</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
-      <segment state="translated">
-        <source>September: The Stigmata of St Francis (Manual F19)</source>
-        <target>9월: 프란시스 성인의 오상(Manual F19)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
@@ -800,12 +728,6 @@
       <segment state="translated">
         <source>Pray for Companions of SSF and Associates of tssf.</source>
         <target>제 1회 형제회와 재속회 협력자들을 위해 기도합니다.</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353bb4d7832ec0fdb3ca0e4" name="May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)">
-      <segment state="translated">
-        <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
-        <target>5월: 시에나의 베르나르디노 (매뉴얼 35); 11월: 헝가리의 엘리자베스 (매뉴얼 51)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb5a74f9894a697b42e4" name="In the European Province, pray for Tertiaries in North East and North West England.">
@@ -868,12 +790,6 @@
         <target>가톨릭의 가난한 클라라회를 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
-      <segment state="translated">
-        <source>November: Fr Algy SSF (Manual F24)</source>
-        <target>11월: 알지사제 SSF (매뉴얼 52)를 위해 기억하고 기도합니다.</target>
-      </segment>
-    </unit>
     <unit id="loco:6353bbea2d8ead569f6b8444" name="In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</source>
@@ -902,12 +818,6 @@
       <segment state="translated">
         <source>In South Australia Region, pray for</source>
         <target>사우스 오스트렐리아 지구 회원</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353bc19c28fc327d830a624" name="August: Louis, King, Patron of the Third Order (Manual F17)">
-      <segment state="translated">
-        <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
-        <target>8월: 제 3회 후원자 루이 9세 (매뉴얼 45)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
@@ -992,12 +902,6 @@
       <segment state="translated">
         <source>In the Hong Kong area, pray for</source>
         <target>In the Hong Kong area, pray for</target>
-      </segment>
-    </unit>
-    <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
-      <segment state="translated">
-        <source>May: Jack Winslow (Manual F8)</source>
-        <target>5월: 잭 윈슬로 (매뉴얼 36)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">

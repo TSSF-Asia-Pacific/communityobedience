@@ -406,11 +406,6 @@
         <source>In the Region of Popondetta, pray for</source>
       </segment>
     </unit>
-    <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment>
-        <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
       <segment>
         <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
@@ -431,11 +426,6 @@
         <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
-      <segment>
-        <source>October: The Transitus of St Francis (Manual F20)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.">
       <segment>
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
@@ -449,11 +439,6 @@
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">
       <segment>
         <source>In the Region of Dogura, pray for</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
-      <segment>
-        <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.">
@@ -486,11 +471,6 @@
         <source>Pray for all Novice Counsellors.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b89d3143f2006a525052" name="September: Brother Douglas (Manual F18)">
-      <segment>
-        <source>September: Brother Douglas (Manual F18)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment>
         <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
@@ -516,11 +496,6 @@
         <source>In Queensland A Region, pray for</source>
       </segment>
     </unit>
-    <unit id="loco:6353b8e9e217e37cfa16e432" name="February: Anglican Franciscan Pioneers (Manual F3)">
-      <segment>
-        <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment>
         <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
@@ -536,11 +511,6 @@
         <source>In Queensland B / Northern NSW Region, pray for</source>
       </segment>
     </unit>
-    <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
-      <segment>
-        <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment>
         <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
@@ -549,11 +519,6 @@
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
       <segment>
         <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
-      <segment>
-        <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
       </segment>
     </unit>
     <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
@@ -571,11 +536,6 @@
         <source>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</source>
       </segment>
     </unit>
-    <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
-      <segment>
-        <source>June: Antony of Padua (Manual F10)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.">
       <segment>
         <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
@@ -584,11 +544,6 @@
     <unit id="loco:6353ba6b05de29496c2a3fb2" name="Pray for the First Order in the Provinces of America and Europe.">
       <segment>
         <source>Pray for the First Order in the Provinces of America and Europe.</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
-      <segment>
-        <source>August: Maximilian Kolbe (Manual F15)`</source>
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.">
@@ -601,11 +556,6 @@
         <source>Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.</source>
       </segment>
     </unit>
-    <unit id="loco:6353baa6862f6b2210740924" name="July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)">
-      <segment>
-        <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
       <segment>
         <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
@@ -614,11 +564,6 @@
     <unit id="loco:6353bac3f58ff737051cf232" name="Pray for First Order sisters in America, Korea and England.">
       <segment>
         <source>Pray for First Order sisters in America, Korea and England.</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353bad1b4b3ff35c44e7de2" name="January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)">
-      <segment>
-        <source>January: First Franciscan Martyrs (Manual F2); May: Margaret of Cortona (Manual F6)</source>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
@@ -634,11 +579,6 @@
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
       <segment>
         <source>In New South Wales A Region, pray for</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
-      <segment>
-        <source>September: The Stigmata of St Francis (Manual F19)</source>
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
@@ -659,11 +599,6 @@
     <unit id="loco:6353bb3df22f1236c53be5f4" name="Pray for Companions of SSF and Associates of tssf.">
       <segment>
         <source>Pray for Companions of SSF and Associates of tssf.</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353bb4d7832ec0fdb3ca0e4" name="May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)">
-      <segment>
-        <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
       </segment>
     </unit>
     <unit id="loco:6353bb5a74f9894a697b42e4" name="In the European Province, pray for Tertiaries in North East and North West England.">
@@ -716,11 +651,6 @@
         <source>Pray for the Roman Catholic Poor Clares</source>
       </segment>
     </unit>
-    <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
-      <segment>
-        <source>November: Fr Algy SSF (Manual F24)</source>
-      </segment>
-    </unit>
     <unit id="loco:6353bbea2d8ead569f6b8444" name="In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.">
       <segment>
         <source>In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.</source>
@@ -744,11 +674,6 @@
     <unit id="loco:6353bc102d8ead569f6b8448" name="In South Australia Region, pray for">
       <segment>
         <source>In South Australia Region, pray for</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353bc19c28fc327d830a624" name="August: Louis, King, Patron of the Third Order (Manual F17)">
-      <segment>
-        <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
       </segment>
     </unit>
     <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
@@ -819,11 +744,6 @@
     <unit id="loco:6353ca48beaab045815ae2a2" name="In the Hong Kong area, pray for">
       <segment>
         <source>In the Hong Kong area, pray for</source>
-      </segment>
-    </unit>
-    <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
-      <segment>
-        <source>May: Jack Winslow (Manual F8)</source>
       </segment>
     </unit>
     <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">
