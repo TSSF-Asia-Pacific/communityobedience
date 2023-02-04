@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sat, 04 Feb 2023 03:00:54 +0100
+ Exported at: Fri, 03 Feb 2023 20:52:35 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1225,7 +1225,7 @@
     <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
       <segment state="translated">
         <source>Prayer of the day:</source>
-        <target>Prayer of the day:</target>
+        <target>축일 기도 </target>
       </segment>
     </unit>
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God,&#10;we thank you for the brothers by whose martyrdom&#10;the beginnings of the Franciscan Order were sanctified:&#10;grant that following their example and&#10;strengthened by their fellowship&#10;we may give our lives to your service, even unto death,&#10;and share with them your gifts of eternal life;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1257,17 +1257,7 @@ you have shown us in your Son Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Lord God,
-you kept the pioneers of the revival
-of the Franciscan life in the Anglican Communion
-faithful to Christ's pattern of poverty and humility:
-may we, inspired by their example,
-live in fidelity to our calling
-and come to the perfection
-you have shown us in your Son Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>주 하느님, 우리에게 온 마음을 다해 당신을 갈망하는 은총을 주소서. 그러한 갈망 속에서 우리가 당신을 찾게 하시고 당신을 발견하게 하시고, 당신을 사랑하는 가운데 죄를 미워하게 하소서. 마침내 당신께서는 우리를 죄에서 건져내 해방할 것이옵니다. 우리 주 예수 그리스도를 통하여 기도하나이다. </target>
       </segment>
     </unit>
     <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God,&#10;you filled Brother Geoffrey with divine compassion&#10;and an all-embracing trust.&#10;Help us to persist in compassion and faithfulness&#10;and so imitate and honour your Son Jesus Christ our Lord.">
@@ -1277,11 +1267,7 @@ you filled Brother Geoffrey with divine compassion
 and an all-embracing trust.
 Help us to persist in compassion and faithfulness
 and so imitate and honour your Son Jesus Christ our Lord.</source>
-        <target>Faithful God,
-you filled Brother Geoffrey with divine compassion
-and an all-embracing trust.
-Help us to persist in compassion and faithfulness
-and so imitate and honour your Son Jesus Christ our Lord.</target>
+        <target>신실하신 하느님, 당신께서는 제프리 형제를 거룩한 열정과 모든 것을 포용하는 신뢰로 가득 채워 주셨나이다. 비오니, 우리를 도우시어 우리 또한 그가 보인 사랑과 신뢰를 끈기있게 품도록 해주시고, 당신의 아들 우리 주 예수 그리스도를 닮아가고 그분을 영예롭게 하도록 도우소서. </target>
       </segment>
     </unit>
     <unit id="loco:636d8d8e6246dc6c651b8324" name="Merciful and loving God,&#10;through your gracious goodness&#10;you brought Margaret of Cortona&#10;from the path of sin to the way of salvation;&#10;in the same mercy may we who have often gone astray&#10;also come to repentance&#10;and be recreated in your image and likeness;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1297,17 +1283,8 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Merciful and loving God,
-through your gracious goodness
-you brought Margaret of Cortona
-from the path of sin to the way of salvation;
-in the same mercy may we who have often gone astray
-also come to repentance
-and be recreated in your image and likeness;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>자비롭고 늘 만물을 사랑하는 하느님, 당신의 은총 어린 선함을 통해 코르토나의 마가렛을 죄의 길에서 건져내어 구원의 길로 이끄셨나이다. 못된 길로 빠져드는 우리 역시 그와 같은 당신의 자비심 안에서 회개하고, 당신의 모습대로 거듭나게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.
+</target>
       </segment>
     </unit>
     <unit id="loco:636d8d99516d0b3fad3827a2" name="God of glory,&#10;who gave your servant Bernardine&#10;a most tender love of the Holy Name of Jesus,&#10;grant that we may always be alive with the spirit of your love;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1320,14 +1297,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>God of glory,
-who gave your servant Bernardine
-a most tender love of the Holy Name of Jesus,
-grant that we may always be alive with the spirit of your love;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>영광의 하느님, 당신의 종 베르나르디노에게 예수의 거룩한 이름을 지극히 사랑하게 하셨나이다. 우리도 항상 당신 사랑의 영 안에서 살아가게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8da58a27cc7fc43765b2" name="Loving God,&#10;you inspired Jack Winslow to look with the eyelids of the dawn,&#10;to preach the Gospel and live its principles in community.&#10;Deepen our love for one another&#10;and so bring you glory in your Son Jesus Christ.">
@@ -1337,11 +1307,7 @@ you inspired Jack Winslow to look with the eyelids of the dawn,
 to preach the Gospel and live its principles in community.
 Deepen our love for one another
 and so bring you glory in your Son Jesus Christ.</source>
-        <target>Loving God,
-you inspired Jack Winslow to look with the eyelids of the dawn,
-to preach the Gospel and live its principles in community.
-Deepen our love for one another
-and so bring you glory in your Son Jesus Christ.</target>
+        <target>사랑하는 하느님, 당신은 잭 윈슬로가 새벽에 동이 트는 것을 볼 수 있게 하시고 복음을 선포하고 공동체 원칙을 따라 살아가도록 영감을 주셨나이다. 우리가 서로를 더욱 깊이 사랑하며 당신의 아들 예수 그리스도 안에서 당신께 영광을 돌리게 하소서.</target>
       </segment>
     </unit>
     <unit id="loco:636d8db13a759035e54f0b12" name="Lord God,&#10;through the powerful preaching of Antony of Padua&#10;many were brought out of darkness and error&#10;into the clear light of your gospel:&#10;may we keep the faith which he taught&#10;and by word and example share it with others;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1356,16 +1322,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Lord God,
-through the powerful preaching of Antony of Padua
-many were brought out of darkness and error
-into the clear light of your gospel:
-may we keep the faith which he taught
-and by word and example share it with others;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>주 하느님, 파두아의 안토니오의 강력한 설교를 통해 많은 이들이 어둠과 잘못으로부터 빠져나와 복음의 밝은 빛 속으로 들어섰나이다. 원컨대 우리 또한 안토니오가 가르친 믿음을 굳게 지키고, 말과 모범을 통해 그 믿음을 다른 이들과 나누게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dbc516d0b3fad3827a4" name="Everlasting God,&#10;we praise you that you have given light to your church&#10;by the witness of Bonaventure:&#10;in our day, may your Holy Spirit raise up people&#10;who by their teaching and guidance will show the fullness of your truth;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1379,15 +1336,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Everlasting God,
-we praise you that you have given light to your church
-by the witness of Bonaventure:
-in our day, may your Holy Spirit raise up people
-who by their teaching and guidance will show the fullness of your truth;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>영원하신 하느님, 당신께서 보나벤투라의 증언을 통해 교회에 빛을 주셨기에 우리들은 당신을 찬미하나이다. 이 시대에도 성령께서 사람들을 들어 높이시어 이들의 가르침과 인도를 통해 당신의 진리의 충만함을 보이게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dc809bd8d71d80f8c74" name="God of love,&#10;who filled your servant John Vianney&#10;with zeal as a priest, pastor, and confessor:&#10;help us, by your grace,&#10;to win all our brothers and sisters for Christ&#10;and to share with them in eternal glory;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1402,16 +1351,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>God of love,
-who filled your servant John Vianney
-with zeal as a priest, pastor, and confessor:
-help us, by your grace,
-to win all our brothers and sisters for Christ
-and to share with them in eternal glory;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>사랑의 하느님, 당신의 종, 존 비안네를 사제이자 사목자이자 고해 신부로서의 열정으로 충만하게 하셨나이다. 당신의 은총으로 우리를 도우시어 우리의 모든 형제자매들이 그리스도를 위해 승리하게 하시고, 우리가 이들과 함께 영원한 영광을 나누게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God,&#10;you came among us as servant of all;&#10;may we, like our sister Clare,&#10;forget ourselves in love for you and in compassion for others.&#10;We ask this through Christ our Lord.">
@@ -1421,11 +1361,7 @@ you came among us as servant of all;
 may we, like our sister Clare,
 forget ourselves in love for you and in compassion for others.
 We ask this through Christ our Lord.</source>
-        <target>Gracious God,
-you came among us as servant of all;
-may we, like our sister Clare,
-forget ourselves in love for you and in compassion for others.
-We ask this through Christ our Lord.</target>
+        <target>은총이 가득하신 하느님, 당신은 모든 이들의 종으로 우리들 가운데 오셨나이다. 우리의 자매 클라라처럼 우리들 역시 당신을 향한 사랑 안에서 그리고 다른 이들을 향한 자비심 안에서 우리 자신을 잊게 하소서. 우리 주 예수 그리스도를 통하여 청하나이다. </target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God,&#10;in the holiness of blessed Clare&#10;you have given a clear light to shine in the darkness of the world.&#10;Give us grace to follow her footsteps,&#10;that we may at last rejoice with her&#10;in the clear light of your eternal glory;&#10;through Jesus Christ our Lord.">
@@ -1437,13 +1373,7 @@ Give us grace to follow her footsteps,
 that we may at last rejoice with her
 in the clear light of your eternal glory;
 through Jesus Christ our Lord.</source>
-        <target>Lord God,
-in the holiness of blessed Clare
-you have given a clear light to shine in the darkness of the world.
-Give us grace to follow her footsteps,
-that we may at last rejoice with her
-in the clear light of your eternal glory;
-through Jesus Christ our Lord.</target>
+        <target>주 하느님, 당신께서는 복된 클라라의 거룩함을 통해 세상의 어둠 속에서 밝게 빛나는 빛을 주셨나이다. 우리들에게 은총을 내리시어 클라라 성인의 발자취를 따르게 하시고, 마침내 당신의 영원한 영광의 깨끗한 빛 안에서 성인과 함께 기뻐하게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. </target>
       </segment>
     </unit>
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God,&#10;we praise you that you turned our weakness into strength:&#10;as you called Maximilian Kolbe&#10;to give his life for a brother,&#10;grant us the grace to live in faithful witness to you,&#10;even unto death;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1458,16 +1388,8 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>All powerful and everliving God,
-we praise you that you turned our weakness into strength:
-as you called Maximilian Kolbe
-to give his life for a brother,
-grant us the grace to live in faithful witness to you,
-even unto death;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>전능하시고 영원하신 하느님, 우리들의 나약함을 강함으로 바꾸셨으니 당신을 찬미하나이다. 막시밀리안 콜베를 부르시어 자신의 생명을 다른 형제를 위해 내놓게 하셨나이다. 우리에게도 은총을 주시어 죽기까지 당신을 향한 충실한 증언자로 살게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.
+</target>
       </segment>
     </unit>
     <unit id="loco:636d8df69f83024e5b60d3c2" name="God of love,&#10;you chose the blessed Virgin Mary&#10;to be the mother of your only Son:&#10;grant that we who have been redeemed by his blood,&#10;may share with her the glory of your eternal kingdom;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1481,15 +1403,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>God of love,
-you chose the blessed Virgin Mary
-to be the mother of your only Son:
-grant that we who have been redeemed by his blood,
-may share with her the glory of your eternal kingdom;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>사랑의 하느님, 당신은 복되신 동정 마리아를 택하여 당신 아들의 어머니로 삼으셨나이다. 당신 아들의 피로 구원받은 우리가 당신의 영원한 왕국의 영광을 마리아와 함께 나누게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e01b2813e5d48258062" name="King of kings, and Lord of lords,&#10;you called your servant Louis of France to an earthly kingdom&#10;and gave him a deep love for you and your people:&#10;may we who commemorate him today&#10;be filled with your loving grace&#10;that we too may be fruitful in good works&#10;and attain the glorious crown of your saints;&#10;through the same Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1505,17 +1419,7 @@ through the same Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>King of kings, and Lord of lords,
-you called your servant Louis of France to an earthly kingdom
-and gave him a deep love for you and your people:
-may we who commemorate him today
-be filled with your loving grace
-that we too may be fruitful in good works
-and attain the glorious crown of your saints;
-through the same Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>왕 중의 왕, 군주 중의 군주여, 당신은 당신의 종 프랑스의 루이를 부르시어 지상의 왕으로 세우고 그에게 당신과 당신의 백성을 향한 깊은 사랑을 주셨나이다. 오늘 이 시간 루이를 기념하는 우리를 당신의 사랑 가득한 은총으로 채워주시고 우리도 선한 일을 행하면서 열매 맺게 하시고 성인들이 받은 영광스러운 왕관을 얻게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e0b6246dc6c651b8326" name="God of the poor,&#10;you called Brother Douglas to care for the poor and helpless:&#10;give us grace to see our brother and sister in every person we meet&#10;and to deal generously with those in need&#10;following the example of our Brother and Lord,&#10;your Son Jesus Christ.">
@@ -1526,12 +1430,7 @@ give us grace to see our brother and sister in every person we meet
 and to deal generously with those in need
 following the example of our Brother and Lord,
 your Son Jesus Christ.</source>
-        <target>God of the poor,
-you called Brother Douglas to care for the poor and helpless:
-give us grace to see our brother and sister in every person we meet
-and to deal generously with those in need
-following the example of our Brother and Lord,
-your Son Jesus Christ.</target>
+        <target>가난한 이들의 주님, 당신은 더글러스 형제를 부르시어 가난하고 버려진 이들을 보살피게 하셨나이다. 우리가 우리의 형제 더글라스와 당신의 아들 예수 그리스도의 모범을 따라, 만나는 사람 한 사람 한 사람에게서 형제와 자매의 모습을 발견하게 하시고, 모든 것을 가난한 이들과 함께 나눌 수 있는 은총을 주소서.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God,&#10;when the world was growing cold&#10;you inflamed the hearts of your people with the fire of your love;&#10;you raised up blessed Francis,&#10;bearing in his body the marks of Christ crucified:&#10;grant to us, your people, true penitence,&#10;and grace to bear the cross for love of him&#10;who is alive and reigns with you&#10;and the Holy Spirit,&#10;one God, now and for ever.">
@@ -1546,16 +1445,8 @@ and grace to bear the cross for love of him
 who is alive and reigns with you
 and the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Almighty God,
-when the world was growing cold
-you inflamed the hearts of your people with the fire of your love;
-you raised up blessed Francis,
-bearing in his body the marks of Christ crucified:
-grant to us, your people, true penitence,
-and grace to bear the cross for love of him
-who is alive and reigns with you
-and the Holy Spirit,
-one God, now and for ever.</target>
+        <target>전능하신 하느님, 세상이 점점 차가워질 때 당신께서는 당신 사랑의 불로 당신 사람들의 마음을 불타오르게 하셨나이다. 당신은 은총이 가득한 프란시스를 일으키시어 그의 몸 안에, 십자가에 못 박힌 그리스도의 표지를 간직하게 하셨나이다. 비오니, 당신의 백성인 우리가 진정으로 회개하게 해주시고 그리스도의 사랑을 위해 기꺼이 십자가를 품어 안을 수 있는 은총을 주소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.
+</target>
       </segment>
     </unit>
     <unit id="loco:636d8e208a27cc7fc43765b6" name="Almighty God,&#10;when the world was growing cold&#10;you inflamed the hearts of your people with the fire of your love;&#10;you raised up blessed Francis,&#10;bearing in his body the marks of Christ crucified:&#10;grant to us, your people, true penitence,&#10;and grace to bear the cross for love of him&#10;who is alive and reigns with you&#10;and the Holy Spirit,&#10;one God, now and for ever.">
@@ -1570,16 +1461,7 @@ and grace to bear the cross for love of him
 who is alive and reigns with you
 and the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Almighty God,
-when the world was growing cold
-you inflamed the hearts of your people with the fire of your love;
-you raised up blessed Francis,
-bearing in his body the marks of Christ crucified:
-grant to us, your people, true penitence,
-and grace to bear the cross for love of him
-who is alive and reigns with you
-and the Holy Spirit,
-one God, now and for ever.</target>
+        <target>전능하신 하느님, 세상이 점점 차가워질 때 당신께서는 당신 사랑의 불로 당신 사람들의 마음을 불타오르게 하셨나이다. 당신은 은총이 가득한 프란시스를 일으키시어 그의 몸 안에, 십자가에 못 박힌 그리스도의 표지를 간직하게 하셨나이다. 비오니, 당신의 백성인 우리가 진정으로 회개하게 해주시고 그리스도의 사랑을 위해 기꺼이 십자가를 품어 안을 수 있는 은총을 주소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e298a27cc7fc43765b8" name="God our Father,&#10;you always delight to reveal yourself to the childlike and lowly of heart:&#10;grant that, following the example of our blessed father, Francis,&#10;we may count the wisdom of this world as foolishness&#10;and know only Jesus Christ and him crucified;&#10;who is alive and reigns with you and the Holy Spirit,&#10;one God, now and for ever.">
@@ -1591,13 +1473,7 @@ we may count the wisdom of this world as foolishness
 and know only Jesus Christ and him crucified;
 who is alive and reigns with you and the Holy Spirit,
 one God, now and for ever.</source>
-        <target>God our Father,
-you always delight to reveal yourself to the childlike and lowly of heart:
-grant that, following the example of our blessed father, Francis,
-we may count the wisdom of this world as foolishness
-and know only Jesus Christ and him crucified;
-who is alive and reigns with you and the Holy Spirit,
-one God, now and for ever.</target>
+        <target>성부 하느님, 당신은 언제나 마음이 겸손하고 어린이와 같은 사람들에게 기꺼이 당신을 보여주셨습니다. 우리가 우리의 축복받은 아버지 프란시스의 모범을 따라 살도록 도와주소서. 우리가 이 세상의 지혜를 어리석음으로 보게 해주소서. 그리고 우리의 마음을 십자가에 매달린 예수 그리스도께 향하게 해주소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e34a4beb76a2c2a4ad2" name="Everlasting God,&#10;you have adorned your Church&#10;with splendours of the saintly followers of our holy father, Francis:&#10;grant that as we commemorate their holiness&#10;we may come at last with all the pure in heart&#10;to share the vision of your glory;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1612,16 +1488,8 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Everlasting God,
-you have adorned your Church
-with splendours of the saintly followers of our holy father, Francis:
-grant that as we commemorate their holiness
-we may come at last with all the pure in heart
-to share the vision of your glory;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>영원하신 하느님, 우리의 거룩한 사부 프란시스를 따르는 거룩한 성인다운 제자들의 광채로 당신의 교회를 꾸며 주셨나이다. 우리가 그분들의 거룩함을 기념할 때 우리도 순결한 마음을 다하여 마침내 주님의 영광을 보는 비전에 참여하여 함께 나누게 하소서. 성부와 성령과 함께 이제와 영원히 살아계시며 다스리시는 우리 주 예수 그리스도를 통하여 기도하나이다.
+</target>
       </segment>
     </unit>
     <unit id="loco:636d8e3f9f83024e5b60d3c4" name="Merciful God,&#10;who helped Elizabeth of Hungary&#10;to recognise and honour Christ in the poor:&#10;grant that we may use the prosperity of this present world&#10;for the glory of your eternal kingdom;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1635,15 +1503,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>Merciful God,
-who helped Elizabeth of Hungary
-to recognise and honour Christ in the poor:
-grant that we may use the prosperity of this present world
-for the glory of your eternal kingdom;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>자비로우신 하느님, 당신께서는 헝가리의 엘리자베스를 도우시어 가난한 이들 안에 계시는 그리스도를 알아보고 그분을 영예롭게 하게 도우셨나이다. 비오니, 우리 또한 현재의 풍요로움을 당신의 영원한 왕국의 영광을 위하여 사용하게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e499f83024e5b60d3c6" name="Creator God,&#10;your presence fills us with awe and joy.&#10;Help us, as we remember your servant Father Algy,&#10;to see your face in every one we meet,&#10;and to share with the community the joy of knowing you,&#10;through Jesus Christ our Lord.">
@@ -1654,12 +1514,7 @@ Help us, as we remember your servant Father Algy,
 to see your face in every one we meet,
 and to share with the community the joy of knowing you,
 through Jesus Christ our Lord.</source>
-        <target>Creator God,
-your presence fills us with awe and joy.
-Help us, as we remember your servant Father Algy,
-to see your face in every one we meet,
-and to share with the community the joy of knowing you,
-through Jesus Christ our Lord.</target>
+        <target>창조주 하느님, 당신이 여기 계신다는 현존하심 덕분에 우리가 경외심과 기쁨으로 가득 차 있나이다. 당신의 종 알지 사제를 기억할 때에, 우리가 만나는 모든 이들 안에서 당신의 얼굴을 보게 하시고, 당신을 아는 기쁨을 공동체와 함께 나누게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e56059cea3d9522c0d2" name="O God, through your Son, our Lord Jesus Christ,&#10;you have conquered sin and death.&#10;We thank you for those who have died&#10;and have gone before us marked with the sign of faith,&#10;especially the sisters and brothers of our Society.&#10;Grant us, with all the faithful departed,&#10;the sure benefits of your Son's saving passion and glorious resurrection that,&#10;in the last day, when you gather up all things in Christ,&#10;we may with them enjoy the fullness of your promises;&#10;through Jesus Christ our Lord,&#10;who lives and reigns with you,&#10;in the unity of the Holy Spirit,&#10;one God, now and for ever.">
@@ -1677,19 +1532,7 @@ through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.</source>
-        <target>O God, through your Son, our Lord Jesus Christ,
-you have conquered sin and death.
-We thank you for those who have died
-and have gone before us marked with the sign of faith,
-especially the sisters and brothers of our Society.
-Grant us, with all the faithful departed,
-the sure benefits of your Son's saving passion and glorious resurrection that,
-in the last day, when you gather up all things in Christ,
-we may with them enjoy the fullness of your promises;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.</target>
+        <target>하느님, 당신께서는 당신의 아들 우리 주 예수 그리스도를 통하여 죄와 죽음을 물리치셨나이다. 당신께서는 우리보다 앞서 별세한, 믿음의 표지로 기억되는 많은 이들 특히 우리 수도회 형제와 자매를 보내주셨으니 감사하나이다. 비오니, 우리도 별세한 모든 신실한 이들과 더불어 당신 아들의 구원의 수난하심과 영광스러운 부활하심에 함께 하게 하소서. 그리하여, 마지막 날에 당신께서 그리스도 안으로 모든 이들을 불러 모으실 때 이들과 함께 당신 언약의 성취를 기쁘게 누리겠나이다. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
   </file>
