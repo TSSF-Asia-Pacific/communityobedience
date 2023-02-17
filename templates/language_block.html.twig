@@ -77,7 +77,9 @@
     {% for i in range(1, 31) %}
         {% if file_exists("feast/feast_#{j}_#{i}.html.twig") %}
             <div id='feast_{{ lang }}_{{ j }}_{{ i }}' class='feast' lang='{{ lang }}'>
+                <p class='prayer'>
                 {% include "feast/feast_#{j}_#{i}.html.twig" %}
+                </p>
             </div>
         {% endif %}
     {% endfor %}
