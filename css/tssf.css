@@ -54,6 +54,10 @@ p.boilerplate
 	/* white-space: pre-line;*/
 }
 
+p.prayer {
+	color: #773A10;
+	white-space: pre-line;
+}
 
 .principal, .day, .collect {
 	display: none;
