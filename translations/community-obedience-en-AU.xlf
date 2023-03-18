@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Wed, 01 Mar 2023 12:56:07 +0100
+ Exported at: Fri, 17 Mar 2023 21:42:06 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.27 20230228-1</note>
+      <note category="tool-version">1.0.27 20230314-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment>
@@ -896,9 +896,15 @@
         <source>Pray for those who have been released from the Third Order in the past year:</source>
       </segment>
     </unit>
-    <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
+    <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks&#10;for the Third Order of the Society of St. Francis.&#10;Grant, we pray, that being knit together in community and prayer,&#10;we your servants may glorify your holy name&#10;after the example of Saint Francis,&#10;and win others to your love;&#10;through Jesus Christ our Lord.">
       <segment>
-        <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
+        <source>God, we give you thanks
+for the Third Order of the Society of St. Francis.
+Grant, we pray, that being knit together in community and prayer,
+we your servants may glorify your holy name
+after the example of Saint Francis,
+and win others to your love;
+through Jesus Christ our Lord.</source>
       </segment>
     </unit>
     <unit id="loco:6353ce69df259614de785fc2" name="tssf Community Collect">

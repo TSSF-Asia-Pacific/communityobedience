@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Wed, 01 Mar 2023 12:56:08 +0100
+ Exported at: Fri, 17 Mar 2023 21:42:08 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.27 20230228-1</note>
+      <note category="tool-version">1.0.27 20230314-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -1084,9 +1084,15 @@
         <target>지난 해 제 3회에서 해제된</target>
       </segment>
     </unit>
-    <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
+    <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks&#10;for the Third Order of the Society of St. Francis.&#10;Grant, we pray, that being knit together in community and prayer,&#10;we your servants may glorify your holy name&#10;after the example of Saint Francis,&#10;and win others to your love;&#10;through Jesus Christ our Lord.">
       <segment state="translated">
-        <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
+        <source>God, we give you thanks
+for the Third Order of the Society of St. Francis.
+Grant, we pray, that being knit together in community and prayer,
+we your servants may glorify your holy name
+after the example of Saint Francis,
+and win others to your love;
+through Jesus Christ our Lord.</source>
         <target>하느님, 프란시스 수도회 제3회를 주심에 당신께 감사하나이다. 기도하오니, 우리가 공동체와 기도 안에서 하나 되도록 우리를 엮어 주소서. 당신의 종인 우리들이 프란시스 성인의 모범을 따라 당신의 거룩한 이름을 영광스럽게 받들게 하시며, 사람들을 당신의 사랑 안으로 이끌어오게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
       </segment>
     </unit>
