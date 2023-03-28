@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Fri, 17 Mar 2023 21:42:08 -0500
+ Exported at: Mon, 27 Mar 2023 20:56:27 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.27 20230314-1</note>
+      <note category="tool-version">1.0.27 20230321-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -937,13 +937,13 @@
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
       <segment state="translated">
         <source>Ministers General of First Orders and Abbess of Second Order;</source>
-        <target> 1회와 2회의 총봉사자들,</target>
+        <target>1회와 2회의 총봉사자들,</target>
       </segment>
     </unit>
     <unit id="loco:6353c9d068c5d002c83259d2" name="Ministers Provincial of First Orders.">
       <segment state="translated">
         <source>Ministers Provincial of First Orders.</source>
-        <target> 1회의 관구 봉사자들을 위해 기도합니다.</target>
+        <target>1회의 관구 봉사자들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9e0e7d2113508674834" name="Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.">
@@ -1003,7 +1003,7 @@
     <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">
       <segment state="translated">
         <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
-        <target>미국관구 중앙아메리카의 엘살바도르, 온두라스, 파나마에 있는 회원들을 위해 기도합니다.</target>
+        <target>미국관구 중앙아메리카의 엘살바도르, 과테말라, 온두라스, 파나마에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca704f9a76329c56f194" name="Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.">
@@ -1051,25 +1051,25 @@
     <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province -">
       <segment state="translated">
         <source>American Province -</source>
-        <target>미국관구 봉사자</target>
+        <target>미국관구 </target>
       </segment>
     </unit>
     <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province -">
       <segment state="translated">
         <source>African Province -</source>
-        <target>아프리카관구 봉사자</target>
+        <target>아프리카관구 </target>
       </segment>
     </unit>
     <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province -">
       <segment state="translated">
         <source>Asia-Pacific Province -</source>
-        <target>아시아태평양관구 봉사자</target>
+        <target>아시아태평양관구 </target>
       </segment>
     </unit>
     <unit id="loco:6353caf430467e2669741eb4" name="European Province -">
       <segment state="translated">
         <source>European Province -</source>
-        <target>유럽관구 봉사자</target>
+        <target>유럽관구 </target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
