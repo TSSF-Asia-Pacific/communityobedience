@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Thu, 13 Apr 2023 07:57:07 -0500
+ Exported at: Thu, 13 Apr 2023 15:44:16 +0200
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -955,7 +955,7 @@
     <unit id="loco:6353c9f7fd2bf6785f1ba1c2" name="In the Province of the Americas, Region of the Caribbean, pray for Tertiaries in Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.">
       <segment state="translated">
         <source>In the Province of the Americas, Region of the Caribbean, pray for Tertiaries in Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</source>
-        <target>미국 관구 카리브제도의 코스타리카, 쿠바, 도미니카 공화국, 자메이카, 네비스, 트리니다드 토바고, 버진 아일랜드에 있는 회원들을 위해 기도합니다.</target>
+        <target>미국 관구 카리브제도의 쿠바, 도미니카 공화국, 자메이카, 네비스, 트리니다드 토바고, 버진 아일랜드에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca02c229d941d55b4d52" name="Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.">
@@ -1000,9 +1000,9 @@
         <target>5월: 잭 윈슬로 (매뉴얼 36)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">
+    <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: Costa Rica, El Salvador, Guatemala, Honduras and Panama.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
+        <source>In the Province of the Americas, pray for Tertiaries in Central America: Costa Rica, El Salvador, Guatemala, Honduras and Panama.</source>
         <target>미국관구 중앙아메리카의 엘살바도르, 과테말라, 온두라스, 파나마에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
