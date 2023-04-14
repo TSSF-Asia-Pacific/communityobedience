@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Thu, 13 Apr 2023 15:44:16 +0200
+ Exported at: Fri, 14 Apr 2023 07:55:44 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -586,9 +586,9 @@
         <target>九月：道格拉斯弟兄纪念日 (Manual F18)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
+    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
+        <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
         <target>对于亚太会省，为澳大利亚-新南威尔士州A会区、新南威尔士州B/首都领地会区的所有第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -598,9 +598,9 @@
         <target>为所有地方会团召集人祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
+    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
         <target>对于亚太会省，为澳大利亚-维多利亚/塔斯马尼亚会区的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -622,9 +622,9 @@
         <target>二月：安立甘圣法兰西斯会开拓者纪念日 (Manual F3)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
+    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
         <target>对于亚太会省，为澳大利亚-南澳大利亚会区和西澳大利亚会区的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -646,9 +646,9 @@
         <target>八月：圣克莱尔离世日 (Manual F13); 十月：圣法兰西斯会诸圣日 (Manual F22)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
         <target>对于亚太会省，为香港、马来西亚、新加坡、韩国和斯里兰卡的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -664,9 +664,9 @@
         <target>四月：杰弗里弟兄（SSF）纪念日 (Manual F5); 八月：阿西西的圣克莱尔日 (Manual F14)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
+    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.</source>
         <target>对于亚太会省，为巴布亚新几内亚的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -874,9 +874,9 @@
         <target>为澳大利亚的修规第三会和圣法兰西斯姊妹会祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.">
+    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
+        <source>In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.</source>
         <target>对于美洲会省，为包括波多黎各在内的美国第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -898,9 +898,9 @@
         <target>八月：圣路易日（第三会主保） (Manual F17)</target>
       </segment>
     </unit>
-    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
+    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
+        <source>In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.</source>
         <target>对于美洲会省，为南美洲的巴西、哥伦比亚、厄瓜多尔和圭亚那的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -1024,10 +1024,10 @@
         <target>总会长 - John Hebenton</target>
       </segment>
     </unit>
-    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Janet Fedders">
+    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
       <segment state="translated">
-        <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
-        <target>副总会长 - Janet Fedders</target>
+        <source>ASSISTANT MINISTER GENERAL - Mandy Wheatley</source>
+        <target>副总会长 - Mandy Wheatley</target>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
@@ -1036,28 +1036,28 @@
         <target>省会长：</target>
       </segment>
     </unit>
-    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province -">
+    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Ken Norian and Peter Stube">
       <segment state="translated">
-        <source>American Province -</source>
-        <target>美洲会省 -</target>
+        <source>American Province - Ken Norian and Peter Stube</source>
+        <target>美洲会省 - Ken Norian and Peter Stube</target>
       </segment>
     </unit>
-    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province -">
+    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Bonginkosi Thomas Buthelezi">
       <segment state="translated">
-        <source>African Province -</source>
-        <target>非洲会省 -</target>
+        <source>African Province - Bonginkosi Thomas Buthelezi</source>
+        <target>非洲会省 - Bonginkosi Thomas Buthelezi</target>
       </segment>
     </unit>
-    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province -">
+    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
       <segment state="translated">
-        <source>Asia-Pacific Province -</source>
-        <target>亚太会省 -</target>
+        <source>Asia-Pacific Province - Mandy Wheatley</source>
+        <target>亚太会省 - Mandy Wheatley</target>
       </segment>
     </unit>
-    <unit id="loco:6353caf430467e2669741eb4" name="European Province -">
+    <unit id="loco:6353caf430467e2669741eb4" name="European Province - Patrick Mossop">
       <segment state="translated">
-        <source>European Province -</source>
-        <target>欧洲会省 -</target>
+        <source>European Province - Patrick Mossop</source>
+        <target>欧洲会省 - Patrick Mossop</target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">

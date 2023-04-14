@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Thu, 13 Apr 2023 15:44:15 +0200
+ Exported at: Fri, 14 Apr 2023 07:55:43 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -491,9 +491,9 @@
         <source>September: Brother Douglas (Manual F18)</source>
       </segment>
     </unit>
-    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
+    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment>
-        <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
+        <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
       </segment>
     </unit>
     <unit id="loco:6353b8b56d6f5e2d7e519c72" name="Pray for all Area Convenors.">
@@ -501,9 +501,9 @@
         <source>Pray for all Area Convenors.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
+    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
       <segment>
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
       </segment>
     </unit>
     <unit id="loco:6353b8d633988b64dd1b7bc2" name="Pray for all isolated Tertiaries.">
@@ -521,9 +521,9 @@
         <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
       </segment>
     </unit>
-    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
+    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment>
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
       </segment>
     </unit>
     <unit id="loco:6353b90c00a3fc6fb465b974" name="Pray for Franciscan Aid.">
@@ -541,9 +541,9 @@
         <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment>
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
       </segment>
     </unit>
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
@@ -556,9 +556,9 @@
         <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
       </segment>
     </unit>
-    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
+    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.">
       <segment>
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.</source>
       </segment>
     </unit>
     <unit id="loco:6353ba042684061d0e1fac42" name="Pray for Franciscans International.">
@@ -731,9 +731,9 @@
         <source>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</source>
       </segment>
     </unit>
-    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.">
+    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.">
       <segment>
-        <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
+        <source>In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.</source>
       </segment>
     </unit>
     <unit id="loco:6353bc084eda466e616d8e62" name="Pray for the Secular Franciscan Order (Roman Catholic Tertiaries).">
@@ -751,9 +751,9 @@
         <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
       </segment>
     </unit>
-    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
+    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.">
       <segment>
-        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
+        <source>In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.</source>
       </segment>
     </unit>
     <unit id="loco:6353c99e9f47a61619663312" name="Pray for Franciscans International and their work as a recognized NGO at the United Nations.">
@@ -856,9 +856,9 @@
         <source>MINISTER GENERAL - John Hebenton</source>
       </segment>
     </unit>
-    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Janet Fedders">
+    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
       <segment>
-        <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
+        <source>ASSISTANT MINISTER GENERAL - Mandy Wheatley</source>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
@@ -866,24 +866,24 @@
         <source>PROVINCIAL MINISTERS:</source>
       </segment>
     </unit>
-    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province -">
+    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Ken Norian and Peter Stube">
       <segment>
-        <source>American Province -</source>
+        <source>American Province - Ken Norian and Peter Stube</source>
       </segment>
     </unit>
-    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province -">
+    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Bonginkosi Thomas Buthelezi">
       <segment>
-        <source>African Province -</source>
+        <source>African Province - Bonginkosi Thomas Buthelezi</source>
       </segment>
     </unit>
-    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province -">
+    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
       <segment>
-        <source>Asia-Pacific Province -</source>
+        <source>Asia-Pacific Province - Mandy Wheatley</source>
       </segment>
     </unit>
-    <unit id="loco:6353caf430467e2669741eb4" name="European Province -">
+    <unit id="loco:6353caf430467e2669741eb4" name="European Province - Patrick Mossop">
       <segment>
-        <source>European Province -</source>
+        <source>European Province - Patrick Mossop</source>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
