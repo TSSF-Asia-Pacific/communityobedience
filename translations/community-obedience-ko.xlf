@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Thu, 13 Apr 2023 15:44:16 +0200
+ Exported at: Fri, 14 Apr 2023 07:55:45 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -598,9 +598,9 @@
         <target>9월: 더글라스 형제 (매뉴얼 46)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
+    <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
+        <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.</source>
         <target>아시아태평양 관구, 호주의 뉴사우스웨일즈 A, 뉴사우스웨일즈 B/호주 수도 준주 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -610,9 +610,9 @@
         <target>지역 담당자들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
+    <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
         <target>아시아태평양 관구 호주의 빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
@@ -634,9 +634,9 @@
         <target>2월: 성공회 프란시스 수도회 개척자들(매뉴얼 31)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
+    <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.</source>
         <target>아시아태평양 관구, 호주의 사우스 오스트렐리아 지구, 웨스턴 오스트렐리아 지구에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -658,9 +658,9 @@
         <target>8월: 클라라 성인의 전이 (매뉴얼 41); 10월: 모든 프란시스 수도회 성인들(매뉴얼 50 )을 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
         <target>아시아태평양 관구, 홍콩, 말레이시아, 싱가포르, 한국, 스리랑카의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -676,9 +676,9 @@
         <target>4월: 제프리 형제 SSF (매뉴얼 33); 8월: 아시시의 클라라(매뉴얼 42)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.">
+    <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.">
       <segment state="translated">
-        <source>In the Province of Asia – Pacific, pray for Tertiaries in Papua New Guinea.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.</source>
         <target>아시아태평양 관구, 파푸아뉴기니에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -886,9 +886,9 @@
         <target>호주의 가톨릭 프란시스칸 율수 3회(TOR)와 프란시스칸 자매회를 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.">
+    <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for the Tertiaries in the United States including Puerto Rico.</source>
+        <source>In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.</source>
         <target>미국관구에 속하는 미국과 푸에르토리코에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -910,9 +910,9 @@
         <target>8월: 제 3회 후원자 루이 9세 (매뉴얼 45)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.">
+    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, and Guyana.</source>
+        <source>In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.</source>
         <target>미국관구의 남미 브라질, 콜롬비아, 에콰도르, 가이아나의 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
@@ -1036,10 +1036,10 @@
         <target>총봉사자 John Hebenton</target>
       </segment>
     </unit>
-    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Janet Fedders">
+    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
       <segment state="translated">
-        <source>ASSISTANT MINISTER GENERAL - Janet Fedders</source>
-        <target>보좌 총봉사자 Janet Fedders</target>
+        <source>ASSISTANT MINISTER GENERAL - Mandy Wheatley</source>
+        <target>보좌 총봉사자 Mandy Wheatley</target>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
@@ -1048,28 +1048,28 @@
         <target>관구봉사자들을 위해 기도할 때에,</target>
       </segment>
     </unit>
-    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province -">
+    <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Ken Norian and Peter Stube">
       <segment state="translated">
-        <source>American Province -</source>
-        <target>미국관구 </target>
+        <source>American Province - Ken Norian and Peter Stube</source>
+        <target>미국관구 Ken Norian and Peter Stube</target>
       </segment>
     </unit>
-    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province -">
+    <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Bonginkosi Thomas Buthelezi">
       <segment state="translated">
-        <source>African Province -</source>
-        <target>아프리카관구 </target>
+        <source>African Province - Bonginkosi Thomas Buthelezi</source>
+        <target>아프리카관구 Bonginkosi Thomas Buthelezi</target>
       </segment>
     </unit>
-    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province -">
+    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
       <segment state="translated">
-        <source>Asia-Pacific Province -</source>
-        <target>아시아태평양관구 </target>
+        <source>Asia-Pacific Province - Mandy Wheatley</source>
+        <target>아시아태평양관구 Mandy Wheatley</target>
       </segment>
     </unit>
-    <unit id="loco:6353caf430467e2669741eb4" name="European Province -">
+    <unit id="loco:6353caf430467e2669741eb4" name="European Province - Patrick Mossop">
       <segment state="translated">
-        <source>European Province -</source>
-        <target>유럽관구 </target>
+        <source>European Province - Patrick Mossop</source>
+        <target>유럽관구 Patrick Mossop</target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
