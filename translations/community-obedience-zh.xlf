@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Thu, 13 Apr 2023 07:57:06 -0500
+ Exported at: Thu, 13 Apr 2023 15:44:16 +0200
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -988,9 +988,9 @@
         <target>五月：杰克·温斯洛纪念日 (Manual F8)</target>
       </segment>
     </unit>
-    <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.">
+    <unit id="loco:6353ca63ddd4312b0908a292" name="In the Province of the Americas, pray for Tertiaries in Central America: Costa Rica, El Salvador, Guatemala, Honduras and Panama.">
       <segment state="translated">
-        <source>In the Province of the Americas, pray for Tertiaries in Central America: El Salvador, Guatemala, Honduras, and Panama.</source>
+        <source>In the Province of the Americas, pray for Tertiaries in Central America: Costa Rica, El Salvador, Guatemala, Honduras and Panama.</source>
         <target>对于美洲会省，为中美洲的萨尔瓦多、危地马拉、洪都拉斯和巴拿马的第三会会友祈祷。</target>
       </segment>
     </unit>
