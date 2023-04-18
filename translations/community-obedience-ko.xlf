@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Fri, 14 Apr 2023 18:44:15 -0500
+ Exported at: Tue, 18 Apr 2023 05:17:12 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -910,10 +910,11 @@
         <target>8월: 제 3회 후원자 루이 9세 (매뉴얼 45)를 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.">
+    <unit id="loco:6353c994e7d2113508674832" name="In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.">
       <segment state="translated">
-        <source>In the Province of the Americas, Region of South America, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.</source>
-        <target>미국관구의 남미 브라질, 콜롬비아, 에콰도르, 가이아나의 회원들을 위해 기도합니다.</target>
+        <source>In the Province of the Americas, pray for the Tertiaries in South America: Brazil, Colombia, Ecuador, Peru, Paraguay and Argentina.</source>
+        <target>미국관구의 남미 브라질, 콜롬비아, 에콰도르, 가이아나의 회원들을 위해 기도합니다.
+미국 관구의 회원들을 위해 기도합니다. 브라질, 콜롬비아, 에콰도르, 페루, 파라과이, 아르헨티나 등 남미의 제3회 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353c99e9f47a61619663312" name="Pray for Franciscans International and their work as a recognized NGO at the United Nations.">
