@@ -2,6 +2,7 @@
 
 use languages\en\english;
 use languages\ko\ko;
+use languages\ta\ta;
 use languages\zh\zh;
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
 use Tssf\Communityobedience\TwigFileExists;
@@ -30,8 +31,9 @@ function index(): void
     $translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
     // Load each translation xliff file here, set the locale that it'll refer to in the below array
     $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
-    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
     $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
+    $translator->addResource('xliff', './translations/community-obedience-ta.xlf', 'ta');
+    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
     $translator->setFallbackLocales(['en']);
 
     $twig->addExtension(new TranslationExtension($translator));
@@ -50,6 +52,10 @@ function index(): void
         'ko' => [
             'name' => 'Korean',
             'dateLocale' => 'ko'
+        ],
+        'ta' => [
+            'name' => 'Tamil',
+            'dateLocale' => 'ta-LK'
         ],
         'zh' => [
             'name' => 'Chinese',
