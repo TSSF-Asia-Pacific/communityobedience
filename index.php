@@ -55,7 +55,7 @@ function index(): void
         ],
         'ta' => [
             'name' => 'Tamil',
-            'dateLocale' => 'ta-LK'
+            'dateLocale' => 'ta_LK'
         ],
         'zh' => [
             'name' => 'Chinese',
