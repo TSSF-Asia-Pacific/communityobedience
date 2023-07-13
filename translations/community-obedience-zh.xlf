@@ -20,9 +20,9 @@
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
-      <segment state="initial">
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</target>
+        <target>对于太平洋会省，为所罗门群岛瓜达尔卡纳尔和萨沃的第三会会友祈祷。</target>
       </segment>
     </unit>
     <unit id="loco:62e654d56c9070667f397642" name="I-pray-for-you">
@@ -473,21 +473,21 @@
       </segment>
     </unit>
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="initial">
+      <segment state="translated">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</target>
+        <target>为亚太会省的主教监护人Garry Weatherill祈祷</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
-      <segment state="initial">
+      <segment state="translated">
         <source>In the Region of Popondetta, pray for</source>
-        <target>In the Region of Popondetta, pray for</target>
+        <target>为波蓬德塔会区的第三会会友祈祷：</target>
       </segment>
     </unit>
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment state="initial">
+      <segment state="translated">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>December: Requiem for Departed Franciscans (Manual F25)</target>
+        <target>十二月：圣法兰西斯会诸亡者追思日 (Manual F25)</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
