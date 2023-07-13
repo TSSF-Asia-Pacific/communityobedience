@@ -1,5 +1,3 @@
 files:
   - source: /translations/community-obedience-en-AU.xlf
     translation: /translations/community-obedience-%two_letters_code%.xlf
-  - source: /templates/*/*.html.twig
-    translation: /translations/community-obedience-%two_letters_code%.xlf
