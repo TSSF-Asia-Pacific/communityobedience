@@ -3,11 +3,11 @@
  Loco xml export: XLIFF 2.0
  Project: TSSF Community Obedience
  Release: Working copy
- Locale: ko, Korean
+ Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Tue, 06 Jun 2023 19:15:42 -0700
+ Exported at: Tue, 06 Jun 2023 19:15:39 -0700
 -->
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
@@ -16,7 +16,7 @@
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
         <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
-        <target>날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도를 바칩니다.</target>
+        <target>날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도도 바칩니다.</target>
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
@@ -103,7 +103,7 @@
     <unit id="loco:63022e70dad2cb3c14722c02" name="The Object, cont'd">
       <segment state="translated">
         <source>The Object, cont'd</source>
-        <target>목적 (이어짐) </target>
+        <target>목적 (이어짐)</target>
       </segment>
     </unit>
     <unit id="loco:63022e7dfbc4dd099846a4f2" name="In the example of his own sacrifice, Jesus reveals the secret of bearing fruit. In surrendering himself to death, he becomes the source of new life. Lifted from the earth on the cross, he draws all people to himself. Clinging to life causes life to decay; the life that is freely given is eternal.">
@@ -487,7 +487,7 @@
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
       <segment state="translated">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다. </target>
+        <target>아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
@@ -499,7 +499,7 @@
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
       <segment state="translated">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</target>
+        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53) 을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
@@ -583,7 +583,7 @@
     <unit id="loco:6353b88335914517b353c4f2" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.">
       <segment state="translated">
         <source>In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.</source>
-        <target>아시아태평양 관구, 호주 퀸즐랜드 A, 퀸즐랜드 B/뉴사우스웨일즈 북부 지구 회원들을 위해 기도합니다. </target>
+        <target>아시아태평양 관구, 호주 퀸즐랜드 A, 퀸즐랜드 B/뉴사우스웨일즈 북부 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b88d3e321623b01edfe4" name="Pray for all Novice Counsellors.">
@@ -613,13 +613,13 @@
     <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
       <segment state="translated">
         <source>In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.</source>
-        <target>아시아태평양 관구 호주의 빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다. </target>
+        <target>아시아태평양 관구 호주의 빅토리아/태즈메이니아 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8d633988b64dd1b7bc2" name="Pray for all isolated Tertiaries.">
       <segment state="translated">
         <source>Pray for all isolated Tertiaries.</source>
-        <target>고립된 회원들을 위해 기도합니다. </target>
+        <target>고립된 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8e000a3fc6fb465b972" name="In Queensland A Region, pray for">
@@ -932,7 +932,7 @@
     <unit id="loco:6353c9b99f47a61619663314" name="Pray for the Society of St Francis:">
       <segment state="translated">
         <source>Pray for the Society of St Francis:</source>
-        <target>성프란시스회를 위해 기도할 때에 </target>
+        <target>성프란시스회를 위해 기도할 때에</target>
       </segment>
     </unit>
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
@@ -1248,14 +1248,13 @@
     <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.">
       <segment state="translated">
         <source>Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.</source>
-        <target>신실하신 하느님, 당신께서는 제프리 형제를 거룩한 열정과 모든 것을 포용하는 신뢰로 가득 채워 주셨나이다. 비오니, 우리를 도우시어 우리 또한 그가 보인 사랑과 신뢰를 끈기있게 품도록 해주시고, 당신의 아들 우리 주 예수 그리스도를 닮아가고 그분을 영예롭게 하도록 도우소서. </target>
+        <target>신실하신 하느님, 당신께서는 제프리 형제를 거룩한 열정과 모든 것을 포용하는 신뢰로 가득 채워 주셨나이다. 비오니, 우리를 도우시어 우리 또한 그가 보인 사랑과 신뢰를 끈기있게 품도록 해주시고, 당신의 아들 우리 주 예수 그리스도를 닮아가고 그분을 영예롭게 하도록 도우소서.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8e6246dc6c651b8324" name="Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>자비롭고 늘 만물을 사랑하는 하느님, 당신의 은총 어린 선함을 통해 코르토나의 마가렛을 죄의 길에서 건져내어 구원의 길로 이끄셨나이다. 못된 길로 빠져드는 우리 역시 그와 같은 당신의 자비심 안에서 회개하고, 당신의 모습대로 거듭나게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.
-</target>
+        <target>자비롭고 늘 만물을 사랑하는 하느님, 당신의 은총 어린 선함을 통해 코르토나의 마가렛을 죄의 길에서 건져내어 구원의 길로 이끄셨나이다. 못된 길로 빠져드는 우리 역시 그와 같은 당신의 자비심 안에서 회개하고, 당신의 모습대로 거듭나게 하소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d99516d0b3fad3827a2" name="God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1291,13 +1290,13 @@
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
       <segment state="translated">
         <source>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</source>
-        <target>은총이 가득하신 하느님, 당신은 모든 이들의 종으로 우리들 가운데 오셨나이다. 우리의 자매 클라라처럼 우리들 역시 당신을 향한 사랑 안에서 그리고 다른 이들을 향한 자비심 안에서 우리 자신을 잊게 하소서. 우리 주 예수 그리스도를 통하여 청하나이다. </target>
+        <target>은총이 가득하신 하느님, 당신은 모든 이들의 종으로 우리들 가운데 오셨나이다. 우리의 자매 클라라처럼 우리들 역시 당신을 향한 사랑 안에서 그리고 다른 이들을 향한 자비심 안에서 우리 자신을 잊게 하소서. 우리 주 예수 그리스도를 통하여 청하나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</source>
-        <target>주 하느님, 당신께서는 복된 클라라의 거룩함을 통해 세상의 어둠 속에서 밝게 빛나는 빛을 주셨나이다. 우리들에게 은총을 내리시어 클라라 성인의 발자취를 따르게 하시고, 마침내 당신의 영원한 영광의 깨끗한 빛 안에서 성인과 함께 기뻐하게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다. </target>
+        <target>주 하느님, 당신께서는 복된 클라라의 거룩함을 통해 세상의 어둠 속에서 밝게 빛나는 빛을 주셨나이다. 우리들에게 은총을 내리시어 클라라 성인의 발자취를 따르게 하시고, 마침내 당신의 영원한 영광의 깨끗한 빛 안에서 성인과 함께 기뻐하게 하소서. 우리 주 예수 그리스도를 통하여 기도하나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1327,8 +1326,7 @@
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>전능하신 하느님, 세상이 점점 차가워질 때 당신께서는 당신 사랑의 불로 당신 사람들의 마음을 불타오르게 하셨나이다. 당신은 은총이 가득한 프란시스를 일으키시어 그의 몸 안에, 십자가에 못 박힌 그리스도의 표지를 간직하게 하셨나이다. 비오니, 당신의 백성인 우리가 진정으로 회개하게 해주시고 그리스도의 사랑을 위해 기꺼이 십자가를 품어 안을 수 있는 은총을 주소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.
-</target>
+        <target>전능하신 하느님, 세상이 점점 차가워질 때 당신께서는 당신 사랑의 불로 당신 사람들의 마음을 불타오르게 하셨나이다. 당신은 은총이 가득한 프란시스를 일으키시어 그의 몸 안에, 십자가에 못 박힌 그리스도의 표지를 간직하게 하셨나이다. 비오니, 당신의 백성인 우리가 진정으로 회개하게 해주시고 그리스도의 사랑을 위해 기꺼이 십자가를 품어 안을 수 있는 은총을 주소서. 성자께서는 성부와 성령과 함께 한 하느님으로서 영원히 사시며 다스리시나이다.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e208a27cc7fc43765b6" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
