@@ -1,15 +1,14 @@
-<p class='boilerplate'>
-    {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.{% endtrans %}<br/>
+﻿<p class='boilerplate'>
+    {% trans into lang %}In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill{% endtrans %}
+    {% trans into lang %}Pray for Franciscan Aid.{% endtrans %}
 </p>
-<p class='rubric'>
-    {% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
+<p class='rubric'>{% trans into lang %}In Queensland A Region, pray for{% endtrans %}</p>
 <p class='boilerplate'>
   {{ living_members_1 |nl2br }}<br/>
-    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
   <br/>
-    {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %} 
+  {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
   {{ deceased_members | nl2br }}<br/>
-    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
 </p>
