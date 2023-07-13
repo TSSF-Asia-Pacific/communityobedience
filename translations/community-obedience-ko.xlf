@@ -1,6 +1,6 @@
 <p class='boilerplate'>
-    {% trans into lang %}The Second Way of Service, cont'd{% endtrans %}
+    {% trans into lang %}The Third Way of Service - Work{% endtrans %}
 </p>
 <p class='boilerplate'>
-    {% trans into lang %}As well as the devotional study of Scripture, we all recognize our Christian responsibility to pursue other branches of study, both sacred and secular. In particular, some of us accept the duty of contributing, through research and writing, to a better understanding of the church's mission in the world: the application of Christian principles to the use and distribution of wealth; questions concerning justice and peace; and of all other questions concerning the life of faith.{% endtrans %}
+    {% trans into lang %}Jesus took on himself the form of a servant. He came not to be served, but to serve. He went about doing good: healing the sick, preaching good news to the poor, and binding up the broken hearted.{% endtrans %}
 </p>
