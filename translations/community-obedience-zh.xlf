@@ -1,16 +1,14 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} First Franciscan Martyrs</p>
-<p class='prayer'>
-{% apply nl2br %}
-{% trans into lang %}Everliving God,
-we thank you for the brothers by whose martyrdom
-the beginnings of the Franciscan Order were sanctified:
-grant that following their example and
-strengthened by their fellowship
-we may give our lives to your service, even unto death,
-and share with them your gifts of eternal life;
-through Jesus Christ our Lord,
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Anglican Franciscan Pioneers</p>
+<p class='boilerplate'>
+  {% trans into lang %}Lord God,
+you kept the pioneers of the revival
+of the Franciscan life in the Anglican Communion
+faithful to Christ's pattern of poverty and humility:
+may we, inspired by their example,
+live in fidelity to our calling
+and come to the perfection
+you have shown us in your Son Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
 one God, now and for ever.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
-{% endapply %}
 </p>
