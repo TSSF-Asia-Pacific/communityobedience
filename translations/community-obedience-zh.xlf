@@ -1350,14 +1350,5 @@
         <target>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
-    <unit id="test-string">
-      <notes>
-        <note>To test the integration of crowdin</note>
-      </notes>
-      <segment state="initial">
-        <source>This Is a test String</source>
-        <target>This Is a test String</target>
-      </segment>
-    </unit>
   </file>
 </xliff>
