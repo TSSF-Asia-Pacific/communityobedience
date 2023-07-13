@@ -1,7 +1,7 @@
 <p class='boilerplate'>
-    {% trans into lang %}In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.{% endtrans %}<br/>
+    {% trans into lang %}In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for the First Order in the Provinces of America and Europe.{% endtrans %}
+    {% trans into lang %}Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.{% endtrans %}
 </p>
 <p class='rubric'>{% trans into lang %}In Queensland B / Northern NSW Region, pray for{% endtrans %}</p>
 <p class='boilerplate'>
