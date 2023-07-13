@@ -1,12 +1,9 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Margaret of Cortona</p>
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Bernadine of Siena</p>
 <p class='boilerplate'>
-  {% trans into lang %}Merciful and loving God,
-through your gracious goodness
-you brought Margaret of Cortona
-from the path of sin to the way of salvation;
-in the same mercy may we who have often gone astray
-also come to repentance
-and be recreated in your image and likeness;
+  {% trans into lang %}God of glory,
+who gave your servant Bernardine
+a most tender love of the Holy Name of Jesus,
+grant that we may always be alive with the spirit of your love;
 through Jesus Christ our Lord,
 who lives and reigns with you,
 in the unity of the Holy Spirit,
