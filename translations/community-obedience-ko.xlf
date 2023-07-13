@@ -1,6 +1,6 @@
 <p class='boilerplate'>
-    {% trans into lang %}The Third Aim, cont'd{% endtrans %}
+    {% trans into lang %}The Three Ways of Service{% endtrans %}
 </p>
 <p class='boilerplate'>
-    {% trans into lang %}Personal spending is limited to what is necessary for our health and well-being and that of our dependents. We aim to stay free from all attachment to wealth, keeping ourselves constantly aware of the poverty in the world and its claim on us. We are concerned more for the generosity that gives all, rather than the value of poverty in itself. In this way we reflect in spirit the acceptance of Jesus' challenge to sell all, give to the poor, and follow him.{% endtrans %}
+    {% trans into lang %}Tertiaries desire to be conformed to the image of Jesus Christ, whom we serve in the three ways of Prayer, Study, and Work. In the life of the Order as a whole these three ways must each find full and balanced expression, but it is not to be expected that all members devote themselves equally to each of them. Each individual's service varies according to his/her abilities and circumstances, yet the member's personal rule of life includes each of the three ways.{% endtrans %}
 </p>
