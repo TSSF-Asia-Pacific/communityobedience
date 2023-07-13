@@ -1,12 +1,12 @@
 <p class='boilerplate'>
-  {% trans into lang %}In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.{% endtrans %}<br/>
+    {% trans into lang %}In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for Companions of SSF and Associates of tssf.{% endtrans %}
+  {% trans into lang %}Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley{% endtrans %}
 </p>
-<p class='rubric'>{% trans into lang %}In New South Wales B /ACT Region, pray for{% endtrans %}</p>
+<p class='rubric'>{% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
 <p class='boilerplate'>
-  {{ living_members_1 |nl2br }}<br/>
-  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  {{ living_members_1 | nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
   <br/>
   {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
   {{ deceased_members | nl2br }}<br/>
