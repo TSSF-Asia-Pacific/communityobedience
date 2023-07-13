@@ -1,13 +1,13 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} John Vianney</p>
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} The Stigmata of Saint Francis</p>
 <p class='boilerplate'>
-  {% trans into lang %}God of love,
-who filled your servant John Vianney
-with zeal as a priest, pastor, and confessor:
-help us, by your grace,
-to win all our brothers and sisters for Christ
-and to share with them in eternal glory;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
+  {% trans into lang %}Almighty God,
+when the world was growing cold
+you inflamed the hearts of your people with the fire of your love;
+you raised up blessed Francis,
+bearing in his body the marks of Christ crucified:
+grant to us, your people, true penitence,
+and grace to bear the cross for love of him
+who is alive and reigns with you
+and the Holy Spirit,
 one God, now and for ever.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
