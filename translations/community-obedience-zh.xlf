@@ -3,11 +3,11 @@
  Loco xml export: XLIFF 2.0
  Project: TSSF Community Obedience
  Release: Working copy
- Locale: zh, Chinese
+ Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Tue, 06 Jun 2023 19:15:41 -0700
+ Exported at: Tue, 06 Jun 2023 19:15:39 -0700
 -->
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en" trgLang="zh-CN">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
@@ -20,16 +20,16 @@
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
-      <segment state="translated">
+      <segment state="initial">
         <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
-        <target>对于太平洋会省，为所罗门群岛瓜达尔卡纳尔和萨沃的第三会会友祈祷。</target>
+        <target>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</target>
       </segment>
     </unit>
     <unit id="loco:62e654d56c9070667f397642" name="I-pray-for-you">
       <notes>
         <note>Can be an empty string, if it returns 'I-pray-for-you' then it will be excluded</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>I-pray-for-you</source>
         <target>I-pray-for-you</target>
       </segment>
@@ -37,7 +37,7 @@
     <unit id="loco:6300e4cc57b8a56d58434bf3" name="God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
-        <target>上帝啊，你的圣爱引导圣法兰西斯和圣克莱尔为我们建立了这三个修会团体：求你也吸引我们，进入你的圣爱之中，使我们在这爱里成长，以至爱我们身边所有的人，正如基督爱世人一样。这都是因你的圣子耶稣基督。 </target>
+        <target>上帝啊，你的圣爱引导圣法兰西斯和圣克莱尔为我们建立了这三个修会团体：求你也吸引我们，进入你的圣爱之中，使我们在这爱里成长，以至爱我们身边所有的人，正如基督爱世人一样。这都是因你的圣子耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bf4" name="Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.">
@@ -53,7 +53,7 @@
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bfa" name="deceased-member">
-      <segment state="translated">
+      <segment state="initial">
         <source>deceased-member</source>
         <target>deceased-member</target>
       </segment>
@@ -61,13 +61,13 @@
     <unit id="loco:6300e8f6b4cc257b656b2273" name="God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.">
       <segment state="translated">
         <source>God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.</source>
-        <target>上帝啊，你乐意显示自己给谦卑虚己、像小孩子一样的心灵：求你帮助我们，效法蒙福的会父圣法兰西斯的榜样，将世界的智慧看为愚拙，而只愿思想耶稣基督并他钉十字架。圣子和圣父、圣灵，共享尊荣，永无穷尽。 </target>
+        <target>上帝啊，你乐意显示自己给谦卑虚己、像小孩子一样的心灵：求你帮助我们，效法蒙福的会父圣法兰西斯的榜样，将世界的智慧看为愚拙，而只愿思想耶稣基督并他钉十字架。圣子和圣父、圣灵，共享尊荣，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:6300e923469ad56c8d580372" name="God, you resist the proud and give grace to the humble: help us not to think proudly, but to serve you with the humility that pleases you, so we may walk in the steps of your servant Francis and receive the gift of your grace; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, you resist the proud and give grace to the humble: help us not to think proudly, but to serve you with the humility that pleases you, so we may walk in the steps of your servant Francis and receive the gift of your grace; through Jesus Christ our Lord.</source>
-        <target>上帝啊，你抵挡骄傲的人，赐恩给谦卑的人：求你帮助我们，免除骄傲的意念，而以谦卑服侍你，行你所喜悦的事，求你使我们跟随你的仆人圣法兰西斯的脚踪，至终得享你所赐之恩。这都是靠着我们的主耶稣基督。 </target>
+        <target>上帝啊，你抵挡骄傲的人，赐恩给谦卑的人：求你帮助我们，免除骄傲的意念，而以谦卑服侍你，行你所喜悦的事，求你使我们跟随你的仆人圣法兰西斯的脚踪，至终得享你所赐之恩。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6300e932ed421600b663c7b2" name="God, you have made your church rich through the poverty of blessed Francis: help us, like him, not to trust in earthly things, but to seek your heavenly gifts; through Jesus Christ our Lord.">
@@ -79,7 +79,7 @@
     <unit id="loco:6300e943469ad56c8d580374" name="God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.</source>
-        <target>上帝啊，你藉着蒙福的圣法兰西斯的生活，使你的子民爱好朴素：求你使我们效法他的榜样，不为自己积攒地上的财宝，而只愿积攒财宝在天上。这都是靠着我们的主耶稣基督。 </target>
+        <target>上帝啊，你藉着蒙福的圣法兰西斯的生活，使你的子民爱好朴素：求你使我们效法他的榜样，不为自己积攒地上的财宝，而只愿积攒财宝在天上。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6300e952e8e6d47de1366472" name="Lord Jesus, in your servant Francis you displayed the wonderful power of the cross: help us always to follow you in the way of the cross, and give us strength to resist all temptation, and to you, Lord, with the Father and the Holy Spirit be all glory for ever.">
@@ -409,7 +409,7 @@
     <unit id="loco:630232a3f32cda00c2741278" name="The Principles of the Third Order, a portion of which is set for reflection each day, are based on the Rule of the Christa Seva Sangha from Poona in India. This community, formed in 1922, was inspired both by the Gospel of Christ and the way of life in an Indian Ashram. This community of married and single people, ordained and lay, led by Fr Jack Winslow, lived a common life as equals.">
       <segment state="translated">
         <source>The Principles of the Third Order, a portion of which is set for reflection each day, are based on the Rule of the Christa Seva Sangha from Poona in India. This community, formed in 1922, was inspired both by the Gospel of Christ and the way of life in an Indian Ashram. This community of married and single people, ordained and lay, led by Fr Jack Winslow, lived a common life as equals.</source>
-        <target>供每日反省的第三会准则，是以印度浦那的基督忠仆会（Christa Seva Sangha）会规为蓝本编订而成。这个团体创立于1922年，受感于基督福音和印度静修处的生活方式。这个团体由已婚及独身者、神职人员及平信徒组成，由杰克·温斯洛神父带领，过着平等的公共生活。 </target>
+        <target>供每日反省的第三会准则，是以印度浦那的基督忠仆会（Christa Seva Sangha）会规为蓝本编订而成。这个团体创立于1922年，受感于基督福音和印度静修处的生活方式。这个团体由已婚及独身者、神职人员及平信徒组成，由杰克·温斯洛神父带领，过着平等的公共生活。</target>
       </segment>
     </unit>
     <unit id="loco:630232b4e66d7a03406257ba" name="In 1928 the Rule was revised under the guidance of Fr Algy Robertson and some aspects of that Rule can also be found in The Third Order Principles.">
@@ -473,21 +473,21 @@
       </segment>
     </unit>
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="translated">
+      <segment state="initial">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>为亚太会省的主教监护人Garry Weatherill祈祷</target>
+        <target>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
-      <segment state="translated">
+      <segment state="initial">
         <source>In the Region of Popondetta, pray for</source>
-        <target>为波蓬德塔会区的第三会会友祈祷：</target>
+        <target>In the Region of Popondetta, pray for</target>
       </segment>
     </unit>
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment state="translated">
+      <segment state="initial">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>十二月：圣法兰西斯会诸亡者追思日 (Manual F25)</target>
+        <target>December: Requiem for Departed Franciscans (Manual F25)</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
@@ -923,15 +923,15 @@
       </segment>
     </unit>
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
-      <segment state="translated">
+      <segment state="initial">
         <source>Ministers General of First Orders and Abbess of Second Order;</source>
-        <target> </target>
+        <target>Ministers General of First Orders and Abbess of Second Order;</target>
       </segment>
     </unit>
     <unit id="loco:6353c9d068c5d002c83259d2" name="Ministers Provincial of First Orders.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Ministers Provincial of First Orders.</source>
-        <target> </target>
+        <target>Ministers Provincial of First Orders.</target>
       </segment>
     </unit>
     <unit id="loco:6353c9e0e7d2113508674834" name="Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.">
@@ -1213,139 +1213,139 @@
       </segment>
     </unit>
     <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
-      <segment state="translated">
+      <segment state="initial">
         <source>Prayer of the day:</source>
         <target>Prayer of the day:</target>
       </segment>
     </unit>
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d7345d25f6f55021072" name="Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.</source>
         <target>Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8e6246dc6c651b8324" name="Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8d99516d0b3fad3827a2" name="God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8da58a27cc7fc43765b2" name="Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.</source>
         <target>Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.</target>
       </segment>
     </unit>
     <unit id="loco:636d8db13a759035e54f0b12" name="Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dbc516d0b3fad3827a4" name="Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dc809bd8d71d80f8c74" name="God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</source>
         <target>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</source>
         <target>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</target>
       </segment>
     </unit>
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8df69f83024e5b60d3c2" name="God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e01b2813e5d48258062" name="King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e0b6246dc6c651b8326" name="God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.">
-      <segment state="translated">
+      <segment state="initial">
         <source>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</source>
         <target>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
         <target>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e208a27cc7fc43765b6" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
         <target>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e298a27cc7fc43765b8" name="God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
         <target>God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e34a4beb76a2c2a4ad2" name="Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e3f9f83024e5b60d3c4" name="Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e499f83024e5b60d3c6" name="Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.">
-      <segment state="translated">
+      <segment state="initial">
         <source>Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.</source>
         <target>Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e56059cea3d9522c0d2" name="O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
-      <segment state="translated">
+      <segment state="initial">
         <source>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
       </segment>
