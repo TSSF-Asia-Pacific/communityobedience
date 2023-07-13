@@ -1,6 +1,6 @@
 <p class='boilerplate'>
-    {% trans into lang %}The Object{% endtrans %}
+    {% trans into lang %}The Third Aim - To live simply{% endtrans %}
 </p>
 <p class='boilerplate'>
-    {% trans into lang %}Jesus said, "Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honor." (John 12:24-26){% endtrans %}
+    {% trans into lang %}The first Christians surrendered completely to our Lord and recklessly gave all that they had, offering the world a new vision of a society in which a fresh attitude was taken towards material possessions. This vision was renewed by Saint Francis when he chose Lady Poverty as his bride, desiring that all barriers set up by privilege based on wealth should be overcome by love. This is the inspiration for the third aim of the Society, to live simply.{% endtrans %}
 </p>
