@@ -1,9 +1,9 @@
 <p class='boilerplate'>
-    {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.{% endtrans %}<br/>
+    {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.{% endtrans %}
+    {% trans into lang %}Pray for all Regional Ministers in the Province of Asia-Pacific.{% endtrans %}
 </p>
-<p class='rubric'> {% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
+<p class='rubric'>{% trans into lang %}In the Region of Dogura, pray for{% endtrans %}</p>
 <p class='boilerplate'>
   {{ living_members_1 |nl2br }}<br/>
   {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
