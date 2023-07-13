@@ -1,14 +1,15 @@
-﻿<p class='boilerplate'>
-    {% trans into lang %}In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.{% endtrans %}<br/>
-    <br/>
-    {% trans into lang %}Pray for all isolated Tertiaries.{% endtrans %}
-</p>
-<p class='rubric'>{% trans into lang %}In the Region of Dogura, pray for{% endtrans %}</p>
-<p class='boilerplate'>
-  {{ living_members_1 |nl2br }}<br/>
-  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
-  <br/>
-  {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
-  {{ deceased_members | nl2br }}<br/>
-  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} All Franciscan Saints</p>
+<p class='prayer'>
+{% apply nl2br %}
+{% trans into lang %}Everlasting God,
+you have adorned your Church
+with splendours of the saintly followers of our holy father, Francis:
+grant that as we commemorate their holiness
+we may come at last with all the pure in heart
+to share the vision of your glory;
+through Jesus Christ our Lord,
+who lives and reigns with you,
+in the unity of the Holy Spirit,
+one God, now and for ever.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+{% endapply %}
 </p>
