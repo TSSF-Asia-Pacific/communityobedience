@@ -16,7 +16,7 @@
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
         <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
-        <target>날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도도 바칩니다.</target>
+        <target>날마다 이 기도문을 읽되, 할 수 있으면 아침기도나 저녁기도를 드리는 가운데 이 기도를 바칩니다.</target>
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
@@ -499,7 +499,7 @@
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
       <segment state="translated">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53) 을 기억하고 기도합니다.</target>
+        <target>12월: 별세한 모든 프란시스회원들(매뉴얼 53)을 기억하고 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
