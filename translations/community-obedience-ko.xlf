@@ -1,12 +1,8 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Bonaventure/p>
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Transitus of St Clare</p>
 <p class='boilerplate'>
-  {% trans into lang %}Everlasting God,
-we praise you that you have given light to your church
-by the witness of Bonaventure:
-in our day, may your Holy Spirit raise up people
-who by their teaching and guidance will show the fullness of your truth;
-through Jesus Christ our Lord,
-who lives and reigns with you,
-in the unity of the Holy Spirit,
-one God, now and for ever.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+  {% trans into lang %}Gracious God,
+you came among us as servant of all;
+may we, like our sister Clare,
+forget ourselves in love for you and in compassion for others.
+We ask this through Christ our Lord.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
