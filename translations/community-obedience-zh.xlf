@@ -1,17 +1,11 @@
-<p class='boilerplate'>{% trans into lang %}Pray for Ministers of the Third Order:{% endtrans %}<br/>
-    <br/>
-    {% trans into lang %}MINISTER GENERAL -{% endtrans %} John Hebenton<br/>
-    {% trans into lang %}ASSISTANT MINISTER GENERAL -{% endtrans %} Mandy Wheatley<br/>
-    <br/>
-    {% trans into lang %}PROVINCIAL MINISTERS:{% endtrans %}<br/>
-    {% trans into lang %}American Province -{% endtrans %} Ken Norian and Peter Stube<br/>
-    {% trans into lang %}African Province -{% endtrans %} Bonginkosi Thomas Buthelezi<br/>
-    {% trans into lang %}Asia-Pacific Province -{% endtrans %} Mandy Wheatley<br/>
-    {% trans into lang %}European Province -{% endtrans %} Patrick Mossop<br/>
-    {% trans into lang %}Pacific Province -{% endtrans %} Blair Matheson</p>
 <p class='boilerplate'>
-  {% trans into lang %}Pray for those who have been released from the Third Order in the past year:{% endtrans %} 
-    {{ living_members_1 | nl2br }}<br/>
+    {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.{% endtrans %}<br/>
+    <br/>
+    {% trans into lang %}Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.{% endtrans %}
+</p>
+<p class='rubric'> {% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
+<p class='boilerplate'>
+  {{ living_members_1 |nl2br }}<br/>
   {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
   <br/>
   {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %}
