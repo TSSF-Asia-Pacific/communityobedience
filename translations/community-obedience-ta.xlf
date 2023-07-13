@@ -3,11 +3,11 @@
  Loco xml export: XLIFF 2.0
  Project: TSSF Community Obedience
  Release: Working copy
- Locale: ta, Tamil
+ Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Tue, 06 Jun 2023 19:15:43 -0700
+ Exported at: Tue, 06 Jun 2023 19:15:39 -0700
 -->
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ta">
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en" trgLang="ta">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
@@ -29,7 +29,7 @@
       <notes>
         <note>Can be an empty string, if it returns 'I-pray-for-you' then it will be excluded</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>I-pray-for-you</source>
         <target>I-pray-for-you</target>
       </segment>
@@ -53,7 +53,7 @@
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bfa" name="deceased-member">
-      <segment state="translated">
+      <segment state="initial">
         <source>deceased-member</source>
         <target>deceased-member</target>
       </segment>
@@ -485,7 +485,7 @@
       </segment>
     </unit>
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
-      <segment state="translated">
+      <segment state="initial">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
         <target>December: Requiem for Departed Franciscans (Manual F25)</target>
       </segment>
@@ -515,7 +515,7 @@
       </segment>
     </unit>
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
-      <segment state="translated">
+      <segment state="initial">
         <source>October: The Transitus of St Francis (Manual F20)</source>
         <target>October: The Transitus of St Francis (Manual F20)</target>
       </segment>
@@ -540,7 +540,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
-      <segment state="translated">
+      <segment state="initial">
         <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
         <target>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</target>
       </segment>
@@ -582,7 +582,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353b89d3143f2006a525052" name="September: Brother Douglas (Manual F18)">
-      <segment state="translated">
+      <segment state="initial">
         <source>September: Brother Douglas (Manual F18)</source>
         <target>September: Brother Douglas (Manual F18)</target>
       </segment>
@@ -618,7 +618,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8e9e217e37cfa16e432" name="February: Anglican Franciscan Pioneers (Manual F3)">
-      <segment state="translated">
+      <segment state="initial">
         <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
         <target>February: Anglican Franciscan Pioneers (Manual F3)</target>
       </segment>
@@ -642,7 +642,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
-      <segment state="translated">
+      <segment state="initial">
         <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
         <target>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</target>
       </segment>
@@ -660,7 +660,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
-      <segment state="translated">
+      <segment state="initial">
         <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
         <target>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</target>
       </segment>
@@ -684,7 +684,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
-      <segment state="translated">
+      <segment state="initial">
         <source>June: Antony of Padua (Manual F10)</source>
         <target>June: Antony of Padua (Manual F10)</target>
       </segment>
@@ -702,7 +702,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
-      <segment state="translated">
+      <segment state="initial">
         <source>August: Maximilian Kolbe (Manual F15)`</source>
         <target>August: Maximilian Kolbe (Manual F15)`</target>
       </segment>
@@ -720,7 +720,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353baa6862f6b2210740924" name="July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)">
-      <segment state="translated">
+      <segment state="initial">
         <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
         <target>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</target>
       </segment>
@@ -738,7 +738,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353bad1b4b3ff35c44e7de2" name="May: Margaret of Cortona (Manual F6)">
-      <segment state="translated">
+      <segment state="initial">
         <source>May: Margaret of Cortona (Manual F6)</source>
         <target>May: Margaret of Cortona (Manual F6)</target>
       </segment>
@@ -762,7 +762,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
-      <segment state="translated">
+      <segment state="initial">
         <source>September: The Stigmata of St Francis (Manual F19)</source>
         <target>September: The Stigmata of St Francis (Manual F19)</target>
       </segment>
@@ -792,7 +792,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb4d7832ec0fdb3ca0e4" name="May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)">
-      <segment state="translated">
+      <segment state="initial">
         <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
         <target>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</target>
       </segment>
@@ -858,7 +858,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
-      <segment state="translated">
+      <segment state="initial">
         <source>November: Fr Algy SSF (Manual F24)</source>
         <target>November: Fr Algy SSF (Manual F24)</target>
       </segment>
@@ -894,7 +894,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353bc19c28fc327d830a624" name="August: Louis, King, Patron of the Third Order (Manual F17)">
-      <segment state="translated">
+      <segment state="initial">
         <source>August: Louis, King, Patron of the Third Order (Manual F17)</source>
         <target>August: Louis, King, Patron of the Third Order (Manual F17)</target>
       </segment>
@@ -984,7 +984,7 @@ Glenys McCarrick.</target>
       </segment>
     </unit>
     <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
-      <segment state="translated">
+      <segment state="initial">
         <source>May: Jack Winslow (Manual F8)</source>
         <target>May: Jack Winslow (Manual F8)</target>
       </segment>
@@ -1347,6 +1347,15 @@ Glenys McCarrick.</target>
       <segment state="translated">
         <source>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>தேவனே, உமது குமாரனாகிய எங்கள் கர்த்தராகிய இயேசு கிறிஸ்துவின் மூலமாக, பாவத்தையும் மரணத்தையும் ஜெயித்தீர். இறந்தவர்களுக்காகவும், நம்பிக்கையின் அடையாளமாக எங்களுக்கு முன் சென்றவர்களுக்காகவும், குறிப்பாக எங்கள் சங்கத்தின் சகோதரிகள் மற்றும் சகோதரர்களுக்காக நாங்கள் நன்றி கூறுகிறோம். உமது மகனின் இரட்சிப்பின் பேரார்வம் மற்றும் மகிமையான உயிர்த்தெழுதலின் நிச்சயமான பலன்களை எங்களுக்குக் கொடுங்கள். எங்கள் ஆண்டவராகிய இயேசு கிறிஸ்து வழியாக, பரிசுத்த ஆவியானவரின் ஒற்றுமையில், இப்போதும் என்றென்றும், உங்களோடு ஆட்சி செய்து வருகிறார்.</target>
+      </segment>
+    </unit>
+    <unit id="this-is-a-test-string">
+      <notes>
+        <note>Testing push from Crowdin</note>
+      </notes>
+      <segment state="initial">
+        <source>This is a test string</source>
+        <target>This is a test string</target>
       </segment>
     </unit>
   </file>
