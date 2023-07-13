@@ -1,7 +1,7 @@
 <p class='boilerplate'>
-    {% trans into lang %}In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.{% endtrans %}<br/>
+    {% trans into lang %}In the African Province, pray for the Tertiaries in Kokstad and Durban.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for First Order sisters in America, Korea and England.{% endtrans %}
+    {% trans into lang %}Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.{% endtrans %}
 </p>
 <p class='rubric'>{% trans into lang %}In New South Wales A Region, pray for{% endtrans %}</p>
 <p class='boilerplate'>
