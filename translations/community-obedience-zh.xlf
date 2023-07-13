@@ -1,7 +1,7 @@
 ﻿<p class='boilerplate'>
-    {% trans into lang %}In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.{% endtrans %}<br/>
+    {% trans into lang %}In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for all Novice Counsellors.{% endtrans %}
+    {% trans into lang %}Pray for all Area Convenors.{% endtrans %}
 </p>
 <p class='rubric'>{% trans into lang %}In the Region of Dogura, pray for{% endtrans %}</p>
 <p class='boilerplate'>
