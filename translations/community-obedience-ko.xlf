@@ -1,9 +1,6 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Brother Douglas</p>
 <p class='boilerplate'>
-  {% trans into lang %}God of the poor,
-you called Brother Douglas to care for the poor and helpless:
-give us grace to see our brother and sister in every person we meet
-and to deal generously with those in need
-following the example of our Brother and Lord,
-your Son Jesus Christ.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+    {% trans into lang %}The Object{% endtrans %}
+</p>
+<p class='boilerplate'>
+    {% trans into lang %}Jesus said, "Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honor." (John 12:24-26){% endtrans %}
 </p>
