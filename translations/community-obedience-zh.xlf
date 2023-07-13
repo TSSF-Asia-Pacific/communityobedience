@@ -1,13 +1,10 @@
-<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} The Transitus of Saint Francis</p>
+<p class='rubric'>{% trans into lang %}Prayer of the day:{% endtrans %} Francis of Assisi</p>
 <p class='boilerplate'>
-  {% trans into lang %}Almighty God,
-when the world was growing cold
-you inflamed the hearts of your people with the fire of your love;
-you raised up blessed Francis,
-bearing in his body the marks of Christ crucified:
-grant to us, your people, true penitence,
-and grace to bear the cross for love of him
-who is alive and reigns with you
-and the Holy Spirit,
+  {% trans into lang %}God our Father,
+you always delight to reveal yourself to the childlike and lowly of heart:
+grant that, following the example of our blessed father, Francis,
+we may count the wisdom of this world as foolishness
+and know only Jesus Christ and him crucified;
+who is alive and reigns with you and the Holy Spirit,
 one God, now and for ever.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
 </p>
