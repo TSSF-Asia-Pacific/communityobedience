@@ -2,5 +2,5 @@
     {% trans into lang %}The First Way of Service, cont'd{% endtrans %}
 </p>
 <p class='boilerplate'>
-    {% trans into lang %}The heart of our prayer is the Eucharist, in which we share with other Christians the renewal of our union with our Lord and Savior in his sacrifice, remembering his death and receiving his spiritual food.{% endtrans %}
+    {% trans into lang %}Tertiaries recognize the power of intercessory prayer for furthering the purposes of Gods' kingdom, and therefore seek a deepening communion with God in personal devotion, and constantly intercede for the needs of his church and his world. Those of us who have much time at our disposal give prayer a large part in our daily lives. Those of us with less time must not fail to see the importance of prayer and to guard the time we have allotted to it from interruption. Lastly, we are encouraged to avail ourselves of the sacrament of Reconciliation, through which the burden of past sin and failure is lifted and peace and hope restored.{% endtrans %}
 </p>
