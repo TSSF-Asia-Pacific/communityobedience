@@ -1,1 +1,15 @@
-{% trans into lang %}Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.{% endtrans %} <strong>{% trans into lang %}Amen{% endtrans %}</strong>
+<p class='boilerplate'>
+    {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.{% endtrans %}<br/>
+    <br/>
+    {% trans into lang %}Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill{% endtrans %}
+</p>
+<p class='rubric'>
+    {% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
+<p class='boilerplate'>
+  {{ living_members_1 |nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+  <br/>
+    {% if "deceased-member"|trans({}, 'messages', lang) != "deceased-member" %}{{ "deceased-member"|trans({}, 'messages', lang) }}<br/>{% endif %} 
+  {{ deceased_members | nl2br }}<br/>
+    {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}<br/>{% endif %}
+</p>
