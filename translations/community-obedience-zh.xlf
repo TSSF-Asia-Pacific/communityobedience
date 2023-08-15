@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Fri, 28 Jul 2023 03:44:24 -0500
+ Exported at: Tue, 15 Aug 2023 04:44:19 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20230727-1</note>
+      <note category="tool-version">1.0.28 20230809-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -79,7 +79,7 @@
     <unit id="loco:6300e943469ad56c8d580374" name="God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, by the life of blessed Francis you moved your people to a love of simple things: may we, after his example, hold lightly to the things of this world and store up for ourselves treasure in heaven; through Jesus Christ our Lord.</source>
-        <target>上帝啊，你藉着蒙福的圣法兰西斯的生活，使你的子民爱好朴素：求你使我们效法他的榜样，不为自己积攒地上的财宝，而只愿积攒财宝在天上。这都是靠着我们的主耶稣基督。 </target>
+        <target>上帝啊，你藉着蒙福的圣法兰西斯的生活，使你的子民爱好朴素：求你使我们效法他的榜样，不为自己积攒地上的财宝，而只愿积攒财宝在天上。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6300e952e8e6d47de1366472" name="Lord Jesus, in your servant Francis you displayed the wonderful power of the cross: help us always to follow you in the way of the cross, and give us strength to resist all temptation, and to you, Lord, with the Father and the Holy Spirit be all glory for ever.">
@@ -1075,9 +1075,7 @@
     <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
-        <target>上帝啊，我们为圣法兰西斯第三会而感谢你。我们祈求你，在团体和祈祷中，
-保守我们彼此合而为一，使我们——你的众仆人可以效法圣法兰西斯的榜样，
-荣耀你的圣名，并赢取他人归入你的圣爱之中。这都是靠着我们的主耶稣基督。</target>
+        <target>上帝啊，我们为圣法兰西斯第三会而感谢你。我们祈求你，在团体和祈祷中，保守我们彼此合而为一，使我们——你的众仆人可以效法圣法兰西斯的榜样，荣耀你的圣名，并赢取他人归入你的圣爱之中。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6353ce69df259614de785fc2" name="tssf Community Collect">
@@ -1221,55 +1219,55 @@
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>永生的上帝，我们为这首批殉道的小弟兄感谢你，因他们忠心至死，你使建立之初的圣法兰西斯会得到圣化：求主叫我们效法他们的榜样，因他们的团契得力量，一生服事你，至终也得与他们同享你所赐的永生。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8d7345d25f6f55021072" name="Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>主上帝，你保守那些在普世安立甘教会内，复兴圣法兰西斯会传统的开拓者们，坚固他们的信心，效法基督贫穷、谦卑的生活样式：求主叫我们因他们的典范得鼓励，忠于我们的圣召，至终在你的圣子，我们的主耶稣基督内得以完全。圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.">
       <segment state="translated">
         <source>Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.</source>
-        <target>Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.</target>
+        <target>信实的上帝，你施恩给杰弗里弟兄，使他爱好怜悯，全心信靠。求主帮助我们，也能常怀怜悯，持守忠心，这样，我们就可以效法并荣耀你的圣子，我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8e6246dc6c651b8324" name="Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Merciful and loving God, through your gracious goodness you brought Margaret of Cortona from the path of sin to the way of salvation; in the same mercy may we who have often gone astray also come to repentance and be recreated in your image and likeness; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>满有怜悯和慈爱的上帝，因着你的恩慈，你带领科尔多纳的玛格利特，转离罪恶，得蒙救赎：求主也同样施恩给我们这些时常迷失的人，赐我们悔改的心，使我们生命中重新显示出主的形像。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8d99516d0b3fad3827a2" name="God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>God of glory, who gave your servant Bernardine a most tender love of the Holy Name of Jesus, grant that we may always be alive with the spirit of your love; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>荣耀的上帝，因耶稣圣名，你向你的仆人伯尔纳定大施怜爱，求主也常赐你慈爱之灵，充满我们。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8da58a27cc7fc43765b2" name="Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.">
       <segment state="translated">
         <source>Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.</source>
-        <target>Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.</target>
+        <target>慈爱的上帝，你叫晨光发现，感化杰克·温斯洛，使他看见并明白你的旨意，在团体中传扬、践行你的福音。求主也加增我们彼此之间的爱，使我们在你的圣子耶稣基督内，得以荣耀你的圣名。</target>
       </segment>
     </unit>
     <unit id="loco:636d8db13a759035e54f0b12" name="Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>主上帝，你将讲道的能力赐给帕多瓦的圣安东尼，藉着他的宣道，你带领众人脱离罪恶的黑暗，进入你福音的光明：求主使我们能持守他所传的真道，并以言行向万民宣扬主的福音。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dbc516d0b3fad3827a4" name="Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Everlasting God, we praise you that you have given light to your church by the witness of Bonaventure: in our day, may your Holy Spirit raise up people who by their teaching and guidance will show the fullness of your truth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>永恒的上帝，我们赞美你，因为你藉着波拿文都拉的见证，赐亮光普照你的教会：求主圣灵在我们当中兴起你的仆人，藉着他们的训诲和带领，引导我们进入你全备的真理。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dc809bd8d71d80f8c74" name="God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>God of love, who filled your servant John Vianney with zeal as a priest, pastor, and confessor: help us, by your grace, to win all our brothers and sisters for Christ and to share with them in eternal glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>慈爱的上帝，你兴起你的仆人约翰•维雅内，使他大发热心，成为堂区司铎、牧者和告解神师：求主帮助我们，靠着主的恩典，也能够赢取一切属主的人——我们的弟兄姊妹归向基督，至终得与他们同享永远的荣耀。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
@@ -1281,7 +1279,7 @@
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</source>
-        <target>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</target>
+        <target>主上帝，因着蒙福的圣克莱尔的圣洁，你赐下明光照在这世间的黑暗里。求主施恩，叫我们跟随圣克莱尔的脚踪，至终也得与她一同在你永远荣耀的真光中欢喜快乐。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1293,61 +1291,61 @@
     <unit id="loco:636d8df69f83024e5b60d3c2" name="God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>上帝啊，蒙福的童贞女马利亚，道成肉身的圣子耶稣的母亲，是你亲自拣选的：求主使我们既蒙圣子的宝血所救赎，就能与她同享主永恒国度的荣耀。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，三位一体的主，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e01b2813e5d48258062" name="King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>King of kings, and Lord of lords, you called your servant Louis of France to an earthly kingdom and gave him a deep love for you and your people: may we who commemorate him today be filled with your loving grace that we too may be fruitful in good works and attain the glorious crown of your saints; through the same Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>万王之王，万主之主，你曾呼召你的仆人法兰西的路易，作地上国度的掌权者，又使他热爱主，并爱主的子民：求主使我们——现今记念他的人，也能够为主慈爱的恩典所充满，叫我们在一切善事上结果子，至终可与众圣徒同得你所赐的荣耀冠冕。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e0b6246dc6c651b8326" name="God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.">
       <segment state="translated">
         <source>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</source>
-        <target>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</target>
+        <target>全能永生的上帝，我们赞美你，因为你使我们软弱变为刚强：正如你呼召马希连·高比为弟兄舍命，求主施恩，使我们也能够忠心至死，为主作的见证。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
+        <target>全能的上帝，当这世界变得越发冷漠时，你以你的仁爱之火，叫你的子民心里火热。你兴起了蒙福的圣法兰西斯，在他身上印有基督十字架上被钉的圣痕。求主施恩，叫我们也能真心悔改，为基督的爱所吸引，甘愿背负自己的十字架。圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e208a27cc7fc43765b6" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
+        <target>全能的上帝，当这世界变得越发冷漠时，你以你的仁爱之火，叫你的子民心里火热。你兴起了蒙福的圣法兰西斯，在他身上印有基督十字架上被钉的圣痕。求主施恩，叫我们也能真心悔改，为基督的爱所吸引，甘愿背负自己的十字架。圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e298a27cc7fc43765b8" name="God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</target>
+        <target>我们的天父上帝，你乐意显示自己给谦卑虚己、像小孩子一样的心灵：求你帮助我们，效法蒙福的会父圣法兰西斯的榜样，将世界的智慧看为愚拙，而只愿思想耶稣基督并他钉十字架。圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e34a4beb76a2c2a4ad2" name="Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>永生的上帝，藉着会父圣法兰西斯众跟随者圣洁的光辉，你亲手修理、装饰了你的教会：求主施恩，使我们这些现今记念他们圣德的人，至终也可与一切清心的人，一同得见你的荣耀。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e3f9f83024e5b60d3c4" name="Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>慈悲的上帝，你曾帮助匈牙利的伊利莎白，在穷人身上认出基督，荣耀基督：求主施恩，使我们善用今世的财富，将来也可得享主永恒国度的荣耀。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e499f83024e5b60d3c6" name="Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.">
       <segment state="translated">
         <source>Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.</source>
-        <target>Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.</target>
+        <target>创造主上帝，你的临在使我们心存敬畏和喜乐。求主帮助我们——现今记念你忠仆阿尔吉神父的人，使我们在所遇见的每个人身上，都能得见你的面，并且在团体中，分享因认识你而有的喜乐。这都是靠着我们的主耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e56059cea3d9522c0d2" name="O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>上帝啊，藉着你的圣子，我们的主耶稣基督，你已经战胜了罪恶与死亡。我们为所有在信心中离世的你的仆人——特别为圣法兰西斯会诸亡者感谢你，求主施恩，藉着你圣子的受难和荣耀的复活，使我们与一切离世的忠实信徒，一同领受基督救赎大功的果效，及至日期满足，万物都俯伏在基督的权势下，也能与他们同得你所应许的满足的喜乐。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
   </file>
