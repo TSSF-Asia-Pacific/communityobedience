@@ -1213,9 +1213,9 @@
       </segment>
     </unit>
     <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
-      <segment state="initial">
+      <segment state="translated">
         <source>Prayer of the day:</source>
-        <target>Prayer of the day:</target>
+        <target>本日祝文</target>
       </segment>
     </unit>
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1273,9 +1273,9 @@
       </segment>
     </unit>
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
-      <segment state="initial">
+      <segment state="translated">
         <source>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</source>
-        <target>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</target>
+        <target>恩慈的上帝，你来到我们中间，作了众罪人的奴仆，求主使我们也能像我们的姊妹克莱尔那样，为爱主和爱邻舍的缘故，甘愿舍弃自我。这都是靠着我们的主基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
