@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Tue, 15 Aug 2023 09:44:17 -0400
+ Exported at: Wed, 16 Aug 2023 03:31:43 +0200
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1213,7 +1213,7 @@
     <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
       <segment state="translated">
         <source>Prayer of the day:</source>
-        <target>Prayer of the day:</target>
+        <target>本日祝文</target>
       </segment>
     </unit>
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1273,7 +1273,7 @@
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
       <segment state="translated">
         <source>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</source>
-        <target>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</target>
+        <target>恩慈的上帝，你来到我们中间，作了众罪人的奴仆，求主使我们也能像我们的姊妹克莱尔那样，为爱主和爱邻舍的缘故，甘愿舍弃自我。这都是靠着我们的主基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
@@ -1285,7 +1285,7 @@
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</target>
+        <target>全能永生的上帝，我们赞美你，因为你使我们软弱变为刚强：正如你呼召马希连·高比为弟兄舍命，求主施恩，使我们也能够忠心至死，为主作的见证。这都是靠着我们的主耶稣基督，圣子和圣父、圣灵，一同永生，一同掌权，惟一上帝，永无穷尽。</target>
       </segment>
     </unit>
     <unit id="loco:636d8df69f83024e5b60d3c2" name="God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
