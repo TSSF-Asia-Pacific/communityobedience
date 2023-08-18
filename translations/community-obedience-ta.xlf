@@ -5,7 +5,7 @@
  Release: Working copy
  Locale: ta, Tamil
  Exported by: Tim White
- Exported at: Wed, 16 Aug 2023 03:31:44 +0200
+ Exported at: Fri, 18 Aug 2023 07:44:13 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ta">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1217,9 +1217,9 @@ Glenys McCarrick.</target>
         <target>அன்றைய பிரார்த்தனை:</target>
       </segment>
     </unit>
-    <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
+    <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them your gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment>
-        <source>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them our gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
+        <source>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them your gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>என்றென்றும் வாழும் கடவுளே, பிரான்சிஸ்கன் ஆணையின் ஆரம்பம் புனிதப்படுத்தப்பட்ட சகோதரர்களுக்காக நாங்கள் நன்றி கூறுகிறோம்: அவர்களின் முன்மாதிரியைப் பின்பற்றி, அவர்களின் கூட்டுறவு மூலம் பலப்படுத்தப்பட்ட உங்கள் சேவைக்கு நாங்கள் எங்கள் வாழ்க்கையை வழங்குவோம், மரணம் வரை, அவர்களுடன் எங்கள் பரிசுகளை பகிர்ந்து கொள்ளலாம். நித்திய வாழ்வின்; எங்கள் ஆண்டவராகிய இயேசு கிறிஸ்து வழியாக, பரிசுத்த ஆவியானவரின் ஒற்றுமையில், இப்போதும் என்றென்றும், உங்களோடு ஆட்சி செய்து வருகிறார்.</target>
       </segment>
     </unit>
