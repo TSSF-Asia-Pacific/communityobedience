@@ -1,6 +1,7 @@
 name: Build & Deploy Static Site (Github Pages)
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'master'

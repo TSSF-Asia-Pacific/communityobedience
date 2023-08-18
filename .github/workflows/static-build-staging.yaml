@@ -1,6 +1,7 @@
 name: Build & Deploy Static Site Staging
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'staging'
