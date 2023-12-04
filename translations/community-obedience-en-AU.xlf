@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Fri, 18 Aug 2023 07:44:11 -0400
+ Exported at: Mon, 04 Dec 2023 13:55:29 +0100
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20230809-1</note>
+      <note category="tool-version">1.0.28 20231203-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment>
@@ -416,9 +416,9 @@
         <source>In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley">
+    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley">
       <segment>
-        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley</source>
+        <source>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</source>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
@@ -426,9 +426,9 @@
         <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.">
+    <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.">
       <segment>
-        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
+        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.</source>
       </segment>
     </unit>
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
@@ -441,9 +441,9 @@
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
       </segment>
     </unit>
-    <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
+    <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
       <segment>
-        <source>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
+        <source>Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
       </segment>
     </unit>
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">

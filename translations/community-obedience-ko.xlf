@@ -5,13 +5,13 @@
  Release: Working copy
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Fri, 18 Aug 2023 07:44:12 -0400
+ Exported at: Mon, 04 Dec 2023 13:55:31 +0100
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20230809-1</note>
+      <note category="tool-version">1.0.28 20231203-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -508,10 +508,10 @@
         <target>태평양 관구, 솔로몬아일랜드의 이사벨과 말라이타에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley">
+    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley">
       <segment state="translated">
-        <source>Pray for the Minister General, John Hebenton and the Assistant Minister General, Mandy Wheatley</source>
-        <target>총봉사자 John Hebenton과 보좌 총봉사자 Mandy Wheatley를 위해 기도합니다.</target>
+        <source>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</source>
+        <target>총봉사자 Michael Twum-Darko과 보좌 총봉사자 Mandy Wheatley를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
@@ -520,10 +520,10 @@
         <target>태평양 관구 솔로몬아일랜드의 카미라와 바누아투 공화국에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.">
+    <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.">
       <segment state="translated">
-        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Sally Buckley and the Provincial Chaplain, Gemma Dashwood.</source>
-        <target>관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Sally Buckley, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다.</target>
+        <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.</source>
+        <target>관구봉사자 Mandy Wheatley 와 보좌 관구봉사자 Pirrial Clift, 그리고 관구사제 Gemma Dashwood를 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
@@ -538,10 +538,10 @@
         <target>태평양관구 뉴질랜드의 오클랜드, 와이카토, 베이오브플랜티에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
+    <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
       <segment state="translated">
-        <source>Pray for the Provincial Secretary, John Blakemore; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
-        <target>관구비서 John Blakemore, 관구회계 Jane Noller, 보좌 관구회계 Glenys McCarrick을 위해 기도합니다.</target>
+        <source>Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
+        <target>관구비서 Stephen Briggs, 관구회계 Jane Noller, 보좌 관구회계 Glenys McCarrick을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">
