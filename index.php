@@ -58,7 +58,7 @@ function index(): void
             'dateLocale' => 'ta_LK'
         ],
         'zh' => [
-            'name' => 'Chinese',
+            'name' => 'Chinese (Simplified)',
             'dateLocale' => 'zh-cn'
         ],
     ];
