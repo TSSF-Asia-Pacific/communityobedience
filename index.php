@@ -34,8 +34,9 @@ function index(): void
     $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
     $translator->addResource('xliff', './translations/community-obedience-ta.xlf', 'ta');
     // Changed zh to zh-cn; added zh-hk David White 10-03-2024
-    $translator->addResource('xliff', './translations/community-obedience-zh-cn.xlf', 'zh-cn');
-    $translator->addResource('xliff', './translations/community-obedience-zh-hk.xlf', 'zh-hk');
+    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
+    //$translator->addResource('xliff', './translations/community-obedience-zh-cn.xlf', 'zh-cn');
+    //$translator->addResource('xliff', './translations/community-obedience-zh-hk.xlf', 'zh-hk');
     $translator->setFallbackLocales(['en']);
 
     $twig->addExtension(new TranslationExtension($translator));
