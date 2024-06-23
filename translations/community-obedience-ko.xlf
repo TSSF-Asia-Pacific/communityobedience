@@ -1369,19 +1369,19 @@
     <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
       <segment state="translated">
         <source>In the Region of Goroka, pray for</source>
-        <target>In the Region of Goroka, pray for</target>
+        <target>고로카 지구의</target>
       </segment>
     </unit>
     <unit id="loco:6677b9c079bba3010800c2d2" name="MINISTER GENERAL">
       <segment state="translated">
         <source>MINISTER GENERAL</source>
-        <target>MINISTER GENERAL</target>
+        <target>총봉사자</target>
       </segment>
     </unit>
     <unit id="loco:6677b9cdf7237aefea0466d2" name="ASSISTANT MINISTER GENERAL">
       <segment state="translated">
         <source>ASSISTANT MINISTER GENERAL</source>
-        <target>ASSISTANT MINISTER GENERAL</target>
+        <target>보좌 총봉사자</target>
       </segment>
     </unit>
   </file>
