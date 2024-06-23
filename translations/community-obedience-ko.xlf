@@ -1369,7 +1369,7 @@
     <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
       <segment state="translated">
         <source>In the Region of Goroka, pray for</source>
-        <target>고로카 지구의</target>
+        <target>고로카 지구의 </target>
       </segment>
     </unit>
     <unit id="loco:6677b9c079bba3010800c2d2" name="MINISTER GENERAL">
