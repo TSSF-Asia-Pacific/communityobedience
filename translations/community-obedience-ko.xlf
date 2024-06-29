@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sun, 23 Jun 2024 05:53:16 -0700
+ Exported at: Sat, 29 Jun 2024 05:44:15 +0200
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1369,7 +1369,7 @@
     <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
       <segment state="translated">
         <source>In the Region of Goroka, pray for</source>
-        <target>고로카 지구의 </target>
+        <target>고로카 지구의</target>
       </segment>
     </unit>
     <unit id="loco:6677b9c079bba3010800c2d2" name="MINISTER GENERAL">
