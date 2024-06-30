@@ -2,16 +2,15 @@
 <!--
  Loco xml export: XLIFF 2.0
  Project: TSSF Community Obedience
- Release: Working copy
  Locale: ta, Tamil
  Exported by: Tim White
- Exported at: Mon, 04 Dec 2023 13:55:31 +0100
+ Exported at: Sat, 29 Jun 2024 05:44:15 +0200
 -->
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-AU" trgLang="ta">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ta">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20231203-1</note>
+      <note category="tool-version">1.0.28 20240611-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment>
@@ -1347,6 +1346,24 @@ Glenys McCarrick.</target>
       <segment>
         <source>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
         <target>தேவனே, உமது குமாரனாகிய எங்கள் கர்த்தராகிய இயேசு கிறிஸ்துவின் மூலமாக, பாவத்தையும் மரணத்தையும் ஜெயித்தீர். இறந்தவர்களுக்காகவும், நம்பிக்கையின் அடையாளமாக எங்களுக்கு முன் சென்றவர்களுக்காகவும், குறிப்பாக எங்கள் சங்கத்தின் சகோதரிகள் மற்றும் சகோதரர்களுக்காக நாங்கள் நன்றி கூறுகிறோம். உமது மகனின் இரட்சிப்பின் பேரார்வம் மற்றும் மகிமையான உயிர்த்தெழுதலின் நிச்சயமான பலன்களை எங்களுக்குக் கொடுங்கள். எங்கள் ஆண்டவராகிய இயேசு கிறிஸ்து வழியாக, பரிசுத்த ஆவியானவரின் ஒற்றுமையில், இப்போதும் என்றென்றும், உங்களோடு ஆட்சி செய்து வருகிறார்.</target>
+      </segment>
+    </unit>
+    <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
+      <segment state="translated">
+        <source>In the Region of Goroka, pray for</source>
+        <target>In the Region of Goroka, pray for</target>
+      </segment>
+    </unit>
+    <unit id="loco:6677b9c079bba3010800c2d2" name="MINISTER GENERAL">
+      <segment state="translated">
+        <source>MINISTER GENERAL</source>
+        <target>MINISTER GENERAL</target>
+      </segment>
+    </unit>
+    <unit id="loco:6677b9cdf7237aefea0466d2" name="ASSISTANT MINISTER GENERAL">
+      <segment state="translated">
+        <source>ASSISTANT MINISTER GENERAL</source>
+        <target>ASSISTANT MINISTER GENERAL</target>
       </segment>
     </unit>
   </file>
