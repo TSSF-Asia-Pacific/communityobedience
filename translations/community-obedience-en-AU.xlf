@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Sat, 29 Jun 2024 05:44:13 +0200
+ Exported at: Sat, 06 Jul 2024 01:44:14 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1138,6 +1138,91 @@
     <unit id="loco:6677b9cdf7237aefea0466d2" name="ASSISTANT MINISTER GENERAL">
       <segment>
         <source>ASSISTANT MINISTER GENERAL</source>
+      </segment>
+    </unit>
+    <unit id="loco:668900140f28299f6401b5f2" name="African Province">
+      <segment>
+        <source>African Province</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689001d0f28299f6401b5f4" name="American Province">
+      <segment>
+        <source>American Province</source>
+      </segment>
+    </unit>
+    <unit id="loco:668900250f28299f6401b5f6" name="Asia-Pacific Province">
+      <segment>
+        <source>Asia-Pacific Province</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689002dbb8fe04bc30dd9e2" name="European Province">
+      <segment>
+        <source>European Province</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689003544aed6c1d00650f2" name="Pacific Province">
+      <segment>
+        <source>Pacific Province</source>
+      </segment>
+    </unit>
+    <unit id="loco:668900413ca0714e970fffa3" name="Pray for the Minister General">
+      <segment>
+        <source>Pray for the Minister General</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689004ac26eb5df410983d5" name="and the Assistant Minister General">
+      <segment>
+        <source>and the Assistant Minister General</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689005244aed6c1d00650f4" name="Pray for the Newsletter Editor">
+      <segment>
+        <source>Pray for the Newsletter Editor</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689005b34c33aca6d05bab2" name="the Archivist">
+      <segment>
+        <source>the Archivist</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689006228537ccc6e0f2162" name="and the Communications Coordinator">
+      <segment>
+        <source>and the Communications Coordinator</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689006a18c24001e6052832" name="Pray for the Bishop Protector of the Province of Asia-Pacific">
+      <segment>
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific</source>
+      </segment>
+    </unit>
+    <unit id="loco:668900721b5d3695d70ff412" name="Pray for the Provincial Minister">
+      <segment>
+        <source>Pray for the Provincial Minister</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689007ac26eb5df410983d7" name="the Assistant Provincial Minister">
+      <segment>
+        <source>the Assistant Provincial Minister</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689008318c24001e6052834" name="and the Provincial Chaplain">
+      <segment>
+        <source>and the Provincial Chaplain</source>
+      </segment>
+    </unit>
+    <unit id="loco:6689008b5f00bc18bc089642" name="Pray for the Provincial Secretary">
+      <segment>
+        <source>Pray for the Provincial Secretary</source>
+      </segment>
+    </unit>
+    <unit id="loco:66890092bb8fe04bc30dd9e4" name="the Provincial Treasurer">
+      <segment>
+        <source>the Provincial Treasurer</source>
+      </segment>
+    </unit>
+    <unit id="loco:66890099bbe02060c60c3e32" name="and the Assistant Treasurer">
+      <segment>
+        <source>and the Assistant Treasurer</source>
       </segment>
     </unit>
   </file>

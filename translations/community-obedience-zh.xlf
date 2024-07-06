@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Sat, 29 Jun 2024 05:44:14 +0200
+ Exported at: Sat, 06 Jul 2024 01:44:15 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1363,6 +1363,108 @@
       <segment state="translated">
         <source>ASSISTANT MINISTER GENERAL</source>
         <target>副总会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900140f28299f6401b5f2" name="African Province">
+      <segment state="translated">
+        <source>African Province</source>
+        <target>African Province</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689001d0f28299f6401b5f4" name="American Province">
+      <segment state="translated">
+        <source>American Province</source>
+        <target>American Province</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900250f28299f6401b5f6" name="Asia-Pacific Province">
+      <segment state="translated">
+        <source>Asia-Pacific Province</source>
+        <target>Asia-Pacific Province</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689002dbb8fe04bc30dd9e2" name="European Province">
+      <segment state="translated">
+        <source>European Province</source>
+        <target>European Province</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689003544aed6c1d00650f2" name="Pacific Province">
+      <segment state="translated">
+        <source>Pacific Province</source>
+        <target>Pacific Province</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900413ca0714e970fffa3" name="Pray for the Minister General">
+      <segment state="translated">
+        <source>Pray for the Minister General</source>
+        <target>Pray for the Minister General</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689004ac26eb5df410983d5" name="and the Assistant Minister General">
+      <segment state="translated">
+        <source>and the Assistant Minister General</source>
+        <target>and the Assistant Minister General</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689005244aed6c1d00650f4" name="Pray for the Newsletter Editor">
+      <segment state="translated">
+        <source>Pray for the Newsletter Editor</source>
+        <target>Pray for the Newsletter Editor</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689005b34c33aca6d05bab2" name="the Archivist">
+      <segment state="translated">
+        <source>the Archivist</source>
+        <target>the Archivist</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689006228537ccc6e0f2162" name="and the Communications Coordinator">
+      <segment state="translated">
+        <source>and the Communications Coordinator</source>
+        <target>and the Communications Coordinator</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689006a18c24001e6052832" name="Pray for the Bishop Protector of the Province of Asia-Pacific">
+      <segment state="translated">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific</source>
+        <target>Pray for the Bishop Protector of the Province of Asia-Pacific</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900721b5d3695d70ff412" name="Pray for the Provincial Minister">
+      <segment state="translated">
+        <source>Pray for the Provincial Minister</source>
+        <target>Pray for the Provincial Minister</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689007ac26eb5df410983d7" name="the Assistant Provincial Minister">
+      <segment state="translated">
+        <source>the Assistant Provincial Minister</source>
+        <target>the Assistant Provincial Minister</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689008318c24001e6052834" name="and the Provincial Chaplain">
+      <segment state="translated">
+        <source>and the Provincial Chaplain</source>
+        <target>and the Provincial Chaplain</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689008b5f00bc18bc089642" name="Pray for the Provincial Secretary">
+      <segment state="translated">
+        <source>Pray for the Provincial Secretary</source>
+        <target>Pray for the Provincial Secretary</target>
+      </segment>
+    </unit>
+    <unit id="loco:66890092bb8fe04bc30dd9e4" name="the Provincial Treasurer">
+      <segment state="translated">
+        <source>the Provincial Treasurer</source>
+        <target>the Provincial Treasurer</target>
+      </segment>
+    </unit>
+    <unit id="loco:66890099bbe02060c60c3e32" name="and the Assistant Treasurer">
+      <segment state="translated">
+        <source>and the Assistant Treasurer</source>
+        <target>and the Assistant Treasurer</target>
       </segment>
     </unit>
   </file>
