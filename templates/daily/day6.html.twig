@@ -2,6 +2,7 @@
     {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.{% endtrans %}<br/>
     <br/>
   {% trans into lang %}Pray for the Newsletter Editor{% endtrans %}, Jan Down, {% trans into lang %}the Archivist{% endtrans %}, Anne Wilson, {% trans into lang %}and the Communications Coordinator{% endtrans %}, David White.
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
 </p>
 <p class='rubric'>{% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
 <p class='boilerplate'>

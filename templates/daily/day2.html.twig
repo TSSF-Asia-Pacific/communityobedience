@@ -2,6 +2,7 @@
     {% trans into lang %}In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.{% endtrans %}<br/>
     <br/>
   {% trans into lang %}Pray for the Minister General{% endtrans %}, John Hebenton {% trans into lang %}and the Assistant Minister General{% endtrans %}, Mandy Wheatley
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
 </p>
 <p class='rubric'>{% trans into lang %}In the Region of Goroka, pray for{% endtrans %}</p>
 <p class='boilerplate'>

@@ -9,6 +9,7 @@
     {% trans into lang %}Asia-Pacific Province{% endtrans %}: Mandy Wheatley<br/>
     {% trans into lang %}European Province{% endtrans %}: Patrick Mossop<br/>
     {% trans into lang %}Pacific Province{% endtrans %}: Peter Bargh</p>
+{% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
 <br/>
 <p class='boilerplate'>
   {% trans into lang %}Pray for those who have been released from the Third Order in the past year:{% endtrans %} 
