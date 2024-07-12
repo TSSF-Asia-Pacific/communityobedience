@@ -1,7 +1,8 @@
 <p class='boilerplate'>
     {% trans into lang %}In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.{% endtrans %}<br/>
     <br/>
-    {% trans into lang %}Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.{% endtrans %}
+  {% trans into lang %}Pray for the Provincial Minister{% endtrans %}, Mandy Wheatley; {% trans into lang %}the Assistant Provincial Minister{% endtrans %}, Pirrial Clift {% trans into lang %}and the Provincial Chaplain{% endtrans %}, Gemma Dashwood.
+  {% if "I-pray-for-you"|trans({}, 'messages', lang) != "I-pray-for-you" %}{{ "I-pray-for-you"|trans({}, 'messages', lang) }}{% endif %}
 </p>
 <p class='rubric'>{% trans into lang %}In the Region of Popondetta, pray for{% endtrans %}</p>
 <p class='boilerplate'>

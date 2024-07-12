@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Sat, 29 Jun 2024 05:44:14 +0200
+ Exported at: Fri, 12 Jul 2024 06:25:04 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -645,10 +645,10 @@
         <target>八月：圣克莱尔离世日 (Manual F13); 十月：圣法兰西斯会诸圣日 (Manual F22)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
-        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
-        <target>对于亚太会省，为香港、马来西亚、新加坡、韩国和斯里兰卡的第三会会友祈祷。</target>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <target>对于亚太会省，为香港、印度、马来西亚、新加坡、韩国和斯里兰卡的第三会会友祈祷。</target>
       </segment>
     </unit>
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
@@ -1363,6 +1363,108 @@
       <segment state="translated">
         <source>ASSISTANT MINISTER GENERAL</source>
         <target>副总会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900140f28299f6401b5f2" name="African Province">
+      <segment state="translated">
+        <source>African Province</source>
+        <target>非洲会省</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689001d0f28299f6401b5f4" name="American Province">
+      <segment state="translated">
+        <source>American Province</source>
+        <target>美洲会省</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900250f28299f6401b5f6" name="Asia-Pacific Province">
+      <segment state="translated">
+        <source>Asia-Pacific Province</source>
+        <target>亚太会省</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689002dbb8fe04bc30dd9e2" name="European Province">
+      <segment state="translated">
+        <source>European Province</source>
+        <target>欧洲会省</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689003544aed6c1d00650f2" name="Pacific Province">
+      <segment state="translated">
+        <source>Pacific Province</source>
+        <target>太平洋会省</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900413ca0714e970fffa3" name="Pray for the Minister General">
+      <segment state="translated">
+        <source>Pray for the Minister General</source>
+        <target>为总会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689004ac26eb5df410983d5" name="and the Assistant Minister General">
+      <segment state="translated">
+        <source>and the Assistant Minister General</source>
+        <target>和副总会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689005244aed6c1d00650f4" name="Pray for the Newsletter Editor">
+      <segment state="translated">
+        <source>Pray for the Newsletter Editor</source>
+        <target>为通讯编辑</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689005b34c33aca6d05bab2" name="the Archivist">
+      <segment state="translated">
+        <source>the Archivist</source>
+        <target>档案管理员</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689006228537ccc6e0f2162" name="and the Communications Coordinator">
+      <segment state="translated">
+        <source>and the Communications Coordinator</source>
+        <target>和会省通信协调员</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689006a18c24001e6052832" name="Pray for the Bishop Protector of the Province of Asia-Pacific">
+      <segment state="translated">
+        <source>Pray for the Bishop Protector of the Province of Asia-Pacific</source>
+        <target>为亚太会省的主教监护</target>
+      </segment>
+    </unit>
+    <unit id="loco:668900721b5d3695d70ff412" name="Pray for the Provincial Minister">
+      <segment state="translated">
+        <source>Pray for the Provincial Minister</source>
+        <target>为省会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689007ac26eb5df410983d7" name="the Assistant Provincial Minister">
+      <segment state="translated">
+        <source>the Assistant Provincial Minister</source>
+        <target>副省会长</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689008318c24001e6052834" name="and the Provincial Chaplain">
+      <segment state="translated">
+        <source>and the Provincial Chaplain</source>
+        <target>和驻会牧师</target>
+      </segment>
+    </unit>
+    <unit id="loco:6689008b5f00bc18bc089642" name="Pray for the Provincial Secretary">
+      <segment state="translated">
+        <source>Pray for the Provincial Secretary</source>
+        <target>为会省干事S</target>
+      </segment>
+    </unit>
+    <unit id="loco:66890092bb8fe04bc30dd9e4" name="the Provincial Treasurer">
+      <segment state="translated">
+        <source>the Provincial Treasurer</source>
+        <target>会省司库</target>
+      </segment>
+    </unit>
+    <unit id="loco:66890099bbe02060c60c3e32" name="and the Assistant Treasurer">
+      <segment state="translated">
+        <source>and the Assistant Treasurer</source>
+        <target>和司库助理</target>
       </segment>
     </unit>
   </file>
