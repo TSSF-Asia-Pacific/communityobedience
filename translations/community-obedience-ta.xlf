@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: ta, Tamil
  Exported by: Tim White
- Exported at: Sat, 06 Jul 2024 05:53:25 -0700
+ Exported at: Fri, 12 Jul 2024 06:25:06 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ta">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -646,9 +646,9 @@ Glenys McCarrick.</target>
         <target>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment>
-        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.</source>
         <target>ஆசியா-பசிபிக் மாகாணத்தில், ஹாங்காங், மலேசியா, சிங்கப்பூர், தென் கொரியா மற்றும் இலங்கை ஆகிய நாடுகளில் மூன்றாம் நிலைகளுக்காக பிரார்த்தனை செய்யுங்கள்.</target>
       </segment>
     </unit>

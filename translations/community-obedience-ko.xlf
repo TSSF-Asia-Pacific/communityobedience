@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sat, 06 Jul 2024 05:53:24 -0700
+ Exported at: Fri, 12 Jul 2024 06:25:05 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -483,7 +483,6 @@
         <target>토요일 본기도</target>
       </segment>
     </unit>
-    
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
       <segment state="translated">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
@@ -658,10 +657,10 @@
         <target>8월: 클라라 성인의 전이 (매뉴얼 41); 10월: 모든 프란시스 수도회 성인들(매뉴얼 50 )을 기억하고 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.">
+    <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.">
       <segment state="translated">
-        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, Malaysia, Singapore, South Korea and Sri Lanka.</source>
-        <target>아시아태평양 관구, 홍콩, 말레이시아, 싱가포르, 한국, 스리랑카의 회원들을 위해 기도합니다.</target>
+        <source>In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.</source>
+        <target>아시아태평양 관구 홍콩, 인도, 말레이시아, 싱가포르, 한국, 스리랑카의 재속회원을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
