@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh, Chinese
  Exported by: Tim White
- Exported at: Fri, 12 Jul 2024 06:25:04 -0700
+ Exported at: Wed, 31 Jul 2024 10:44:13 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1017,10 +1017,10 @@
         <target>为第三会的诸长上祈祷：</target>
       </segment>
     </unit>
-    <unit id="loco:6353caac802e7875a10bf622" name="MINISTER GENERAL - John Hebenton">
+    <unit id="loco:6353caac802e7875a10bf622" name="MINISTER GENERAL - Michael Twum-Darko">
       <segment state="translated">
-        <source>MINISTER GENERAL - John Hebenton</source>
-        <target>总会长 - John Hebenton</target>
+        <source>MINISTER GENERAL - Michael Twum-Darko</source>
+        <target>总会长 - Michael Twum-Darko</target>
       </segment>
     </unit>
     <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
