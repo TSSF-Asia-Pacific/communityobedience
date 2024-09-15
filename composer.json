@@ -12,6 +12,7 @@
         "twig/twig": "^3.0",
         "symfony/translation": "^6.1",
         "symfony/twig-bridge": "^6.1",
-        "symfony/config": "^6.1"
+        "symfony/config": "^6.1",
+        "php": "^8.2"
     }
 }
