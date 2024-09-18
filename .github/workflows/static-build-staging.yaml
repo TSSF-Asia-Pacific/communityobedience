@@ -12,7 +12,7 @@ env:
 jobs:
   build:
     name: Build Static Site Staging
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment:
       name: staging
       url: https://${{ env.URL }}
@@ -24,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v1
         with:
-          node-version: '10.x'
+          node-version: '20.x'
       - run: yarn install
 
       - name: Cache Composer dependencies
@@ -37,7 +37,8 @@ jobs:
         uses: php-actions/composer@v6
         with:
           dev: no
-
+          php_version: "8.2"
+  
       - name: Run Makefile
         run: make all
 
