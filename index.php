@@ -3,7 +3,9 @@
 use languages\en\english;
 use languages\ko\ko;
 use languages\ta\ta;
-use languages\zh\zh; /** Need zh-cn and zh-hk instead of just zh **/
+use languages\zh\zh-cn;
+use languages\zh\zh-hk;
+/** Need zh-cn and zh-hk instead of just zh **/
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
 use Tssf\Communityobedience\TwigFileExists;
 use Twig\Environment;
