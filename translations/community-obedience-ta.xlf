@@ -4,13 +4,13 @@
  Project: TSSF Community Obedience
  Locale: ta, Tamil
  Exported by: Tim White
- Exported at: Wed, 31 Jul 2024 10:44:14 -0400
+ Exported at: Fri, 20 Sep 2024 09:44:07 +0200
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ta">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20240611-1</note>
+      <note category="tool-version">1.0.28 20240827-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment>
