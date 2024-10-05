@@ -1,12 +1,5 @@
 <?php
 
-use languages\en\english;
-use languages\ko\ko;
-use languages\ta\ta;
-;use languages\zh\zh;
-/**use languages\zh\zh-cn;**/
-/**use languages\zh\zh-hk;**/
-/** Need zh-cn and zh-hk instead of just zh **/
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
 use Tssf\Communityobedience\TwigFileExists;
 use Twig\Environment;
@@ -36,10 +29,8 @@ function index(): void
     $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
     $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
     $translator->addResource('xliff', './translations/community-obedience-ta.xlf', 'ta');
-    // Changed zh to zh-cn; added zh-hk David White 10-03-2024
-    $translator->addResource('xliff', './translations/community-obedience-zh.xlf', 'zh');
-    //$translator->addResource('xliff', './translations/community-obedience-zh-cn.xlf', 'zh-cn');
-    //$translator->addResource('xliff', './translations/community-obedience-zh-hk.xlf', 'zh-hk');
+    $translator->addResource('xliff', './translations/community-obedience-zh-cn.xlf', 'zh-cn');
+    $translator->addResource('xliff', './translations/community-obedience-zh-hk.xlf', 'zh-hk');
     $translator->setFallbackLocales(['en']);
 
     $twig->addExtension(new TranslationExtension($translator));
@@ -63,12 +54,11 @@ function index(): void
             'name' => 'Tamil',
             'dateLocale' => 'ta_LK'
         ],
-        // Renamed zh as zh-cn; David White 10-03-2024
         'zh-cn' => [
             'name' => 'Chinese (Simplified)',
             'dateLocale' => 'zh-cn'
         ],
-        'zh-HK' => [
+        'zh-hk' => [
             'name' => 'Chinese (Traditional)',
             'dateLocale' => 'zh-hk'
         ],
