@@ -8,12 +8,11 @@ use Twig\Error\RuntimeError;
 use Twig\Error\SyntaxError;
 use Twig\Loader\FilesystemLoader;
 
-require 'vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 /**
  * The main function that loads the translations, and calls the twig template to build the output
  *
- * @return void
  * @throws LoaderError
  * @throws RuntimeError
  * @throws SyntaxError
@@ -80,8 +79,6 @@ function index(): void
 
 /**
  * Gets all the members per day for prayer
- *
- * @return array
  */
 function getDailyPrayersMembersAll(): array
 {
@@ -95,21 +92,18 @@ function getDailyPrayersMembersAll(): array
 
 /**
  * Gets the members for prayer for a single day
- *
- * @param $day
- * @return array
  */
-function getDailyPrayersMembers($day): array
+function getDailyPrayersMembers(int $day): array
 {
     // Lookup names for deceased and living members we are praying for
     $templateVars = [];
     foreach (range(1, 3) as $region) {
-        $filename = __DIR__ . "/common/${day}_living_members_${region}.txt";
+        $filename = __DIR__ . "/common/{$day}_living_members_{$region}.txt";
         if (file_exists($filename)) {
-            $templateVars["living_members_${region}"] = trim(file_get_contents($filename));
+            $templateVars["living_members_{$region}"] = trim(file_get_contents($filename));
         }
     }
-    $deceasedMembersFilename = __DIR__ . "/common/${day}_deceased_members.txt";
+    $deceasedMembersFilename = __DIR__ . "/common/{$day}_deceased_members.txt";
     if (file_exists($deceasedMembersFilename)) {
         $templateVars['deceased_members'] = trim(file_get_contents($deceasedMembersFilename));
     }
