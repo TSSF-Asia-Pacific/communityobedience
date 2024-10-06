@@ -1,6 +1,8 @@
 <?php
 
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
+use Symfony\Component\Translation\Loader\XliffFileLoader;
+use Symfony\Component\Translation\Translator;
 use Tssf\Communityobedience\TwigFileExists;
 use Twig\Environment;
 use Twig\Error\LoaderError;
@@ -22,8 +24,8 @@ function index(): void
     $loader = new FilesystemLoader('./templates');
     $twig = new Environment($loader);
     // See https://localise.biz/whiteitsolutions/community-obedience for translation tool
-    $translator = new \Symfony\Component\Translation\Translator('en');
-    $translator->addLoader('xliff', new \Symfony\Component\Translation\Loader\XliffFileLoader());
+    $translator = new Translator('en');
+    $translator->addLoader('xliff', new XliffFileLoader());
     // Load each translation xliff file here, set the locale that it'll refer to in the below array
     $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
     $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
@@ -37,9 +39,9 @@ function index(): void
 
     /**
      * Load each translation into the array here. The key for the array should be locale as set above.
-     * Each array member should be an array that has a name key (for the name displayed on the buttons) and a dateLocale key (See https://momentjs.com/ for possible Locales)
+     * Each array member should be an array that has a name key (for the name displayed on the buttons) and a
+     * dateLocale key (See https://momentjs.com/ for possible Locales)
      */
-    // Load each translation into the array here, should have a name key and a dateLocale key (See https://momentjs.com/ for possible Locales)
     $translations = [
         'en' => [
             'name' => 'English',
