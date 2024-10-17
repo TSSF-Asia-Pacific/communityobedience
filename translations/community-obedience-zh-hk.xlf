@@ -4,24 +4,24 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Wed, 09 Oct 2024 03:46:01 -0700
+ Exported at: Thu, 17 Oct 2024 09:44:55 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.28 20241003-1</note>
+      <note category="tool-version">1.0.28 20241017-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
         <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
-        <target>這祈禱的祭獻,在可能範圍內,應每日在早禱或晚禱中進行.</target>
+        <target>这祈祷的祭献应每日遵行，可视情况而安排于早、晚祷之中。</target>
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
       <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</source>
-        <target>In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.</target>
+        <target>对于太平洋会省，为所罗门群岛瓜达尔卡纳尔和萨沃的第三会会友祈祷。</target>
       </segment>
     </unit>
     <unit id="loco:62e654d56c9070667f397642" name="I-pray-for-you">
@@ -36,7 +36,7 @@
     <unit id="loco:6300e4cc57b8a56d58434bf3" name="God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
-        <target>上帝啊,祢的愛引導方濟和嘉勒建立了我們的三團：吸引我們進入祢的愛,使我們能在愛中成長，學會去愛所有與我們接觸的人. 奉那位在愛中為眾生獻上自己，你的愛子耶穌基督之名禱告。</target>
+        <target>上帝啊，你的圣爱引导圣法兰西斯和圣克莱尔为我们建立了这三个修会团体：求你也吸引我们，进入你的圣爱之中，使我们在这爱里成长，以至爱我们身边所有的人，正如基督爱世人一样。这都是因你的圣子耶稣基督。</target>
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bf4" name="Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.">
