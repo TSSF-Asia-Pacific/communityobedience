@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Fri, 08 Nov 2024 05:59:18 -0500
+ Exported at: Tue, 12 Nov 2024 03:47:35 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -472,9 +472,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="translated">
+      <segment>
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
@@ -496,9 +496,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley">
-      <segment state="translated">
+      <segment>
         <source>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</source>
-        <target>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
@@ -508,9 +508,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b7db18c43a6eb43d47e4" name="Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.">
-      <segment state="translated">
+      <segment>
         <source>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.</source>
-        <target>Pray for the Provincial Minister, Mandy Wheatley; the Assistant Provincial Minister, Pirrial Clift and the Provincial Chaplain, Gemma Dashwood.</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
@@ -526,9 +526,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
-      <segment state="translated">
+      <segment>
         <source>Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</source>
-        <target>Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">
@@ -562,9 +562,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b867608f6f7cb4497192" name="Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.">
-      <segment state="translated">
+      <segment>
         <source>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</source>
-        <target>Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b88335914517b353c4f2" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - Queensland A, Queensland B/Northern NSW Regions.">
@@ -1018,15 +1018,15 @@
       </segment>
     </unit>
     <unit id="loco:6353caac802e7875a10bf622" name="MINISTER GENERAL - Michael Twum-Darko">
-      <segment state="translated">
+      <segment>
         <source>MINISTER GENERAL - Michael Twum-Darko</source>
-        <target>MINISTER GENERAL - Michael Twum-Darko</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
-      <segment state="translated">
+      <segment>
         <source>ASSISTANT MINISTER GENERAL - Mandy Wheatley</source>
-        <target>ASSISTANT MINISTER GENERAL - Mandy Wheatley</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
@@ -1042,27 +1042,28 @@
       </segment>
     </unit>
     <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Bonginkosi Thomas Buthelezi">
-      <segment state="translated">
+      <segment>
         <source>African Province - Bonginkosi Thomas Buthelezi</source>
-        <target>African Province - Bonginkosi Thomas Buthelezi</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
-      <segment state="translated">
+      <segment>
         <source>Asia-Pacific Province - Mandy Wheatley</source>
-        <target>Asia-Pacific Province - Mandy Wheatley</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353caf430467e2669741eb4" name="European Province - Patrick Mossop">
-      <segment state="translated">
+      <segment>
         <source>European Province - Patrick Mossop</source>
-        <target>European Province - Patrick Mossop</target>
+        <target>Obs
+</target>
       </segment>
     </unit>
     <unit id="loco:6353cb0026dbf601d206cad2" name="Pacific Province - Blair Matheson">
-      <segment state="translated">
+      <segment>
         <source>Pacific Province - Blair Matheson</source>
-        <target>Pacific Province - Blair Matheson</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353cb08bdc97311786d0992" name="Pray for those who have been released from the Third Order in the past year:">
