@@ -41,27 +41,23 @@
     let lang = getSupportedLanguage();
 
     function display_todays_obedience() {
-        todays_date = moment();
+        const todays_date = moment();
         display_obedience(todays_date);
     }
 
     function display_obedience(momentDate) {
         /* Set the current language button to active and the rest to inactive */
-        $(".langButtons").removeClass('active')
-        $(".langButtons[lang='" + lang + "']").addClass('active')
+        document.querySelectorAll(".langButtons").forEach(elem => { elem.classList.remove('active') })
+        document.querySelector(".langButtons[lang='" + lang + "']").classList.add('active')
 
         /* Hide all the boilerplate for all languages */
-        $(".translatedBoilerplate").hide();
+        document.querySelectorAll(".translatedBoilerplate").forEach(elem => { elem.style.display = "none" })
 
         /* Show the boilerplate for the current language */
-        $(".translatedBoilerplate[lang='" + lang + "']").show();
+        document.querySelector(".translatedBoilerplate[lang='" + lang + "']").style.display = "block";
 
         /* Ensure all divs are hidden */
-        $("#jsmessage").hide();
-        $(".principal").hide();
-        $(".collect").hide();
-        $(".day").hide();
-        $(".feast").hide();
+        document.querySelectorAll("#jsmessage, .principal, .collect, .day, .feast").forEach(elem => { elem.style.display = "none" })
 
         /* Work out day of month */
         momentDate.locale('en-au'); /* Set to English for the dayofmonth/week stuff */
@@ -70,19 +66,26 @@
 
         let principalnum = dayofmonth;
 
-        $("#principal_" + lang + "_" + principalnum).show();
-        $("#day_" + lang + "_" + dayofmonth).show();
+        document.querySelector("#principal_" + lang + "_" + principalnum).style.display = "block";
+        document.querySelector("#day_" + lang + "_" + dayofmonth).style.display = "block";
 
         /* Work out day of week */
         let dayofweek = momentDate.format("d");
-        $("#collect_" + lang + "_" + dayofweek).show();
-        $("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth).show();
+        document.querySelector("#collect_" + lang + "_" + dayofweek).style.display = "block";
+        document.querySelectorAll("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth).forEach(elem => {elem.style.display = "block"});
         momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
-        $('#date').text(momentDate.format("LL"));
+        document.querySelector('#date').innerText = momentDate.format("LL");
         update_display();
     }
 
-    $(document).ready(display_todays_obedience);
+    const ready = (callback) => {
+        if (document.readyState != "loading") callback();
+        else document.addEventListener("DOMContentLoaded", callback);
+    };
+
+    ready(() => {
+        display_todays_obedience()
+    });
 
     function update_display() {
         /* Clear any current intervals before we start the next one */

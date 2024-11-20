@@ -4,31 +4,19 @@ If you see anything that needs fixing in the application or you are experiencing
 
 ## How to add a translation
 
-1. Copy the en/ folder to a new folder with the correct 2 letter language code for the new language. e.g. ```fr/```
-
-2. Update the `english.php` file in the new directory to the correct lanuage name, and change the namespace from en to the 2 letter language code for the new language.
+1. Add to Localise.biz
+2. Update `translations/download.sh` to correctly download the file into a `community-obedience-en-AU.xlf` style file
+3. Add a resource into the Translator component
    ```php
-   <?php
-   namespace languages\fr;
-   
-   use languages\AbstractLanguage;
-   
-   class french extends AbstractLanguage
-   {
+   $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
    ```
-
-3. Update the variables in the `language.php` file to reflect the new language
-
-4. Update the files in each of the subdirectories for the new language
-
-5. Update index.php to load the new language, by adding a line that loads the new language into the languages array
+4. Add an entry to the `$translations` array that maps between the button name key, and the correct date Locale
    ```php
-   // Load each translation into the translations array here
-   $translations['en'] = new languages\en\english();
-   $translations['fr'] = new languages\fr\french();
+        'zh-HK' => [
+            'name' => 'Chinese (Traditional)',
+            'dateLocale' => 'zh-hk'
+        ],
    ```
-   
-7. Submit a merge request to the master branch, once merged to master it'll be live! Or merge to the staging branch to test it on the staging site
 
 # Development
 

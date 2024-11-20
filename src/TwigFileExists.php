@@ -13,9 +13,7 @@ class TwigFileExists extends AbstractExtension
     public function getFunctions(): array
     {
         return [
-            'file_exists' => new TwigFunction('file_exists', function($filename) {
-                return file_exists(__DIR__ . '/../templates/' . $filename);
-            })
+            'file_exists' => new TwigFunction('file_exists', fn($filename): bool => file_exists(__DIR__ . '/../templates/' . $filename))
         ];
     }
 }
