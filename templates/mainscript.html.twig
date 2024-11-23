@@ -54,7 +54,7 @@
         document.querySelectorAll(".translatedBoilerplate").forEach(elem => { elem.style.display = "none" })
 
         /* Show the boilerplate for the current language */
-        document.querySelector(".translatedBoilerplate[lang='" + lang + "']").style.display = "block";
+        document.querySelectorAll(".translatedBoilerplate[lang='" + lang + "']").forEach(elem => { elem.style.display = "block" })
 
         /* Ensure all divs are hidden */
         document.querySelectorAll("#jsmessage, .principal, .collect, .day, .feast").forEach(elem => { elem.style.display = "none" })
