@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Wed, 11 Dec 2024 03:44:10 -0800
+ Exported at: Wed, 11 Dec 2024 08:07:08 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -15,7 +15,7 @@
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
         <source>This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.</source>
-        <target>这祈祷的祭献应每日遵行，可视情况而安排于早、晚祷之中。</target>
+        <target>這祈禱的祭献,應每日遵行，可視乎情况,安排於早、或晚禱之中。</target>
       </segment>
     </unit>
     <unit id="loco:62e6538d72513f621f7ed492" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Islands of Guadalcanal and Savo.">
@@ -36,7 +36,7 @@
     <unit id="loco:6300e4cc57b8a56d58434bf3" name="God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, your love led Francis and Clare to establish our three orders: draw us deeper into that same love, that we may grow in love towards all, for the sake of your son Jesus Christ our Lord.</source>
-        <target>上帝啊，你的圣爱引导圣法兰西斯和圣克莱尔为我们建立了这三个修会团体：求你也吸引我们，进入你的圣爱之中，使我们在这爱里成长，以至爱我们身边所有的人，正如基督爱世人一样。这都是因你的圣子耶稣基督。</target>
+        <target>上帝啊，祢的愛引導方濟和嘉勒建立了我們的三團：求你吸引我們更深入進入祢的愛，使我們在愛中成長，奉你的愛子，我們的主耶穌基督之名，學會去愛所有與我們接觸的人。</target>
       </segment>
     </unit>
     <unit id="loco:6300e4cc57b8a56d58434bf4" name="Lord, without you our labour is wasted, but with you all who are weak can find strength: pour your Spirit on the Society of Saint Francis; give your labourers a pure intention, patient faith, sufficient success on earth, and the joy of serving you in heaven; through Jesus Christ our Lord.">
@@ -144,7 +144,7 @@
     <unit id="loco:63022f578c911d4481013cd2" name="The primary aim for us as tertiaries is therefore to make Christ known. This shapes our lives and attitudes to reflect the obedience of those whom our Lord chose to be with him and sent out as his witnesses. Like them, by word and example, we bear witness to Christ in our own immediate environment and pray and work for the fulfillment of his command to make disciples of all nations.">
       <segment state="translated">
         <source>The primary aim for us as tertiaries is therefore to make Christ known. This shapes our lives and attitudes to reflect the obedience of those whom our Lord chose to be with him and sent out as his witnesses. Like them, by word and example, we bear witness to Christ in our own immediate environment and pray and work for the fulfillment of his command to make disciples of all nations.</source>
-        <target>作為第三團成員，我們首要目標是讓人認識基督。這模塑了我們的生活和處事態度，反映出被上主揀選與他同在，並差遣作見證的人那份服從。像門徒般，我們以言以行，在各自當下環境見證基督，並為着履行基督給我們使普天下人作門徒的使命而努力祈禱和作工。</target>
+        <target>作為第三團會士，我們首要目標是讓人認識基督。這模塑了我們的生活和處事態度，反映出被上主揀選與他同在，並差遣作見證的人那份服從。像門徒般，我們以言以行，在各自當下環境見證基督，並為着履行基督給我們使普天下人作門徒的使命而努力祈禱和作工</target>
       </segment>
     </unit>
     <unit id="loco:63022f66921ccc0d4a6047b2" name="The Second Aim - To spread the spirit of love and harmony">
@@ -217,7 +217,7 @@
     <unit id="loco:630230d4e4a16c48660ccc45" name="Tertiaries desire to be conformed to the image of Jesus Christ, whom we serve in the three ways of Prayer, Study, and Work. In the life of the Order as a whole these three ways must each find full and balanced expression, but it is not to be expected that all members devote themselves equally to each of them. Each individual's service varies according to his/her abilities and circumstances, yet the member's personal rule of life includes each of the three ways.">
       <segment state="translated">
         <source>Tertiaries desire to be conformed to the image of Jesus Christ, whom we serve in the three ways of Prayer, Study, and Work. In the life of the Order as a whole these three ways must each find full and balanced expression, but it is not to be expected that all members devote themselves equally to each of them. Each individual's service varies according to his/her abilities and circumstances, yet the member's personal rule of life includes each of the three ways.</source>
-        <target>第三團渴望效法耶穌基督的形象，我們透過祈禱、學習和工作三種方式來服事他。在整全的修道生活中，這三種方式都必須得到充分和平衡的表達. 我們不期望所有成員皆能平均地投入其中每種方式。各人根據他/她的能力和情況,有不同的侍奉，但每個成員的個人生活規程必須包括這三個途徑的每一個。</target>
+        <target>第三團會士渴望效法耶穌基督的形象，我們透過祈禱、學習和工作三種方式來服事他。在整全的修道生活中，這三種方式都必須得到充分和平衡的表達. 我們不期望所有成員皆能平均地投入其中每種方式。各人根據他/她的能力和情況,有不同的侍奉，但每個成員的個人生活規程必須包括這三個途徑的每一個。</target>
       </segment>
     </unit>
     <unit id="loco:630230de687aec1498292436" name="The First Way of Service - Prayer">
@@ -391,7 +391,7 @@
     <unit id="loco:6302326df32cda00c2741276" name="This joy is a divine gift, coming from union with God in Christ. It is still there even in times of darkness and difficulty, giving cheerful courage in the face of disappointment, and an inward serenity and confidence through sickness and suffering. Those who possess it can rejoice in weakness, insults, hardship, and persecutions for Christs' sake; for when we are weak, then we are strong.">
       <segment state="translated">
         <source>This joy is a divine gift, coming from union with God in Christ. It is still there even in times of darkness and difficulty, giving cheerful courage in the face of disappointment, and an inward serenity and confidence through sickness and suffering. Those who possess it can rejoice in weakness, insults, hardship, and persecutions for Christs' sake; for when we are weak, then we are strong.</source>
-        <target>在，在面對失望時給予快樂的勇氣，以及在疾病與患難裏內心的平靜安寧與信心。擁有它的人可以因基督的緣故, 在軟弱、侮辱、艱難和迫害中歡恩喜樂；因為當我們軟弱時，我們就變得剛強。</target>
+        <target>這種喜樂是一份源自於在基督裏與上帝聯合的神聖禮物。即使在黑暗和困難的時候，它仍然存在，在面對失望時給予快樂的勇氣，以及在疾病與患難裏內心的平靜安寧與信心。擁有它的人可以因基督的緣故而在軟弱、侮辱、艱難和迫害中歡恩喜樂；因為當我們軟弱時，我們就變得剛強。</target>
       </segment>
     </unit>
     <unit id="loco:630232780069ab09132f043a" name="The Three Notes">
@@ -517,7 +517,7 @@
     <unit id="loco:6353b7ef0fdd8c572b5f04d2" name="October: The Transitus of St Francis (Manual F20)">
       <segment state="translated">
         <source>October: The Transitus of St Francis (Manual F20)</source>
-        <target>October: The Transitus of St Francis (Manual F20)</target>
+        <target>10月:紀念聖方濟離世. (手冊 F20)</target>
       </segment>
     </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.">
@@ -535,7 +535,7 @@
     <unit id="loco:6353b81faef53a34902ebae4" name="In the Region of Dogura, pray for">
       <segment state="translated">
         <source>In the Region of Dogura, pray for</source>
-        <target>In the Region of Dogura, pray for</target>
+        <target>在多哥拉地區,為以下人士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
@@ -554,7 +554,7 @@
     <unit id="loco:6353b8474835b404510f7674" name="Pray for all Regional Ministers in the Province of Asia-Pacific.">
       <segment state="translated">
         <source>Pray for all Regional Ministers in the Province of Asia-Pacific.</source>
-        <target>Pray for all Regional Ministers in the Province of Asia-Pacific.</target>
+        <target>為亞太教省教士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.">
@@ -578,13 +578,13 @@
     <unit id="loco:6353b88d3e321623b01edfe4" name="Pray for all Novice Counsellors.">
       <segment state="translated">
         <source>Pray for all Novice Counsellors.</source>
-        <target>Pray for all Novice Counsellors.</target>
+        <target>為慕道者導師祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b89d3143f2006a525052" name="September: Brother Douglas (Manual F18)">
       <segment state="translated">
         <source>September: Brother Douglas (Manual F18)</source>
-        <target>September: Brother Douglas (Manual F18)</target>
+        <target>九月: 紀念杜格拉斯弟兄(手冊 F18)</target>
       </segment>
     </unit>
     <unit id="loco:6353b8ab00cfd2290e519d92" name="In the Province of Asia–Pacific, pray for all Tertiaries in the Australia - New South Wales A, New South Wales B/ACT Regions.">
@@ -596,7 +596,7 @@
     <unit id="loco:6353b8b56d6f5e2d7e519c72" name="Pray for all Area Convenors.">
       <segment state="translated">
         <source>Pray for all Area Convenors.</source>
-        <target>Pray for all Area Convenors.</target>
+        <target>為各區的召集人祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b8ce9085ae5ddb05e792" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - Victoria/Tasmania Region.">
@@ -608,19 +608,19 @@
     <unit id="loco:6353b8d633988b64dd1b7bc2" name="Pray for all isolated Tertiaries.">
       <segment state="translated">
         <source>Pray for all isolated Tertiaries.</source>
-        <target>Pray for all isolated Tertiaries.</target>
+        <target>為分散於各處,獨居的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b8e000a3fc6fb465b972" name="In Queensland A Region, pray for">
       <segment state="translated">
         <source>In Queensland A Region, pray for</source>
-        <target>In Queensland A Region, pray for</target>
+        <target>在昆士蘭第一區為以下人士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b8e9e217e37cfa16e432" name="February: Anglican Franciscan Pioneers (Manual F3)">
       <segment state="translated">
         <source>February: Anglican Franciscan Pioneers (Manual F3)</source>
-        <target>February: Anglican Franciscan Pioneers (Manual F3)</target>
+        <target>2月:紀念聖公宗,方濟會的先驅者 (手冊 F3)</target>
       </segment>
     </unit>
     <unit id="loco:6353b90254bc536d687b2fc2" name="In the Province of Asia–Pacific, pray for Tertiaries in the Australia - South Australia Region, and Western Australia Region.">
@@ -632,13 +632,13 @@
     <unit id="loco:6353b90c00a3fc6fb465b974" name="Pray for Franciscan Aid.">
       <segment state="translated">
         <source>Pray for Franciscan Aid.</source>
-        <target>Pray for Franciscan Aid.</target>
+        <target>為方濟會支援機構祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b91b33988b64dd1b7bc4" name="In Queensland B / Northern NSW Region, pray for">
       <segment state="translated">
         <source>In Queensland B / Northern NSW Region, pray for</source>
-        <target>In Queensland B / Northern NSW Region, pray for</target>
+        <target>在昆士蘭第二區,新南威爾斯北區,為以下人士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
@@ -657,7 +657,7 @@
     <unit id="loco:6353b93a18a61014b55d19c2" name="Pray for unity within the Anglican Church and unity among all Christians.">
       <segment state="translated">
         <source>Pray for unity within the Anglican Church and unity among all Christians.</source>
-        <target>Pray for unity within the Anglican Church and unity among all Christians.</target>
+        <target>為聖公宗教會合一祈禱.又有為普世基督徒合一祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
@@ -676,7 +676,7 @@
     <unit id="loco:6353ba042684061d0e1fac42" name="Pray for Franciscans International.">
       <segment state="translated">
         <source>Pray for Franciscans International.</source>
-        <target>Pray for Franciscans International.</target>
+        <target>為方濟會國際祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.">
@@ -700,7 +700,7 @@
     <unit id="loco:6353ba6b05de29496c2a3fb2" name="Pray for the First Order in the Provinces of America and Europe.">
       <segment state="translated">
         <source>Pray for the First Order in the Provinces of America and Europe.</source>
-        <target>Pray for the First Order in the Provinces of America and Europe.</target>
+        <target>為美洲及歐洲各教省的第一團祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
@@ -742,13 +742,13 @@
     <unit id="loco:6353bad1b4b3ff35c44e7de2" name="May: Margaret of Cortona (Manual F6)">
       <segment state="translated">
         <source>May: Margaret of Cortona (Manual F6)</source>
-        <target>五月：科爾多納的聖馬格利特日科爾多納的聖瑪格利特日 (Manual F6)</target>
+        <target>五月：科爾多納的聖馬格利特日科爾多納的聖瑪格利特日 (手冊 F6)</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
       <segment state="translated">
         <source>In the African Province, pray for the Tertiaries in Kokstad and Durban.</source>
-        <target>對於非洲教省為科克斯塔德和德班的第三團會士祈禱對於非洲會省，為科克斯塔德和德班的第三會會友祈禱。</target>
+        <target>對於非洲教省為科克斯塔德和德班的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
@@ -760,19 +760,19 @@
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
       <segment state="translated">
         <source>In New South Wales A Region, pray for</source>
-        <target>為新南威爾斯週A區的第三團會士祈禱為新南威爾士州A會區的第三會會友祈禱：</target>
+        <target>為新南威爾士州A會區的第三團會士祈禱：</target>
       </segment>
     </unit>
     <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
       <segment state="translated">
         <source>September: The Stigmata of St Francis (Manual F19)</source>
-        <target>九月：聖方濟領受聖傷日聖法蘭西斯領受聖痕日 (Manual F19)</target>
+        <target>九月：聖方濟領受聖傷日聖法蘭西斯領受聖痕日 (手冊 F19)</target>
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
       <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Ghana.</source>
-        <target>對於非洲教省,為加納的第三團會士祈禱對於非洲會省，為加納的第三會會友祈禱。</target>
+        <target>對於非洲教省,為加納的第三團會士祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb217832ec0fdb3ca0e2" name="Pray for Postulants and aspirants to the three Orders.">
@@ -790,19 +790,20 @@
     <unit id="loco:6353bb3df22f1236c53be5f4" name="Pray for Companions of SSF and Associates of tssf.">
       <segment state="translated">
         <source>Pray for Companions of SSF and Associates of tssf.</source>
-        <target>為SSF的靈性同伴和TSSF的靈性之友祈禱。</target>
+        <target>為方濟會的靈性同伴和方濟會第三團的靈性之友祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb4d7832ec0fdb3ca0e4" name="May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)">
       <segment state="translated">
         <source>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</source>
-        <target>May: Bernardine of Siena (Manual F7); November: Elizabeth of Hungary (Manual F23)</target>
+        <target>五月: Bernardine of Siena (手冊 F7); 11月: Elizabeth of Hungary (手冊 F23)
+</target>
       </segment>
     </unit>
     <unit id="loco:6353bb5a74f9894a697b42e4" name="In the European Province, pray for Tertiaries in North East and North West England.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in North East and North West England.</source>
-        <target>對於歐洲教省為英格蘭東北部和西北部的第三團會士祈禱對於歐洲會省，為英格蘭東北部和西北部的第三會會友祈禱。</target>
+        <target>對於歐洲教省為英格蘭東北部和西北部的第三團會士祈禱對於歐洲會省，為英格蘭東北部和西北部的第三團會士祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb6f48488a77313385f2" name="Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.">
@@ -814,13 +815,13 @@
     <unit id="loco:6353bb7974f9894a697b42e6" name="In New South Wales B / ACT Region, pray for">
       <segment state="translated">
         <source>In New South Wales B / ACT Region, pray for</source>
-        <target>為新南威爾士州B/首都領地會區的第三會會友祈禱.</target>
+        <target>為新南威爾士州B/首都領地會區的第三團會士祈禱.</target>
       </segment>
     </unit>
     <unit id="loco:6353bb89449f804f9b71b5e2" name="In the European Province, pray for Tertiaries in East Midlands and Yorkshire.">
       <segment state="translated">
         <source>In the European Province, pray for Tertiaries in East Midlands and Yorkshire.</source>
-        <target>於歐洲會省，為東米德蘭茲和約克郡的第三會會友祈禱。</target>
+        <target>於歐洲會省，為東米德蘭茲和約克郡的第三團會士祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb91261fab50c04e93c2" name="Pray for the Franciscan Federation of Australia and the members of the Executive.">
@@ -862,7 +863,7 @@
     <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
       <segment state="translated">
         <source>November: Fr Algy SSF (Manual F24)</source>
-        <target>十一月：阿爾吉神父（SSF）紀念日 (Manual F24)</target>
+        <target>十一月：阿爾吉神父（SSF）紀念日 (手冊 F24)</target>
       </segment>
     </unit>
     <unit id="loco:6353bbea2d8ead569f6b8444" name="In the European Province, pray for Tertiaries in South West England, Wales, Severn, West Midlands, and The Marches.">
@@ -928,13 +929,13 @@
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
       <segment state="translated">
         <source>Ministers General of First Orders and Abbess of Second Order;</source>
-        <target>第一會總會長、第二會院長和第一會省會長祈禱。</target>
+        <target>第一團總會長和第二團院長</target>
       </segment>
     </unit>
     <unit id="loco:6353c9d068c5d002c83259d2" name="Ministers Provincial of First Orders.">
       <segment state="translated">
         <source>Ministers Provincial of First Orders.</source>
-        <target>Ministers Provincial of First Orders.</target>
+        <target>第一團教省教士</target>
       </segment>
     </unit>
     <unit id="loco:6353c9e0e7d2113508674834" name="Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.">
@@ -1006,7 +1007,7 @@
     <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in South Korea area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, in South Korea area, pray for</source>
-        <target>為南亞及東亞會區的韓國第三會會友祈禱</target>
+        <target>為南亞及東亞會區的韓國第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South and East Asia Region, in Singapore, pray for">
@@ -1018,7 +1019,7 @@
     <unit id="loco:6353ca9dc229d941d55b4d54" name="Pray for Ministers of the Third Order:">
       <segment state="translated">
         <source>Pray for Ministers of the Third Order:</source>
-        <target>Pray for Ministers of the Third Order:</target>
+        <target>為第三團眾教士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353caac802e7875a10bf622" name="MINISTER GENERAL - Michael Twum-Darko">
@@ -1036,7 +1037,7 @@
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
       <segment state="translated">
         <source>PROVINCIAL MINISTERS:</source>
-        <target>PROVINCIAL MINISTERS:</target>
+        <target>教省教士</target>
       </segment>
     </unit>
     <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Ken Norian and Peter Stube">
@@ -1073,7 +1074,7 @@
     <unit id="loco:6353cb08bdc97311786d0992" name="Pray for those who have been released from the Third Order in the past year:">
       <segment state="translated">
         <source>Pray for those who have been released from the Third Order in the past year:</source>
-        <target>Pray for those who have been released from the Third Order in the past year:</target>
+        <target>為過去一年,離開方濟會第三團的前會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
@@ -1085,7 +1086,7 @@
     <unit id="loco:6353ce69df259614de785fc2" name="tssf Community Collect">
       <segment state="translated">
         <source>tssf Community Collect</source>
-        <target>tssf Community Collect</target>
+        <target>方濟會第三團,團體祝文</target>
       </segment>
     </unit>
     <unit id="loco:6353cef305d2de7eef7f4902" name="In the name of the Father,">
@@ -1109,13 +1110,13 @@
     <unit id="loco:6353cf3143cc20626217d502" name="Here and in all your churches throughout the world,">
       <segment state="translated">
         <source>Here and in all your churches throughout the world,</source>
-        <target>Here and in all your churches throughout the world,</target>
+        <target>在這裏和在世界各地的教堂內</target>
       </segment>
     </unit>
     <unit id="loco:6353cf3a05d2de7eef7f4904" name="we adore you, O Christ, and we bless you,">
       <segment state="translated">
         <source>we adore you, O Christ, and we bless you,</source>
-        <target>we adore you, O Christ, and we bless you,</target>
+        <target>主基督呀,我們專崇你,敬拜你,</target>
       </segment>
     </unit>
     <unit id="loco:6353cf4f4e1c89333b4cc142" name="because by your holy cross you have redeemed the world.">
@@ -1211,13 +1212,13 @@
     <unit id="loco:635fbbb5e8cf82096c3a3b52" name="In India, pray for">
       <segment state="translated">
         <source>In India, pray for</source>
-        <target>In India, pray for</target>
+        <target>在印度,為以下人士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:636c1d66b75e8d5c8d31efe2" name="Prayer of the day:">
       <segment state="translated">
         <source>Prayer of the day:</source>
-        <target>Prayer of the day:</target>
+        <target>當日禱文</target>
       </segment>
     </unit>
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them your gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1307,7 +1308,7 @@
     <unit id="loco:636d8e0b6246dc6c651b8326" name="God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.">
       <segment state="translated">
         <source>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</source>
-        <target>God of the poor, you called Brother Douglas to care for the poor and helpless: give us grace to see our brother and sister in every person we meet and to deal generously with those in need following the example of our Brother and Lord, your Son Jesus Christ.</target>
+        <target>貧窮人的上帝,你叫杜格拉斯弟兄專注照顧貧窮無助的人.求你施恩,使我們看所有接觸的人都是弟兄姊妹,照你兒子,我主耶穌基督的榜樣,慷慨地與有需要的人交往.</target>
       </segment>
     </unit>
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
@@ -1355,13 +1356,13 @@
     <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
       <segment state="translated">
         <source>In the Region of Goroka, pray for</source>
-        <target>In the Region of Goroka, pray for</target>
+        <target>在戈羅卡地區,為以下人士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6677b9c079bba3010800c2d2" name="MINISTER GENERAL">
       <segment state="translated">
         <source>MINISTER GENERAL</source>
-        <target>MINISTER GENERAL</target>
+        <target>總會長</target>
       </segment>
     </unit>
     <unit id="loco:6677b9cdf7237aefea0466d2" name="ASSISTANT MINISTER GENERAL">
@@ -1397,13 +1398,13 @@
     <unit id="loco:6689003544aed6c1d00650f2" name="Pacific Province">
       <segment state="translated">
         <source>Pacific Province</source>
-        <target>Pacific Province</target>
+        <target>太平洋區教省</target>
       </segment>
     </unit>
     <unit id="loco:668900413ca0714e970fffa3" name="Pray for the Minister General">
       <segment state="translated">
         <source>Pray for the Minister General</source>
-        <target>Pray for the Minister General</target>
+        <target>為總會長祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6689004ac26eb5df410983d5" name="and the Assistant Minister General">
@@ -1415,13 +1416,13 @@
     <unit id="loco:6689005244aed6c1d00650f4" name="Pray for the Newsletter Editor">
       <segment state="translated">
         <source>Pray for the Newsletter Editor</source>
-        <target>Pray for the Newsletter Editor</target>
+        <target>為教省刊物編輯祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6689005b34c33aca6d05bab2" name="the Archivist">
       <segment state="translated">
         <source>the Archivist</source>
-        <target>the Archivist</target>
+        <target>檔案室主管</target>
       </segment>
     </unit>
     <unit id="loco:6689006228537ccc6e0f2162" name="and the Communications Coordinator">
@@ -1433,19 +1434,19 @@
     <unit id="loco:6689006a18c24001e6052832" name="Pray for the Bishop Protector of the Province of Asia-Pacific">
       <segment state="translated">
         <source>Pray for the Bishop Protector of the Province of Asia-Pacific</source>
-        <target>Pray for the Bishop Protector of the Province of Asia-Pacific</target>
+        <target>為亞太區教省守護主教祈禱</target>
       </segment>
     </unit>
     <unit id="loco:668900721b5d3695d70ff412" name="Pray for the Provincial Minister">
       <segment state="translated">
         <source>Pray for the Provincial Minister</source>
-        <target>Pray for the Provincial Minister</target>
+        <target>為教省教士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6689007ac26eb5df410983d7" name="the Assistant Provincial Minister">
       <segment state="translated">
         <source>the Assistant Provincial Minister</source>
-        <target>the Assistant Provincial Minister</target>
+        <target>助理教省教士</target>
       </segment>
     </unit>
     <unit id="loco:6689008318c24001e6052834" name="and the Provincial Chaplain">
@@ -1457,13 +1458,13 @@
     <unit id="loco:6689008b5f00bc18bc089642" name="Pray for the Provincial Secretary">
       <segment state="translated">
         <source>Pray for the Provincial Secretary</source>
-        <target>Pray for the Provincial Secretary</target>
+        <target>為教省秘書長祈禱</target>
       </segment>
     </unit>
     <unit id="loco:66890092bb8fe04bc30dd9e4" name="the Provincial Treasurer">
       <segment state="translated">
         <source>the Provincial Treasurer</source>
-        <target>the Provincial Treasurer</target>
+        <target>教省司庫</target>
       </segment>
     </unit>
     <unit id="loco:66890099bbe02060c60c3e32" name="and the Assistant Treasurer">
