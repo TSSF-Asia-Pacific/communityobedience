@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Tue, 12 Nov 2024 03:47:35 -0500
+ Exported at: Wed, 11 Dec 2024 03:44:10 -0800
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -198,7 +198,8 @@
     <unit id="loco:63022fe521d26927661beb06" name="Although we possess property and earn money to support ourselves and our families, we show ourselves to be true followers of Christ and of Saint Francis by our readiness to live simply and to share with others. We recognize that some of our members may be called to a literal following of Saint Francis in a life of extreme simplicity. All of us, however, accept that we avoid luxury and waste, and regard our possessions as being held in trust for God.">
       <segment state="translated">
         <source>Although we possess property and earn money to support ourselves and our families, we show ourselves to be true followers of Christ and of Saint Francis by our readiness to live simply and to share with others. We recognize that some of our members may be called to a literal following of Saint Francis in a life of extreme simplicity. All of us, however, accept that we avoid luxury and waste, and regard our possessions as being held in trust for God.</source>
-        <target>雖然我們擁有財產並賺錢來養活自己和家人，但我們準備過簡樸的生活並與他人分享，從而表明自己是基督和聖方濟的真正跟隨者。我們意識到，我們的一些成員可能會被呼召實則跟隨聖方濟過極端簡樸的生活。然而，我們所有成員都意識到我們要避免奢華和浪費，並認為我們的財產，都是上帝託付於我們的。</target>
+        <target>雖然我們擁有財產並賺錢來養活自己和家人，但我們準備過簡樸的生活並與他人分享，從而表明自己是基督和聖方濟的真正跟隨者。我們意識到，我們的一些成員可能會被呼召實則跟隨聖方濟過極端簡樸的生活。然而，我們所有成員都意識到我們要避免奢華和浪費，並認為我們的財產，都是上帝託付於我們的。
+</target>
       </segment>
     </unit>
     <unit id="loco:63022ff5423df550011667e2" name="Personal spending is limited to what is necessary for our health and well-being and that of our dependents. We aim to stay free from all attachment to wealth, keeping ourselves constantly aware of the poverty in the world and its claim on us. We are concerned more for the generosity that gives all, rather than the value of poverty in itself. In this way we reflect in spirit the acceptance of Jesus' challenge to sell all, give to the poor, and follow him.">
@@ -486,7 +487,7 @@
     <unit id="loco:6353b75b77b1e160b06018a2" name="December: Requiem for Departed Franciscans (Manual F25)">
       <segment state="translated">
         <source>December: Requiem for Departed Franciscans (Manual F25)</source>
-        <target>December: Requiem for Departed Franciscans (Manual F25)</target>
+        <target>12月:為離世的方濟會修道者安魂 (手冊 F25)</target>
       </segment>
     </unit>
     <unit id="loco:6353b770aef53a34902ebae2" name="In the Province of the Pacific, pray for the Tertiaries in the Solomon Islands of Ysabel and Malaita.">
@@ -540,7 +541,8 @@
     <unit id="loco:6353b8294835b404510f7672" name="August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)">
       <segment state="translated">
         <source>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</source>
-        <target>August: John Vianney Cure d’Ars (Manual F12); October: St Francis (Manual F21)</target>
+        <target>8月:紀念 John Vianney Cure d’Ars (手冊 F12); 
+10月: 紀念聖方濟 (手冊 F21)</target>
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.">
@@ -642,7 +644,8 @@
     <unit id="loco:6353b9272beaa4385c527db2" name="August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)">
       <segment state="translated">
         <source>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</source>
-        <target>August: Transitus of St Clare (Manual F13); October: All Franciscan Saints (Manual F22)</target>
+        <target>8月:聖嘉勒離世日 (手冊 F13); 
+十月紀念所有方濟會聖人 (手冊 F22)</target>
       </segment>
     </unit>
     <unit id="loco:6353b932b208cf273b6e7312" name="In the Province of Asia–Pacific, pray for Tertiaries in Hong Kong, India, Malaysia, Singapore, South Korea and Sri Lanka.">
@@ -660,7 +663,8 @@
     <unit id="loco:6353b94f37feeb5e036ff7d2" name="April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)">
       <segment state="translated">
         <source>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</source>
-        <target>April: Brother Geoffrey SSF (Manual F5); August: Clare of Assisi (Manual F14)</target>
+        <target>4月：紀念傑弗里弟兄 (手冊 F5); 
+8月：紀念阿西西的聖嘉勒　(手冊 F14)</target>
       </segment>
     </unit>
     <unit id="loco:6353b9f92fbe3271cc351cf2" name="In the Province of Asia–Pacific, pray for Tertiaries in Papua New Guinea.">
@@ -1036,9 +1040,9 @@
       </segment>
     </unit>
     <unit id="loco:6353cacbbeaab045815ae2a4" name="American Province - Ken Norian and Peter Stube">
-      <segment state="translated">
+      <segment>
         <source>American Province - Ken Norian and Peter Stube</source>
-        <target>American Province - Ken Norian and Peter Stube</target>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353cad4e2b7402d6b6cb096" name="African Province - Bonginkosi Thomas Buthelezi">
@@ -1117,13 +1121,13 @@
     <unit id="loco:6353cf4f4e1c89333b4cc142" name="because by your holy cross you have redeemed the world.">
       <segment state="translated">
         <source>because by your holy cross you have redeemed the world.</source>
-        <target>because by your holy cross you have redeemed the world.</target>
+        <target>因為藉著你的聖十架,你救贖了世界</target>
       </segment>
     </unit>
     <unit id="loco:6353cf9d57cfdf16fc280082" name="About the Principles of the Third Order.">
       <segment state="translated">
         <source>About the Principles of the Third Order.</source>
-        <target>About the Principles of the Third Order.</target>
+        <target>有關第三團的生活準則</target>
       </segment>
     </unit>
     <unit id="loco:6353cfcff9b3b549fb79f7d2" name="Reading from the Principles of the Third Order.">
@@ -1135,7 +1139,7 @@
     <unit id="loco:6353d03457b0c26cc87a2a62" name="Daily intercession prayers...">
       <segment state="translated">
         <source>Daily intercession prayers...</source>
-        <target>Daily intercession prayers...</target>
+        <target>每日代禱禱文</target>
       </segment>
     </unit>
     <unit id="loco:6353d05d57b0c26cc87a2a64" name="Either">
@@ -1285,7 +1289,7 @@
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>全能永生的上帝，我們讚美你，因為你使我們軟弱變為剛強：正如你呼召馬希連·高比為弟兄捨命，求主施恩，使我們也能夠忠心至死，為主作的見證。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>全能永生的上帝，我們讚美你，因為你使我們的軟弱變為剛強：正如你呼召馬希連·高比為弟兄捨命，求主施恩，使我們也能夠忠心至死，為主作的見證。這都是靠着我們的主耶穌基督，聖子和 聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8df69f83024e5b60d3c2" name="God of love, you chose the blessed Virgin Mary to be the mother of your only Son: grant that we who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1363,7 +1367,7 @@
     <unit id="loco:6677b9cdf7237aefea0466d2" name="ASSISTANT MINISTER GENERAL">
       <segment state="translated">
         <source>ASSISTANT MINISTER GENERAL</source>
-        <target>ASSISTANT MINISTER GENERAL</target>
+        <target>助理總會長</target>
       </segment>
     </unit>
     <unit id="loco:668900140f28299f6401b5f2" name="African Province">
@@ -1375,19 +1379,19 @@
     <unit id="loco:6689001d0f28299f6401b5f4" name="American Province">
       <segment state="translated">
         <source>American Province</source>
-        <target>American Province</target>
+        <target>美洲會省</target>
       </segment>
     </unit>
     <unit id="loco:668900250f28299f6401b5f6" name="Asia-Pacific Province">
       <segment state="translated">
         <source>Asia-Pacific Province</source>
-        <target>Asia-Pacific Province</target>
+        <target>亞太教省</target>
       </segment>
     </unit>
     <unit id="loco:6689002dbb8fe04bc30dd9e2" name="European Province">
       <segment state="translated">
         <source>European Province</source>
-        <target>European Province</target>
+        <target>歐洲教省</target>
       </segment>
     </unit>
     <unit id="loco:6689003544aed6c1d00650f2" name="Pacific Province">
@@ -1405,7 +1409,7 @@
     <unit id="loco:6689004ac26eb5df410983d5" name="and the Assistant Minister General">
       <segment state="translated">
         <source>and the Assistant Minister General</source>
-        <target>and the Assistant Minister General</target>
+        <target>以及助理總會長</target>
       </segment>
     </unit>
     <unit id="loco:6689005244aed6c1d00650f4" name="Pray for the Newsletter Editor">
@@ -1423,7 +1427,7 @@
     <unit id="loco:6689006228537ccc6e0f2162" name="and the Communications Coordinator">
       <segment state="translated">
         <source>and the Communications Coordinator</source>
-        <target>and the Communications Coordinator</target>
+        <target>以及通訊協調員</target>
       </segment>
     </unit>
     <unit id="loco:6689006a18c24001e6052832" name="Pray for the Bishop Protector of the Province of Asia-Pacific">
@@ -1447,7 +1451,7 @@
     <unit id="loco:6689008318c24001e6052834" name="and the Provincial Chaplain">
       <segment state="translated">
         <source>and the Provincial Chaplain</source>
-        <target>and the Provincial Chaplain</target>
+        <target>以及教省牧師</target>
       </segment>
     </unit>
     <unit id="loco:6689008b5f00bc18bc089642" name="Pray for the Provincial Secretary">
@@ -1465,7 +1469,7 @@
     <unit id="loco:66890099bbe02060c60c3e32" name="and the Assistant Treasurer">
       <segment state="translated">
         <source>and the Assistant Treasurer</source>
-        <target>and the Assistant Treasurer</target>
+        <target>以及助理司庫</target>
       </segment>
     </unit>
   </file>
