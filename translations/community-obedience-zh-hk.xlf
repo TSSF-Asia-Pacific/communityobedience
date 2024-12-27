@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Wed, 11 Dec 2024 08:07:08 -0500
+ Exported at: Thu, 26 Dec 2024 10:44:19 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1116,7 +1116,7 @@
     <unit id="loco:6353cf3a05d2de7eef7f4904" name="we adore you, O Christ, and we bless you,">
       <segment state="translated">
         <source>we adore you, O Christ, and we bless you,</source>
-        <target>主基督呀,我們專崇你,敬拜你,</target>
+        <target>主基督呀,我們尊崇你,敬拜你,</target>
       </segment>
     </unit>
     <unit id="loco:6353cf4f4e1c89333b4cc142" name="because by your holy cross you have redeemed the world.">
