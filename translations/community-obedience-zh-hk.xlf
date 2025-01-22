@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Thu, 26 Dec 2024 10:44:19 -0500
+ Exported at: Wed, 22 Jan 2025 08:01:23 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -1080,7 +1080,7 @@
     <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
-        <target>上帝啊，我們為方濟會第三團感謝你。我們祈求，在這團體和祈禱中，保守我們彼此合而為一，使我們—你的眾僕人可以效法聖法蘭西斯的榜樣，榮耀你的聖名，並贏取他人歸入你的聖愛中。這都是靠着我們的主耶穌基督。</target>
+        <target>上帝啊，我們為方濟會第三團感謝你。我們祈求，在這團體和祈禱中，保守我們彼此合而為一，使我們—你的眾僕人可以效法聖方濟的榜樣，榮耀你的聖名，並贏取他人歸入你的聖愛中。這都是靠着我們的主耶穌基督。</target>
       </segment>
     </unit>
     <unit id="loco:6353ce69df259614de785fc2" name="tssf Community Collect">
