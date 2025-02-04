@@ -22,6 +22,8 @@ jobs:
         env:
           LOCALISE_KEY: ${{ secrets.LOCALISE_KEY }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update translations
+          branch: staging
+          commit_author: Github Action <actions@github.com>
