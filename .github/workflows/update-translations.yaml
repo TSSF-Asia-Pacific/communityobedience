@@ -1,29 +1,27 @@
-name: 'Update translations'
+---
+name: Update translations
 
 on:
-#  push:
-#    branches:
-#      - 'staging'
-  workflow_dispatch:
-  schedule:
-    - cron: '37 * * * *'
+    workflow_dispatch:
+    schedule:
+        - cron: 37 * * * *
 
 jobs:
-  update-translations:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          ref: staging
+    update-translations:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
+                  ref: master
 
-      - name: Download Translations
-        run: ./translations/download.sh
-        env:
-          LOCALISE_KEY: ${{ secrets.LOCALISE_KEY }}
+            - name: Download Translations
+              run: ./translations/download.sh
+              env:
+                  LOCALISE_KEY: ${{ secrets.LOCALISE_KEY }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update translations
-          branch: staging
-          commit_author: Github Action <actions@github.com>
+            - uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: Update translations
+                  branch: master
+                  commit_author: Github Action <actions@github.com>
