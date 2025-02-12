@@ -1,50 +1,52 @@
-name: Build & Deploy Static Site Staging
+---
+name: Build & Deploy Static Site (Master Branch deployed to Staging env)
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - 'staging'
+    workflow_dispatch:
+    push:
+        branches:
+            - master
 
 env:
-  URL: tssf-asia-pacific.github.io/communityobedience-staging/
+    URL: tssf-asia-pacific.github.io/communityobedience-staging/
 
 jobs:
-  build:
-    name: Build Static Site Staging
-    runs-on: ubuntu-24.04
-    environment:
-      name: staging
-      url: https://${{ env.URL }}
+    build:
+        name: Build Static Site Staging
+        runs-on: ubuntu-24.04
+        environment:
+            name: staging
+            url: https://${{ env.URL }}
 
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+        steps:
+            - uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
+                  ref: master
 
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '20.x'
-      - run: yarn install
+            - uses: actions/setup-node@v1
+              with:
+                  node-version: 20.x
+            - run: yarn install
 
-      - name: Cache Composer dependencies
-        uses: actions/cache@v4
-        with:
-          path: /tmp/composer-cache
-          key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
+            - name: Cache Composer dependencies
+              uses: actions/cache@v4
+              with:
+                  path: /tmp/composer-cache
+                  key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
-      - name: Install dependencies
-        uses: php-actions/composer@v6
-        with:
-          dev: no
-          php_version: "8.2"
-  
-      - name: Run Makefile
-        run: make all
+            - name: Install dependencies
+              uses: php-actions/composer@v6
+              with:
+                  dev: no
+                  php_version: '8.2'
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          external_repository: TSSF-Asia-Pacific/communityobedience-staging
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./public
+            - name: Run Makefile
+              run: make all
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  external_repository: TSSF-Asia-Pacific/communityobedience-staging
+                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+                  publish_dir: ./public
