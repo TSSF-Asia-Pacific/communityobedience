@@ -1,5 +1,5 @@
 ---
-name: Build & Deploy Static Site (Master Branch deployed to Github Pages Prod env)
+name: PROD Build & Deploy Static Site (Master Branch deployed to Github Pages)
 
 on:
     workflow_dispatch:

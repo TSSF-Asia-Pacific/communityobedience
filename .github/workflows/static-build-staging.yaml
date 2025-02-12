@@ -1,5 +1,5 @@
 ---
-name: Build & Deploy Static Site (Master Branch deployed to Staging env)
+name: STAGING Build & Deploy Static Site (Master Branch deployed to Staging env)
 
 on:
     workflow_dispatch:
