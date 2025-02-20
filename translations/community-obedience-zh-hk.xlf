@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Wed, 22 Jan 2025 08:01:23 -0500
+ Exported at: Thu, 20 Feb 2025 05:21:58 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -809,7 +809,7 @@
     <unit id="loco:6353bb6f48488a77313385f2" name="Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.">
       <segment state="translated">
         <source>Pray for The Little Brothers of Francis at Tabulam, NSW and other Franciscan Brothers and Sisters in the Anglican Communion in the USA.</source>
-        <target>為新南威爾士州塔巴姆的聖法蘭西斯小弟兄會和美國聖公會的其他聖法蘭西斯團體弟兄姊妹祈禱。</target>
+        <target>為新南威爾士州塔巴姆的聖方濟小弟兄會和美國聖公會的其他聖方濟團體弟兄姊妹祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bb7974f9894a697b42e6" name="In New South Wales B / ACT Region, pray for">
