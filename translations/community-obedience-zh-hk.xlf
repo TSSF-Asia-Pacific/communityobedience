@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Thu, 27 Feb 2025 05:44:35 -0800
+ Exported at: Thu, 27 Feb 2025 08:44:58 -0600
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -415,13 +415,13 @@
     <unit id="loco:630232b4e66d7a03406257ba" name="In 1928 the Rule was revised under the guidance of Fr Algy Robertson and some aspects of that Rule can also be found in The Third Order Principles.">
       <segment state="translated">
         <source>In 1928 the Rule was revised under the guidance of Fr Algy Robertson and some aspects of that Rule can also be found in The Third Order Principles.</source>
-        <target>這會規則於1928年在羅賓遜神父引導下進行了修訂，而這會規部分內容同時可以在第三團的守規中發現。</target>
+        <target>這規則於1928年在羅賓遜神父引導下進行了修訂，而部分內容融入了第三團的生活準則。</target>
       </segment>
     </unit>
     <unit id="loco:630232c040fb660b926ad9fa" name="We give thanks to God for the Principles of the Third Order that inspire us in the Franciscan way of following Jesus.">
       <segment state="translated">
         <source>We give thanks to God for the Principles of the Third Order that inspire us in the Franciscan way of following Jesus.</source>
-        <target>我們感謝上帝賜下第三會準則，激勵我們以聖法蘭西斯聖召之路來跟隨耶穌。</target>
+        <target>我們感謝上帝賜下第三團準則，激勵我們以聖方濟的生活方式來跟隨耶穌。</target>
       </segment>
     </unit>
     <unit id="loco:630232d0e66d7a03406257bc" name="Reflect on which portion has particularly encouraged or challenged you in this past month.">
@@ -688,7 +688,7 @@
     <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
       <segment state="translated">
         <source>June: Antony of Padua (Manual F10)</source>
-        <target>六月：帕多瓦的聖安東尼日帕多瓦的聖安東尼日 (Manual F10)</target>
+        <target>六月：帕多瓦的聖安東尼日 (Manual F10)</target>
       </segment>
     </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.">
@@ -706,7 +706,7 @@
     <unit id="loco:6353ba7c59163537d259d352" name="August: Maximilian Kolbe (Manual F15)`">
       <segment state="translated">
         <source>August: Maximilian Kolbe (Manual F15)`</source>
-        <target>八月：聖馬希連.高比日聖馬希連·高比日 (Manual F15) (Manual F15)</target>
+        <target>八月：聖馬希連.高比日 (Manual F15) </target>
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.">
@@ -724,7 +724,7 @@
     <unit id="loco:6353baa6862f6b2210740924" name="July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)">
       <segment state="translated">
         <source>July: Bonaventure (Manual F11); August: Mary, the Mother of the Lord (Manual F16)</source>
-        <target>七月：聖波拿文都拉日 (Manual F11); 八月：瑪利亞,上帝之母童貞女聖馬利亞日（上帝之母） (Manual F16) </target>
+        <target>七月：聖波拿文都拉日 (Manual F11); 八月：瑪利亞,上主之母 (Manual F16)</target>
       </segment>
     </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
@@ -742,7 +742,7 @@
     <unit id="loco:6353bad1b4b3ff35c44e7de2" name="May: Margaret of Cortona (Manual F6)">
       <segment state="translated">
         <source>May: Margaret of Cortona (Manual F6)</source>
-        <target>五月：科爾多納的聖馬格利特日科爾多納的聖瑪格利特日 (手冊 F6)</target>
+        <target>五月：科爾多納的聖馬格利特日 (手冊 F6)</target>
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
@@ -754,7 +754,7 @@
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
       <segment state="translated">
         <source>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</source>
-        <target>為英國佛利蘭的第二團姊妹(聖嘉勒女修會) 祈禱為英國弗里蘭的第二會姐妹（聖克萊爾修女會）祈禱。</target>
+        <target>為英國佛利蘭的第二團姊妹(聖嘉勒女修會) 祈禱為英國弗里蘭的第二團姐妹（聖嘉勒修女會）祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
@@ -766,7 +766,7 @@
     <unit id="loco:6353bafd4fed751ac4355aa4" name="September: The Stigmata of St Francis (Manual F19)">
       <segment state="translated">
         <source>September: The Stigmata of St Francis (Manual F19)</source>
-        <target>九月：聖方濟領受聖傷日聖法蘭西斯領受聖痕日 (手冊 F19)</target>
+        <target>九月：聖方濟領受聖傷日 (手冊 F19)</target>
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
@@ -827,7 +827,7 @@
     <unit id="loco:6353bb91261fab50c04e93c2" name="Pray for the Franciscan Federation of Australia and the members of the Executive.">
       <segment state="translated">
         <source>Pray for the Franciscan Federation of Australia and the members of the Executive.</source>
-        <target>為澳洲聖法蘭西斯會聯盟及管理人員祈禱。</target>
+        <target>為澳洲聖方濟會聯盟及管理人員祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bba45ceffc268d055742" name="In the European Province, pray for Tertiaries in Central and Eastern England.">
@@ -857,7 +857,7 @@
     <unit id="loco:6353bbd29d148919d63d6e42" name="Pray for the Roman Catholic Poor Clares">
       <segment state="translated">
         <source>Pray for the Roman Catholic Poor Clares</source>
-        <target>為羅馬天主教貧窮佳蘭修女會祈禱。</target>
+        <target>為羅馬天主教貧窮嘉勒修女會祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bbde5ceffc268d055744" name="November: Fr Algy SSF (Manual F24)">
@@ -875,7 +875,7 @@
     <unit id="loco:6353bbf2f59b0b06b5548072" name="Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.">
       <segment state="translated">
         <source>Pray for the Third Order Regular and Franciscan Sisterhoods in Australia.</source>
-        <target>為澳洲的修規第三團和聖法蘭西斯姊妹會祈禱。</target>
+        <target>為澳洲的修規第三團和聖方濟姊妹會祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353bc012d8ead569f6b8446" name="In the Province of the Americas, pray for the Tertiaries in the United States of America including Puerto Rico.">
@@ -911,7 +911,7 @@
     <unit id="loco:6353c99e9f47a61619663312" name="Pray for Franciscans International and their work as a recognized NGO at the United Nations.">
       <segment state="translated">
         <source>Pray for Franciscans International and their work as a recognized NGO at the United Nations.</source>
-        <target>為聖法蘭西斯會國際和他們作為聯合國公認的非政府組織所做的工作祈禱。</target>
+        <target>為聖方濟會國際和他們作為聯合國承認的非政府組織所做的工作祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353c9a845ef02152825a722" name="In Western Australia Region, pray for">
@@ -923,7 +923,7 @@
     <unit id="loco:6353c9b99f47a61619663314" name="Pray for the Society of St Francis:">
       <segment state="translated">
         <source>Pray for the Society of St Francis:</source>
-        <target>為聖法蘭西斯會祈禱。</target>
+        <target>為聖方濟會祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353c9c34d7582689178b532" name="Ministers General of First Orders and Abbess of Second Order;">
@@ -941,25 +941,25 @@
     <unit id="loco:6353c9e0e7d2113508674834" name="Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.">
       <segment state="translated">
         <source>Pray for all Franciscan Conference and Retreat Centres, including the Old Monastery, Stroud.</source>
-        <target>為所有聖法蘭西斯會會議和避靜中心，包括斯特勞德的舊修道院祈禱。</target>
+        <target>為所有聖方濟會會議和避靜中心，包括斯特勞德的舊修道院祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353c9f7fd2bf6785f1ba1c2" name="In the Province of the Americas, Region of the Caribbean, pray for Tertiaries in Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.">
       <segment state="translated">
         <source>In the Province of the Americas, Region of the Caribbean, pray for Tertiaries in Cuba, Dominican Republic, Jamaica, Nevis, Trinidad and Tobago, and Virgin Islands.</source>
-        <target>對美洲會省的加勒比海地區，為哥斯達黎加、古巴、多米尼加共和國、牙買加、尼維斯、特立尼達和多巴哥以及維爾京群島的第三會會友祈禱</target>
+        <target>對美洲會省的加勒比海地區，為哥斯達黎加、古巴、多米尼加共和國、牙買加、尼維斯、特立尼達和多巴哥以及維爾京群島的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ca02c229d941d55b4d52" name="Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.">
       <segment state="translated">
         <source>Pray for Franciscans working as chaplains and teachers in universities, schools, hospitals, prisons, armed forces and emergency services.</source>
-        <target>為在大學、學校、醫院、監獄、武裝部隊和應急服務機構擔任牧師和教師的聖法蘭西斯會會士祈禱。</target>
+        <target>為在大學、學校、醫院、監獄、武裝部隊和應急服務機構擔任牧師和教師的聖方濟會修道人士祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353ca0d4d7582689178b534" name="In South and East Asia Region, Sri Lanka area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Sri Lanka area, pray for</source>
-        <target>為南亞及東亞會區的斯里蘭卡第三團會士祈禱：</target>
+        <target>為南亞及東亞會區,斯里蘭卡地區的第三團會士祈禱：</target>
       </segment>
     </unit>
     <unit id="loco:6353ca290598d75b734bc7e2" name="In the Province of the Americas, pray for all Tertiaries in Canada and Mexico.">
@@ -971,19 +971,19 @@
     <unit id="loco:6353ca334f9a76329c56f192" name="Pray for scholars and writers who seek to make known the ways of Francis and Clare.">
       <segment state="translated">
         <source>Pray for scholars and writers who seek to make known the ways of Francis and Clare.</source>
-        <target>為尋求讓他人了解聖法蘭西斯和聖克萊爾生活方式的學者和作家祈禱。</target>
+        <target>為尋求讓他人了解聖方濟和聖嘉勒生活方式的學者和作家祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353ca3c45ef02152825a724" name="In South and East Asia Region, Malaysia area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, Malaysia area, pray for</source>
-        <target>為南亞及東亞會區的馬來西亞第三團會士祈禱：</target>
+        <target>為南亞及東亞會區和馬來西亞地區的第三團會士祈禱：</target>
       </segment>
     </unit>
     <unit id="loco:6353ca48beaab045815ae2a2" name="In the Hong Kong area, pray for">
       <segment state="translated">
         <source>In the Hong Kong area, pray for</source>
-        <target>為香港的第三團會士祈禱：</target>
+        <target>為香港地區的第三團會士祈禱：</target>
       </segment>
     </unit>
     <unit id="loco:6353ca56c78a80675c782572" name="May: Jack Winslow (Manual F8)">
@@ -1001,19 +1001,19 @@
     <unit id="loco:6353ca704f9a76329c56f194" name="Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.">
       <segment state="translated">
         <source>Pray for those in churches who while not under formal vows try to follow Jesus in the company of Francis and Clare.</source>
-        <target>為那些在教會中未正式發願，但嘗試在聖法蘭西斯和聖克萊爾的靈性陪伴下跟隨耶穌的人祈禱。</target>
+        <target>為那些在教會中未正式發願，但嘗試在聖方濟和聖嘉勒的靈性陪伴下跟隨耶穌的人祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353ca7fe2b7402d6b6cb092" name="In South and East Asia Region, in South Korea area, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, in South Korea area, pray for</source>
-        <target>為南亞及東亞會區的韓國第三團會士祈禱</target>
+        <target>為南亞及東亞會區和在韓國地區第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ca8ae2b7402d6b6cb094" name="In South and East Asia Region, in Singapore, pray for">
       <segment state="translated">
         <source>In South and East Asia Region, in Singapore, pray for</source>
-        <target>為南亞及東亞會區的新加坡第三會會友祈禱：</target>
+        <target>為南亞及東亞會區和在新加坡的第三團會士祈禱：</target>
       </segment>
     </unit>
     <unit id="loco:6353ca9dc229d941d55b4d54" name="Pray for Ministers of the Third Order:">
@@ -1080,7 +1080,7 @@
     <unit id="loco:6353ce43e09c0a348d2ab272" name="God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>God, we give you thanks for the Third Order of the Society of St. Francis. Grant, we pray, that being knit together in community and prayer, we your servants may glorify your holy name after the example of Saint Francis, and win others to your love; through Jesus Christ our Lord.</source>
-        <target>上帝啊，我們為方濟會第三團感謝你。我們祈求，在這團體和祈禱中，保守我們彼此合而為一，使我們—你的眾僕人可以效法聖方濟的榜樣，榮耀你的聖名，並贏取他人歸入你的聖愛中。這都是靠着我們的主耶穌基督。</target>
+        <target>上帝啊，我們為方濟會第三團感謝你。我們祈求，在這團體和祈禱中，保守我們彼此合而為一，使我們---你的眾僕人可以效法聖方濟的榜樣，榮耀你的聖名，並贏取他人歸入你神聖的愛中。這都是靠着我們的主耶穌基督。</target>
       </segment>
     </unit>
     <unit id="loco:6353ce69df259614de785fc2" name="tssf Community Collect">
@@ -1206,7 +1206,7 @@
     <unit id="loco:6353d129175bd60b3a50b242" name="and the fellowship of the Holy Spirit be with us all evermore.">
       <segment state="translated">
         <source>and the fellowship of the Holy Spirit be with us all evermore.</source>
-        <target>聖靈感動,契通的力量,常常與我們眾人同在.</target>
+        <target>聖靈的感動,常常與我們眾人同在.</target>
       </segment>
     </unit>
     <unit id="loco:635fbbb5e8cf82096c3a3b52" name="In India, pray for">
@@ -1224,13 +1224,13 @@
     <unit id="loco:636d8d656246dc6c651b8322" name="Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them your gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Everliving God, we thank you for the brothers by whose martyrdom the beginnings of the Franciscan Order were sanctified: grant that following their example and strengthened by their fellowship we may give our lives to your service, even unto death, and share with them your gifts of eternal life; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>永生的上帝，我們為這首批殉道的小弟兄感謝你，因他們忠心至死，你使建立之初的聖法蘭西斯會得到聖化：求主叫我們效法他們的榜樣，因他們的團契得力量，一生服事你，至終也得與他們同享你所賜的永生。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>永生的上帝，我們為這首批殉道的小弟兄感謝你，因他們忠心至死，你使建立之初的聖方濟會得到聖化：求主叫我們效法他們的榜樣，因他們的團契得力量，一生服事你，至終也得與他們同享你所賜的永生。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8d7345d25f6f55021072" name="Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Lord God, you kept the pioneers of the revival of the Franciscan life in the Anglican Communion faithful to Christ's pattern of poverty and humility: may we, inspired by their example, live in fidelity to our calling and come to the perfection you have shown us in your Son Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>主上帝，你保守那些在普世安立甘教會內，復興聖法蘭西斯會傳統的開拓者們，堅固他們的信心，效法基督貧窮、謙卑的生活樣式：求主叫我們因他們的典範得鼓勵，忠於我們的聖召，至終在你的聖子，我們的主耶穌基督內得以完全。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡</target>
+        <target>主上帝，你保守那些在普世聖公宗教會內，復興聖方濟會傳統的開拓者們，堅固他們的信心，效法基督貧窮、謙卑的生活樣式：求主叫我們因他們的典範得鼓勵，忠於我們的呼召，至終在你的聖子，我們的主耶穌基督內得以完全。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡</target>
       </segment>
     </unit>
     <unit id="loco:636d8d8209bd8d71d80f8c72" name="Faithful God, you filled Brother Geoffrey with divine compassion and an all-embracing trust. Help us to persist in compassion and faithfulness and so imitate and honour your Son Jesus Christ our Lord.">
@@ -1254,7 +1254,7 @@
     <unit id="loco:636d8da58a27cc7fc43765b2" name="Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.">
       <segment state="translated">
         <source>Loving God, you inspired Jack Winslow to look with the eyelids of the dawn, to preach the Gospel and live its principles in community. Deepen our love for one another and so bring you glory in your Son Jesus Christ.</source>
-        <target>慈愛的上帝，你叫晨光發現，感化傑克·溫斯洛，使他看見並明白你的旨意，在團體中傳揚、踐行你的福音。求主也加增我們彼此之間的愛，使我們在你的聖子耶穌基督內，得以榮耀你的聖名。</target>
+        <target>慈愛的上帝，你叫晨光破曉，感動傑克·溫斯洛，使他看見並明白你的旨意，在團體中傳揚、踐行你的福音。求主也加增我們彼此之間的愛，使我們在你的聖子耶穌基督內，得以榮耀你的聖名。</target>
       </segment>
     </unit>
     <unit id="loco:636d8db13a759035e54f0b12" name="Lord God, through the powerful preaching of Antony of Padua many were brought out of darkness and error into the clear light of your gospel: may we keep the faith which he taught and by word and example share it with others; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1278,13 +1278,13 @@
     <unit id="loco:636d8dd27027f02a1b21b252" name="Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.">
       <segment state="translated">
         <source>Gracious God, you came among us as servant of all; may we, like our sister Clare, forget ourselves in love for you and in compassion for others. We ask this through Christ our Lord.</source>
-        <target>恩慈的上帝，你來到我們中間，作了眾罪人的奴僕，求主使我們也能像我們的姊妹克萊爾那樣，為愛主和愛鄰舍的緣故，甘願捨棄自我。這都是靠着我們的主基督。</target>
+        <target>恩慈的上帝，你來到我們中間，作了眾罪人的奴僕，求主使我們也能像我們的姊妹嘉勒那樣，為愛主和愛鄰舍的緣故，甘願捨棄自我。這都是靠着我們的主基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8dde7027f02a1b21b254" name="Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.">
       <segment state="translated">
         <source>Lord God, in the holiness of blessed Clare you have given a clear light to shine in the darkness of the world. Give us grace to follow her footsteps, that we may at last rejoice with her in the clear light of your eternal glory; through Jesus Christ our Lord.</source>
-        <target>主上帝，因着蒙福的聖克萊爾的聖潔，你賜下明光照在這世間的黑暗裡。求主施恩，叫我們跟隨聖克萊爾的腳蹤，至終也得與她一同在你永遠榮耀的真光中歡喜快樂。這都是靠着我們的主耶穌基督</target>
+        <target>主上帝，因着蒙福的聖嘉勒的聖潔，你賜下明光照在這世間的黑暗裡。求主施恩，叫我們跟隨聖嘉勒的腳蹤，至終也得與她一同在你永遠榮耀的真光中歡喜快樂。這都是靠着我們的主耶穌基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8de9c7ea872d351221c2" name="All powerful and everliving God, we praise you that you turned our weakness into strength: as you called Maximilian Kolbe to give his life for a brother, grant us the grace to live in faithful witness to you, even unto death; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1314,25 +1314,25 @@
     <unit id="loco:636d8e158a27cc7fc43765b4" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>全能的上帝，當這世界變得越發冷漠時，你以你的仁愛之火，叫你的子民心裡火熱。你興起了蒙福的聖法蘭西斯，在他身上印有基督十字架上被釘的聖痕。求主施恩，叫我們也能真心悔改，為基督的愛所吸引，甘願背負自己的十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>全能的上帝，當這世界變得越發冷漠時，你以你的仁愛之火，叫你的子民心裡火熱。你興起了蒙福的聖方濟，在他身上印有基督十字架上被釘的聖痕。求主施恩，叫我們也能真心悔改，為基督的愛所吸引，甘願背負自己的十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e208a27cc7fc43765b6" name="Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Almighty God, when the world was growing cold you inflamed the hearts of your people with the fire of your love; you raised up blessed Francis, bearing in his body the marks of Christ crucified: grant to us, your people, true penitence, and grace to bear the cross for love of him who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>全能的上帝，當這世界變得越發冷漠時，你以你的仁愛之火，叫你的子民心裡火熱。你興起了蒙福的聖法蘭西斯，在他身上印有基督十字架上被釘的聖痕。求主施恩，叫我們也能真心悔改，為基督的愛所吸引，甘願背負自己的十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>全能的上帝，當這世界變得越發冷漠時，你以你的仁愛之火，叫你的子民心裡火熱。你興起了蒙福的聖方濟，在他身上印有基督十字架上被釘的聖痕。求主施恩，叫我們也能真心悔改，為基督的愛所吸引，甘願背負自己的十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e298a27cc7fc43765b8" name="God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>God our Father, you always delight to reveal yourself to the childlike and lowly of heart: grant that, following the example of our blessed father, Francis, we may count the wisdom of this world as foolishness and know only Jesus Christ and him crucified; who is alive and reigns with you and the Holy Spirit, one God, now and for ever.</source>
-        <target>我們的天父上帝，你樂意顯示自己給謙卑虛己、像小孩子一樣的心靈：求你幫助我們，效法蒙福的會父聖法蘭西斯的榜樣，將世界的智慧看為愚拙，而只願思想耶穌基督並他釘十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>我們的天父上帝，你樂意顯示自己給謙卑虛己、像小孩子一樣的人：求你幫助我們，效法蒙福的聖方濟的榜樣，將世界的智慧看為愚拙，而只願思想耶穌基督並他釘十字架。聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e34a4beb76a2c2a4ad2" name="Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>Everlasting God, you have adorned your Church with splendours of the saintly followers of our holy father, Francis: grant that as we commemorate their holiness we may come at last with all the pure in heart to share the vision of your glory; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>永生的上帝，藉着會父聖法蘭西斯眾跟隨者聖潔的光輝，你親手修理、裝飾了你的教會：求主施恩，使我們這些現今記念他們聖德的人，至終也可與一切清心的人，一同得見你的榮耀。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>永生的上帝，藉着會父聖方濟眾跟隨者聖潔的光輝，你親手修理、裝飾了你的教會：求主施恩，使我們這些現今記念他們的聖潔的人，至終也可與一切清心的人，一同得見你的榮耀。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e3f9f83024e5b60d3c4" name="Merciful God, who helped Elizabeth of Hungary to recognise and honour Christ in the poor: grant that we may use the prosperity of this present world for the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
@@ -1344,13 +1344,13 @@
     <unit id="loco:636d8e499f83024e5b60d3c6" name="Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.">
       <segment state="translated">
         <source>Creator God, your presence fills us with awe and joy. Help us, as we remember your servant Father Algy, to see your face in every one we meet, and to share with the community the joy of knowing you, through Jesus Christ our Lord.</source>
-        <target>創造主上帝，你的臨在使我們心存敬畏和喜樂。求主幫助我們——現今記念你忠僕阿爾吉神父的人，使我們在所遇見的每個人身上，都能得見你的面，並且在團體中，分享因認識你而有的喜樂。這都是靠着我們的主耶穌基督。</target>
+        <target>創造主上帝，你的臨在使我們心存敬畏和喜樂。求主幫助,當我們記念你忠僕阿爾吉神父的時候，在所遇見的每個人身上，都能看見你的面，並且在團體中，分享因認識你而有的喜樂。這都是靠着我們的主耶穌基督。</target>
       </segment>
     </unit>
     <unit id="loco:636d8e56059cea3d9522c0d2" name="O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.">
       <segment state="translated">
         <source>O God, through your Son, our Lord Jesus Christ, you have conquered sin and death. We thank you for those who have died and have gone before us marked with the sign of faith, especially the sisters and brothers of our Society. Grant us, with all the faithful departed, the sure benefits of your Son's saving passion and glorious resurrection that, in the last day, when you gather up all things in Christ, we may with them enjoy the fullness of your promises; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever.</source>
-        <target>上帝啊，藉着你的聖子，我們的主耶穌基督，你已經戰勝了罪惡與死亡。我們為所有在信心中離世的你的僕人——特別為聖法蘭西斯會諸亡者感謝你，求主施恩，藉着你聖子的受難和榮耀的復活，使我們與一切離世的忠實信徒，一同領受基督救贖大功的果效，及至日期滿足，萬物都俯伏在基督的權勢下，也能與他們同得你所應許的滿足的喜樂。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
+        <target>上帝啊，藉着你的聖子，我們的主耶穌基督，你已經戰勝了罪惡與死亡。我們為所有在信心中離世的你的僕人——特別為聖方濟會諸亡者感謝你，求主施恩，藉着你聖子的受難和榮耀的復活，使我們與一切離世的忠實信徒，一同領受基督救贖大功的果效，及至日期滿足，萬物都俯伏在基督的權勢下，也能與他們同得你所應許的滿足的喜樂。這都是靠着我們的主耶穌基督，聖子和聖父、聖靈，一同永生，一同掌權，惟一上帝，永無窮盡。</target>
       </segment>
     </unit>
     <unit id="loco:6677b9b23b909f88610a7022" name="In the Region of Goroka, pray for">
