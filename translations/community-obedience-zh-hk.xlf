@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Thu, 27 Feb 2025 08:44:58 -0600
+ Exported at: Mon, 10 Mar 2025 05:45:24 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -60,7 +60,7 @@
     <unit id="loco:6300e8f6b4cc257b656b2273" name="God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.">
       <segment state="translated">
         <source>God, you are always pleased to show yourself to those who are childlike and humble in spirit: help us to follow the example of our blessed father Francis, to look upon the wisdom of this world as foolishness, and to set our minds only on Christ Jesus and him crucified; to whom with you and the Holy Spirit be all glory for ever.</source>
-        <target>上帝啊，祢總是樂於向那些保有童心和虛心的人啓示自己：求祢幫助我們效法我們蒙福的會祖方濟的模式，將今世的智慧視為愚拙，並一心專注於基督耶穌並祂釘十字架；願榮耀歸於祢,主耶穌基督和聖靈，永世無盡。</target>
+        <target>上帝啊，祢總是樂於向那些保有童心和虛心的人啓示自己：求祢幫助我們效法蒙福的方濟的模式，將今世的智慧視為愚拙，並一心專注於基督耶穌並祂釘十字架；願榮耀歸於祢,主耶穌基督和聖靈，永世無盡。</target>
       </segment>
     </unit>
     <unit id="loco:6300e923469ad56c8d580372" name="God, you resist the proud and give grace to the humble: help us not to think proudly, but to serve you with the humility that pleases you, so we may walk in the steps of your servant Francis and receive the gift of your grace; through Jesus Christ our Lord.">
