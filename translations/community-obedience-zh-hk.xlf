@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Mon, 10 Mar 2025 05:45:24 -0700
+ Exported at: Mon, 17 Mar 2025 07:59:24 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -754,7 +754,7 @@
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
       <segment state="translated">
         <source>Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.</source>
-        <target>為英國佛利蘭的第二團姊妹(聖嘉勒女修會) 祈禱為英國弗里蘭的第二團姐妹（聖嘉勒修女會）祈禱。</target>
+        <target>為英國弗里蘭的第二團姐妹（聖嘉勒修女會）祈禱。</target>
       </segment>
     </unit>
     <unit id="loco:6353baf34fed751ac4355aa2" name="In New South Wales A Region, pray for">
