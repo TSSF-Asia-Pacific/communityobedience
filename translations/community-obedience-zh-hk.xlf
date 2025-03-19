@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Mon, 17 Mar 2025 07:59:24 -0400
+ Exported at: Wed, 19 Mar 2025 03:37:44 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -778,7 +778,7 @@
     <unit id="loco:6353bb217832ec0fdb3ca0e2" name="Pray for Postulants and aspirants to the three Orders.">
       <segment state="translated">
         <source>Pray for Postulants and aspirants to the three Orders.</source>
-        <target>為三個團的望會生和追尋者祈禱為三個修會團體的望會生和追尋者祈禱。</target>
+        <target>為三個團的望會生和追尋者祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353bb3274f9894a697b42e2" name="In the European Province, pray for Tertiaries in France, Finland, Sweden, Ireland, Scotland and Spain.">
