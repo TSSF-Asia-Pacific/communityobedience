@@ -1,3 +1,4 @@
+Bill Guttormsen
 Anthony Halstead
 Daniel Hobbs
 Michael Hobbs
@@ -10,5 +11,3 @@ Peter Lockyer
 James Macdonald
 Gloria Malouf-Marsh
 David Mason
-Glenys McCarrick
-Mandy McCarrick

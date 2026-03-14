@@ -1,4 +1,3 @@
-David Masters
 Cathy Mathews
 Jan McIntyre
 David Nix
@@ -7,7 +6,6 @@ John Noller
 Esme Parker
 Angela Peverell
 Nick Price
-John Quilter
 Ian Randall
 Peter Sanders
 Cheryl Smart

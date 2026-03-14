@@ -1,5 +1,3 @@
-Graeme Frazer
-Bron Frost
 Chris Garland
 Bill Gates
 Michael Giffin
@@ -14,3 +12,4 @@ Elizabeth Mackinlay
 Faith Marsh
 John Marsh
 Marion Martin
+David Masters
