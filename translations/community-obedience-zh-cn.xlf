@@ -4,13 +4,13 @@
  Project: TSSF Community Obedience
  Locale: zh-CN, Chinese (CN)
  Exported by: Tim White
- Exported at: Sat, 07 Mar 2026 18:16:30 -0600
+ Exported at: Sun, 22 Mar 2026 09:29:51 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-CN">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
     <notes>
       <note category="tool-name">Loco</note>
-      <note category="tool-version">1.0.29 20250919-1</note>
+      <note category="tool-version">1.0.29 20260314-1</note>
     </notes>
     <unit id="loco:62e6536c5c788138db3ab322" name="This offering of prayer is to be said daily, where possible in the context of Morning or Evening Prayer.">
       <segment state="translated">
@@ -519,9 +519,9 @@
         <target>十月：圣法兰西斯离世日 (Manual F20)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.">
-      <segment state="translated">
-        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Auckland, Waikato, Bay of Plenty.</source>
+    <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.">
+      <segment>
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.</source>
         <target>对于太平洋会省，为新西兰-奥克兰、怀卡托、普伦蒂湾的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -543,9 +543,9 @@
         <target>八月：圣约翰·维雅内日 (Manual F12); 十月：阿西西的圣法兰西斯日 (Manual F21)</target>
       </segment>
     </unit>
-    <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.">
-      <segment state="translated">
-        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: North Island Central Region and in Wellington.</source>
+    <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.">
+      <segment>
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.</source>
         <target>对于太平洋会省，为新西兰-北岛中部地区和惠灵顿的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -555,9 +555,9 @@
         <target>为亚太会省的所有区会长祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.">
-      <segment state="translated">
-        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa/New Zealand: Nelson, Canterbury with Otago.</source>
+    <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.">
+      <segment>
+        <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.</source>
         <target>对于太平洋会省，为新西兰-纳尔逊、坎特伯雷和奥塔戈的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -675,9 +675,9 @@
         <target>为圣法兰西斯会国际祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.">
-      <segment state="translated">
-        <source>In the African Province, pray for Tertiaries in Botswana, Uganda, and Zimbabwe.</source>
+    <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.">
+      <segment>
+        <source>In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.</source>
         <target>对于非洲会省，为博茨瓦纳、乌干达和津巴布韦的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -687,9 +687,9 @@
         <target>六月：帕多瓦的圣安东尼日 (Manual F10)</target>
       </segment>
     </unit>
-    <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.">
-      <segment state="translated">
-        <source>In the African Province, pray for Tertiaries in Tanzania, Zambia and Malawi.</source>
+    <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Gauteng and Lowveld.">
+      <segment>
+        <source>In the African Province, pray for Tertiaries in Gauteng and Lowveld.</source>
         <target>对于非洲会省，为坦桑尼亚、赞比亚和马拉维的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -705,9 +705,9 @@
         <target>八月：圣马希连·高比日 (Manual F15)</target>
       </segment>
     </unit>
-    <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.">
-      <segment state="translated">
-        <source>In the African Province, pray for Tertiaries in Johannesburg, Pretoria and Lowveld.</source>
+    <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Uganda and Zimbabwe.">
+      <segment>
+        <source>In the African Province, pray for Tertiaries in Uganda and Zimbabwe.</source>
         <target>对于非洲会省，为约翰内斯堡、比勒陀利亚和劳维尔德的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -723,9 +723,9 @@
         <target>七月：圣波拿文都拉日 (Manual F11); 八月：童贞女圣马利亚日（上帝之母） (Manual F16)</target>
       </segment>
     </unit>
-    <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.">
-      <segment state="translated">
-        <source>In the African Province, pray for Tertiaries in Cape Town, Port Elizabeth and Lesotho.</source>
+    <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.">
+      <segment>
+        <source>In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.</source>
         <target>对于非洲会省，为开普敦、伊丽莎白港和莱索托的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -741,9 +741,9 @@
         <target>五月：科尔多纳的圣玛格利特日 (Manual F6)</target>
       </segment>
     </unit>
-    <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in Kokstad and Durban.">
-      <segment state="translated">
-        <source>In the African Province, pray for the Tertiaries in Kokstad and Durban.</source>
+    <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.">
+      <segment>
+        <source>In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.</source>
         <target>对于非洲会省，为科克斯塔德和德班的第三会会友祈祷。</target>
       </segment>
     </unit>
@@ -766,7 +766,7 @@
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
-      <segment state="translated">
+      <segment>
         <source>In the African Province, pray for Tertiaries in Ghana.</source>
         <target>对于非洲会省，为加纳的第三会会友祈祷。</target>
       </segment>
