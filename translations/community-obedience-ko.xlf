@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sun, 22 Mar 2026 09:29:52 -0400
+ Exported at: Mon, 23 Mar 2026 08:07:14 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -532,9 +532,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.</source>
-        <target>태평양관구 뉴질랜드의 오클랜드, 와이카토, 베이오브플랜티에 있는 회원들을 위해 기도합니다.</target>
+        <target>태평양관구 아오테아로아의 주니퍼 포리스트, 킹즈 컴패니언즈, 테 아로하 지구 회원들을 위해 기도합니다.  </target>
       </segment>
     </unit>
     <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
@@ -556,9 +556,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.</source>
-        <target>태평양관구, 뉴질랜드의 북섬 센트럴 지구와 웰링턴에 있는 회원들을 위해 기도합니다.</target>
+        <target>태평양관구 아오테아로아의 포르치운콜라와 구비오 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353b8474835b404510f7674" name="Pray for all Regional Ministers in the Province of Asia-Pacific.">
@@ -568,9 +568,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.</source>
-        <target>태평양관구 뉴질랜드의 넬슨과 캔터베리-오타고에 있는 회원들을 위해 기도합니다.</target>
+        <target>태평양관구 아오테아로아의 산다미아노 지구를 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353b867608f6f7cb4497192" name="Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.">
@@ -688,9 +688,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.</source>
-        <target>아프리카 관구 보츠와나, 우간다, 짐바브웨에 있는 회원들을 위해 기도합니다.</target>
+        <target>아프리카 관구 잠비아, 케냐, 마다가스카르 지구 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
     <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
@@ -700,9 +700,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Gauteng and Lowveld.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Gauteng and Lowveld.</source>
-        <target>아프리카 관구, 탄자니아와 잠비아, 말라위에 있는 회원들을 위해 기도합니다.</target>
+        <target>아프리카 관구 하우텡과 로우벨드 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353ba6b05de29496c2a3fb2" name="Pray for the First Order in the Provinces of America and Europe.">
@@ -718,9 +718,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Uganda and Zimbabwe.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Uganda and Zimbabwe.</source>
-        <target>아프리카 관구 요하네스버그와 프레토리아, 로우벨드에 있는 회원들을 위해 기도합니다.</target>
+        <target>아프리카 관구 우간다와 짐바브웨 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353ba97ba128121475ef752" name="Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.">
@@ -736,9 +736,9 @@
       </segment>
     </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.</source>
-        <target>아프리카 관구 케이프타운, 포트 엘리자베스, 레소토의 회원들을 위해 기도합니다.</target>
+        <target>아프리카관구 웨스턴 케이프, 이스턴 케이프, 레소토 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353bac3f58ff737051cf232" name="Pray for First Order sisters in America, Korea and England.">
@@ -754,9 +754,9 @@
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.</source>
-        <target>아프리카 관구 콕스태드와 더반에 있는 회원들을 위해 기도합니다.</target>
+        <target>아프리카 관구  콰줄루나탈과 더반 지구 회원들을 위해 기도합니다. </target>
       </segment>
     </unit>
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
@@ -778,7 +778,7 @@
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Ghana.</source>
         <target>아프리카 관구 가나에 있는 회원들을 위해 기도합니다.</target>
       </segment>
