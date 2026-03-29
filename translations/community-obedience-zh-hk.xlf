@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-HK, Chinese (Hong Kong)
  Exported by: Tim White
- Exported at: Mon, 23 Mar 2026 08:07:13 -0400
+ Exported at: Sun, 29 Mar 2026 06:02:56 -0700
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-HK">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -521,9 +521,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b803d9cca83ea070b0f2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Juniper Forest, King's Companions and Te Aroha.</source>
-        <target>對於太平洋教省，為新西蘭-奧克蘭、懷卡托、普倫蒂灣的第三團會士祈禱。</target>
+        <target>在太平洋教省,奧特阿羅瓦,為杜松林,皇室侍從地區及特阿里亞的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b813fb06d9385128a202" name="Pray for the Provincial Secretary, Stephen Briggs; the Provincial Treasurer, Jane Noller, and Assistant Treasurer, Glenys McCarrick.">
@@ -546,9 +546,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b83e3e321623b01edfe2" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: Portiuncula and Gubbio.</source>
-        <target>對於太平洋教省，為新西蘭-北島中部地區和威靈頓的第三團會士祈禱。</target>
+        <target>在太平洋教省,奧特阿羅瓦,為博俊古辣和古比奧的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b8474835b404510f7674" name="Pray for all Regional Ministers in the Province of Asia-Pacific.">
@@ -558,9 +558,9 @@
       </segment>
     </unit>
     <unit id="loco:6353b85a9948636cc655be92" name="In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.">
-      <segment>
+      <segment state="translated">
         <source>In the Province of the Pacific, pray for Tertiaries in Aotearoa: San Damiano.</source>
-        <target>對於太平洋教省，為新西蘭-納爾遜、坎特伯雷和奧塔戈的第三團會士祈禱。</target>
+        <target>在太平洋教省,奧特阿羅瓦,為聖達勉的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353b867608f6f7cb4497192" name="Pray for the Newsletter Editor, Jan Down, the Archivist, Anne Wilson, and the Communications Coordinator, David White.">
@@ -680,9 +680,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba36b18dca7a5d344032" name="In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Zambia, Kenya and Madagascar.</source>
-        <target>對於非洲教省，為博茨瓦納、烏干達和津巴布韋的第三團會士祈禱。</target>
+        <target>在非洲教省,為贊比亞，肯尼亞，馬達加斯加的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ba4b10b3c07e2a567652" name="June: Antony of Padua (Manual F10)">
@@ -692,9 +692,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba62c8d87755f13dfe22" name="In the African Province, pray for Tertiaries in Gauteng and Lowveld.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Gauteng and Lowveld.</source>
-        <target>對於非洲教省，為坦桑尼亞、贊比亞和馬拉維的第三團會士祈禱。</target>
+        <target>在非洲教省,為豪登省，和低地草原地區的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ba6b05de29496c2a3fb2" name="Pray for the First Order in the Provinces of America and Europe.">
@@ -710,9 +710,9 @@
       </segment>
     </unit>
     <unit id="loco:6353ba89862f6b2210740922" name="In the African Province, pray for Tertiaries in Uganda and Zimbabwe.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Uganda and Zimbabwe.</source>
-        <target>對於非洲教省，為約翰內斯堡、比勒陀利亞和勞維爾德的第三團會士祈禱。</target>
+        <target>在非洲教省,為烏干達和津巴布韋的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353ba97ba128121475ef752" name="Pray for the First Order Brothers in the Province of Divine Compassion (Australia, New Zealand, Korea, Sri Lanka) also the Provinces of PNG and the Solomon Islands.">
@@ -728,9 +728,9 @@
       </segment>
     </unit>
     <unit id="loco:6353bab3c8d87755f13dfe24" name="In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Western Cape, Eastern Cape and Lesotho.</source>
-        <target>對於非洲教省，為開普敦、伊麗莎白港和萊索托的第三團會士祈禱。</target>
+        <target>在非洲教省,為西開敦省及東開敦省和萊索托的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353bac3f58ff737051cf232" name="Pray for First Order sisters in America, Korea and England.">
@@ -746,9 +746,9 @@
       </segment>
     </unit>
     <unit id="loco:6353bae0074195634b4a8b22" name="In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for the Tertiaries in KwaZulu-Natal (KZN) and Durban.</source>
-        <target>對於非洲教省為科克斯塔德和德班的第三團會士祈禱</target>
+        <target>在非洲教省,為夸祖魯－納塔爾和德班的第三團會士祈禱</target>
       </segment>
     </unit>
     <unit id="loco:6353bae6f22f1236c53be5f2" name="Pray for the Second Order Sisters (Order of St Clare OSC) at Freeland UK.">
@@ -770,7 +770,7 @@
       </segment>
     </unit>
     <unit id="loco:6353bb18862f6b2210740926" name="In the African Province, pray for Tertiaries in Ghana.">
-      <segment>
+      <segment state="translated">
         <source>In the African Province, pray for Tertiaries in Ghana.</source>
         <target>對於非洲教省,為加納的第三團會士祈禱。</target>
       </segment>
