@@ -1,7 +1,18 @@
 import "./css/tssf.css";
+import moment from "moment";
+
+// Declare globals that come from mainscript.html.twig
+declare global {
+  var supportedLanguages: string[];
+  var dateLocales: Record<string, string>;
+  var navigator: Navigator & {
+    userLanguage?: string;
+    browserLanguage?: string;
+  };
+}
 
 /* From https://stackoverflow.com/a/52112155 */
-const getLanguage = () => {
+const getLanguage = (): string => {
   /* Check for our local storage first */
   if (typeof Storage !== "undefined") {
     if (localStorage.language) {
@@ -20,7 +31,7 @@ const getLanguage = () => {
   }
 };
 
-const getSupportedLanguage = () => {
+const getSupportedLanguage = (): string => {
   let detectedLanguage = getLanguage();
 
   if (supportedLanguages.includes(detectedLanguage)) {
@@ -29,7 +40,7 @@ const getSupportedLanguage = () => {
   return "en";
 };
 
-const setLanguage = (newLang) => {
+const setLanguage = (newLang: string): void => {
   localStorage.language = newLang;
   lang = getSupportedLanguage();
 
@@ -37,39 +48,40 @@ const setLanguage = (newLang) => {
   display_todays_obedience();
 };
 
-let intervalId;
+let intervalId: ReturnType<typeof setInterval>;
 
 let lang = getSupportedLanguage();
 
-function display_todays_obedience() {
+function display_todays_obedience(): void {
   const todays_date = moment();
   display_obedience(todays_date);
 }
 
-function display_obedience(momentDate) {
+function display_obedience(momentDate: moment.Moment): void {
   /* Set the current language button to active and the rest to inactive */
   document.querySelectorAll(".langButtons").forEach((elem) => {
     elem.classList.remove("active");
   });
-  document
-    .querySelector(".langButtons[lang='" + lang + "']")
-    .classList.add("active");
+  const activeBtn = document.querySelector(".langButtons[lang='" + lang + "']");
+  if (activeBtn) {
+    activeBtn.classList.add("active");
+  }
 
   /* Hide all the boilerplate for all languages */
-  document.querySelectorAll(".translatedBoilerplate").forEach((elem) => {
+  document.querySelectorAll<HTMLElement>(".translatedBoilerplate").forEach((elem) => {
     elem.style.display = "none";
   });
 
   /* Show the boilerplate for the current language */
   document
-    .querySelectorAll(".translatedBoilerplate[lang='" + lang + "']")
+    .querySelectorAll<HTMLElement>(".translatedBoilerplate[lang='" + lang + "']")
     .forEach((elem) => {
       elem.style.display = "block";
     });
 
   /* Ensure all divs are hidden */
   document
-    .querySelectorAll("#jsmessage, .principal, .collect, .day, .feast")
+    .querySelectorAll<HTMLElement>("#jsmessage, .principal, .collect, .day, .feast")
     .forEach((elem) => {
       elem.style.display = "none";
     });
@@ -81,27 +93,33 @@ function display_obedience(momentDate) {
 
   let principalnum = dayofmonth;
 
-  document.querySelector(
+  const principalElem = document.querySelector<HTMLElement>(
     "#principal_" + lang + "_" + principalnum,
-  ).style.display = "block";
-  document.querySelector("#day_" + lang + "_" + dayofmonth).style.display =
-    "block";
+  );
+  if (principalElem) principalElem.style.display = "block";
+
+  const dayElem = document.querySelector<HTMLElement>("#day_" + lang + "_" + dayofmonth);
+  if (dayElem) dayElem.style.display = "block";
 
   /* Work out day of week */
   let dayofweek = momentDate.format("d");
-  document.querySelector("#collect_" + lang + "_" + dayofweek).style.display =
-    "block";
+  const collectElem = document.querySelector<HTMLElement>("#collect_" + lang + "_" + dayofweek);
+  if (collectElem) collectElem.style.display = "block";
+
   document
-    .querySelectorAll("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth)
+    .querySelectorAll<HTMLElement>("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth)
     .forEach((elem) => {
       elem.style.display = "block";
     });
   momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
-  document.querySelector("#date").innerText = momentDate.format("LL");
+  const dateElem = document.querySelector<HTMLElement>("#date");
+  if (dateElem) {
+    dateElem.innerText = momentDate.format("LL");
+  }
   update_display();
 }
 
-const ready = (callback) => {
+const ready = (callback: () => void): void => {
   if (document.readyState != "loading") callback();
   else document.addEventListener("DOMContentLoaded", callback);
 };
@@ -110,9 +128,9 @@ ready(() => {
   display_todays_obedience();
 });
 
-function update_display() {
+function update_display(): void {
   /* Clear any current intervals before we start the next one */
-  clearInterval(intervalId);
+  if (intervalId) clearInterval(intervalId);
   /* Refresh every 10 minutes */
   intervalId = setInterval(display_todays_obedience, 600000);
 }
@@ -129,3 +147,6 @@ if ("serviceWorker" in navigator) {
       });
   });
 }
+
+// Expose setLanguage to global window for HTML buttons
+(window as any).setLanguage = setLanguage;

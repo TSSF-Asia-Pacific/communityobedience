@@ -1,4 +1,3 @@
-// rspack.config.js
 const path = require("path");
 const { rspack } = require("@rspack/core");
 const { WebpackManifestPlugin } = require("webpack-manifest-plugin");
@@ -8,7 +7,7 @@ const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 module.exports = {
   mode: "production", // Enables tree shaking + minification
   entry: {
-    app: "./app/index.js",
+    app: "./app/index.ts",
   },
 
   output: {
@@ -40,14 +39,14 @@ module.exports = {
         },
       },
       {
-        test: /\.js$/i,
+        test: /\.(j|t)s$/i,
         exclude: /node_modules/,
         use: {
           loader: "builtin:swc-loader",
           options: {
             jsc: {
               parser: {
-                syntax: "ecmascript",
+                syntax: "typescript",
               },
               target: "es2018",
             },
@@ -58,7 +57,7 @@ module.exports = {
   },
 
   resolve: {
-    extensions: [".js", ".css"],
+    extensions: [".ts", ".js", ".css"],
   },
 
   optimization: {
