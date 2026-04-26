@@ -1,3 +1,5 @@
+import "./css/tssf.css";
+
 /* From https://stackoverflow.com/a/52112155 */
 const getLanguage = () => {
   /* Check for our local storage first */

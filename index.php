@@ -3,6 +3,7 @@
 use Symfony\Bridge\Twig\Extension\TranslationExtension;
 use Symfony\Component\Translation\Loader\XliffFileLoader;
 use Symfony\Component\Translation\Translator;
+use Tssf\Communityobedience\AssetExtension;
 use Tssf\Communityobedience\TwigFileExists;
 use Twig\Environment;
 use Twig\Error\LoaderError;
@@ -36,6 +37,7 @@ function index(): void
 
     $twig->addExtension(new TranslationExtension($translator));
     $twig->addExtension(new TwigFileExists());
+    $twig->addExtension(new AssetExtension(__DIR__ . '/dist/manifest.json'));
 
     /**
      * Load each translation into the array here. The key for the array should be locale as set above.
