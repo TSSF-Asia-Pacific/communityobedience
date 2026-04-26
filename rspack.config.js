@@ -1,8 +1,8 @@
 // rspack.config.js
 const path = require("path");
 const { rspack } = require("@rspack/core");
-const WorkboxPlugin = require("workbox-webpack-plugin");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const { WebpackManifestPlugin } = require("webpack-manifest-plugin");
+const { InjectManifest } = require("@serwist/webpack-plugin");
 const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 
 module.exports = {
@@ -19,7 +19,7 @@ module.exports = {
   },
 
   experiments: {
-    css: false, // Using MiniCssExtractPlugin instead
+    css: false, // Using CssExtractRspackPlugin instead
   },
 
   module: {
@@ -27,7 +27,7 @@ module.exports = {
       {
         test: /\.css$/i,
         use: [
-          MiniCssExtractPlugin.loader,
+          rspack.CssExtractRspackPlugin.loader,
           "css-loader",
           "postcss-loader", // optional for autoprefixer
         ],
@@ -75,49 +75,20 @@ module.exports = {
   },
 
   plugins: [
-    new MiniCssExtractPlugin({
+    new rspack.CssExtractRspackPlugin({
       filename: "css/[name].[contenthash].css",
     }),
 
     // Generates manifest.json automatically if needed
-    new rspack.ManifestPlugin({
+    new WebpackManifestPlugin({
       fileName: "manifest.json",
     }),
 
     // PWA Service Worker
-    new WorkboxPlugin.GenerateSW({
-      clientsClaim: true,
-      skipWaiting: false, // Better for update notifications
-      cleanupOutdatedCaches: true,
-
-      runtimeCaching: [
-        {
-          urlPattern: ({ request }) => request.destination === "document",
-          handler: "NetworkFirst",
-          options: {
-            cacheName: "pages",
-          },
-        },
-        {
-          urlPattern: ({ request }) =>
-            ["style", "script", "worker"].includes(request.destination),
-          handler: "StaleWhileRevalidate",
-          options: {
-            cacheName: "static-resources",
-          },
-        },
-        {
-          urlPattern: ({ request }) => request.destination === "image",
-          handler: "CacheFirst",
-          options: {
-            cacheName: "images",
-            expiration: {
-              maxEntries: 100,
-              maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
-            },
-          },
-        },
-      ],
+    new InjectManifest({
+      swSrc: path.resolve(__dirname, "app/sw.js"),
+      swDest: "sw.js",
+      exclude: [/\.map$/, /hot-update\.js$/, /manifest\.json$/],
     }),
 
     // Define production env
@@ -125,6 +96,7 @@ module.exports = {
       "process.env.NODE_ENV": JSON.stringify("production"),
     }),
   ],
+
 
   performance: {
     hints: false,
