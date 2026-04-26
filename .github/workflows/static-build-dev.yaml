@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - 'dev'
+      - "dev"
 
 env:
   URL: tssf-asia-pacific.github.io/communityobedience-dev/
@@ -24,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v1
         with:
-          node-version: '20.x'
+          node-version: "20.x"
       - run: yarn install
 
       - name: Cache Composer dependencies
@@ -39,8 +39,8 @@ jobs:
           dev: no
           php_version: "8.2"
 
-      - name: Run Makefile
-        run: make all
+      - name: Build
+        run: yarn run build && php index.php > dist/index.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

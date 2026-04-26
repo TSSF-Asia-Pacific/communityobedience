@@ -2,49 +2,48 @@
 name: PROD Build & Deploy Static Site (Master Branch deployed to Github Pages)
 
 on:
-    workflow_dispatch:
+  workflow_dispatch:
 
 env:
-    URL: communityobedience.tssf.org.au
-
+  URL: communityobedience.tssf.org.au
 
 jobs:
-    build:
-        name: Build Static Site
-        environment:
-            name: production
-            url: https://${{ env.URL }}
-        runs-on: ubuntu-24.04
+  build:
+    name: Build Static Site
+    environment:
+      name: production
+      url: https://${{ env.URL }}
+    runs-on: ubuntu-24.04
 
-        steps:
-            - uses: actions/checkout@v2
-              with:
-                  fetch-depth: 0
-                  ref: master
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: master
 
-            - uses: actions/setup-node@v1
-              with:
-                  node-version: 20.x
-            - run: yarn install
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 20.x
+      - run: yarn install
 
-            - name: Cache Composer dependencies
-              uses: actions/cache@v4
-              with:
-                  path: /tmp/composer-cache
-                  key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
+      - name: Cache Composer dependencies
+        uses: actions/cache@v4
+        with:
+          path: /tmp/composer-cache
+          key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
-            - name: Install dependencies
-              uses: php-actions/composer@v6
-              with:
-                  dev: no
-                  php_version: '8.2'
+      - name: Install dependencies
+        uses: php-actions/composer@v6
+        with:
+          dev: no
+          php_version: "8.2"
 
-            - name: Run Makefile
-              run: make all
+      - name: Build
+        run: yarn run build && php index.php > dist/index.html
 
-            - name: Deploy
-              uses: peaceiris/actions-gh-pages@v3
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_dir: ./public
-                  cname: ${{ env.URL }}
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: ${{ env.URL }}
