@@ -80,7 +80,7 @@ function display_obedience(date: Date): void {
 
   /* Ensure all divs are hidden */
   document
-    .querySelectorAll<HTMLElement>("#jsmessage, .principal, .collect, .day, .feast")
+    .querySelectorAll<HTMLElement>(".principal, .collect, .day, .feast")
     .forEach((elem) => {
       elem.style.display = "none";
     });
