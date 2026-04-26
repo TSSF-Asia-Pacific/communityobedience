@@ -248,6 +248,18 @@
   dependencies:
     "@rspack/binding" "2.0.0"
 
+"@rspack/dev-middleware@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@rspack/dev-middleware/-/dev-middleware-2.0.1.tgz#61733b79fabf0dda5dd3e8af5f5ef4a4b611616c"
+  integrity sha512-cXSubf5/C+dvkWV2/+rGTtiZ93wSLd3OlTQhwMvsmsmGDdPlkYqIvQ+BTkOk9UCXxKIaF0DDYYmCpBeRRYJfJw==
+
+"@rspack/dev-server@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@rspack/dev-server/-/dev-server-2.0.1.tgz#f6ee7a92793b59eafce394b801663c06bdc3f7d0"
+  integrity sha512-N5sIdU9v6WhwPH6Ek8QCj4IMvGd8jA3ZW1NMAyHP1ezzKIr2/idcNV2zX5vbC6FJvOLRLww0rFjfKA+z4tshDA==
+  dependencies:
+    "@rspack/dev-middleware" "^2.0.1"
+
 "@serwist/build@9.5.7":
   version "9.5.7"
   resolved "https://registry.yarnpkg.com/@serwist/build/-/build-9.5.7.tgz#598873357b99791000a66a1f028b571ee8d6bd2d"
@@ -2062,6 +2074,11 @@ webpack-manifest-plugin@^6.0.1:
   dependencies:
     tapable "^2.0.0"
     webpack-sources "^3.3.3"
+
+webpack-shell-plugin-next@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/webpack-shell-plugin-next/-/webpack-shell-plugin-next-2.3.3.tgz#30a935543be1aa023e03132a0fd875e3afed38fe"
+  integrity sha512-3TMY32HKeEiaKqv6o6MSM3sN/G2HgtPWldINI5YkTyY31XB7I/awarZICBoSusbCYwW13oowG+Xrw9zg3mfT7w==
 
 webpack-sources@^3.3.3, webpack-sources@^3.3.4:
   version "3.4.0"
