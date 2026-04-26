@@ -28,11 +28,11 @@ module.exports = {
         use: [
           rspack.CssExtractRspackPlugin.loader,
           "css-loader",
-          "postcss-loader", // optional for autoprefixer
+          "postcss-loader",
         ],
       },
       {
-        test: /\.(png|jpg|gif|svg|woff2?|eot|ttf)$/i,
+        test: /\.(png|jpg|jpeg|gif|svg|webp|woff2?|eot|ttf)$/i,
         type: "asset/resource",
         generator: {
           filename: "assets/[hash][ext][query]",
