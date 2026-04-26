@@ -1,0 +1,116 @@
+/* From https://stackoverflow.com/a/52112155 */
+const getLanguage = () => {
+  /* Check for our local storage first */
+  if (typeof Storage !== "undefined") {
+    if (localStorage.language) {
+      return localStorage.language;
+    }
+  }
+  if (navigator.languages && navigator.languages.length) {
+    return navigator.languages[0];
+  } else {
+    return (
+      navigator.userLanguage ||
+      navigator.language ||
+      navigator.browserLanguage ||
+      "en"
+    );
+  }
+};
+
+const getSupportedLanguage = () => {
+  let detectedLanguage = getLanguage();
+
+  if (supportedLanguages.includes(detectedLanguage)) {
+    return detectedLanguage;
+  }
+  return "en";
+};
+
+const setLanguage = (newLang) => {
+  localStorage.language = newLang;
+  lang = getSupportedLanguage();
+
+  /* Update the display */
+  display_todays_obedience();
+};
+
+let intervalId;
+
+let lang = getSupportedLanguage();
+
+function display_todays_obedience() {
+  const todays_date = moment();
+  display_obedience(todays_date);
+}
+
+function display_obedience(momentDate) {
+  /* Set the current language button to active and the rest to inactive */
+  document.querySelectorAll(".langButtons").forEach((elem) => {
+    elem.classList.remove("active");
+  });
+  document
+    .querySelector(".langButtons[lang='" + lang + "']")
+    .classList.add("active");
+
+  /* Hide all the boilerplate for all languages */
+  document.querySelectorAll(".translatedBoilerplate").forEach((elem) => {
+    elem.style.display = "none";
+  });
+
+  /* Show the boilerplate for the current language */
+  document
+    .querySelectorAll(".translatedBoilerplate[lang='" + lang + "']")
+    .forEach((elem) => {
+      elem.style.display = "block";
+    });
+
+  /* Ensure all divs are hidden */
+  document
+    .querySelectorAll("#jsmessage, .principal, .collect, .day, .feast")
+    .forEach((elem) => {
+      elem.style.display = "none";
+    });
+
+  /* Work out day of month */
+  momentDate.locale("en-au"); /* Set to English for the dayofmonth/week stuff */
+  let dayofmonth = momentDate.format("D");
+  let monthofyear = momentDate.format("M");
+
+  let principalnum = dayofmonth;
+
+  document.querySelector(
+    "#principal_" + lang + "_" + principalnum,
+  ).style.display = "block";
+  document.querySelector("#day_" + lang + "_" + dayofmonth).style.display =
+    "block";
+
+  /* Work out day of week */
+  let dayofweek = momentDate.format("d");
+  document.querySelector("#collect_" + lang + "_" + dayofweek).style.display =
+    "block";
+  document
+    .querySelectorAll("#feast_" + lang + "_" + monthofyear + "_" + dayofmonth)
+    .forEach((elem) => {
+      elem.style.display = "block";
+    });
+  momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
+  document.querySelector("#date").innerText = momentDate.format("LL");
+  update_display();
+}
+
+const ready = (callback) => {
+  if (document.readyState != "loading") callback();
+  else document.addEventListener("DOMContentLoaded", callback);
+};
+
+ready(() => {
+  display_todays_obedience();
+});
+
+function update_display() {
+  /* Clear any current intervals before we start the next one */
+  clearInterval(intervalId);
+  /* Refresh every 10 minutes */
+  intervalId = setInterval(display_todays_obedience, 600000);
+}
