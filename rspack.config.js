@@ -1,7 +1,9 @@
 const path = require("path");
+const glob = require("glob");
 const { rspack } = require("@rspack/core");
 const { WebpackManifestPlugin } = require("webpack-manifest-plugin");
 const { InjectManifest } = require("@serwist/webpack-plugin");
+const { PurgeCSSPlugin } = require("purgecss-webpack-plugin");
 const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 
 module.exports = {
@@ -64,15 +66,24 @@ module.exports = {
     usedExports: true, // Tree shaking
     sideEffects: true,
     minimize: true,
-    minimizer: [
-      "...", // Default JS minimizer
-      new CssMinimizerPlugin(),
-    ],
+    minimizer: ["...", new CssMinimizerPlugin()],
   },
 
   plugins: [
     new rspack.CssExtractRspackPlugin({
       filename: "css/[name].[contenthash].css",
+    }),
+
+    new PurgeCSSPlugin({
+      paths: [
+        ...glob.sync(path.join(__dirname, "templates/**/*.twig"), {
+          nodir: true,
+        }),
+        ...glob.sync(path.join(__dirname, "app/**/*.ts"), { nodir: true }),
+      ],
+      safelist: {
+        standard: ["active", /^btn-/, "btn"],
+      },
     }),
 
     // Generates manifest.json automatically if needed
@@ -87,7 +98,6 @@ module.exports = {
       exclude: [/\.map$/, /hot-update\.js$/, /manifest\.json$/],
     }),
 
-    // Define production env
     new rspack.DefinePlugin({
       "process.env.NODE_ENV": JSON.stringify("production"),
     }),
