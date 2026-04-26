@@ -17,7 +17,7 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     filename: "js/[name].[contenthash].js",
     clean: true,
-    publicPath: "/",
+    publicPath: process.env.APP_BASE_PATH || "/",
   },
 
   experiments: {
@@ -76,10 +76,7 @@ module.exports = {
     usedExports: true,
     sideEffects: true,
     minimize: process.env.NODE_ENV === "production",
-    minimizer: [
-      "...",
-      new CssMinimizerPlugin(),
-    ],
+    minimizer: ["...", new CssMinimizerPlugin()],
   },
 
   plugins: [
@@ -89,7 +86,9 @@ module.exports = {
 
     new PurgeCSSPlugin({
       paths: [
-        ...glob.sync(path.join(__dirname, "templates/**/*.twig"), { nodir: true }),
+        ...glob.sync(path.join(__dirname, "templates/**/*.twig"), {
+          nodir: true,
+        }),
         ...glob.sync(path.join(__dirname, "app/**/*.ts"), { nodir: true }),
       ],
       safelist: {
@@ -108,18 +107,29 @@ module.exports = {
     }),
 
     new rspack.DefinePlugin({
-      "process.env.NODE_ENV": JSON.stringify(process.env.NODE_ENV || "development"),
+      "process.env.NODE_ENV": JSON.stringify(
+        process.env.NODE_ENV || "development",
+      ),
     }),
 
     // Custom plugin to handle watching and PHP regeneration
     {
       apply(compiler) {
         // 1. Tell Rspack to watch non-JS files
-        compiler.hooks.afterCompile.tap("WatchDependenciesPlugin", (compilation) => {
-          compilation.fileDependencies.add(path.resolve(__dirname, "index.php"));
-          compilation.contextDependencies.add(path.resolve(__dirname, "templates"));
-          compilation.contextDependencies.add(path.resolve(__dirname, "common"));
-        });
+        compiler.hooks.afterCompile.tap(
+          "WatchDependenciesPlugin",
+          (compilation) => {
+            compilation.fileDependencies.add(
+              path.resolve(__dirname, "index.php"),
+            );
+            compilation.contextDependencies.add(
+              path.resolve(__dirname, "templates"),
+            );
+            compilation.contextDependencies.add(
+              path.resolve(__dirname, "common"),
+            );
+          },
+        );
 
         // 2. Run PHP command after every successful compilation
         compiler.hooks.done.tap("RunPHPPlugin", () => {
@@ -128,7 +138,10 @@ module.exports = {
             if (err) {
               console.error("\x1b[31m%s\x1b[0m", "PHP Generation Error:", err);
             } else {
-              console.log("\x1b[32m%s\x1b[0m", "PHP: dist/index.html regenerated");
+              console.log(
+                "\x1b[32m%s\x1b[0m",
+                "PHP: dist/index.html regenerated",
+              );
             }
             if (stderr) console.error(stderr);
           });
