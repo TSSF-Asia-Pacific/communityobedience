@@ -88,7 +88,6 @@ module.exports = {
       swSrc: path.resolve(__dirname, "app/sw.js"),
       swDest: "sw.js",
       exclude: [/\.map$/, /hot-update\.js$/, /manifest\.json$/],
-      maximumFileSizeToCacheInBytes: 2097152, // @TODO fix images
     }),
 
     // Define production env

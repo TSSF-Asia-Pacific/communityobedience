@@ -1,5 +1,4 @@
 import "./css/tssf.css";
-import moment from "moment";
 
 // Declare globals that come from mainscript.html.twig
 declare global {
@@ -53,11 +52,11 @@ let intervalId: ReturnType<typeof setInterval>;
 let lang = getSupportedLanguage();
 
 function display_todays_obedience(): void {
-  const todays_date = moment();
+  const todays_date = new Date();
   display_obedience(todays_date);
 }
 
-function display_obedience(momentDate: moment.Moment): void {
+function display_obedience(date: Date): void {
   /* Set the current language button to active and the rest to inactive */
   document.querySelectorAll(".langButtons").forEach((elem) => {
     elem.classList.remove("active");
@@ -86,10 +85,11 @@ function display_obedience(momentDate: moment.Moment): void {
       elem.style.display = "none";
     });
 
-  /* Work out day of month */
-  momentDate.locale("en-au"); /* Set to English for the dayofmonth/week stuff */
-  let dayofmonth = momentDate.format("D");
-  let monthofyear = momentDate.format("M");
+  /* Work out day of month, month of year, and day of week consistently */
+  // Using local time zone components
+  let dayofmonth = date.getDate().toString();
+  let monthofyear = (date.getMonth() + 1).toString();
+  let dayofweek = date.getDay().toString();
 
   let principalnum = dayofmonth;
 
@@ -102,7 +102,6 @@ function display_obedience(momentDate: moment.Moment): void {
   if (dayElem) dayElem.style.display = "block";
 
   /* Work out day of week */
-  let dayofweek = momentDate.format("d");
   const collectElem = document.querySelector<HTMLElement>("#collect_" + lang + "_" + dayofweek);
   if (collectElem) collectElem.style.display = "block";
 
@@ -111,10 +110,15 @@ function display_obedience(momentDate: moment.Moment): void {
     .forEach((elem) => {
       elem.style.display = "block";
     });
-  momentDate.locale(dateLocales[lang]); /* Set to real locale to display date */
+
+  /* Set to real locale to display date */
+  // Convert underscore locales (like ta_LK) to BCP 47 hyphens (ta-LK)
+  const bcp47Locale = dateLocales[lang].replace("_", "-");
+  const formatter = new Intl.DateTimeFormat(bcp47Locale, { dateStyle: "long" });
+
   const dateElem = document.querySelector<HTMLElement>("#date");
   if (dateElem) {
-    dateElem.innerText = momentDate.format("LL");
+    dateElem.innerText = formatter.format(date);
   }
   update_display();
 }

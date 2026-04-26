@@ -1,15 +1,13 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.8",
-    "html-minifier-terser": "^7.2.0",
-    "moment": "^2.29.4"
+    "html-minifier-terser": "^7.2.0"
   },
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610",
   "devDependencies": {
     "@rspack/cli": "^2.0.0",
     "@rspack/core": "^2.0.0",
     "@serwist/webpack-plugin": "^9.5.7",
-    "@types/moment": "^2.13.0",
     "@types/node": "^25.6.0",
     "autoprefixer": "^10.5.0",
     "css-loader": "^7.1.4",
