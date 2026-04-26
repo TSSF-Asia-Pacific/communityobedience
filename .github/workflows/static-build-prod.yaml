@@ -39,11 +39,15 @@ jobs:
           php_version: "8.2"
 
       - name: Build
-        run: yarn run build && php index.php > dist/index.html
+        run: yarn run build && \
+          php index.php | ./node_modules/.bin/html-minifier-terser --collapse-whitespace \
+          --remove-comments --remove-redundant-attributes \
+          --minify-css true --minify-js true \
+          > dist/index.html
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./dist
           cname: ${{ env.URL }}
