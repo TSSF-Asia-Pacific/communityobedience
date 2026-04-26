@@ -1,5 +1,8 @@
 import "./css/tssf.css";
 
+import "../images/Icon.png";
+import "../images/AppleIcon.png";
+
 // Declare globals that come from mainscript.html.twig
 declare global {
   var supportedLanguages: string[];
