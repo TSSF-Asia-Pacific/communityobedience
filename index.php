@@ -76,7 +76,7 @@ function index(): void
     echo $twig->render('main.html.twig', [
         'translations' => $translations,
         'dateLocaleKeys' => $dateLocaleKeys,
-        'lastUpdated' => filemtime('cache.appcache'),
+        'lastUpdated' => new DateTime(),
         'dailyPrayersMembers' => getDailyPrayersMembersAll(),
     ]);
 }
