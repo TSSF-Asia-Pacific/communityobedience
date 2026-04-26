@@ -23,6 +23,6 @@
     "webpack-manifest-plugin": "^6.0.1"
   },
   "scripts": {
-    "build": "rspack build"
+    "build": "rspack build && php index.php | html-minifier-terser --collapse-whitespace --remove-comments --remove-redundant-attributes --minify-css true --minify-js true > dist/index.html"
   }
 }
