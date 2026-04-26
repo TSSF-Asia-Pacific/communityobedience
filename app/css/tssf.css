@@ -8,8 +8,7 @@ body {
     margin: auto;
     width: 95%;
     background-color: #fffaf0;
-    background-image:url(../../images/golden-paper.webp);
-
+    background-image: url(../../images/golden-paper.webp);
 }
 
 img {
@@ -54,6 +53,10 @@ p.boilerplate {
 p.prayer {
     color: #773a10;
     white-space: pre-line;
+}
+
+.feast {
+    color: #773a10;
 }
 
 .principal,

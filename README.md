@@ -26,7 +26,7 @@ If you see anything that needs fixing in the application or you are experiencing
    * Firefox - Press the Ctrl+Shift+K (Command+Option+K on OS X) keyboard shortcut.
 3. Run `display_obedience` with the date you wish to test. e.g.
    ```
-   display_obedience(moment('2021-12-30'))
+   display_obedience(new Date('2021-12-30'))
    ```
    
 ## Local Development
@@ -34,5 +34,3 @@ Using Docker and Docker Composer you can run a local webserver to test developem
 1. Run `docker-compose up -d`
 2. Access the site at http://localhost:8080. Reload the page in your browser to see your development changes
 3. When finished, run `docker-compose rm -s` to stop and remove the containers
-
-

@@ -152,5 +152,7 @@ if ("serviceWorker" in navigator) {
   });
 }
 
-// Expose setLanguage to global window for HTML buttons
+// Expose functions to global window for testing and HTML buttons
 (window as any).setLanguage = setLanguage;
+(window as any).display_obedience = display_obedience;
+(window as any).display_todays_obedience = display_todays_obedience;
