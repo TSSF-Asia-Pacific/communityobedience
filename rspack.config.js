@@ -63,9 +63,6 @@ module.exports = {
   optimization: {
     usedExports: true, // Tree shaking
     sideEffects: true,
-    splitChunks: {
-      chunks: "all",
-    },
     minimize: true,
     minimizer: [
       "...", // Default JS minimizer
