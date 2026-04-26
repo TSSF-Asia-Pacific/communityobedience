@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "dev"
+      - "rspack"
 
 env:
   URL: tssf-asia-pacific.github.io/communityobedience-dev/
