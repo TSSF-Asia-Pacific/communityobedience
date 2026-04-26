@@ -9,6 +9,7 @@ on:
 
 env:
   URL: tssf-asia-pacific.github.io/communityobedience-staging/
+  APP_BASE_PATH: /communityobedience-staging/
 
 jobs:
   build:
