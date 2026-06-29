@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: zh-CN, Chinese (CN)
  Exported by: Tim White
- Exported at: Sat, 13 Jun 2026 20:57:40 -0500
+ Exported at: Mon, 29 Jun 2026 08:16:40 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="zh-CN">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -471,10 +471,10 @@
         <target>礼拜六祝文</target>
       </segment>
     </unit>
-    <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="translated">
-        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>为亚太会省的主教监护人Garry Weatherill祈祷</target>
+    <unit id="loco:6353b5e7aed20571cb7e1922" name="XXX">
+      <segment>
+        <source>XXX</source>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
@@ -495,10 +495,10 @@
         <target>对于太平洋会省，为所罗门群岛伊萨贝尔和马莱塔的第三会会友祈祷。</target>
       </segment>
     </unit>
-    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley">
-      <segment state="translated">
-        <source>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</source>
-        <target>为总会长Michael Twum-Darko和副总会长Mandy Wheatley祈祷</target>
+    <unit id="loco:6353b783de5954244b680e42" name="Obs">
+      <segment>
+        <source>Obs</source>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
