@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: ko, Korean
  Exported by: Tim White
- Exported at: Sat, 13 Jun 2026 20:57:42 -0500
+ Exported at: Mon, 29 Jun 2026 08:16:41 -0400
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU" trgLang="ko">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -483,10 +483,10 @@
         <target>토요일 본기도</target>
       </segment>
     </unit>
-    <unit id="loco:6353b5e7aed20571cb7e1922" name="Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill">
-      <segment state="translated">
-        <source>Pray for the Bishop Protector of the Province of Asia-Pacific, Garry Weatherill</source>
-        <target>아시아태평양관구 보호자 주교 Gary Weatherill을 위해 기도합니다. </target>
+    <unit id="loco:6353b5e7aed20571cb7e1922" name="XXX">
+      <segment>
+        <source>XXX</source>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b74651329d3fe548c222" name="In the Region of Popondetta, pray for">
@@ -507,10 +507,10 @@
         <target>태평양 관구, 솔로몬아일랜드의 이사벨과 말라이타에 있는 회원들을 위해 기도합니다.</target>
       </segment>
     </unit>
-    <unit id="loco:6353b783de5954244b680e42" name="Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley">
-      <segment state="translated">
-        <source>Pray for the Minister General, Michael Twum-Darko and the Assistant Minister General, Mandy Wheatley</source>
-        <target>총봉사자 Michael Twum-Darko과 보좌 총봉사자 Mandy Wheatley를 위해 기도합니다.</target>
+    <unit id="loco:6353b783de5954244b680e42" name="Obs">
+      <segment>
+        <source>Obs</source>
+        <target>Obs</target>
       </segment>
     </unit>
     <unit id="loco:6353b7c0e1794e526a0d1252" name="In the Province of the Pacific, pray for Tertiaries in the Solomon Island of Makira and Republic of Vanuatu.">
