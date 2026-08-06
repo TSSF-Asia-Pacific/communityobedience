@@ -5,7 +5,7 @@ namespace Tssf\Communityobedience;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
 
-class AssetExtension
+class AssetExtension extends AbstractExtension
 {
     private array $manifest = [];
 
@@ -14,6 +14,13 @@ class AssetExtension
         if (file_exists($manifestPath)) {
             $this->manifest = json_decode(file_get_contents($manifestPath), true) ?? [];
         }
+    }
+
+    public function getFunctions(): array
+    {
+        return [
+            new TwigFunction('asset', [$this, 'getAsset']),
+        ];
     }
 
     #[\Twig\Attribute\AsTwigFunction(name: 'asset')]
