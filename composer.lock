@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7dc2033e2c690cca297da00bf2dbd878",
+    "content-hash": "62da466942f36e1cafcc01da766f4963",
     "packages": [
         {
             "name": "symfony/config",
@@ -901,7 +901,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.2"
+        "php": "^8.4"
     },
     "platform-dev": {},
     "plugin-api-version": "2.6.0"
