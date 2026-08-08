@@ -26,6 +26,6 @@
   },
   "scripts": {
     "start": "rspack serve",
-    "build": "rspack build && php index.php | html-minifier-terser --collapse-whitespace --remove-comments --remove-redundant-attributes --minify-css true --minify-js true > dist/index.html"
+    "build": "rspack build && php index.php > dist/index.html.tmp && html-minifier-terser --collapse-whitespace --remove-comments --remove-redundant-attributes --minify-css true --minify-js true < dist/index.html.tmp > dist/index.html && rm dist/index.html.tmp"
   }
 }

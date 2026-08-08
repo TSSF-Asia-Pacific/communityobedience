@@ -45,6 +45,11 @@ jobs:
           dev: no
           php_version: "8.4"
 
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
+
       - name: Build
         run: yarn run build
 
