@@ -7,18 +7,22 @@ import "../images/AppleIcon.png";
 declare global {
   var supportedLanguages: string[];
   var dateLocales: Record<string, string>;
-  var navigator: Navigator & {
+  interface Navigator {
     userLanguage?: string;
     browserLanguage?: string;
-  };
+  }
 }
 
 /* From https://stackoverflow.com/a/52112155 */
 const getLanguage = (): string => {
   /* Check for our local storage first */
   if (typeof Storage !== "undefined") {
-    if (localStorage.language) {
-      return localStorage.language;
+    const storedLanguage = localStorage.getItem("language");
+    if (storedLanguage) {
+      if (supportedLanguages.includes(storedLanguage)) {
+        return storedLanguage;
+      }
+      localStorage.removeItem("language");
     }
   }
   if (navigator.languages && navigator.languages.length) {
@@ -43,7 +47,10 @@ const getSupportedLanguage = (): string => {
 };
 
 const setLanguage = (newLang: string): void => {
-  localStorage.language = newLang;
+  if (!supportedLanguages.includes(newLang)) {
+    return;
+  }
+  localStorage.setItem("language", newLang);
   lang = getSupportedLanguage();
 
   /* Update the display */
@@ -143,9 +150,10 @@ function update_display(): void {
 }
 
 if ("serviceWorker" in navigator) {
+  const basePath = process.env.APP_BASE_PATH ?? "/";
   window.addEventListener("load", () => {
     navigator.serviceWorker
-      .register("/sw.js")
+      .register(`${basePath}sw.js`)
       .then((registration) => {
         console.log("SW registered: ", registration);
       })

@@ -1,0 +1,9 @@
+---
+extends: default
+
+rules:
+    # GitHub Actions requires the `on:` key, and yamlfmt strips quoting,
+    # so allow truthy keys and yes/no values
+    truthy:
+        check-keys: false
+        allowed-values: ['true', 'false', 'yes', 'no']

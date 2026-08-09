@@ -1,3 +1,4 @@
+---
 files:
-  - source: /translations/community-obedience-en-AU.xlf
-    translation: /translations/community-obedience-%two_letters_code%.xlf
+    - source: /translations/community-obedience-en-AU.xlf
+      translation: /translations/community-obedience-%two_letters_code%.xlf

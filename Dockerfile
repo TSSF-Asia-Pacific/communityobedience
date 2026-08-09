@@ -1,4 +1,5 @@
-FROM php:8.3-cli-alpine
+FROM php:8.4-cli-alpine
 
-# Install Node.js and npm via Alpine package manager
-RUN apk add --no-cache nodejs npm yarn
+RUN apk add --no-cache nodejs npm \
+    && npm install -g corepack \
+    && corepack enable

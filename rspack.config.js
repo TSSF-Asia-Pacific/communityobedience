@@ -110,6 +110,9 @@ module.exports = {
       "process.env.NODE_ENV": JSON.stringify(
         process.env.NODE_ENV || "development",
       ),
+      "process.env.APP_BASE_PATH": JSON.stringify(
+        process.env.APP_BASE_PATH || "/",
+      ),
     }),
 
     // Custom plugin to handle watching and PHP regeneration

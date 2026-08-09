@@ -1,61 +1,65 @@
+---
 name: Build & Deploy Static Site Dev
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - "rspack"
+    workflow_dispatch:
+    push:
+        branches:
+            - rspack
 
 env:
-  URL: tssf-asia-pacific.github.io/communityobedience-dev/
-  APP_BASE_PATH: /communityobedience-dev/
+    URL: tssf-asia-pacific.github.io/communityobedience-dev/
+    APP_BASE_PATH: /communityobedience-dev/
 
 jobs:
-  build:
-    name: Build Static Site Dev
-    runs-on: ubuntu-24.04
-    environment:
-      name: dev
-      url: https://${{ env.URL }}
+    build:
+        name: Build Static Site Dev
+        runs-on: ubuntu-24.04
+        environment:
+            name: dev
+            url: https://${{ env.URL }}
 
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+        steps:
+            - uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
 
-      - name: Enable Corepack
-        run: corepack enable
+            - name: Enable Corepack
+              run: corepack enable
 
-      - uses: actions/setup-node@v7
-        with:
-          node-version: "24.x"
-          cache: yarn
+            - uses: actions/setup-node@v7
+              with:
+                  node-version: 24.x
+                  cache: yarn
 
-      - run: yarn install
+            - run: yarn install
 
-      - name: Cache Composer dependencies
-        uses: actions/cache@v4
-        with:
-          path: /tmp/composer-cache
-          key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
+            - name: Typecheck
+              run: yarn typecheck
 
-      - name: Install dependencies
-        uses: php-actions/composer@v6
-        with:
-          dev: no
-          php_version: "8.4"
+            - name: Cache Composer dependencies
+              uses: actions/cache@v4
+              with:
+                  path: /tmp/composer-cache
+                  key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: "8.4"
+            - name: Install dependencies
+              uses: php-actions/composer@v6
+              with:
+                  dev: no
+                  php_version: '8.4'
 
-      - name: Build
-        run: yarn run build
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: '8.4'
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          external_repository: TSSF-Asia-Pacific/communityobedience-dev
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./dist
+            - name: Build
+              run: yarn run build
+
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  external_repository: TSSF-Asia-Pacific/communityobedience-dev
+                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+                  publish_dir: ./dist
