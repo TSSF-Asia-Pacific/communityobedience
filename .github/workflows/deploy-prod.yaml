@@ -1,0 +1,14 @@
+---
+name: Deploy Production Site
+
+on:
+    workflow_dispatch:
+
+jobs:
+    build:
+        name: Build & Deploy Production
+        uses: ./.github/workflows/deploy-static-site.yaml
+        with:
+            environment: production
+            url: https://communityobedience.tssf.org.au
+            cname: communityobedience.tssf.org.au

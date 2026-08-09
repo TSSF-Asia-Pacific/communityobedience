@@ -1,0 +1,20 @@
+---
+name: Deploy Dev Site
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - rspack
+
+jobs:
+    build:
+        name: Build & Deploy Dev
+        uses: ./.github/workflows/deploy-static-site.yaml
+        with:
+            environment: dev
+            url: https://tssf-asia-pacific.github.io/communityobedience-dev/
+            app_base_path: /communityobedience-dev/
+            external_repository: TSSF-Asia-Pacific/communityobedience-dev
+        secrets:
+            deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
