@@ -4,15 +4,15 @@
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 </noscript>
 
-<div id="langselect" style="float: right">
+<div id="langselect">
     {% for lang, translation in translations %}
-    <button type='button' class='btn  btn-light langButtons' onClick='setLanguage("{{ lang }}");' lang='{{ lang }}'>{{ translation.name }}</button>
+    <button type='button' class='btn  btn-light langButtons' lang='{{ lang }}'>{{ translation.name }}</button>
     {% endfor %}
 </div>
 
 <h1><em>tssf Community Obedience</em></h1>
 
-<p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;">
+<p class="province">
     <em>Province of Asia-Pacific<br/>
         for <span id='date'></span></em>
 </p>

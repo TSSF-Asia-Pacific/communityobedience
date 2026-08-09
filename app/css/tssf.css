@@ -74,3 +74,16 @@ p.prayer {
     color: #d8000c;
     background-color: #ffbaba;
 }
+
+#langselect {
+    float: right;
+}
+
+p.province {
+    font-family:
+        TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+
+.matomo-pixel {
+    border: 0;
+}

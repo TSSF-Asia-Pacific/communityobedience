@@ -1,4 +1,5 @@
 import "./css/tssf.css";
+import "./matomo";
 
 import "../images/Icon.png";
 import "../images/AppleIcon.png";
@@ -147,6 +148,17 @@ const ready = (callback: () => void): void => {
 };
 
 ready(() => {
+  document
+    .querySelectorAll<HTMLButtonElement>(".langButtons")
+    .forEach((button) => {
+      button.addEventListener("click", () => {
+        const buttonLang = button.getAttribute("lang");
+        if (buttonLang) {
+          setLanguage(buttonLang);
+        }
+      });
+    });
+
   display_todays_obedience();
 });
 
