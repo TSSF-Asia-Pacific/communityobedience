@@ -4,3 +4,4 @@ node_modules/
 dist/
 .vs/
 /vendor/
+.phpunit.result.cache

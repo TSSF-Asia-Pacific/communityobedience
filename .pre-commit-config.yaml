@@ -17,3 +17,25 @@ repos:
       hooks:
           - id: yamlfmt
             exclude: ^\.yamllint$
+
+    - repo: local
+      hooks:
+          - id: composer-validate
+            name: composer validate
+            entry: composer validate
+            language: system
+            files: composer\.(json|lock)$
+            pass_filenames: false
+
+          - id: php-lint
+            name: php -l
+            entry: php -l
+            language: system
+            files: \.php$
+
+          - id: phpstan
+            name: phpstan
+            entry: vendor/bin/phpstan analyse --no-progress
+            language: system
+            files: \.(php|neon)$
+            pass_filenames: false
