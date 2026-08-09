@@ -27,58 +27,39 @@ function index(): void
     // See https://localise.biz/whiteitsolutions/community-obedience for translation tool
     $translator = new Translator('en');
     $translator->addLoader('xliff', new XliffFileLoader());
-    // Load each translation xliff file here, set the locale that it'll refer to in the below array
-    $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
-    $translator->addResource('xliff', './translations/community-obedience-ko.xlf', 'ko');
-    $translator->addResource('xliff', './translations/community-obedience-ta.xlf', 'ta');
-    $translator->addResource('xliff', './translations/community-obedience-zh-cn.xlf', 'zh-cn');
-    $translator->addResource('xliff', './translations/community-obedience-zh-hk.xlf', 'zh-hk');
+
+    $translations = [];
+    foreach (getLocaleConfig() as $locale => $localeConfig) {
+        $translator->addResource('xliff', __DIR__ . "/translations/{$localeConfig['xlfFile']}", $locale);
+        $translations[$locale] = [
+            'name' => $localeConfig['name'],
+        ];
+    }
     $translator->setFallbackLocales(['en']);
 
     $twig->addExtension(new TranslationExtension($translator));
     $twig->addExtension(new TwigFileExists());
     $twig->addExtension(new AssetExtension(__DIR__ . '/dist/manifest.json'));
 
-    /**
-     * Load each translation into the array here. The key for the array should be locale as set above.
-     * Each array member should be an array that has a name key (for the name displayed on the buttons) and a
-     * dateLocale key (See https://momentjs.com/ for possible Locales)
-     */
-    $translations = [
-        'en' => [
-            'name' => 'English',
-            'dateLocale' => 'en'
-        ],
-        'ko' => [
-            'name' => 'Korean',
-            'dateLocale' => 'ko'
-        ],
-        'ta' => [
-            'name' => 'Tamil',
-            'dateLocale' => 'ta_LK'
-        ],
-        'zh-cn' => [
-            'name' => 'Chinese (Simplified)',
-            'dateLocale' => 'zh-cn'
-        ],
-        'zh-hk' => [
-            'name' => 'Chinese (Traditional)',
-            'dateLocale' => 'zh-hk'
-        ],
-    ];
-
-    // Extract the dateLocale keys for the JS rendering
-    $dateLocaleKeys = [];
-    foreach ($translations as $locale => $translation) {
-        $dateLocaleKeys[$locale] = $translation['dateLocale'];
-    }
-
     echo $twig->render('main.html.twig', [
         'translations' => $translations,
-        'dateLocaleKeys' => $dateLocaleKeys,
         'lastUpdated' => new DateTime(),
         'dailyPrayersMembers' => getDailyPrayersMembersAll(),
     ]);
+}
+
+/**
+ * Loads the locale configuration from translations/locales.json, the single source of truth
+ * that is also consumed by app/index.ts and translations/download.sh
+ */
+function getLocaleConfig(): array
+{
+    $json = file_get_contents(__DIR__ . '/translations/locales.json');
+    if ($json === false) {
+        throw new RuntimeException('Unable to read translations/locales.json');
+    }
+
+    return json_decode($json, true, 512, JSON_THROW_ON_ERROR);
 }
 
 /**

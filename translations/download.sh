@@ -1,17 +1,28 @@
 #!/bin/bash
+set -euo pipefail
 cd "$(dirname "$0")"
 
 # Load local environment file to load the localise.biz api key (LOCALISE_KEY)
-. env.local
+# In CI the key comes from the environment instead, so the file is optional
+if [ -f env.local ]; then
+    . env.local
+fi
 
-EN_MTIME=$(grep "Exported at:" community-obedience-en-AU.xlf | cut -d ':' -f 2-)
-ZH_CN_MTIME=$(grep "Exported at:" community-obedience-zh-cn.xlf | cut -d ':' -f 2-)
-ZH_HK_MTIME=$(grep "Exported at:" community-obedience-zh-hk.xlf | cut -d ':' -f 2-)
-KO_MTIME=$(grep "Exported at:" community-obedience-ko.xlf | cut -d ':' -f 2-)
-TA_MTIME=$(grep "Exported at:" community-obedience-ta.xlf | cut -d ':' -f 2-)
+if ! command -v jq > /dev/null; then
+    echo "jq is required to run this script" >&2
+    exit 1
+fi
 
-curl -f -o 'community-obedience-en-AU.xlf' -z "$EN_MTIME" "https://localise.biz/api/export/locale/en-AU.xlf?index=text&fallback=en-AU&key=$LOCALISE_KEY&format=xlf2"
-curl -f -o 'community-obedience-zh-cn.xlf' -z "$ZH_CN_MTIME" "https://localise.biz/api/export/locale/zh-CN.xlf?index=text&key=$LOCALISE_KEY&format=xlf2&fallback=en-AU" # need to rename zh-cn
-curl -f -o 'community-obedience-zh-hk.xlf' -z "$ZH_HK_MTIME" "https://localise.biz/api/export/locale/zh-HK.xlf?index=text&key=$LOCALISE_KEY&format=xlf2&fallback=en-AU"
-curl -f -o 'community-obedience-ko.xlf' -z "$KO_MTIME" "https://localise.biz/api/export/locale/ko.xlf?index=text&key=$LOCALISE_KEY&format=xlf2&fallback=en-AU"
-curl -f -o 'community-obedience-ta.xlf' -z "$TA_MTIME" "https://localise.biz/api/export/locale/ta.xlf?index=text&key=$LOCALISE_KEY&format=xlf2&fallback=en-AU"
+# The locale list comes from locales.json, the single source of truth shared
+# with index.php and app/index.ts
+while IFS= read -r row; do
+    localise_locale=$(jq -r '.value.localiseLocale' <<< "$row")
+    xlf_file=$(jq -r '.value.xlfFile' <<< "$row")
+    mtime=$(grep "Exported at:" "$xlf_file" | cut -d ':' -f 2- || true)
+
+    curl_args=(-f -o "$xlf_file")
+    if [ -n "$mtime" ]; then
+        curl_args+=(-z "$mtime")
+    fi
+    curl "${curl_args[@]}" "https://localise.biz/api/export/locale/${localise_locale}.xlf?index=text&fallback=en-AU&key=${LOCALISE_KEY}&format=xlf2"
+done < <(jq -c 'to_entries[]' locales.json)

@@ -1,0 +1,32 @@
+{
+    "en": {
+        "name": "English",
+        "dateLocale": "en",
+        "localiseLocale": "en-AU",
+        "xlfFile": "community-obedience-en-AU.xlf"
+    },
+    "ko": {
+        "name": "Korean",
+        "dateLocale": "ko",
+        "localiseLocale": "ko",
+        "xlfFile": "community-obedience-ko.xlf"
+    },
+    "ta": {
+        "name": "Tamil",
+        "dateLocale": "ta_LK",
+        "localiseLocale": "ta",
+        "xlfFile": "community-obedience-ta.xlf"
+    },
+    "zh-cn": {
+        "name": "Chinese (Simplified)",
+        "dateLocale": "zh-cn",
+        "localiseLocale": "zh-CN",
+        "xlfFile": "community-obedience-zh-cn.xlf"
+    },
+    "zh-hk": {
+        "name": "Chinese (Traditional)",
+        "dateLocale": "zh-hk",
+        "localiseLocale": "zh-HK",
+        "xlfFile": "community-obedience-zh-hk.xlf"
+    }
+}

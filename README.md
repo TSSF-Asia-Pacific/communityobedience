@@ -5,18 +5,21 @@ If you see anything that needs fixing in the application or you are experiencing
 ## How to add a translation
 
 1. Add to Localise.biz
-2. Update `translations/download.sh` to correctly download the file into a `community-obedience-en-AU.xlf` style file
-3. Add a resource into the Translator component
-   ```php
-   $translator->addResource('xliff', './translations/community-obedience-en-AU.xlf', 'en');
+2. Add an entry for the locale to `translations/locales.json` — this single file configures the
+   PHP render (`index.php`), the frontend (`app/index.ts`) and the translation download
+   (`translations/download.sh`):
+   ```json
+   "zh-hk": {
+       "name": "Chinese (Traditional)",
+       "dateLocale": "zh-hk",
+       "localiseLocale": "zh-HK",
+       "xlfFile": "community-obedience-zh-hk.xlf"
+   }
    ```
-4. Add an entry to the `$translations` array that maps between the button name key, and the correct date Locale
-   ```php
-        'zh-HK' => [
-            'name' => 'Chinese (Traditional)',
-            'dateLocale' => 'zh-hk'
-        ],
-   ```
+   * `name` is the label shown on the language buttons
+   * `dateLocale` is the [BCP 47](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl#locales_argument) locale used to format dates
+   * `localiseLocale` is the locale code as it appears in Localise.biz
+3. Run `translations/download.sh` to fetch the new xlf file (requires `jq` and the Localise.biz API key)
 
 # Development
 

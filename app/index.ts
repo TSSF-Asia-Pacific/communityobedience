@@ -2,11 +2,19 @@ import "./css/tssf.css";
 
 import "../images/Icon.png";
 import "../images/AppleIcon.png";
+import localesJson from "../translations/locales.json";
 
-// Declare globals that come from mainscript.html.twig
+type LocaleConfig = {
+  name: string;
+  dateLocale: string;
+  localiseLocale: string;
+  xlfFile: string;
+};
+
+const locales = localesJson as Record<string, LocaleConfig>;
+const supportedLanguages = Object.keys(locales);
+
 declare global {
-  var supportedLanguages: string[];
-  var dateLocales: Record<string, string>;
   interface Navigator {
     userLanguage?: string;
     browserLanguage?: string;
@@ -123,7 +131,7 @@ function display_obedience(date: Date): void {
 
   /* Set to real locale to display date */
   // Convert underscore locales (like ta_LK) to BCP 47 hyphens (ta-LK)
-  const bcp47Locale = dateLocales[lang].replace("_", "-");
+  const bcp47Locale = locales[lang].dateLocale.replace("_", "-");
   const formatter = new Intl.DateTimeFormat(bcp47Locale, { dateStyle: "long" });
 
   const dateElem = document.querySelector<HTMLElement>("#date");
