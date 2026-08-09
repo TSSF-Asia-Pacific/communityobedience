@@ -20,7 +20,7 @@ jobs:
             url: https://${{ env.URL }}
 
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v7
               with:
                   fetch-depth: 0
 
@@ -43,22 +43,22 @@ jobs:
                   path: /tmp/composer-cache
                   key: ${{ runner.os }}-${{ hashFiles('**/composer.lock') }}
 
-            - name: Install dependencies
-              uses: php-actions/composer@v6
-              with:
-                  dev: no
-                  php_version: '8.4'
-
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
               with:
                   php-version: '8.4'
+                  tools: composer:v2
+
+            - name: Install dependencies
+              run: composer install --no-dev --no-interaction --no-progress
+              env:
+                  COMPOSER_CACHE_DIR: /tmp/composer-cache
 
             - name: Build
               run: yarn run build
 
             - name: Deploy
-              uses: peaceiris/actions-gh-pages@v3
+              uses: peaceiris/actions-gh-pages@v4
               with:
                   external_repository: TSSF-Asia-Pacific/communityobedience-dev
                   deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
