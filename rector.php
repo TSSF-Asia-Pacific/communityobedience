@@ -10,5 +10,6 @@ return RectorConfig::configure()
     ])
     ->withRootFiles()
     ->withPhpSets()
-    ->withPreparedSets(deadCode: true, codeQuality: true, twig: true)
+    ->withComposerBased(twig: true, symfony: true)
+    ->withPreparedSets(deadCode: true, codeQuality: true)
     ->withTypeCoverageLevel(9);

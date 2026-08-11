@@ -3,7 +3,7 @@
     "bootstrap": "^5.3.8",
     "html-minifier-terser": "^7.2.0"
   },
-  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610",
+  "packageManager": "yarn@4.18.0",
   "devDependencies": {
     "@rspack/cli": "^2.0.0",
     "@rspack/core": "^2.0.0",
@@ -15,7 +15,7 @@
     "css-minimizer-webpack-plugin": "^8.0.0",
     "glob": "^13.0.6",
     "mini-css-extract-plugin": "^2.10.2",
-    "postcss": "^8.5.12",
+    "postcss": "^8.5.26",
     "postcss-loader": "^8.2.1",
     "purgecss-webpack-plugin": "^8.0.0",
     "serwist": "^9.5.7",
@@ -26,6 +26,6 @@
   },
   "scripts": {
     "start": "rspack serve",
-    "build": "rspack build && php index.php | html-minifier-terser --collapse-whitespace --remove-comments --remove-redundant-attributes --minify-css true --minify-js true > dist/index.html"
+    "build": "rspack build && php index.php > dist/index.html.tmp && html-minifier-terser --collapse-whitespace --remove-comments --remove-redundant-attributes --minify-css true --minify-js true < dist/index.html.tmp > dist/index.html && rm dist/index.html.tmp"
   }
 }

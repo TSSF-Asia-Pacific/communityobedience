@@ -21,9 +21,14 @@ jobs:
           fetch-depth: 0
           ref: master
 
-      - uses: actions/setup-node@v1
+      - name: Enable Corepack
+        run: corepack enable
+
+      - uses: actions/setup-node@v7
         with:
           node-version: "24.x"
+          cache: yarn
+
       - run: yarn install
 
       - name: Cache Composer dependencies
@@ -36,7 +41,12 @@ jobs:
         uses: php-actions/composer@v6
         with:
           dev: no
-          php_version: "8.2"
+          php_version: "8.4"
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
 
       - name: Build
         run: yarn run build

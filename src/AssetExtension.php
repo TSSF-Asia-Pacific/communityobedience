@@ -23,14 +23,12 @@ class AssetExtension extends AbstractExtension
         ];
     }
 
+    #[\Twig\Attribute\AsTwigFunction(name: 'asset')]
     public function getAsset(string $path): string
     {
         // Remove leading slash for manifest lookup
         $lookup = ltrim($path, '/');
-        if (isset($this->manifest[$lookup])) {
-            return $this->manifest[$lookup];
-        }
 
-        return $path;
+        return $this->manifest[$lookup] ?? $path;
     }
 }

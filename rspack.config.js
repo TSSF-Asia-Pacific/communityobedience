@@ -132,19 +132,20 @@ module.exports = {
         );
 
         // 2. Run PHP command after every successful compilation
-        compiler.hooks.done.tap("RunPHPPlugin", () => {
-          const { exec } = require("child_process");
-          exec("php index.php > dist/index.html", (err, stdout, stderr) => {
-            if (err) {
-              console.error("\x1b[31m%s\x1b[0m", "PHP Generation Error:", err);
-            } else {
-              console.log(
-                "\x1b[32m%s\x1b[0m",
-                "PHP: dist/index.html regenerated",
-              );
-            }
-            if (stderr) console.error(stderr);
-          });
+        compiler.hooks.done.tap("RunPHPPlugin", (stats) => {
+          const { execSync } = require("child_process");
+          try {
+            execSync("php index.php > dist/index.html");
+            console.log(
+              "\x1b[32m%s\x1b[0m",
+              "PHP: dist/index.html regenerated",
+            );
+          } catch (err) {
+            console.error("\x1b[31m%s\x1b[0m", "PHP Generation Error:", err);
+            stats.compilation.errors.push(
+              new Error(`PHP generation failed: ${err.message}`),
+            );
+          }
         });
       },
     },
