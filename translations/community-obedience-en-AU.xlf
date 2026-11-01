@@ -4,7 +4,7 @@
  Project: TSSF Community Obedience
  Locale: en-AU, English (Australia)
  Exported by: Tim White
- Exported at: Fri, 02 Oct 2026 20:42:21 -0400
+ Exported at: Sat, 03 Oct 2026 02:03:29 -0500
 -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" xml:space="preserve" srcLang="en-AU">
   <file original="https://localise.biz/whiteitsolutions/community-obedience" id="f1">
@@ -855,9 +855,9 @@
         <source>MINISTER GENERAL - Michael Twum-Darko</source>
       </segment>
     </unit>
-    <unit id="loco:6353cab53e9a0902d4509a92" name="ASSISTANT MINISTER GENERAL - Mandy Wheatley">
+    <unit id="loco:6353cab53e9a0902d4509a92" name="Obs">
       <segment>
-        <source>ASSISTANT MINISTER GENERAL - Mandy Wheatley</source>
+        <source>Obs</source>
       </segment>
     </unit>
     <unit id="loco:6353cac14f821571e549df22" name="PROVINCIAL MINISTERS:">
@@ -875,9 +875,9 @@
         <source>African Province - Bonginkosi Thomas Buthelezi</source>
       </segment>
     </unit>
-    <unit id="loco:6353caed30467e2669741eb2" name="Asia-Pacific Province - Mandy Wheatley">
+    <unit id="loco:6353caed30467e2669741eb2" name="Obs">
       <segment>
-        <source>Asia-Pacific Province - Mandy Wheatley</source>
+        <source>Obs</source>
       </segment>
     </unit>
     <unit id="loco:6353caf430467e2669741eb4" name="European Province - Patrick Mossop">
